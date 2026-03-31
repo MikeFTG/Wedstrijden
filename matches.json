@@ -1,4 +1,3675 @@
 {
-  "updated": "2026-03-31T10:27:43.414446+00:00",
-  "matches": []
+  "updated": "2026-03-31T10:41:24.559235+00:00",
+  "matches": [
+    {
+      "id": 538104,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "West Ham United FC",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "utcDate": "2026-04-10T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538097,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "AFC Bournemouth",
+      "utcDate": "2026-04-11T11:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538098,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Everton FC",
+      "utcDate": "2026-04-11T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538099,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Burnley FC",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "utcDate": "2026-04-11T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538101,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Fulham FC",
+      "utcDate": "2026-04-11T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538095,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Tottenham Hotspur FC",
+      "utcDate": "2026-04-12T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538096,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Newcastle United FC",
+      "utcDate": "2026-04-12T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538103,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Nottingham Forest FC",
+      "awayTeam": "Aston Villa FC",
+      "utcDate": "2026-04-12T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538100,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Manchester City FC",
+      "utcDate": "2026-04-12T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538102,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 32,
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "Leeds United FC",
+      "utcDate": "2026-04-13T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538107,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Fulham FC",
+      "utcDate": "2026-04-18T11:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538112,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Newcastle United FC",
+      "awayTeam": "AFC Bournemouth",
+      "utcDate": "2026-04-18T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538110,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Leeds United FC",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "utcDate": "2026-04-18T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538114,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "utcDate": "2026-04-18T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538108,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Manchester United FC",
+      "utcDate": "2026-04-18T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538113,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Nottingham Forest FC",
+      "awayTeam": "Burnley FC",
+      "utcDate": "2026-04-19T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538105,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Sunderland AFC",
+      "utcDate": "2026-04-19T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538109,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Everton FC",
+      "awayTeam": "Liverpool FC",
+      "utcDate": "2026-04-19T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538111,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "Arsenal FC",
+      "utcDate": "2026-04-19T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538106,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 33,
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "West Ham United FC",
+      "utcDate": "2026-04-20T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538116,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Nottingham Forest FC",
+      "utcDate": "2026-04-24T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538120,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Fulham FC",
+      "awayTeam": "Aston Villa FC",
+      "utcDate": "2026-04-25T11:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538115,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Leeds United FC",
+      "utcDate": "2026-04-25T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538121,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Crystal Palace FC",
+      "utcDate": "2026-04-25T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538123,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "West Ham United FC",
+      "awayTeam": "Everton FC",
+      "utcDate": "2026-04-25T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538124,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "awayTeam": "Tottenham Hotspur FC",
+      "utcDate": "2026-04-25T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538118,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Newcastle United FC",
+      "utcDate": "2026-04-25T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538119,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Burnley FC",
+      "awayTeam": "Manchester City FC",
+      "utcDate": "2026-04-26T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538117,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "awayTeam": "Chelsea FC",
+      "utcDate": "2026-04-26T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538122,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "Brentford FC",
+      "utcDate": "2026-04-27T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538131,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Leeds United FC",
+      "awayTeam": "Burnley FC",
+      "utcDate": "2026-05-01T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538126,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Tottenham Hotspur FC",
+      "utcDate": "2026-05-02T11:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538125,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Crystal Palace FC",
+      "utcDate": "2026-05-02T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538128,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Brentford FC",
+      "awayTeam": "West Ham United FC",
+      "utcDate": "2026-05-02T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538133,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Newcastle United FC",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "utcDate": "2026-05-02T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538134,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "awayTeam": "Sunderland AFC",
+      "utcDate": "2026-05-02T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538127,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Fulham FC",
+      "utcDate": "2026-05-02T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538132,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "Liverpool FC",
+      "utcDate": "2026-05-03T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538129,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Nottingham Forest FC",
+      "utcDate": "2026-05-04T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538130,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Everton FC",
+      "awayTeam": "Manchester City FC",
+      "utcDate": "2026-05-04T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538135,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Manchester United FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538136,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538137,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Everton FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538138,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Burnley FC",
+      "awayTeam": "Aston Villa FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538139,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Fulham FC",
+      "awayTeam": "AFC Bournemouth",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538140,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Chelsea FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538141,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "Brentford FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538142,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Nottingham Forest FC",
+      "awayTeam": "Newcastle United FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538143,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Leeds United FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538144,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "West Ham United FC",
+      "awayTeam": "Arsenal FC",
+      "utcDate": "2026-05-09T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538145,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Manchester City FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538146,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Liverpool FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538147,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Burnley FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538148,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Crystal Palace FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538149,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Tottenham Hotspur FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538150,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Everton FC",
+      "awayTeam": "Sunderland AFC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538151,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Leeds United FC",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538152,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "Nottingham Forest FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538153,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Newcastle United FC",
+      "awayTeam": "West Ham United FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538154,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 37,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "awayTeam": "Fulham FC",
+      "utcDate": "2026-05-17T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538155,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Chelsea FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538156,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "awayTeam": "Manchester United FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538157,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Arsenal FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538158,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Burnley FC",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538159,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Fulham FC",
+      "awayTeam": "Newcastle United FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538160,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Brentford FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538161,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "Aston Villa FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538162,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Nottingham Forest FC",
+      "awayTeam": "AFC Bournemouth",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538163,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Everton FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538164,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 38,
+      "homeTeam": "West Ham United FC",
+      "awayTeam": "Leeds United FC",
+      "utcDate": "2026-05-24T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540649,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "utcDate": "2026-04-04T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540651,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "1. FSV Mainz 05",
+      "utcDate": "2026-04-04T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540652,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "RB Leipzig",
+      "utcDate": "2026-04-04T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540653,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "VfL Wolfsburg",
+      "utcDate": "2026-04-04T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540654,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "FC Augsburg",
+      "utcDate": "2026-04-04T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540656,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "Borussia M\u00f6nchengladbach",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "utcDate": "2026-04-04T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540650,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Borussia Dortmund",
+      "utcDate": "2026-04-04T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540655,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "FC St. Pauli 1910",
+      "utcDate": "2026-04-05T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540657,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 28,
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "1. FC K\u00f6ln",
+      "utcDate": "2026-04-05T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540665,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "utcDate": "2026-04-10T18:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540659,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "utcDate": "2026-04-11T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540660,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "Eintracht Frankfurt",
+      "utcDate": "2026-04-11T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540663,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Borussia M\u00f6nchengladbach",
+      "utcDate": "2026-04-11T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540664,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "1. FC Heidenheim 1846",
+      "awayTeam": "1. FC Union Berlin",
+      "utcDate": "2026-04-11T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540658,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "FC St. Pauli 1910",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "utcDate": "2026-04-11T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540662,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "1. FC K\u00f6ln",
+      "awayTeam": "SV Werder Bremen",
+      "utcDate": "2026-04-12T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540666,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Hamburger SV",
+      "utcDate": "2026-04-12T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540661,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 29,
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "SC Freiburg",
+      "utcDate": "2026-04-12T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540673,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "FC St. Pauli 1910",
+      "awayTeam": "1. FC K\u00f6ln",
+      "utcDate": "2026-04-17T18:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540674,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "Hamburger SV",
+      "utcDate": "2026-04-18T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540675,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "FC Augsburg",
+      "utcDate": "2026-04-18T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540667,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "Borussia Dortmund",
+      "utcDate": "2026-04-18T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540671,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "VfL Wolfsburg",
+      "utcDate": "2026-04-18T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540669,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "RB Leipzig",
+      "utcDate": "2026-04-18T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540672,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "utcDate": "2026-04-19T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540670,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "FC Bayern M\u00fcnchen",
+      "awayTeam": "VfB Stuttgart",
+      "utcDate": "2026-04-19T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540668,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 30,
+      "homeTeam": "Borussia M\u00f6nchengladbach",
+      "awayTeam": "1. FSV Mainz 05",
+      "utcDate": "2026-04-19T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540682,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "1. FC Union Berlin",
+      "utcDate": "2026-04-24T18:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540676,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "utcDate": "2026-04-25T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540677,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "1. FC K\u00f6ln",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "utcDate": "2026-04-25T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540678,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "Eintracht Frankfurt",
+      "utcDate": "2026-04-25T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540681,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "Borussia M\u00f6nchengladbach",
+      "utcDate": "2026-04-25T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540683,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "1. FC Heidenheim 1846",
+      "awayTeam": "FC St. Pauli 1910",
+      "utcDate": "2026-04-25T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540684,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "utcDate": "2026-04-25T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540680,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "SV Werder Bremen",
+      "utcDate": "2026-04-26T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540679,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 31,
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "SC Freiburg",
+      "utcDate": "2026-04-26T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540688,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "VfB Stuttgart",
+      "utcDate": "2026-05-02T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540690,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "FC Augsburg",
+      "utcDate": "2026-05-02T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540691,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "FC Bayern M\u00fcnchen",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "utcDate": "2026-05-02T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540692,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "1. FC K\u00f6ln",
+      "utcDate": "2026-05-02T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540693,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "Hamburger SV",
+      "utcDate": "2026-05-02T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540687,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "RB Leipzig",
+      "utcDate": "2026-05-02T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540686,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "FC St. Pauli 1910",
+      "awayTeam": "1. FSV Mainz 05",
+      "utcDate": "2026-05-03T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540685,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "Borussia M\u00f6nchengladbach",
+      "awayTeam": "Borussia Dortmund",
+      "utcDate": "2026-05-03T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540689,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 32,
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "VfL Wolfsburg",
+      "utcDate": "2026-05-03T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540696,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Eintracht Frankfurt",
+      "utcDate": "2026-05-08T18:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540695,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "utcDate": "2026-05-09T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540698,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "SV Werder Bremen",
+      "utcDate": "2026-05-09T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540699,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "Borussia M\u00f6nchengladbach",
+      "utcDate": "2026-05-09T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540701,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "FC St. Pauli 1910",
+      "utcDate": "2026-05-09T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540694,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "utcDate": "2026-05-09T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540697,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "SC Freiburg",
+      "utcDate": "2026-05-10T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540702,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "1. FC K\u00f6ln",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "utcDate": "2026-05-10T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540700,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 33,
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "1. FC Union Berlin",
+      "utcDate": "2026-05-10T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540703,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "Borussia Dortmund",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540704,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "1. FC Heidenheim 1846",
+      "awayTeam": "1. FSV Mainz 05",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540705,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "RB Leipzig",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540706,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "VfB Stuttgart",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540707,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "FC St. Pauli 1910",
+      "awayTeam": "VfL Wolfsburg",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540708,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "FC Augsburg",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540709,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "Borussia M\u00f6nchengladbach",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540710,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "FC Bayern M\u00fcnchen",
+      "awayTeam": "1. FC K\u00f6ln",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 540711,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 34,
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "Hamburger SV",
+      "utcDate": "2026-05-16T13:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537120,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "US Sassuolo Calcio",
+      "awayTeam": "Cagliari Calcio",
+      "utcDate": "2026-04-04T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537115,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Hellas Verona FC",
+      "awayTeam": "ACF Fiorentina",
+      "utcDate": "2026-04-04T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537118,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "SS Lazio",
+      "awayTeam": "Parma Calcio 1913",
+      "utcDate": "2026-04-04T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537123,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "US Cremonese",
+      "awayTeam": "Bologna FC 1909",
+      "utcDate": "2026-04-05T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537119,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "AC Pisa 1909",
+      "awayTeam": "Torino FC",
+      "utcDate": "2026-04-05T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537116,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "AS Roma",
+      "utcDate": "2026-04-05T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537122,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "Como 1907",
+      "utcDate": "2026-04-06T10:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537124,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "US Lecce",
+      "awayTeam": "Atalanta BC",
+      "utcDate": "2026-04-06T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537117,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Juventus FC",
+      "awayTeam": "Genoa CFC",
+      "utcDate": "2026-04-06T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537121,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "AC Milan",
+      "utcDate": "2026-04-06T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537127,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "AS Roma",
+      "awayTeam": "AC Pisa 1909",
+      "utcDate": "2026-04-10T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537129,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "US Cremonese",
+      "utcDate": "2026-04-11T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537133,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Torino FC",
+      "awayTeam": "Hellas Verona FC",
+      "utcDate": "2026-04-11T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537126,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "AC Milan",
+      "awayTeam": "Udinese Calcio",
+      "utcDate": "2026-04-11T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537128,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Atalanta BC",
+      "awayTeam": "Juventus FC",
+      "utcDate": "2026-04-11T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537130,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "US Sassuolo Calcio",
+      "utcDate": "2026-04-12T10:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537134,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Parma Calcio 1913",
+      "awayTeam": "SSC Napoli",
+      "utcDate": "2026-04-12T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537132,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "US Lecce",
+      "utcDate": "2026-04-12T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537131,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Como 1907",
+      "awayTeam": "FC Internazionale Milano",
+      "utcDate": "2026-04-12T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537125,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "ACF Fiorentina",
+      "awayTeam": "SS Lazio",
+      "utcDate": "2026-04-13T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537140,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "US Sassuolo Calcio",
+      "awayTeam": "Como 1907",
+      "utcDate": "2026-04-17T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537137,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "Cagliari Calcio",
+      "utcDate": "2026-04-17T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537142,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "Parma Calcio 1913",
+      "utcDate": "2026-04-18T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537141,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "SS Lazio",
+      "utcDate": "2026-04-18T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537135,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "AS Roma",
+      "awayTeam": "Atalanta BC",
+      "utcDate": "2026-04-18T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537143,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "US Cremonese",
+      "awayTeam": "Torino FC",
+      "utcDate": "2026-04-19T10:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537136,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Hellas Verona FC",
+      "awayTeam": "AC Milan",
+      "utcDate": "2026-04-19T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537139,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "AC Pisa 1909",
+      "awayTeam": "Genoa CFC",
+      "utcDate": "2026-04-19T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537138,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Juventus FC",
+      "awayTeam": "Bologna FC 1909",
+      "utcDate": "2026-04-19T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537144,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "US Lecce",
+      "awayTeam": "ACF Fiorentina",
+      "utcDate": "2026-04-20T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537154,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "US Cremonese",
+      "utcDate": "2026-04-24T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537153,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Parma Calcio 1913",
+      "awayTeam": "AC Pisa 1909",
+      "utcDate": "2026-04-25T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537149,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "AS Roma",
+      "utcDate": "2026-04-25T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537151,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Hellas Verona FC",
+      "awayTeam": "US Lecce",
+      "utcDate": "2026-04-25T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537145,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "ACF Fiorentina",
+      "awayTeam": "US Sassuolo Calcio",
+      "utcDate": "2026-04-26T10:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537148,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "Como 1907",
+      "utcDate": "2026-04-26T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537150,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Torino FC",
+      "awayTeam": "FC Internazionale Milano",
+      "utcDate": "2026-04-26T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537146,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "AC Milan",
+      "awayTeam": "Juventus FC",
+      "utcDate": "2026-04-26T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537147,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "Atalanta BC",
+      "utcDate": "2026-04-27T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537152,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "SS Lazio",
+      "awayTeam": "Udinese Calcio",
+      "utcDate": "2026-04-27T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537155,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "AS Roma",
+      "awayTeam": "ACF Fiorentina",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537156,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Atalanta BC",
+      "awayTeam": "Genoa CFC",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537157,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Como 1907",
+      "awayTeam": "SSC Napoli",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537158,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "Cagliari Calcio",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537159,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "Parma Calcio 1913",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537160,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Juventus FC",
+      "awayTeam": "Hellas Verona FC",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537161,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "AC Pisa 1909",
+      "awayTeam": "US Lecce",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537162,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "US Sassuolo Calcio",
+      "awayTeam": "AC Milan",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537163,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "Torino FC",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537164,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "US Cremonese",
+      "awayTeam": "SS Lazio",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537165,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "ACF Fiorentina",
+      "awayTeam": "Genoa CFC",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537166,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "AC Milan",
+      "awayTeam": "Atalanta BC",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537167,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "Udinese Calcio",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537168,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Torino FC",
+      "awayTeam": "US Sassuolo Calcio",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537169,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Hellas Verona FC",
+      "awayTeam": "Como 1907",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537170,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "SS Lazio",
+      "awayTeam": "FC Internazionale Milano",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537171,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Parma Calcio 1913",
+      "awayTeam": "AS Roma",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537172,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "Bologna FC 1909",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537173,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "US Cremonese",
+      "awayTeam": "AC Pisa 1909",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537174,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "US Lecce",
+      "awayTeam": "Juventus FC",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537175,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "AS Roma",
+      "awayTeam": "SS Lazio",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537176,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Atalanta BC",
+      "awayTeam": "Bologna FC 1909",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537177,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "Torino FC",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537178,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "AC Milan",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537179,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Como 1907",
+      "awayTeam": "Parma Calcio 1913",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537180,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "Hellas Verona FC",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537181,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Juventus FC",
+      "awayTeam": "ACF Fiorentina",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537182,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "AC Pisa 1909",
+      "awayTeam": "SSC Napoli",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537183,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "US Sassuolo Calcio",
+      "awayTeam": "US Lecce",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537184,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "US Cremonese",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537185,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "ACF Fiorentina",
+      "awayTeam": "Atalanta BC",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537186,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "AC Milan",
+      "awayTeam": "Cagliari Calcio",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537187,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "FC Internazionale Milano",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537188,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Torino FC",
+      "awayTeam": "Juventus FC",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537189,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Hellas Verona FC",
+      "awayTeam": "AS Roma",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537190,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "SS Lazio",
+      "awayTeam": "AC Pisa 1909",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537191,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Parma Calcio 1913",
+      "awayTeam": "US Sassuolo Calcio",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537192,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "Udinese Calcio",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537193,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "US Cremonese",
+      "awayTeam": "Como 1907",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 537194,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "US Lecce",
+      "awayTeam": "Genoa CFC",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544509,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "awayTeam": "Elche CF",
+      "utcDate": "2026-04-03T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544510,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "awayTeam": "Levante UD",
+      "utcDate": "2026-04-04T12:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544505,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Real Madrid CF",
+      "utcDate": "2026-04-04T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544503,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Real Betis Balompi\u00e9",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "utcDate": "2026-04-04T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544502,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Club Atl\u00e9tico de Madrid",
+      "awayTeam": "FC Barcelona",
+      "utcDate": "2026-04-04T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544507,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Getafe CF",
+      "awayTeam": "Athletic Club",
+      "utcDate": "2026-04-05T12:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544508,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Valencia CF",
+      "awayTeam": "RC Celta de Vigo",
+      "utcDate": "2026-04-05T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544506,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Real Oviedo",
+      "awayTeam": "Sevilla FC",
+      "utcDate": "2026-04-05T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544501,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Deportivo Alav\u00e9s",
+      "awayTeam": "CA Osasuna",
+      "utcDate": "2026-04-05T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544504,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 30,
+      "homeTeam": "Girona FC",
+      "awayTeam": "Villarreal CF",
+      "utcDate": "2026-04-06T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544520,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Girona FC",
+      "utcDate": "2026-04-10T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544516,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "awayTeam": "Deportivo Alav\u00e9s",
+      "utcDate": "2026-04-11T12:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544514,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "Elche CF",
+      "awayTeam": "Valencia CF",
+      "utcDate": "2026-04-11T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544512,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "utcDate": "2026-04-11T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544517,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "utcDate": "2026-04-11T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544518,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "Real Betis Balompi\u00e9",
+      "utcDate": "2026-04-12T12:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544515,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "utcDate": "2026-04-12T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544513,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "RC Celta de Vigo",
+      "awayTeam": "Real Oviedo",
+      "utcDate": "2026-04-12T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544511,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Villarreal CF",
+      "utcDate": "2026-04-12T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544519,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 31,
+      "homeTeam": "Levante UD",
+      "awayTeam": "Getafe CF",
+      "utcDate": "2026-04-13T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544531,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Athletic Club",
+      "awayTeam": "CA Osasuna",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544532,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "RC Celta de Vigo",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544533,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Levante UD",
+      "awayTeam": "Sevilla FC",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544534,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Valencia CF",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544535,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Real Oviedo",
+      "awayTeam": "Villarreal CF",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544536,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Deportivo Alav\u00e9s",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544537,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Elche CF",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544538,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Girona FC",
+      "awayTeam": "Real Betis Balompi\u00e9",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544539,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544540,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 33,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "awayTeam": "Getafe CF",
+      "utcDate": "2026-04-22T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544521,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Deportivo Alav\u00e9s",
+      "awayTeam": "RCD Mallorca",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544522,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Real Betis Balompi\u00e9",
+      "awayTeam": "Real Madrid CF",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544523,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Levante UD",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544524,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "Sevilla FC",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544525,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "awayTeam": "Real Sociedad de F\u00fatbol",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544526,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Club Atl\u00e9tico de Madrid",
+      "awayTeam": "Athletic Club",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544527,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Getafe CF",
+      "awayTeam": "FC Barcelona",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544528,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "RC Celta de Vigo",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544529,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Real Oviedo",
+      "awayTeam": "Elche CF",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544530,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 32,
+      "homeTeam": "Valencia CF",
+      "awayTeam": "Girona FC",
+      "utcDate": "2026-04-26T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544541,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Deportivo Alav\u00e9s",
+      "awayTeam": "Athletic Club",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544542,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Real Betis Balompi\u00e9",
+      "awayTeam": "Real Oviedo",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544543,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "RC Celta de Vigo",
+      "awayTeam": "Elche CF",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544544,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Real Madrid CF",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544545,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Getafe CF",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544546,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Girona FC",
+      "awayTeam": "RCD Mallorca",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544547,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Valencia CF",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544548,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "FC Barcelona",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544549,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Levante UD",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544550,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Real Sociedad de F\u00fatbol",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544551,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Valencia CF",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544552,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Club Atl\u00e9tico de Madrid",
+      "awayTeam": "RC Celta de Vigo",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544554,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Levante UD",
+      "awayTeam": "CA Osasuna",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544555,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Villarreal CF",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544556,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Elche CF",
+      "awayTeam": "Deportivo Alav\u00e9s",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544557,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "awayTeam": "Real Betis Balompi\u00e9",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544558,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544559,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Real Oviedo",
+      "awayTeam": "Getafe CF",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544560,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "awayTeam": "Girona FC",
+      "utcDate": "2026-05-10T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544553,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 35,
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Real Madrid CF",
+      "utcDate": "2026-05-10T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544561,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Deportivo Alav\u00e9s",
+      "awayTeam": "FC Barcelona",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544562,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Real Betis Balompi\u00e9",
+      "awayTeam": "Elche CF",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544563,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "RC Celta de Vigo",
+      "awayTeam": "Levante UD",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544564,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Getafe CF",
+      "awayTeam": "RCD Mallorca",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544565,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Girona FC",
+      "awayTeam": "Real Sociedad de F\u00fatbol",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544566,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Athletic Club",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544567,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544568,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Valencia CF",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544569,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Sevilla FC",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544570,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 36,
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Real Oviedo",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544571,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Athletic Club",
+      "awayTeam": "RC Celta de Vigo",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544572,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Club Atl\u00e9tico de Madrid",
+      "awayTeam": "Girona FC",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544573,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Real Betis Balompi\u00e9",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544574,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Elche CF",
+      "awayTeam": "Getafe CF",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544575,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Levante UD",
+      "awayTeam": "RCD Mallorca",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544576,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "awayTeam": "Villarreal CF",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544577,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "awayTeam": "Valencia CF",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544578,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Real Oviedo",
+      "awayTeam": "Deportivo Alav\u00e9s",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544579,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544580,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Real Madrid CF",
+      "utcDate": "2026-05-17T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544581,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Deportivo Alav\u00e9s",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544582,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Real Betis Balompi\u00e9",
+      "awayTeam": "Levante UD",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544583,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "RC Celta de Vigo",
+      "awayTeam": "Sevilla FC",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544584,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Real Sociedad de F\u00fatbol",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544585,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Getafe CF",
+      "awayTeam": "CA Osasuna",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544586,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Real Oviedo",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544587,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Athletic Club",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544588,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544589,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Valencia CF",
+      "awayTeam": "FC Barcelona",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 544590,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 38,
+      "homeTeam": "Girona FC",
+      "awayTeam": "Elche CF",
+      "utcDate": "2026-05-24T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542654,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "Toulouse FC",
+      "utcDate": "2026-04-03T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542655,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "OGC Nice",
+      "utcDate": "2026-04-04T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542657,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "Stade Rennais FC 1901",
+      "utcDate": "2026-04-04T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542653,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "Lille OSC",
+      "awayTeam": "Racing Club de Lens",
+      "utcDate": "2026-04-04T19:05:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542656,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "Angers SCO",
+      "awayTeam": "Olympique Lyonnais",
+      "utcDate": "2026-04-05T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542649,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "Le Havre AC",
+      "awayTeam": "AJ Auxerre",
+      "utcDate": "2026-04-05T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542651,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "FC Lorient",
+      "awayTeam": "Paris FC",
+      "utcDate": "2026-04-05T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542652,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "FC Metz",
+      "awayTeam": "FC Nantes",
+      "utcDate": "2026-04-05T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542650,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 28,
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "Olympique de Marseille",
+      "utcDate": "2026-04-05T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542659,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Paris FC",
+      "awayTeam": "AS Monaco FC",
+      "utcDate": "2026-04-10T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542663,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "FC Metz",
+      "utcDate": "2026-04-10T19:05:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542658,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "AJ Auxerre",
+      "awayTeam": "FC Nantes",
+      "utcDate": "2026-04-11T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542666,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Stade Rennais FC 1901",
+      "awayTeam": "Angers SCO",
+      "utcDate": "2026-04-11T19:05:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542660,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Toulouse FC",
+      "awayTeam": "Lille OSC",
+      "utcDate": "2026-04-12T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542661,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "OGC Nice",
+      "awayTeam": "Le Havre AC",
+      "utcDate": "2026-04-12T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542662,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "FC Lorient",
+      "utcDate": "2026-04-12T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542674,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "Toulouse FC",
+      "utcDate": "2026-04-17T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542668,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "FC Lorient",
+      "awayTeam": "Olympique de Marseille",
+      "utcDate": "2026-04-18T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542675,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "Angers SCO",
+      "awayTeam": "Le Havre AC",
+      "utcDate": "2026-04-18T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542671,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "Lille OSC",
+      "awayTeam": "OGC Nice",
+      "utcDate": "2026-04-18T19:05:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542667,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "AJ Auxerre",
+      "utcDate": "2026-04-19T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542669,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "FC Metz",
+      "awayTeam": "Paris FC",
+      "utcDate": "2026-04-19T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542670,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "FC Nantes",
+      "awayTeam": "Stade Brestois 29",
+      "utcDate": "2026-04-19T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542673,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "Stade Rennais FC 1901",
+      "utcDate": "2026-04-19T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542672,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 30,
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "Olympique Lyonnais",
+      "utcDate": "2026-04-19T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542636,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 26,
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "FC Nantes",
+      "utcDate": "2026-04-22T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542683,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "Racing Club de Lens",
+      "utcDate": "2026-04-24T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542680,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "AJ Auxerre",
+      "utcDate": "2026-04-25T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542682,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Angers SCO",
+      "awayTeam": "Paris Saint-Germain FC",
+      "utcDate": "2026-04-25T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542679,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Toulouse FC",
+      "awayTeam": "AS Monaco FC",
+      "utcDate": "2026-04-25T19:05:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542677,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "FC Lorient",
+      "awayTeam": "RC Strasbourg Alsace",
+      "utcDate": "2026-04-26T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542676,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Le Havre AC",
+      "awayTeam": "FC Metz",
+      "utcDate": "2026-04-26T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542678,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Paris FC",
+      "awayTeam": "Lille OSC",
+      "utcDate": "2026-04-26T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542684,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Stade Rennais FC 1901",
+      "awayTeam": "FC Nantes",
+      "utcDate": "2026-04-26T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542681,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 31,
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "OGC Nice",
+      "utcDate": "2026-04-26T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542685,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "AJ Auxerre",
+      "awayTeam": "Angers SCO",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542686,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "FC Metz",
+      "awayTeam": "AS Monaco FC",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542687,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "FC Nantes",
+      "awayTeam": "Olympique de Marseille",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542688,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "Paris FC",
+      "awayTeam": "Stade Brestois 29",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542689,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "OGC Nice",
+      "awayTeam": "Racing Club de Lens",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542690,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "Stade Rennais FC 1901",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542691,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "Lille OSC",
+      "awayTeam": "Le Havre AC",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542692,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "FC Lorient",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542693,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 32,
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "Toulouse FC",
+      "utcDate": "2026-05-03T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542694,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "Le Havre AC",
+      "awayTeam": "Olympique de Marseille",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542695,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "AJ Auxerre",
+      "awayTeam": "OGC Nice",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542696,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "Lille OSC",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542697,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "FC Metz",
+      "awayTeam": "FC Lorient",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542698,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "Toulouse FC",
+      "awayTeam": "Olympique Lyonnais",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542699,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "Stade Brestois 29",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542700,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "FC Nantes",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542701,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "Angers SCO",
+      "awayTeam": "RC Strasbourg Alsace",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542702,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 33,
+      "homeTeam": "Stade Rennais FC 1901",
+      "awayTeam": "Paris FC",
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542664,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "Paris Saint-Germain FC",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542665,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 29,
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "RC Strasbourg Alsace",
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 542703,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "FC Lorient",
+      "awayTeam": "Le Havre AC",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542704,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "FC Nantes",
+      "awayTeam": "Toulouse FC",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542705,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "Paris FC",
+      "awayTeam": "Paris Saint-Germain FC",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542706,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "OGC Nice",
+      "awayTeam": "FC Metz",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542707,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "Racing Club de Lens",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542708,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "Stade Rennais FC 1901",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542709,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "Lille OSC",
+      "awayTeam": "AJ Auxerre",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542710,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "AS Monaco FC",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 542711,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 34,
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "Angers SCO",
+      "utcDate": "2026-05-16T19:00:00Z",
+      "status": "TIMED"
+    }
+  ]
 }
