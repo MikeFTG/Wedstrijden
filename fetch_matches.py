@@ -85,4 +85,33 @@ def main():
                 continue
             datum_str = w.get("utcDate", "")
             try:
-                dt = datetime.fromisoformat(datum_st
+                dt = datetime.fromisoformat(datum_str.replace("Z", "+00:00"))
+                if dt < nu:
+                    continue
+            except:
+                pass
+
+            wid = str(w["id"])
+            if status == "TIMED" and bekende.get(wid) != "TIMED":
+                stuur_slack(w, naam)
+            nieuwe_bekende[wid] = status
+
+            alle_wedstrijden.append({
+                "id": w["id"],
+                "compCode": code,
+                "compName": naam,
+                "matchday": w.get("matchday"),
+                "homeTeam": w["homeTeam"]["name"],
+                "awayTeam": w["awayTeam"]["name"],
+                "utcDate": datum_str,
+                "status": status,
+            })
+
+    output = {"updated": nu.isoformat(), "matches": alle_wedstrijden}
+    with open("matches.json", "w") as f:
+        json.dump(output, f, indent=2)
+    sla_bekende_op(nieuwe_bekende)
+    print("Klaar. " + str(len(alle_wedstrijden)) + " aankomende wedstrijden opgeslagen.")
+
+if __name__ == "__main__":
+    main()
