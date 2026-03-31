@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -11,7 +10,7 @@
   *{margin:0;padding:0;box-sizing:border-box}
   body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-weight:300;min-height:100vh}
   body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(255,255,255,0.015) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.015) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
-  .container{max-width:960px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
+  .container{max-width:1000px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
   header{padding:48px 0 32px;border-bottom:1px solid var(--border);margin-bottom:40px}
   .header-inner{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap}
   h1{font-family:'Bebas Neue',sans-serif;font-size:clamp(44px,7vw,72px);letter-spacing:2px;line-height:1;background:linear-gradient(135deg,#fff,#888);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
@@ -28,26 +27,36 @@
   .pill:hover{border-color:var(--muted2);color:var(--text)}
   .pill.active{background:var(--accent);border-color:var(--accent);color:#000}
 
-  /* Speelronde blokken */
   .comp-block{margin-bottom:48px}
-  .comp-title{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:2px;color:var(--text);margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid var(--border)}
-  .round-block{margin-bottom:24px}
-  .round-header{display:flex;align-items:center;gap:12px;margin-bottom:10px}
-  .round-label{font-size:13px;font-weight:500;color:var(--text)}
+  .comp-title{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:2px;color:var(--text);margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:12px}
+  .comp-logo{width:24px;height:24px;object-fit:contain;opacity:0.85}
+
+  .round-block{margin-bottom:12px;border:1px solid var(--border);border-radius:12px;overflow:hidden}
+  .round-header{display:flex;align-items:center;gap:12px;padding:13px 18px;cursor:pointer;user-select:none;background:var(--surface);transition:background 0.15s}
+  .round-header:hover{background:var(--surface2)}
+  .round-label{font-size:13px;font-weight:500;color:var(--text);flex:1}
   .round-badge{font-size:10px;font-weight:500;padding:4px 12px;border-radius:100px;text-transform:uppercase;letter-spacing:0.8px}
   .badge-confirmed{background:rgba(0,232,122,0.12);color:#00e87a;border:1px solid rgba(0,232,122,0.35)}
-  .badge-unconfirmed{background:rgba(255,160,0,0.12);color:#ffa500;border:1px solid rgba(255,160,0,0.35)}
-  .match-list{display:flex;flex-direction:column;gap:6px}
-  .match-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 20px;display:grid;grid-template-columns:1fr auto 1fr auto;align-items:center;gap:12px;transition:all 0.2s;animation:fadeIn 0.3s ease both}
-  .match-card:hover{border-color:var(--muted2);background:var(--surface2)}
-  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
-  .team{display:flex;flex-direction:column;gap:2px}
-  .team.right{text-align:right}
+  .badge-partial{background:rgba(255,160,0,0.12);color:#ffa500;border:1px solid rgba(255,160,0,0.35)}
+  .badge-unconfirmed{background:rgba(255,80,80,0.1);color:#ff6b6b;border:1px solid rgba(255,80,80,0.3)}
+  .chevron{font-size:12px;color:var(--muted);transition:transform 0.2s;margin-left:4px}
+  .chevron.open{transform:rotate(180deg)}
+
+  .round-body{display:none}
+  .round-body.open{display:block}
+  .match-list{padding:8px 12px 12px}
+  .match-card{background:var(--surface2);border:1px solid var(--border);border-radius:10px;padding:12px 16px;display:grid;grid-template-columns:1fr auto 1fr auto;align-items:center;gap:12px;margin-bottom:6px;transition:border-color 0.2s}
+  .match-card:last-child{margin-bottom:0}
+  .match-card:hover{border-color:var(--muted2)}
+  .team{display:flex;align-items:center;gap:10px}
+  .team.right{flex-direction:row-reverse;text-align:right}
+  .team-logo{width:22px;height:22px;object-fit:contain;flex-shrink:0}
+  .team-logo-placeholder{width:22px;height:22px;border-radius:50%;background:var(--muted2);flex-shrink:0}
   .team-name{font-size:14px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .match-center{display:flex;flex-direction:column;align-items:center;gap:3px;min-width:80px}
   .vs{font-family:'Bebas Neue',sans-serif;font-size:16px;color:var(--muted);letter-spacing:2px}
   .match-time{font-size:11px;color:var(--accent);font-weight:500}
-  .match-date-col{font-size:11px;color:var(--muted);text-align:right;min-width:80px}
+  .match-date-col{font-size:11px;color:var(--muted);text-align:right;min-width:90px}
 
   .loading{text-align:center;padding:80px 20px;color:var(--muted)}
   .spinner{width:32px;height:32px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto 16px}
@@ -103,11 +112,63 @@
 var allMatches = [];
 var activeFilter = 'all';
 
-function formatDate(s) {
-  return new Date(s).toLocaleDateString('nl-NL', {weekday:'short', day:'numeric', month:'short'});
+// Competitie logo's via API-Football CDN
+var COMP_LOGOS = {
+  PL:  'https://crests.football-data.org/PL.png',
+  BL1: 'https://crests.football-data.org/BL1.png',
+  SA:  'https://crests.football-data.org/SA.png',
+  PD:  'https://crests.football-data.org/PD.png',
+  BL2: 'https://crests.football-data.org/BL2.png',
+  FL1: 'https://crests.football-data.org/FL1.png'
+};
+
+// Team logo's worden opgehaald via football-data crest URLs (opgeslagen in matches.json)
+function teamLogo(crestUrl) {
+  if (!crestUrl) return '<div class="team-logo-placeholder"></div>';
+  return '<img class="team-logo" src="' + crestUrl + '" onerror="this.style.display=\'none\'" alt="">';
 }
-function formatTime(s) {
-  return new Date(s).toLocaleTimeString('nl-NL', {hour:'2-digit', minute:'2-digit'}) + ' UTC';
+
+function compLogo(code) {
+  var url = COMP_LOGOS[code];
+  if (!url) return '';
+  return '<img class="comp-logo" src="' + url + '" onerror="this.style.display=\'none\'" alt="">';
+}
+
+// Amsterdamse tijd
+function formatDateTime(s) {
+  var d = new Date(s);
+  return d.toLocaleTimeString('nl-NL', {hour:'2-digit', minute:'2-digit', timeZone:'Europe/Amsterdam'}) + ' AMS';
+}
+function formatDate(s) {
+  var d = new Date(s);
+  return d.toLocaleDateString('nl-NL', {weekday:'short', day:'numeric', month:'short', timeZone:'Europe/Amsterdam'});
+}
+
+// Controleer of alle wedstrijden exact dezelfde tijd hebben (= plaatshouder, nog niet ingedeeld)
+function isZelfdeTijdVoorAllen(wedstrijden) {
+  if (wedstrijden.length < 2) return false;
+  var times = wedstrijden.map(function(w) {
+    var d = new Date(w.utcDate);
+    return d.getUTCHours() + ':' + d.getUTCMinutes();
+  });
+  return times.every(function(t) { return t === times[0]; });
+}
+
+function rondeIsBevestigd(wedstrijden) {
+  // Alle TIMED en NIET allemaal dezelfde tijd (want dan is het een plaatshouder)
+  var allTimed = wedstrijden.every(function(w) { return w.status === 'TIMED'; });
+  if (!allTimed) return false;
+  // Als alle wedstrijden exact dezelfde tijd hebben = nog niet echt bevestigd
+  if (isZelfdeTijdVoorAllen(wedstrijden)) return false;
+  return true;
+}
+
+function toggleRound(el) {
+  var body = el.nextElementSibling;
+  var chevron = el.querySelector('.chevron');
+  var isOpen = body.classList.contains('open');
+  body.classList.toggle('open', !isOpen);
+  chevron.classList.toggle('open', !isOpen);
 }
 
 function renderAll(matches) {
@@ -117,7 +178,6 @@ function renderAll(matches) {
     return;
   }
 
-  // Groepeer per competitie, dan per speelronde
   var byComp = {};
   var compOrder = ['PL','BL1','SA','PD','FL1','BL2'];
   for (var i = 0; i < matches.length; i++) {
@@ -137,49 +197,57 @@ function renderAll(matches) {
 
     var rondes = Object.keys(byComp[code]).map(Number).sort(function(a,b){return a-b});
     totalRounds += rondes.length;
+    var compNaam = byComp[code][rondes[0]][0].compName;
 
     html += '<div class="comp-block">';
-    html += '<div class="comp-title">' + (byComp[code][rondes[0]][0].compName) + '</div>';
+    html += '<div class="comp-title">' + compLogo(code) + compNaam + '</div>';
 
     for (var ri = 0; ri < rondes.length; ri++) {
       var ronde = rondes[ri];
       var wedstrijden = byComp[code][ronde].slice().sort(function(a,b){return new Date(a.utcDate)-new Date(b.utcDate)});
 
-      // Ronde is bevestigd als ALLE wedstrijden TIMED zijn
-      var alleBevestigd = wedstrijden.every(function(w){return w.status === 'TIMED'});
-      var gedeeltelijk = !alleBevestigd && wedstrijden.some(function(w){return w.status === 'TIMED'});
+      var bevestigd = rondeIsBevestigd(wedstrijden);
+      var gedeeltelijk = !bevestigd && wedstrijden.some(function(w){return w.status==='TIMED'}) && !isZelfdeTijdVoorAllen(wedstrijden);
+      var zelfdeTijd = wedstrijden.every(function(w){return w.status==='TIMED'}) && isZelfdeTijdVoorAllen(wedstrijden);
 
       var badgeClass, badgeText;
-      if (alleBevestigd) {
+      if (bevestigd) {
         badgeClass = 'badge-confirmed';
         badgeText = 'Bevestigd';
-      } else if (gedeeltelijk) {
+      } else if (zelfdeTijd) {
         badgeClass = 'badge-unconfirmed';
+        badgeText = 'Nog niet ingedeeld';
+      } else if (gedeeltelijk) {
+        badgeClass = 'badge-partial';
         badgeText = 'Gedeeltelijk bevestigd';
       } else {
         badgeClass = 'badge-unconfirmed';
         badgeText = 'Nog niet bevestigd';
       }
 
+      // Eerste ronde standaard open, rest dicht
+      var isOpen = (ri === 0);
+
       html += '<div class="round-block">';
-      html += '<div class="round-header">';
+      html += '<div class="round-header" onclick="toggleRound(this)">';
       html += '<span class="round-label">Speelronde ' + ronde + '</span>';
       html += '<span class="round-badge ' + badgeClass + '">' + badgeText + '</span>';
+      html += '<span class="chevron' + (isOpen ? ' open' : '') + '">▼</span>';
       html += '</div>';
+      html += '<div class="round-body' + (isOpen ? ' open' : '') + '">';
       html += '<div class="match-list">';
 
       for (var wi = 0; wi < wedstrijden.length; wi++) {
         var w = wedstrijden[wi];
-        var delay = Math.min(wi * 20, 300);
-        html += '<div class="match-card" style="animation-delay:'+delay+'ms">';
-        html += '<div class="team"><div class="team-name">'+w.homeTeam+'</div></div>';
-        html += '<div class="match-center"><div class="vs">VS</div><div class="match-time">'+formatTime(w.utcDate)+'</div></div>';
-        html += '<div class="team right"><div class="team-name">'+w.awayTeam+'</div></div>';
-        html += '<div class="match-date-col">'+formatDate(w.utcDate)+'</div>';
+        html += '<div class="match-card">';
+        html += '<div class="team">' + teamLogo(w.homeCrest) + '<div class="team-name">' + w.homeTeam + '</div></div>';
+        html += '<div class="match-center"><div class="vs">VS</div><div class="match-time">' + formatDateTime(w.utcDate) + '</div></div>';
+        html += '<div class="team right"><div class="team-name">' + w.awayTeam + '</div>' + teamLogo(w.awayCrest) + '</div>';
+        html += '<div class="match-date-col">' + formatDate(w.utcDate) + '</div>';
         html += '</div>';
       }
 
-      html += '</div></div>';
+      html += '</div></div></div>';
     }
     html += '</div>';
   }
@@ -192,8 +260,7 @@ function filterComp(code, el) {
   activeFilter = code;
   document.querySelectorAll('.pill').forEach(function(p){p.classList.remove('active')});
   el.classList.add('active');
-  var filtered = code === 'all' ? allMatches : allMatches.filter(function(m){return m.compCode === code});
-  renderAll(filtered);
+  renderAll(code === 'all' ? allMatches : allMatches.filter(function(m){return m.compCode===code}));
 }
 
 function loadData() {
@@ -205,10 +272,9 @@ function loadData() {
       document.getElementById('stat-total').textContent = allMatches.length;
       document.getElementById('stat-timed').textContent = allMatches.filter(function(m){return m.status==='TIMED'}).length;
       if (data.updated) {
-        document.getElementById('last-updated').textContent = 'Bijgewerkt: ' + new Date(data.updated).toLocaleString('nl-NL');
+        document.getElementById('last-updated').textContent = 'Bijgewerkt: ' + new Date(data.updated).toLocaleString('nl-NL', {timeZone:'Europe/Amsterdam'});
       }
-      var filtered = activeFilter === 'all' ? allMatches : allMatches.filter(function(m){return m.compCode === activeFilter});
-      renderAll(filtered);
+      renderAll(activeFilter === 'all' ? allMatches : allMatches.filter(function(m){return m.compCode===activeFilter}));
     })
     .catch(function(){
       document.getElementById('match-container').innerHTML = '<div class="empty">Data niet beschikbaar. Start de GitHub Action eerst.</div>';
