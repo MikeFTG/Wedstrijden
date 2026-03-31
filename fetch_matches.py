@@ -40,13 +40,13 @@ def haal_wedstrijden_op(code):
 
 def stuur_slack(wedstrijd, comp_naam):
     thuis = wedstrijd["homeTeam"]["name"]
-    uit   = wedstrijd["awayTeam"]["name"]
+    uit = wedstrijd["awayTeam"]["name"]
     datum_str = wedstrijd.get("utcDate", "")
     speelronde = wedstrijd.get("matchday", "?")
     try:
         dt = datetime.fromisoformat(datum_str.replace("Z", "+00:00"))
         datum_nl = dt.strftime("%A %d %B, %H:%M UTC")
-    except:
+    except Exception:
         datum_nl = datum_str
     bericht = {
         "text": ":soccer: *Wedstrijd bevestigd - " + comp_naam + "*",
@@ -88,7 +88,7 @@ def main():
                 dt = datetime.fromisoformat(datum_str.replace("Z", "+00:00"))
                 if dt < nu:
                     continue
-            except:
+            except Exception:
                 pass
 
             wid = str(w["id"])
@@ -102,7 +102,9 @@ def main():
                 "compName": naam,
                 "matchday": w.get("matchday"),
                 "homeTeam": w["homeTeam"]["name"],
+                "homeCrest": w["homeTeam"].get("crest", ""),
                 "awayTeam": w["awayTeam"]["name"],
+                "awayCrest": w["awayTeam"].get("crest", ""),
                 "utcDate": datum_str,
                 "status": status,
             })
