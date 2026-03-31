@@ -1,11 +1,10 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 API_KEY = os.environ.get("FOOTBALL_API_KEY", "")
 SLACK_WEBHOOK = os.environ.get("SLACK_WEBHOOK_URL", "")
-STATUS_BESTAND = "known_matches.json"
 
 COMPETITIES = {
     "PL":  "Premier League",
@@ -15,6 +14,8 @@ COMPETITIES = {
     "BL2": "2. Bundesliga",
     "FL1": "Ligue 1",
 }
+
+STATUS_BESTAND = "known_matches.json"
 
 def laad_bekende():
     if os.path.exists(STATUS_BESTAND):
@@ -29,9 +30,8 @@ def sla_bekende_op(data):
 def haal_wedstrijden_op(code):
     url = f"https://api.football-data.org/v4/competitions/{code}/matches"
     headers = {"X-Auth-Token": API_KEY}
-    params = {"status": "SCHEDULED,TIMED"}
     try:
-        r = requests.get(url, headers=headers, params=params, timeout=10)
+        r = requests.get(url, headers=headers, timeout=10)
         r.raise_for_status()
         return r.json().get("matches", [])
     except Exception as e:
@@ -42,27 +42,27 @@ def stuur_slack(wedstrijd, comp_naam):
     thuis = wedstrijd["homeTeam"]["name"]
     uit   = wedstrijd["awayTeam"]["name"]
     datum_str = wedstrijd.get("utcDate", "")
+    speelronde = wedstrijd.get("matchday", "?")
     try:
         dt = datetime.fromisoformat(datum_str.replace("Z", "+00:00"))
-        datum_nl = dt.strftime("%A %d %B · %H:%M UTC")
+        datum_nl = dt.strftime("%A %d %B, %H:%M UTC")
     except:
         datum_nl = datum_str
-
     bericht = {
-        "text": f":soccer: *Wedstrijd bevestigd \u2014 {comp_naam}*",
+        "text": f":soccer: *Wedstrijd bevestigd - {comp_naam}*",
         "attachments": [{
             "color": "#36a64f",
             "fields": [
+                {"title": "Speelronde", "value": str(speelronde), "short": True},
                 {"title": "Wedstrijd", "value": f"{thuis} vs {uit}", "short": False},
-                {"title": "Datum & tijd", "value": datum_nl, "short": True},
-                {"title": "Status", "value": wedstrijd.get("status", ""), "short": True},
+                {"title": "Datum en tijd", "value": datum_nl, "short": True},
             ],
             "footer": "Match Monitor Bot",
         }]
     }
     try:
         requests.post(SLACK_WEBHOOK, json=bericht, timeout=10)
-        print(f"  [Slack] {thuis} vs {uit}")
+        print(f"  [Slack] Ronde {speelronde}: {thuis} vs {uit}")
     except Exception as e:
         print(f"  [Slack fout] {e}")
 
@@ -70,41 +70,46 @@ def main():
     bekende = laad_bekende()
     nieuwe_bekende = dict(bekende)
     alle_wedstrijden = []
+    nu = datetime.now(timezone.utc)
 
     for code, naam in COMPETITIES.items():
         print(f"Fetching {naam}...")
         wedstrijden = haal_wedstrijden_op(code)
-        print(f"  {len(wedstrijden)} wedstrijden")
+        print(f"  {len(wedstrijden)} wedstrijden totaal")
 
         for w in wedstrijden:
-            wid = str(w["id"])
             status = w.get("status", "")
+            if status in ("FINISHED", "IN_PLAY", "PAUSED", "SUSPENDED", "CANCELLED", "POSTPONED"):
+                continue
+            datum_str = w.get("utcDate", "")
+            try:
+                dt = datetime.fromisoformat(datum_str.replace("Z", "+00:00"))
+                if dt < nu:
+                    continue
+            except:
+                pass
 
-            # Slack sturen als status veranderd is naar TIMED
+            wid = str(w["id"])
             if status == "TIMED" and bekende.get(wid) != "TIMED":
                 stuur_slack(w, naam)
-
             nieuwe_bekende[wid] = status
+
             alle_wedstrijden.append({
                 "id": w["id"],
                 "compCode": code,
                 "compName": naam,
+                "matchday": w.get("matchday"),
                 "homeTeam": w["homeTeam"]["name"],
                 "awayTeam": w["awayTeam"]["name"],
-                "utcDate": w.get("utcDate", ""),
+                "utcDate": datum_str,
                 "status": status,
             })
 
-    # Sla wedstrijddata op voor de website
-    output = {
-        "updated": datetime.utcnow().isoformat() + "Z",
-        "matches": alle_wedstrijden,
-    }
+    output = {"updated": nu.isoformat(), "matches": alle_wedstrijden}
     with open("matches.json", "w") as f:
         json.dump(output, f, indent=2)
-
     sla_bekende_op(nieuwe_bekende)
-    print(f"\nKlaar. {len(alle_wedstrijden)} wedstrijden opgeslagen.")
+    print(f"\nKlaar. {len(alle_wedstrijden)} aankomende wedstrijden opgeslagen.")
 
 if __name__ == "__main__":
     main()
