@@ -1,30 +1,88 @@
-name: Fetch Match Data
+import requests
+import json
+import os
+from datetime import datetime, timezone
 
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+API_KEY = os.environ.get("FOOTBALL_API_KEY", "")
+SLACK_WEBHOOK = os.environ.get("SLACK_WEBHOOK_URL", "")
 
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+COMPETITIES = {
+    "PL":  "Premier League",
+    "BL1": "Bundesliga",
+    "SA":  "Serie A",
+    "PD":  "La Liga",
+    "BL2": "2. Bundesliga",
+    "FL1": "Ligue 1",
+}
 
-      - name: Fetch wedstrijden van API
-        env:
-          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: |
-          echo "API key lengte: ${#FOOTBALL_API_KEY}"
-          pip install requests -q
-          python3 fetch_matches.py
+STATUS_BESTAND = "known_matches.json"
 
-      - name: Commit en push data
-        run: |
-          git config user.name "Match Bot"
-          git config user.email "bot@match-monitor"
-          git add matches.json known_matches.json || true
-          git diff --staged --quiet || git commit -m "Update wedstrijddata"
-          git push
+def laad_bekende():
+    if os.path.exists(STATUS_BESTAND):
+        with open(STATUS_BESTAND) as f:
+            return json.load(f)
+    return {}
+
+def sla_bekende_op(data):
+    with open(STATUS_BESTAND, "w") as f:
+        json.dump(data, f, indent=2)
+
+def haal_wedstrijden_op(code):
+    url = "https://api.football-data.org/v4/competitions/" + code + "/matches"
+    headers = {"X-Auth-Token": API_KEY}
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        r.raise_for_status()
+        return r.json().get("matches", [])
+    except Exception as e:
+        print("  [FOUT] " + code + ": " + str(e))
+        return []
+
+def stuur_slack(wedstrijd, comp_naam):
+    thuis = wedstrijd["homeTeam"]["name"]
+    uit   = wedstrijd["awayTeam"]["name"]
+    datum_str = wedstrijd.get("utcDate", "")
+    speelronde = wedstrijd.get("matchday", "?")
+    try:
+        dt = datetime.fromisoformat(datum_str.replace("Z", "+00:00"))
+        datum_nl = dt.strftime("%A %d %B, %H:%M UTC")
+    except:
+        datum_nl = datum_str
+    bericht = {
+        "text": ":soccer: *Wedstrijd bevestigd - " + comp_naam + "*",
+        "attachments": [{
+            "color": "#36a64f",
+            "fields": [
+                {"title": "Speelronde", "value": str(speelronde), "short": True},
+                {"title": "Wedstrijd", "value": thuis + " vs " + uit, "short": False},
+                {"title": "Datum en tijd", "value": datum_nl, "short": True},
+            ],
+            "footer": "Match Monitor Bot",
+        }]
+    }
+    try:
+        requests.post(SLACK_WEBHOOK, json=bericht, timeout=10)
+        print("  [Slack] Ronde " + str(speelronde) + ": " + thuis + " vs " + uit)
+    except Exception as e:
+        print("  [Slack fout] " + str(e))
+
+def main():
+    bekende = laad_bekende()
+    nieuwe_bekende = dict(bekende)
+    alle_wedstrijden = []
+    nu = datetime.now(timezone.utc)
+
+    print("API key aanwezig: " + ("ja" if API_KEY else "NEE - KEY ONTBREEKT"))
+
+    for code, naam in COMPETITIES.items():
+        print("Fetching " + naam + "...")
+        wedstrijden = haal_wedstrijden_op(code)
+        print("  " + str(len(wedstrijden)) + " wedstrijden totaal")
+
+        for w in wedstrijden:
+            status = w.get("status", "")
+            if status in ("FINISHED", "IN_PLAY", "PAUSED", "SUSPENDED", "CANCELLED", "POSTPONED"):
+                continue
+            datum_str = w.get("utcDate", "")
+            try:
+                dt = datetime.fromisoformat(datum_st
