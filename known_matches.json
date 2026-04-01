@@ -1,369 +1,1470 @@
 {
-  "538104": "TIMED",
-  "538097": "TIMED",
-  "538098": "TIMED",
-  "538099": "TIMED",
-  "538101": "TIMED",
-  "538095": "TIMED",
-  "538096": "TIMED",
-  "538103": "TIMED",
-  "538100": "TIMED",
-  "538102": "TIMED",
-  "538107": "TIMED",
-  "538112": "TIMED",
-  "538110": "TIMED",
-  "538114": "TIMED",
-  "538108": "TIMED",
-  "538113": "TIMED",
-  "538105": "TIMED",
-  "538109": "TIMED",
-  "538111": "TIMED",
-  "538106": "TIMED",
-  "538116": "TIMED",
-  "538120": "TIMED",
-  "538115": "TIMED",
-  "538121": "TIMED",
-  "538123": "TIMED",
-  "538124": "TIMED",
-  "538118": "TIMED",
-  "538119": "TIMED",
-  "538117": "TIMED",
-  "538122": "TIMED",
-  "538131": "TIMED",
-  "538126": "TIMED",
-  "538125": "TIMED",
-  "538128": "TIMED",
-  "538133": "TIMED",
-  "538134": "TIMED",
-  "538127": "TIMED",
-  "538132": "TIMED",
-  "538129": "TIMED",
-  "538130": "TIMED",
-  "538135": "TIMED",
-  "538136": "TIMED",
-  "538137": "TIMED",
-  "538138": "TIMED",
-  "538139": "TIMED",
-  "538140": "TIMED",
-  "538141": "TIMED",
-  "538142": "TIMED",
-  "538143": "TIMED",
-  "538144": "TIMED",
-  "538145": "TIMED",
-  "538146": "TIMED",
-  "538147": "TIMED",
-  "538148": "TIMED",
-  "538149": "TIMED",
-  "538150": "TIMED",
-  "538151": "TIMED",
-  "538152": "TIMED",
-  "538153": "TIMED",
-  "538154": "TIMED",
-  "538155": "TIMED",
-  "538156": "TIMED",
-  "538157": "TIMED",
-  "538158": "TIMED",
-  "538159": "TIMED",
-  "538160": "TIMED",
-  "538161": "TIMED",
-  "538162": "TIMED",
-  "538163": "TIMED",
-  "538164": "TIMED",
-  "540649": "TIMED",
-  "540651": "TIMED",
-  "540652": "TIMED",
-  "540653": "TIMED",
-  "540654": "TIMED",
-  "540656": "TIMED",
-  "540650": "TIMED",
-  "540655": "TIMED",
-  "540657": "TIMED",
-  "540665": "TIMED",
-  "540659": "TIMED",
-  "540660": "TIMED",
-  "540663": "TIMED",
-  "540664": "TIMED",
-  "540658": "TIMED",
-  "540662": "TIMED",
-  "540666": "TIMED",
-  "540661": "TIMED",
-  "540673": "TIMED",
-  "540674": "TIMED",
-  "540675": "TIMED",
-  "540667": "TIMED",
-  "540671": "TIMED",
-  "540669": "TIMED",
-  "540672": "TIMED",
-  "540670": "TIMED",
-  "540668": "TIMED",
-  "540682": "TIMED",
-  "540676": "TIMED",
-  "540677": "TIMED",
-  "540678": "TIMED",
-  "540681": "TIMED",
-  "540683": "TIMED",
-  "540684": "TIMED",
-  "540680": "TIMED",
-  "540679": "TIMED",
-  "540688": "TIMED",
-  "540690": "TIMED",
-  "540691": "TIMED",
-  "540692": "TIMED",
-  "540693": "TIMED",
-  "540687": "TIMED",
-  "540686": "TIMED",
-  "540685": "TIMED",
-  "540689": "TIMED",
-  "540696": "TIMED",
-  "540695": "TIMED",
-  "540698": "TIMED",
-  "540699": "TIMED",
-  "540701": "TIMED",
-  "540694": "TIMED",
-  "540697": "TIMED",
-  "540702": "TIMED",
-  "540700": "TIMED",
-  "540703": "TIMED",
-  "540704": "TIMED",
-  "540705": "TIMED",
-  "540706": "TIMED",
-  "540707": "TIMED",
-  "540708": "TIMED",
-  "540709": "TIMED",
-  "540710": "TIMED",
-  "540711": "TIMED",
-  "537120": "TIMED",
-  "537115": "TIMED",
-  "537118": "TIMED",
-  "537123": "TIMED",
-  "537119": "TIMED",
-  "537116": "TIMED",
-  "537122": "TIMED",
-  "537124": "TIMED",
-  "537117": "TIMED",
-  "537121": "TIMED",
-  "537127": "TIMED",
-  "537129": "TIMED",
-  "537133": "TIMED",
-  "537126": "TIMED",
-  "537128": "TIMED",
-  "537130": "TIMED",
-  "537134": "TIMED",
-  "537132": "TIMED",
-  "537131": "TIMED",
-  "537125": "TIMED",
-  "537140": "TIMED",
-  "537137": "TIMED",
-  "537142": "TIMED",
-  "537141": "TIMED",
-  "537135": "TIMED",
-  "537143": "TIMED",
-  "537136": "TIMED",
-  "537139": "TIMED",
-  "537138": "TIMED",
-  "537144": "TIMED",
-  "537154": "TIMED",
-  "537153": "TIMED",
-  "537149": "TIMED",
-  "537151": "TIMED",
-  "537145": "TIMED",
-  "537148": "TIMED",
-  "537150": "TIMED",
-  "537146": "TIMED",
-  "537147": "TIMED",
-  "537152": "TIMED",
-  "537155": "SCHEDULED",
-  "537156": "SCHEDULED",
-  "537157": "SCHEDULED",
-  "537158": "SCHEDULED",
-  "537159": "SCHEDULED",
-  "537160": "SCHEDULED",
-  "537161": "SCHEDULED",
-  "537162": "SCHEDULED",
-  "537163": "SCHEDULED",
-  "537164": "SCHEDULED",
-  "537165": "SCHEDULED",
-  "537166": "SCHEDULED",
-  "537167": "SCHEDULED",
-  "537168": "SCHEDULED",
-  "537169": "SCHEDULED",
-  "537170": "SCHEDULED",
-  "537171": "SCHEDULED",
-  "537172": "SCHEDULED",
-  "537173": "SCHEDULED",
-  "537174": "SCHEDULED",
-  "537175": "SCHEDULED",
-  "537176": "SCHEDULED",
-  "537177": "SCHEDULED",
-  "537178": "SCHEDULED",
-  "537179": "SCHEDULED",
-  "537180": "SCHEDULED",
-  "537181": "SCHEDULED",
-  "537182": "SCHEDULED",
-  "537183": "SCHEDULED",
-  "537184": "SCHEDULED",
-  "537185": "SCHEDULED",
-  "537186": "SCHEDULED",
-  "537187": "SCHEDULED",
-  "537188": "SCHEDULED",
-  "537189": "SCHEDULED",
-  "537190": "SCHEDULED",
-  "537191": "SCHEDULED",
-  "537192": "SCHEDULED",
-  "537193": "SCHEDULED",
-  "537194": "SCHEDULED",
-  "544509": "TIMED",
-  "544510": "TIMED",
-  "544505": "TIMED",
-  "544503": "TIMED",
-  "544502": "TIMED",
-  "544507": "TIMED",
-  "544508": "TIMED",
-  "544506": "TIMED",
-  "544501": "TIMED",
-  "544504": "TIMED",
-  "544520": "TIMED",
-  "544516": "TIMED",
-  "544514": "TIMED",
-  "544512": "TIMED",
-  "544517": "TIMED",
-  "544518": "TIMED",
-  "544515": "TIMED",
-  "544513": "TIMED",
-  "544511": "TIMED",
-  "544519": "TIMED",
-  "544531": "SCHEDULED",
-  "544532": "SCHEDULED",
-  "544533": "SCHEDULED",
-  "544534": "SCHEDULED",
-  "544535": "SCHEDULED",
-  "544536": "SCHEDULED",
-  "544537": "SCHEDULED",
-  "544538": "SCHEDULED",
-  "544539": "SCHEDULED",
-  "544540": "SCHEDULED",
-  "544521": "SCHEDULED",
-  "544522": "SCHEDULED",
-  "544523": "SCHEDULED",
-  "544524": "SCHEDULED",
-  "544525": "SCHEDULED",
-  "544526": "SCHEDULED",
-  "544527": "SCHEDULED",
-  "544528": "SCHEDULED",
-  "544529": "SCHEDULED",
-  "544530": "SCHEDULED",
-  "544541": "SCHEDULED",
-  "544542": "SCHEDULED",
-  "544543": "SCHEDULED",
-  "544544": "SCHEDULED",
-  "544545": "SCHEDULED",
-  "544546": "SCHEDULED",
-  "544547": "SCHEDULED",
-  "544548": "SCHEDULED",
-  "544549": "SCHEDULED",
-  "544550": "SCHEDULED",
-  "544551": "SCHEDULED",
-  "544552": "SCHEDULED",
-  "544554": "SCHEDULED",
-  "544555": "SCHEDULED",
-  "544556": "SCHEDULED",
-  "544557": "SCHEDULED",
-  "544558": "SCHEDULED",
-  "544559": "SCHEDULED",
-  "544560": "SCHEDULED",
-  "544553": "TIMED",
-  "544561": "SCHEDULED",
-  "544562": "SCHEDULED",
-  "544563": "SCHEDULED",
-  "544564": "SCHEDULED",
-  "544565": "SCHEDULED",
-  "544566": "SCHEDULED",
-  "544567": "SCHEDULED",
-  "544568": "SCHEDULED",
-  "544569": "SCHEDULED",
-  "544570": "SCHEDULED",
-  "544571": "SCHEDULED",
-  "544572": "SCHEDULED",
-  "544573": "SCHEDULED",
-  "544574": "SCHEDULED",
-  "544575": "SCHEDULED",
-  "544576": "SCHEDULED",
-  "544577": "SCHEDULED",
-  "544578": "SCHEDULED",
-  "544579": "SCHEDULED",
-  "544580": "SCHEDULED",
-  "544581": "SCHEDULED",
-  "544582": "SCHEDULED",
-  "544583": "SCHEDULED",
-  "544584": "SCHEDULED",
-  "544585": "SCHEDULED",
-  "544586": "SCHEDULED",
-  "544587": "SCHEDULED",
-  "544588": "SCHEDULED",
-  "544589": "SCHEDULED",
-  "544590": "SCHEDULED",
-  "542654": "TIMED",
-  "542655": "TIMED",
-  "542657": "TIMED",
-  "542653": "TIMED",
-  "542656": "TIMED",
-  "542649": "TIMED",
-  "542651": "TIMED",
-  "542652": "TIMED",
-  "542650": "TIMED",
-  "542659": "TIMED",
-  "542663": "TIMED",
-  "542658": "TIMED",
-  "542666": "TIMED",
-  "542660": "TIMED",
-  "542661": "TIMED",
-  "542662": "TIMED",
-  "542674": "TIMED",
-  "542668": "TIMED",
-  "542675": "TIMED",
-  "542671": "TIMED",
-  "542667": "TIMED",
-  "542669": "TIMED",
-  "542670": "TIMED",
-  "542673": "TIMED",
-  "542672": "TIMED",
-  "542636": "TIMED",
-  "542683": "TIMED",
-  "542680": "TIMED",
-  "542682": "TIMED",
-  "542679": "TIMED",
-  "542677": "TIMED",
-  "542676": "TIMED",
-  "542678": "TIMED",
-  "542684": "TIMED",
-  "542681": "TIMED",
-  "542685": "SCHEDULED",
-  "542686": "SCHEDULED",
-  "542687": "SCHEDULED",
-  "542688": "SCHEDULED",
-  "542689": "SCHEDULED",
-  "542690": "SCHEDULED",
-  "542691": "SCHEDULED",
-  "542692": "SCHEDULED",
-  "542693": "SCHEDULED",
-  "542694": "TIMED",
-  "542695": "TIMED",
-  "542696": "TIMED",
-  "542697": "TIMED",
-  "542698": "TIMED",
-  "542699": "TIMED",
-  "542700": "TIMED",
-  "542701": "TIMED",
-  "542702": "TIMED",
-  "542664": "SCHEDULED",
-  "542665": "SCHEDULED",
-  "542703": "TIMED",
-  "542704": "TIMED",
-  "542705": "TIMED",
-  "542706": "TIMED",
-  "542707": "TIMED",
-  "542708": "TIMED",
-  "542709": "TIMED",
-  "542710": "TIMED",
-  "542711": "TIMED"
+  "538104": {
+    "status": "TIMED",
+    "datum": "2026-04-10T19:00:00Z"
+  },
+  "538097": {
+    "status": "TIMED",
+    "datum": "2026-04-11T11:30:00Z"
+  },
+  "538098": {
+    "status": "TIMED",
+    "datum": "2026-04-11T14:00:00Z"
+  },
+  "538099": {
+    "status": "TIMED",
+    "datum": "2026-04-11T14:00:00Z"
+  },
+  "538101": {
+    "status": "TIMED",
+    "datum": "2026-04-11T16:30:00Z"
+  },
+  "538095": {
+    "status": "TIMED",
+    "datum": "2026-04-12T13:00:00Z"
+  },
+  "538096": {
+    "status": "TIMED",
+    "datum": "2026-04-12T13:00:00Z"
+  },
+  "538103": {
+    "status": "TIMED",
+    "datum": "2026-04-12T13:00:00Z"
+  },
+  "538100": {
+    "status": "TIMED",
+    "datum": "2026-04-12T15:30:00Z"
+  },
+  "538102": {
+    "status": "TIMED",
+    "datum": "2026-04-13T19:00:00Z"
+  },
+  "538107": {
+    "status": "TIMED",
+    "datum": "2026-04-18T11:30:00Z"
+  },
+  "538112": {
+    "status": "TIMED",
+    "datum": "2026-04-18T14:00:00Z"
+  },
+  "538110": {
+    "status": "TIMED",
+    "datum": "2026-04-18T14:00:00Z"
+  },
+  "538114": {
+    "status": "TIMED",
+    "datum": "2026-04-18T16:30:00Z"
+  },
+  "538108": {
+    "status": "TIMED",
+    "datum": "2026-04-18T19:00:00Z"
+  },
+  "538113": {
+    "status": "TIMED",
+    "datum": "2026-04-19T13:00:00Z"
+  },
+  "538105": {
+    "status": "TIMED",
+    "datum": "2026-04-19T13:00:00Z"
+  },
+  "538109": {
+    "status": "TIMED",
+    "datum": "2026-04-19T13:00:00Z"
+  },
+  "538111": {
+    "status": "TIMED",
+    "datum": "2026-04-19T15:30:00Z"
+  },
+  "538106": {
+    "status": "TIMED",
+    "datum": "2026-04-20T19:00:00Z"
+  },
+  "538116": {
+    "status": "TIMED",
+    "datum": "2026-04-24T19:00:00Z"
+  },
+  "538120": {
+    "status": "TIMED",
+    "datum": "2026-04-25T11:30:00Z"
+  },
+  "538115": {
+    "status": "TIMED",
+    "datum": "2026-04-25T14:00:00Z"
+  },
+  "538121": {
+    "status": "TIMED",
+    "datum": "2026-04-25T14:00:00Z"
+  },
+  "538123": {
+    "status": "TIMED",
+    "datum": "2026-04-25T14:00:00Z"
+  },
+  "538124": {
+    "status": "TIMED",
+    "datum": "2026-04-25T14:00:00Z"
+  },
+  "538118": {
+    "status": "TIMED",
+    "datum": "2026-04-25T16:30:00Z"
+  },
+  "538119": {
+    "status": "TIMED",
+    "datum": "2026-04-26T13:00:00Z"
+  },
+  "538117": {
+    "status": "TIMED",
+    "datum": "2026-04-26T15:30:00Z"
+  },
+  "538122": {
+    "status": "TIMED",
+    "datum": "2026-04-27T19:00:00Z"
+  },
+  "538131": {
+    "status": "TIMED",
+    "datum": "2026-05-01T19:00:00Z"
+  },
+  "538126": {
+    "status": "TIMED",
+    "datum": "2026-05-02T11:30:00Z"
+  },
+  "538125": {
+    "status": "TIMED",
+    "datum": "2026-05-02T14:00:00Z"
+  },
+  "538128": {
+    "status": "TIMED",
+    "datum": "2026-05-02T14:00:00Z"
+  },
+  "538133": {
+    "status": "TIMED",
+    "datum": "2026-05-02T14:00:00Z"
+  },
+  "538134": {
+    "status": "TIMED",
+    "datum": "2026-05-02T14:00:00Z"
+  },
+  "538127": {
+    "status": "TIMED",
+    "datum": "2026-05-02T16:30:00Z"
+  },
+  "538132": {
+    "status": "TIMED",
+    "datum": "2026-05-03T14:30:00Z"
+  },
+  "538129": {
+    "status": "TIMED",
+    "datum": "2026-05-04T14:00:00Z"
+  },
+  "538130": {
+    "status": "TIMED",
+    "datum": "2026-05-04T19:00:00Z"
+  },
+  "538135": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538136": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538137": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538138": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538139": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538140": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538141": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538142": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538143": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538144": {
+    "status": "TIMED",
+    "datum": "2026-05-09T14:00:00Z"
+  },
+  "538145": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538146": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538147": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538148": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538149": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538150": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538151": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538152": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538153": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538154": {
+    "status": "TIMED",
+    "datum": "2026-05-17T14:00:00Z"
+  },
+  "538155": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538156": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538157": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538158": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538159": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538160": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538161": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538162": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538163": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "538164": {
+    "status": "TIMED",
+    "datum": "2026-05-24T15:00:00Z"
+  },
+  "540649": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:30:00Z"
+  },
+  "540651": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:30:00Z"
+  },
+  "540652": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:30:00Z"
+  },
+  "540653": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:30:00Z"
+  },
+  "540654": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:30:00Z"
+  },
+  "540656": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:30:00Z"
+  },
+  "540650": {
+    "status": "TIMED",
+    "datum": "2026-04-04T16:30:00Z"
+  },
+  "540655": {
+    "status": "TIMED",
+    "datum": "2026-04-05T13:30:00Z"
+  },
+  "540657": {
+    "status": "TIMED",
+    "datum": "2026-04-05T15:30:00Z"
+  },
+  "540665": {
+    "status": "TIMED",
+    "datum": "2026-04-10T18:30:00Z"
+  },
+  "540659": {
+    "status": "TIMED",
+    "datum": "2026-04-11T13:30:00Z"
+  },
+  "540660": {
+    "status": "TIMED",
+    "datum": "2026-04-11T13:30:00Z"
+  },
+  "540663": {
+    "status": "TIMED",
+    "datum": "2026-04-11T13:30:00Z"
+  },
+  "540664": {
+    "status": "TIMED",
+    "datum": "2026-04-11T13:30:00Z"
+  },
+  "540658": {
+    "status": "TIMED",
+    "datum": "2026-04-11T16:30:00Z"
+  },
+  "540662": {
+    "status": "TIMED",
+    "datum": "2026-04-12T13:30:00Z"
+  },
+  "540666": {
+    "status": "TIMED",
+    "datum": "2026-04-12T15:30:00Z"
+  },
+  "540661": {
+    "status": "TIMED",
+    "datum": "2026-04-12T17:30:00Z"
+  },
+  "540673": {
+    "status": "TIMED",
+    "datum": "2026-04-17T18:30:00Z"
+  },
+  "540674": {
+    "status": "TIMED",
+    "datum": "2026-04-18T13:30:00Z"
+  },
+  "540675": {
+    "status": "TIMED",
+    "datum": "2026-04-18T13:30:00Z"
+  },
+  "540667": {
+    "status": "TIMED",
+    "datum": "2026-04-18T13:30:00Z"
+  },
+  "540671": {
+    "status": "TIMED",
+    "datum": "2026-04-18T13:30:00Z"
+  },
+  "540669": {
+    "status": "TIMED",
+    "datum": "2026-04-18T16:30:00Z"
+  },
+  "540672": {
+    "status": "TIMED",
+    "datum": "2026-04-19T13:30:00Z"
+  },
+  "540670": {
+    "status": "TIMED",
+    "datum": "2026-04-19T15:30:00Z"
+  },
+  "540668": {
+    "status": "TIMED",
+    "datum": "2026-04-19T17:30:00Z"
+  },
+  "540682": {
+    "status": "TIMED",
+    "datum": "2026-04-24T18:30:00Z"
+  },
+  "540676": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:30:00Z"
+  },
+  "540677": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:30:00Z"
+  },
+  "540678": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:30:00Z"
+  },
+  "540681": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:30:00Z"
+  },
+  "540683": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:30:00Z"
+  },
+  "540684": {
+    "status": "TIMED",
+    "datum": "2026-04-25T16:30:00Z"
+  },
+  "540680": {
+    "status": "TIMED",
+    "datum": "2026-04-26T13:30:00Z"
+  },
+  "540679": {
+    "status": "TIMED",
+    "datum": "2026-04-26T15:30:00Z"
+  },
+  "540688": {
+    "status": "TIMED",
+    "datum": "2026-05-02T13:30:00Z"
+  },
+  "540690": {
+    "status": "TIMED",
+    "datum": "2026-05-02T13:30:00Z"
+  },
+  "540691": {
+    "status": "TIMED",
+    "datum": "2026-05-02T13:30:00Z"
+  },
+  "540692": {
+    "status": "TIMED",
+    "datum": "2026-05-02T13:30:00Z"
+  },
+  "540693": {
+    "status": "TIMED",
+    "datum": "2026-05-02T13:30:00Z"
+  },
+  "540687": {
+    "status": "TIMED",
+    "datum": "2026-05-02T16:30:00Z"
+  },
+  "540686": {
+    "status": "TIMED",
+    "datum": "2026-05-03T13:30:00Z"
+  },
+  "540685": {
+    "status": "TIMED",
+    "datum": "2026-05-03T15:30:00Z"
+  },
+  "540689": {
+    "status": "TIMED",
+    "datum": "2026-05-03T17:30:00Z"
+  },
+  "540696": {
+    "status": "TIMED",
+    "datum": "2026-05-08T18:30:00Z"
+  },
+  "540695": {
+    "status": "TIMED",
+    "datum": "2026-05-09T13:30:00Z"
+  },
+  "540698": {
+    "status": "TIMED",
+    "datum": "2026-05-09T13:30:00Z"
+  },
+  "540699": {
+    "status": "TIMED",
+    "datum": "2026-05-09T13:30:00Z"
+  },
+  "540701": {
+    "status": "TIMED",
+    "datum": "2026-05-09T13:30:00Z"
+  },
+  "540694": {
+    "status": "TIMED",
+    "datum": "2026-05-09T16:30:00Z"
+  },
+  "540697": {
+    "status": "TIMED",
+    "datum": "2026-05-10T13:30:00Z"
+  },
+  "540702": {
+    "status": "TIMED",
+    "datum": "2026-05-10T15:30:00Z"
+  },
+  "540700": {
+    "status": "TIMED",
+    "datum": "2026-05-10T17:30:00Z"
+  },
+  "540703": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540704": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540705": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540706": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540707": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540708": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540709": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540710": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "540711": {
+    "status": "TIMED",
+    "datum": "2026-05-16T13:30:00Z"
+  },
+  "537120": {
+    "status": "TIMED",
+    "datum": "2026-04-04T13:00:00Z"
+  },
+  "537115": {
+    "status": "TIMED",
+    "datum": "2026-04-04T16:00:00Z"
+  },
+  "537118": {
+    "status": "TIMED",
+    "datum": "2026-04-04T18:45:00Z"
+  },
+  "537123": {
+    "status": "TIMED",
+    "datum": "2026-04-05T13:00:00Z"
+  },
+  "537119": {
+    "status": "TIMED",
+    "datum": "2026-04-05T16:00:00Z"
+  },
+  "537116": {
+    "status": "TIMED",
+    "datum": "2026-04-05T18:45:00Z"
+  },
+  "537122": {
+    "status": "TIMED",
+    "datum": "2026-04-06T10:30:00Z"
+  },
+  "537124": {
+    "status": "TIMED",
+    "datum": "2026-04-06T13:00:00Z"
+  },
+  "537117": {
+    "status": "TIMED",
+    "datum": "2026-04-06T16:00:00Z"
+  },
+  "537121": {
+    "status": "TIMED",
+    "datum": "2026-04-06T18:45:00Z"
+  },
+  "537127": {
+    "status": "TIMED",
+    "datum": "2026-04-10T18:45:00Z"
+  },
+  "537129": {
+    "status": "TIMED",
+    "datum": "2026-04-11T13:00:00Z"
+  },
+  "537133": {
+    "status": "TIMED",
+    "datum": "2026-04-11T13:00:00Z"
+  },
+  "537126": {
+    "status": "TIMED",
+    "datum": "2026-04-11T16:00:00Z"
+  },
+  "537128": {
+    "status": "TIMED",
+    "datum": "2026-04-11T18:45:00Z"
+  },
+  "537130": {
+    "status": "TIMED",
+    "datum": "2026-04-12T10:30:00Z"
+  },
+  "537134": {
+    "status": "TIMED",
+    "datum": "2026-04-12T13:00:00Z"
+  },
+  "537132": {
+    "status": "TIMED",
+    "datum": "2026-04-12T16:00:00Z"
+  },
+  "537131": {
+    "status": "TIMED",
+    "datum": "2026-04-12T18:45:00Z"
+  },
+  "537125": {
+    "status": "TIMED",
+    "datum": "2026-04-13T18:45:00Z"
+  },
+  "537140": {
+    "status": "TIMED",
+    "datum": "2026-04-17T16:30:00Z"
+  },
+  "537137": {
+    "status": "TIMED",
+    "datum": "2026-04-17T18:45:00Z"
+  },
+  "537142": {
+    "status": "TIMED",
+    "datum": "2026-04-18T13:00:00Z"
+  },
+  "537141": {
+    "status": "TIMED",
+    "datum": "2026-04-18T16:00:00Z"
+  },
+  "537135": {
+    "status": "TIMED",
+    "datum": "2026-04-18T18:45:00Z"
+  },
+  "537143": {
+    "status": "TIMED",
+    "datum": "2026-04-19T10:30:00Z"
+  },
+  "537136": {
+    "status": "TIMED",
+    "datum": "2026-04-19T13:00:00Z"
+  },
+  "537139": {
+    "status": "TIMED",
+    "datum": "2026-04-19T16:00:00Z"
+  },
+  "537138": {
+    "status": "TIMED",
+    "datum": "2026-04-19T18:45:00Z"
+  },
+  "537144": {
+    "status": "TIMED",
+    "datum": "2026-04-20T18:45:00Z"
+  },
+  "537154": {
+    "status": "TIMED",
+    "datum": "2026-04-24T18:45:00Z"
+  },
+  "537153": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:00:00Z"
+  },
+  "537149": {
+    "status": "TIMED",
+    "datum": "2026-04-25T16:00:00Z"
+  },
+  "537151": {
+    "status": "TIMED",
+    "datum": "2026-04-25T18:45:00Z"
+  },
+  "537145": {
+    "status": "TIMED",
+    "datum": "2026-04-26T10:30:00Z"
+  },
+  "537148": {
+    "status": "TIMED",
+    "datum": "2026-04-26T13:00:00Z"
+  },
+  "537150": {
+    "status": "TIMED",
+    "datum": "2026-04-26T16:00:00Z"
+  },
+  "537146": {
+    "status": "TIMED",
+    "datum": "2026-04-26T18:45:00Z"
+  },
+  "537147": {
+    "status": "TIMED",
+    "datum": "2026-04-27T16:30:00Z"
+  },
+  "537152": {
+    "status": "TIMED",
+    "datum": "2026-04-27T18:45:00Z"
+  },
+  "537155": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537156": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537157": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537158": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537159": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537160": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537161": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537162": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537163": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537164": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "537165": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537166": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537167": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537168": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537169": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537170": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537171": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537172": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537173": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537174": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "537175": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537176": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537177": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537178": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537179": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537180": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537181": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537182": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537183": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537184": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "537185": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537186": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537187": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537188": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537189": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537190": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537191": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537192": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537193": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "537194": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544509": {
+    "status": "TIMED",
+    "datum": "2026-04-03T19:00:00Z"
+  },
+  "544510": {
+    "status": "TIMED",
+    "datum": "2026-04-04T12:00:00Z"
+  },
+  "544505": {
+    "status": "TIMED",
+    "datum": "2026-04-04T14:15:00Z"
+  },
+  "544503": {
+    "status": "TIMED",
+    "datum": "2026-04-04T16:30:00Z"
+  },
+  "544502": {
+    "status": "TIMED",
+    "datum": "2026-04-04T19:00:00Z"
+  },
+  "544507": {
+    "status": "TIMED",
+    "datum": "2026-04-05T12:00:00Z"
+  },
+  "544508": {
+    "status": "TIMED",
+    "datum": "2026-04-05T14:15:00Z"
+  },
+  "544506": {
+    "status": "TIMED",
+    "datum": "2026-04-05T16:30:00Z"
+  },
+  "544501": {
+    "status": "TIMED",
+    "datum": "2026-04-05T19:00:00Z"
+  },
+  "544504": {
+    "status": "TIMED",
+    "datum": "2026-04-06T19:00:00Z"
+  },
+  "544520": {
+    "status": "TIMED",
+    "datum": "2026-04-10T19:00:00Z"
+  },
+  "544516": {
+    "status": "TIMED",
+    "datum": "2026-04-11T12:00:00Z"
+  },
+  "544514": {
+    "status": "TIMED",
+    "datum": "2026-04-11T14:15:00Z"
+  },
+  "544512": {
+    "status": "TIMED",
+    "datum": "2026-04-11T16:30:00Z"
+  },
+  "544517": {
+    "status": "TIMED",
+    "datum": "2026-04-11T19:00:00Z"
+  },
+  "544518": {
+    "status": "TIMED",
+    "datum": "2026-04-12T12:00:00Z"
+  },
+  "544515": {
+    "status": "TIMED",
+    "datum": "2026-04-12T14:15:00Z"
+  },
+  "544513": {
+    "status": "TIMED",
+    "datum": "2026-04-12T16:30:00Z"
+  },
+  "544511": {
+    "status": "TIMED",
+    "datum": "2026-04-12T19:00:00Z"
+  },
+  "544519": {
+    "status": "TIMED",
+    "datum": "2026-04-13T19:00:00Z"
+  },
+  "544531": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544532": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544533": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544534": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544535": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544536": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544537": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544538": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544539": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544540": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-22T00:00:00Z"
+  },
+  "544521": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544522": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544523": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544524": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544525": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544526": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544527": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544528": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544529": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544530": {
+    "status": "SCHEDULED",
+    "datum": "2026-04-26T00:00:00Z"
+  },
+  "544541": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544542": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544543": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544544": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544545": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544546": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544547": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544548": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544549": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544550": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "544551": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544552": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544554": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544555": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544556": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544557": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544558": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544559": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544560": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-10T00:00:00Z"
+  },
+  "544553": {
+    "status": "TIMED",
+    "datum": "2026-05-10T19:00:00Z"
+  },
+  "544561": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544562": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544563": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544564": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544565": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544566": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544567": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544568": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544569": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544570": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "544571": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544572": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544573": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544574": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544575": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544576": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544577": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544578": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544579": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544580": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-17T00:00:00Z"
+  },
+  "544581": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544582": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544583": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544584": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544585": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544586": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544587": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544588": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544589": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "544590": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-24T00:00:00Z"
+  },
+  "542654": {
+    "status": "TIMED",
+    "datum": "2026-04-03T18:45:00Z"
+  },
+  "542655": {
+    "status": "TIMED",
+    "datum": "2026-04-04T15:00:00Z"
+  },
+  "542657": {
+    "status": "TIMED",
+    "datum": "2026-04-04T17:00:00Z"
+  },
+  "542653": {
+    "status": "TIMED",
+    "datum": "2026-04-04T19:05:00Z"
+  },
+  "542656": {
+    "status": "TIMED",
+    "datum": "2026-04-05T13:00:00Z"
+  },
+  "542649": {
+    "status": "TIMED",
+    "datum": "2026-04-05T15:15:00Z"
+  },
+  "542651": {
+    "status": "TIMED",
+    "datum": "2026-04-05T15:15:00Z"
+  },
+  "542652": {
+    "status": "TIMED",
+    "datum": "2026-04-05T15:15:00Z"
+  },
+  "542650": {
+    "status": "TIMED",
+    "datum": "2026-04-05T18:45:00Z"
+  },
+  "542659": {
+    "status": "TIMED",
+    "datum": "2026-04-10T17:00:00Z"
+  },
+  "542663": {
+    "status": "TIMED",
+    "datum": "2026-04-10T19:05:00Z"
+  },
+  "542658": {
+    "status": "TIMED",
+    "datum": "2026-04-11T17:00:00Z"
+  },
+  "542666": {
+    "status": "TIMED",
+    "datum": "2026-04-11T19:05:00Z"
+  },
+  "542660": {
+    "status": "TIMED",
+    "datum": "2026-04-12T15:15:00Z"
+  },
+  "542661": {
+    "status": "TIMED",
+    "datum": "2026-04-12T15:15:00Z"
+  },
+  "542662": {
+    "status": "TIMED",
+    "datum": "2026-04-12T18:45:00Z"
+  },
+  "542674": {
+    "status": "TIMED",
+    "datum": "2026-04-17T18:45:00Z"
+  },
+  "542668": {
+    "status": "TIMED",
+    "datum": "2026-04-18T15:00:00Z"
+  },
+  "542675": {
+    "status": "TIMED",
+    "datum": "2026-04-18T17:00:00Z"
+  },
+  "542671": {
+    "status": "TIMED",
+    "datum": "2026-04-18T19:05:00Z"
+  },
+  "542667": {
+    "status": "TIMED",
+    "datum": "2026-04-19T13:00:00Z"
+  },
+  "542669": {
+    "status": "TIMED",
+    "datum": "2026-04-19T15:15:00Z"
+  },
+  "542670": {
+    "status": "TIMED",
+    "datum": "2026-04-19T15:15:00Z"
+  },
+  "542673": {
+    "status": "TIMED",
+    "datum": "2026-04-19T15:15:00Z"
+  },
+  "542672": {
+    "status": "TIMED",
+    "datum": "2026-04-19T18:45:00Z"
+  },
+  "542636": {
+    "status": "TIMED",
+    "datum": "2026-04-22T17:00:00Z"
+  },
+  "542683": {
+    "status": "TIMED",
+    "datum": "2026-04-24T18:45:00Z"
+  },
+  "542680": {
+    "status": "TIMED",
+    "datum": "2026-04-25T13:00:00Z"
+  },
+  "542682": {
+    "status": "TIMED",
+    "datum": "2026-04-25T17:00:00Z"
+  },
+  "542679": {
+    "status": "TIMED",
+    "datum": "2026-04-25T19:05:00Z"
+  },
+  "542677": {
+    "status": "TIMED",
+    "datum": "2026-04-26T13:00:00Z"
+  },
+  "542676": {
+    "status": "TIMED",
+    "datum": "2026-04-26T15:15:00Z"
+  },
+  "542678": {
+    "status": "TIMED",
+    "datum": "2026-04-26T15:15:00Z"
+  },
+  "542684": {
+    "status": "TIMED",
+    "datum": "2026-04-26T15:15:00Z"
+  },
+  "542681": {
+    "status": "TIMED",
+    "datum": "2026-04-26T18:45:00Z"
+  },
+  "542685": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542686": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542687": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542688": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542689": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542690": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542691": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542692": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542693": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-03T00:00:00Z"
+  },
+  "542694": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542695": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542696": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542697": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542698": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542699": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542700": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542701": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542702": {
+    "status": "TIMED",
+    "datum": "2026-05-09T19:00:00Z"
+  },
+  "542664": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "542665": {
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
+  },
+  "542703": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542704": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542705": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542706": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542707": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542708": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542709": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542710": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  },
+  "542711": {
+    "status": "TIMED",
+    "datum": "2026-05-16T19:00:00Z"
+  }
 }
