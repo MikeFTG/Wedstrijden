@@ -2,7 +2,7 @@ name: Fetch Match Data
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       slack_test:
