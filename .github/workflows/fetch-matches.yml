@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+    inputs:
+      slack_test:
+        description: 'Stuur een test bericht naar Slack'
+        required: false
+        default: 'false'
 
 jobs:
   fetch:
@@ -16,8 +21,8 @@ jobs:
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_TEST: ${{ github.event.inputs.slack_test }}
         run: |
-          echo "API key lengte: ${#FOOTBALL_API_KEY}"
           pip install requests -q
           python3 fetch_matches.py
 
@@ -25,6 +30,6 @@ jobs:
         run: |
           git config user.name "Match Bot"
           git config user.email "bot@match-monitor"
-          git add matches.json known_matches.json || true
-          git diff --staged --quiet || git commit -m "Update wedstrijddata"
+          git add matches.json known_matches.json logo_map.json logos/ || true
+          git diff --staged --quiet || git commit -m "Update wedstrijddata en logo's"
           git push
