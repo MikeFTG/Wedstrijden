@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T12:05:05.336956+00:00",
+  "updated": "2026-04-02T14:00:34.251637+00:00",
   "matches": [
     {
       "id": 538104,
@@ -482,6 +482,18 @@
       "status": "TIMED"
     },
     {
+      "id": 538140,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Liverpool FC",
+      "homeCrest": "logos/Liverpool_FC.png",
+      "awayTeam": "Chelsea FC",
+      "awayCrest": "logos/Chelsea_FC.png",
+      "utcDate": "2026-05-09T11:30:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 538135,
       "compCode": "PL",
       "compName": "Premier League",
@@ -542,18 +554,6 @@
       "status": "TIMED"
     },
     {
-      "id": 538140,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 538141,
       "compCode": "PL",
       "compName": "Premier League",
@@ -562,7 +562,7 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
+      "utcDate": "2026-05-09T16:30:00Z",
       "status": "TIMED"
     },
     {
@@ -574,19 +574,7 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538143,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
+      "utcDate": "2026-05-10T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -598,7 +586,19 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
+      "utcDate": "2026-05-10T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538143,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Tottenham Hotspur FC",
+      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
+      "awayTeam": "Leeds United FC",
+      "awayCrest": "logos/Leeds_United_FC.png",
+      "utcDate": "2026-05-11T19:00:00Z",
       "status": "TIMED"
     },
     {
