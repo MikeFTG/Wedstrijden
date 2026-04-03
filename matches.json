@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T18:04:08.508594+00:00",
+  "updated": "2026-04-03T20:00:24.051275+00:00",
   "matches": [
     {
       "id": 538104,
@@ -2558,18 +2558,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544509,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-04-03T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544510,
       "compCode": "PD",
       "compName": "La Liga",
@@ -3636,18 +3624,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542654,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-04-03T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542655,
