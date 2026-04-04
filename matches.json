@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T18:00:22.944356+00:00",
+  "updated": "2026-04-04T19:21:48.647714+00:00",
   "matches": [
     {
       "id": 538104,
@@ -1514,18 +1514,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537118,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 31,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "Parma Calcio 1913",
-      "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-04-04T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537123,
       "compCode": "SA",
       "compName": "Serie A",
@@ -2448,18 +2436,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544502,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-04-04T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544507,
@@ -3480,18 +3456,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542653,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-04-04T19:05:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542656,
