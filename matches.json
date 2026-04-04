@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T14:07:20.282885+00:00",
+  "updated": "2026-04-04T15:52:05.380313+00:00",
   "matches": [
     {
       "id": 538104,
@@ -2474,18 +2474,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544505,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "RCD Mallorca",
-      "homeCrest": "logos/RCD_Mallorca.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-04-04T14:15:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544503,
       "compCode": "PD",
       "compName": "La Liga",
@@ -3528,18 +3516,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542655,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "RC Strasbourg Alsace",
-      "homeCrest": "logos/RC_Strasbourg_Alsace.png",
-      "awayTeam": "OGC Nice",
-      "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-04-04T15:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542657,
