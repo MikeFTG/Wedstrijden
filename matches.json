@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T11:04:16.305449+00:00",
+  "updated": "2026-04-04T12:00:26.236394+00:00",
   "matches": [
     {
       "id": 538104,
@@ -2556,18 +2556,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544510,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-04-04T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544505,
