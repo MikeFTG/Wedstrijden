@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T16:00:24.967486+00:00",
+  "updated": "2026-04-04T17:06:26.163288+00:00",
   "matches": [
     {
       "id": 538104,
@@ -839,18 +839,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540650,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 28,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-04-04T16:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2462,18 +2450,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544503,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-04-04T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544502,
       "compCode": "PD",
       "compName": "La Liga",
@@ -3504,18 +3480,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542657,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-04-04T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542653,
