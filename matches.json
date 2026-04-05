@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T14:05:39.356258+00:00",
+  "updated": "2026-04-05T15:52:48.587827+00:00",
   "matches": [
     {
       "id": 538104,
@@ -839,18 +839,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540657,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 28,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-04-05T15:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2414,18 +2402,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544508,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-04-05T14:15:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544506,
       "compCode": "PD",
       "compName": "La Liga",
@@ -3420,42 +3396,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542649,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-04-05T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542651,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "Paris FC",
-      "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-04-05T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542652,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "FC Metz",
-      "homeCrest": "logos/FC_Metz.png",
-      "awayTeam": "FC Nantes",
-      "awayCrest": "logos/FC_Nantes.png",
-      "utcDate": "2026-04-05T15:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542650,
