@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T18:00:22.944885+00:00",
+  "updated": "2026-04-05T19:24:41.710235+00:00",
   "matches": [
     {
       "id": 538104,
@@ -1490,18 +1490,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537116,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 31,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "AS Roma",
-      "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-04-05T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537122,
       "compCode": "SA",
       "compName": "Serie A",
@@ -2388,18 +2376,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544501,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-04-05T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544504,
@@ -3372,18 +3348,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542650,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 28,
-      "homeTeam": "AS Monaco FC",
-      "homeCrest": "logos/AS_Monaco_FC.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-04-05T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542659,
