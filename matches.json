@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T15:52:48.587827+00:00",
+  "updated": "2026-04-05T16:00:24.759350+00:00",
   "matches": [
     {
       "id": 538104,
@@ -1487,18 +1487,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537119,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 31,
-      "homeTeam": "AC Pisa 1909",
-      "homeCrest": "logos/AC_Pisa_1909.png",
-      "awayTeam": "Torino FC",
-      "awayCrest": "logos/Torino_FC.png",
-      "utcDate": "2026-04-05T16:00:00Z",
       "status": "TIMED"
     },
     {
