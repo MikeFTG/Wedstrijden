@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T18:00:28.039122+00:00",
+  "updated": "2026-04-06T19:57:59.530576+00:00",
   "matches": [
     {
       "id": 538104,
@@ -1454,18 +1454,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537121,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 31,
-      "homeTeam": "SSC Napoli",
-      "homeCrest": "logos/SSC_Napoli.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-04-06T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537127,
       "compCode": "SA",
       "compName": "Serie A",
@@ -2304,18 +2292,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544504,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 30,
-      "homeTeam": "Girona FC",
-      "homeCrest": "logos/Girona_FC.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-04-06T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544520,
