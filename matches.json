@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T12:07:54.372729+00:00",
+  "updated": "2026-04-07T14:00:42.448281+00:00",
   "matches": [
     {
       "id": 538104,
@@ -239,6 +239,42 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-04-20T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538117,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "awayTeam": "Chelsea FC",
+      "awayCrest": "logos/Chelsea_FC.png",
+      "utcDate": "2026-04-21T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538115,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "AFC Bournemouth",
+      "homeCrest": "logos/AFC_Bournemouth.png",
+      "awayTeam": "Leeds United FC",
+      "awayCrest": "logos/Leeds_United_FC.png",
+      "utcDate": "2026-04-22T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538119,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 34,
+      "homeTeam": "Burnley FC",
+      "homeCrest": "logos/Burnley_FC.png",
+      "awayTeam": "Manchester City FC",
+      "awayCrest": "logos/Manchester_City_FC.png",
+      "utcDate": "2026-04-22T19:00:00Z",
       "status": "TIMED"
     },
     {
