@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T12:00:32.255775+00:00",
+  "updated": "2026-04-08T14:00:31.974669+00:00",
   "matches": [
     {
       "id": 538104,
@@ -3826,8 +3826,8 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-05-13T15:00:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 542665,
@@ -3838,8 +3838,8 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-05-13T15:00:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-05-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 542703,

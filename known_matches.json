@@ -1424,12 +1424,12 @@
     "datum": "2026-05-09T19:00:00Z"
   },
   "542664": {
-    "status": "TIMED",
-    "datum": "2026-05-13T15:00:00Z"
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
   },
   "542665": {
-    "status": "TIMED",
-    "datum": "2026-05-13T15:00:00Z"
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
   },
   "542703": {
     "status": "TIMED",
