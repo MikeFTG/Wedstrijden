@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-10T18:00:31.524439+00:00",
+  "updated": "2026-04-10T19:58:19.741756+00:00",
   "matches": [
-    {
-      "id": 538104,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 32,
-      "homeTeam": "West Ham United FC",
-      "homeCrest": "logos/West_Ham_United_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-04-10T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538097,
       "compCode": "PL",
@@ -842,18 +830,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540665,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 29,
-      "homeTeam": "FC Augsburg",
-      "homeCrest": "logos/FC_Augsburg.png",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-04-10T18:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540659,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -1487,18 +1463,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537127,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 32,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "AC Pisa 1909",
-      "awayCrest": "logos/AC_Pisa_1909.png",
-      "utcDate": "2026-04-10T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -2328,18 +2292,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544520,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Girona FC",
-      "awayCrest": "logos/Girona_FC.png",
-      "utcDate": "2026-04-10T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544516,
@@ -3288,18 +3240,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542663,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 29,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "FC Metz",
-      "awayCrest": "logos/FC_Metz.png",
-      "utcDate": "2026-04-10T19:05:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542658,
