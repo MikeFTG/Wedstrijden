@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T16:00:31.210715+00:00",
+  "updated": "2026-04-10T17:37:06.921793+00:00",
   "matches": [
     {
       "id": 538104,
@@ -3288,18 +3288,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542659,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 29,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-04-10T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542663,
