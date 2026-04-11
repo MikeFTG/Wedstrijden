@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T11:49:10.229261+00:00",
+  "updated": "2026-04-11T12:00:27.226270+00:00",
   "matches": [
     {
       "id": 538098,
@@ -2280,18 +2280,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544516,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-04-11T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544514,
