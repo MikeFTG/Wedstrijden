@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-11T10:02:04.648417+00:00",
+  "updated": "2026-04-11T11:49:10.229261+00:00",
   "matches": [
-    {
-      "id": 538097,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 32,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-04-11T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538098,
       "compCode": "PL",
