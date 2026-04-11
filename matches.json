@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T14:05:54.843896+00:00",
+  "updated": "2026-04-11T15:54:03.433045+00:00",
   "matches": [
     {
       "id": 538101,
@@ -2184,18 +2184,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544514,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-04-11T14:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544512,
