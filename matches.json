@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T10:00:28.468514+00:00",
+  "updated": "2026-04-12T11:21:55.120552+00:00",
   "matches": [
     {
       "id": 538095,
@@ -1355,18 +1355,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537130,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 32,
-      "homeTeam": "Genoa CFC",
-      "homeCrest": "logos/Genoa_CFC.png",
-      "awayTeam": "US Sassuolo Calcio",
-      "awayCrest": "logos/US_Sassuolo_Calcio.png",
-      "utcDate": "2026-04-12T10:30:00Z",
       "status": "TIMED"
     },
     {
