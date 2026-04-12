@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T16:03:02.439230+00:00",
+  "updated": "2026-04-12T18:00:32.058760+00:00",
   "matches": [
     {
       "id": 538102,
@@ -731,18 +731,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540661,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 29,
-      "homeTeam": "1. FSV Mainz 05",
-      "homeCrest": "logos/1__FSV_Mainz_05.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-04-12T17:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2028,18 +2016,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544513,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Real Oviedo",
-      "awayCrest": "logos/Real_Oviedo.png",
-      "utcDate": "2026-04-12T16:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544511,
