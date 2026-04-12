@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T18:04:34.734164+00:00",
+  "updated": "2026-04-12T20:00:29.143486+00:00",
   "matches": [
     {
       "id": 538102,
@@ -1274,18 +1274,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537131,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 32,
-      "homeTeam": "Como 1907",
-      "homeCrest": "logos/Como_1907.png",
-      "awayTeam": "FC Internazionale Milano",
-      "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-04-12T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537125,
       "compCode": "SA",
       "compName": "Serie A",
@@ -2016,18 +2004,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544511,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-04-12T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544519,
@@ -2880,18 +2856,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542662,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 29,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "FC Lorient",
-      "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-04-12T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542674,
