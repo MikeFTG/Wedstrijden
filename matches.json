@@ -1,42 +1,6 @@
 {
-  "updated": "2026-04-12T12:00:28.139071+00:00",
+  "updated": "2026-04-12T14:00:26.749961+00:00",
   "matches": [
-    {
-      "id": 538095,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 32,
-      "homeTeam": "Sunderland AFC",
-      "homeCrest": "logos/Sunderland_AFC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-04-12T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538096,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 32,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-04-12T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538103,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 32,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-04-12T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538100,
       "compCode": "PL",
@@ -782,18 +746,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540662,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 29,
-      "homeTeam": "1. FC K\u00f6ln",
-      "homeCrest": "logos/1__FC_K\u00f6ln.png",
-      "awayTeam": "SV Werder Bremen",
-      "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-04-12T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540666,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -1355,18 +1307,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537134,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 32,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "SSC Napoli",
-      "awayCrest": "logos/SSC_Napoli.png",
-      "utcDate": "2026-04-12T13:00:00Z",
       "status": "TIMED"
     },
     {
