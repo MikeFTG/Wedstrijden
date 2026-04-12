@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T11:21:55.120552+00:00",
+  "updated": "2026-04-12T12:00:28.139071+00:00",
   "matches": [
     {
       "id": 538095,
@@ -2124,18 +2124,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544518,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-04-12T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544515,
