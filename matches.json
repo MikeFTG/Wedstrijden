@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-13T18:00:50.092617+00:00",
+  "updated": "2026-04-13T20:00:31.710003+00:00",
   "matches": [
-    {
-      "id": 538102,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 32,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-04-13T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538107,
       "compCode": "PL",
@@ -1274,18 +1262,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537125,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 32,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "SS Lazio",
-      "awayCrest": "logos/SS_Lazio.png",
-      "utcDate": "2026-04-13T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537140,
       "compCode": "SA",
       "compName": "Serie A",
@@ -2004,18 +1980,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544519,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 31,
-      "homeTeam": "Levante UD",
-      "homeCrest": "logos/Levante_UD.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-04-13T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544531,
