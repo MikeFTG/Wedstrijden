@@ -1428,8 +1428,8 @@
     "datum": "2026-05-13T00:00:00Z"
   },
   "542665": {
-    "status": "TIMED",
-    "datum": "2026-05-13T18:00:00Z"
+    "status": "SCHEDULED",
+    "datum": "2026-05-13T00:00:00Z"
   },
   "542703": {
     "status": "TIMED",
