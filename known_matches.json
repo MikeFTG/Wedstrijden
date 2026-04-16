@@ -1024,8 +1024,8 @@
     "datum": "2026-05-03T12:00:00Z"
   },
   "544544": {
-    "status": "SCHEDULED",
-    "datum": "2026-05-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-05-03T19:00:00Z"
   },
   "544545": {
     "status": "TIMED",
@@ -1036,12 +1036,12 @@
     "datum": "2026-05-01T19:00:00Z"
   },
   "544547": {
-    "status": "SCHEDULED",
-    "datum": "2026-05-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-05-02T14:15:00Z"
   },
   "544548": {
-    "status": "SCHEDULED",
-    "datum": "2026-05-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-05-02T19:00:00Z"
   },
   "544549": {
     "status": "TIMED",

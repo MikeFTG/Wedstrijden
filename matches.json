@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T12:00:31.431638+00:00",
+  "updated": "2026-04-16T14:00:33.647668+00:00",
   "matches": [
     {
       "id": 538107,
@@ -2246,6 +2246,18 @@
       "status": "TIMED"
     },
     {
+      "id": 544547,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "Valencia CF",
+      "homeCrest": "logos/Valencia_CF.png",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
+      "utcDate": "2026-05-02T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 544541,
       "compCode": "PD",
       "compName": "La Liga",
@@ -2258,30 +2270,6 @@
       "status": "TIMED"
     },
     {
-      "id": 544544,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 544547,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 544548,
       "compCode": "PD",
       "compName": "La Liga",
@@ -2290,8 +2278,8 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-02T19:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 544543,
@@ -2327,6 +2315,18 @@
       "awayTeam": "Real Oviedo",
       "awayCrest": "logos/Real_Oviedo.png",
       "utcDate": "2026-05-03T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544544,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 34,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
+      "awayTeam": "Real Madrid CF",
+      "awayCrest": "logos/Real_Madrid_CF.png",
+      "utcDate": "2026-05-03T19:00:00Z",
       "status": "TIMED"
     },
     {
