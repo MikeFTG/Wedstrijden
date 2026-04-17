@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T18:00:30.518504+00:00",
+  "updated": "2026-04-17T20:00:31.092610+00:00",
   "matches": [
     {
       "id": 538107,
@@ -722,18 +722,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540673,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "FC St. Pauli 1910",
-      "homeCrest": "logos/FC_St__Pauli_1910.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-04-17T18:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540674,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -1259,18 +1247,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537137,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 33,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "Cagliari Calcio",
-      "awayCrest": "logos/Cagliari_Calcio.png",
-      "utcDate": "2026-04-17T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -2808,18 +2784,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542674,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 30,
-      "homeTeam": "Racing Club de Lens",
-      "homeCrest": "logos/Racing_Club_de_Lens.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-04-17T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542668,
