@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T12:00:30.282283+00:00",
+  "updated": "2026-04-17T14:00:35.988794+00:00",
   "matches": [
     {
       "id": 538107,
@@ -254,18 +254,6 @@
       "status": "TIMED"
     },
     {
-      "id": 538126,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-05-02T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 538125,
       "compCode": "PL",
       "compName": "Premier League",
@@ -335,6 +323,18 @@
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
       "utcDate": "2026-05-03T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538126,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "Aston Villa FC",
+      "homeCrest": "logos/Aston_Villa_FC.png",
+      "awayTeam": "Tottenham Hotspur FC",
+      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
+      "utcDate": "2026-05-03T18:00:00Z",
       "status": "TIMED"
     },
     {
