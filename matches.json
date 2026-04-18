@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-18T18:05:44.334310+00:00",
+  "updated": "2026-04-18T20:00:26.473232+00:00",
   "matches": [
-    {
-      "id": 538108,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Chelsea FC",
-      "homeCrest": "logos/Chelsea_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-04-18T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538113,
       "compCode": "PL",
@@ -1139,18 +1127,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537135,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 33,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "Atalanta BC",
-      "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-04-18T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -2652,18 +2628,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542671,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 30,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "OGC Nice",
-      "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-04-18T19:05:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542667,
