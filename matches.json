@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-18T10:27:20.406146+00:00",
+  "updated": "2026-04-18T11:59:01.987947+00:00",
   "matches": [
-    {
-      "id": 538107,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-04-18T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538112,
       "compCode": "PL",
