@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-18T16:04:48.709487+00:00",
+  "updated": "2026-04-18T18:00:29.769614+00:00",
   "matches": [
-    {
-      "id": 538114,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-04-18T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538108,
       "compCode": "PL",
@@ -683,18 +671,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540669,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "RB Leipzig",
-      "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-04-18T16:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2676,18 +2652,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542675,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 30,
-      "homeTeam": "Angers SCO",
-      "homeCrest": "logos/Angers_SCO.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-04-18T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542671,
