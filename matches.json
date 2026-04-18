@@ -1,30 +1,6 @@
 {
-  "updated": "2026-04-18T12:00:27.637305+00:00",
+  "updated": "2026-04-18T14:00:28.950551+00:00",
   "matches": [
-    {
-      "id": 538112,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-04-18T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538110,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-04-18T14:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538114,
       "compCode": "PL",
@@ -710,54 +686,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540674,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-04-18T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540675,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "Bayer 04 Leverkusen",
-      "homeCrest": "logos/Bayer_04_Leverkusen.png",
-      "awayTeam": "FC Augsburg",
-      "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-04-18T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540667,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-04-18T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540671,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "1. FC Union Berlin",
-      "homeCrest": "logos/1__FC_Union_Berlin.png",
-      "awayTeam": "VfL Wolfsburg",
-      "awayCrest": "logos/VfL_Wolfsburg.png",
-      "utcDate": "2026-04-18T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540669,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -1235,18 +1163,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537142,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 33,
-      "homeTeam": "Udinese Calcio",
-      "homeCrest": "logos/Udinese_Calcio.png",
-      "awayTeam": "Parma Calcio 1913",
-      "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-04-18T13:00:00Z",
       "status": "TIMED"
     },
     {
