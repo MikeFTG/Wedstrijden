@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T02:00:28.576135+00:00",
+  "updated": "2026-04-18T04:00:29.727506+00:00",
   "matches": [
     {
       "id": 538107,
@@ -1502,18 +1502,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537155,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 537156,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1522,6 +1510,18 @@
       "homeCrest": "logos/Atalanta_BC.png",
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-05-02T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537155,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
       "utcDate": "2026-05-03T00:00:00Z",
       "status": "SCHEDULED"
     },

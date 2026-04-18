@@ -696,8 +696,8 @@
     "datum": "2026-05-03T00:00:00Z"
   },
   "537156": {
-    "status": "SCHEDULED",
-    "datum": "2026-05-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-05-02T18:45:00Z"
   },
   "537157": {
     "status": "TIMED",
