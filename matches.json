@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T22:24:00.145600+00:00",
+  "updated": "2026-04-18T00:00:30.197427+00:00",
   "matches": [
     {
       "id": 538107,
@@ -1466,6 +1466,42 @@
       "status": "TIMED"
     },
     {
+      "id": 537161,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "AC Pisa 1909",
+      "homeCrest": "logos/AC_Pisa_1909.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-05-01T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537163,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-05-02T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537157,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-05-02T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 537155,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1486,18 +1522,6 @@
       "homeCrest": "logos/Atalanta_BC.png",
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 537157,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "Como 1907",
-      "homeCrest": "logos/Como_1907.png",
-      "awayTeam": "SSC Napoli",
-      "awayCrest": "logos/SSC_Napoli.png",
       "utcDate": "2026-05-03T00:00:00Z",
       "status": "SCHEDULED"
     },
@@ -1538,18 +1562,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 537161,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "AC Pisa 1909",
-      "homeCrest": "logos/AC_Pisa_1909.png",
-      "awayTeam": "US Lecce",
-      "awayCrest": "logos/US_Lecce.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 537162,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1558,18 +1570,6 @@
       "homeCrest": "logos/US_Sassuolo_Calcio.png",
       "awayTeam": "AC Milan",
       "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 537163,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "Udinese Calcio",
-      "homeCrest": "logos/Udinese_Calcio.png",
-      "awayTeam": "Torino FC",
-      "awayCrest": "logos/Torino_FC.png",
       "utcDate": "2026-05-03T00:00:00Z",
       "status": "SCHEDULED"
     },
