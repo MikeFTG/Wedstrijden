@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T22:00:29.568591+00:00",
+  "updated": "2026-04-19T00:00:31.758031+00:00",
   "matches": [
     {
       "id": 538113,
@@ -194,18 +194,6 @@
       "status": "TIMED"
     },
     {
-      "id": 538125,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-05-02T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 538128,
       "compCode": "PL",
       "compName": "Premier League",
@@ -251,6 +239,18 @@
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
       "utcDate": "2026-05-02T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538125,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 35,
+      "homeTeam": "AFC Bournemouth",
+      "homeCrest": "logos/AFC_Bournemouth.png",
+      "awayTeam": "Crystal Palace FC",
+      "awayCrest": "logos/Crystal_Palace_FC.png",
+      "utcDate": "2026-05-03T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -338,30 +338,6 @@
       "status": "TIMED"
     },
     {
-      "id": 538137,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538138,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Burnley FC",
-      "homeCrest": "logos/Burnley_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-05-09T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 538139,
       "compCode": "PL",
       "compName": "Premier League",
@@ -383,6 +359,30 @@
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
       "utcDate": "2026-05-09T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538137,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Crystal Palace FC",
+      "homeCrest": "logos/Crystal_Palace_FC.png",
+      "awayTeam": "Everton FC",
+      "awayCrest": "logos/Everton_FC.png",
+      "utcDate": "2026-05-10T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 538138,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 36,
+      "homeTeam": "Burnley FC",
+      "homeCrest": "logos/Burnley_FC.png",
+      "awayTeam": "Aston Villa FC",
+      "awayCrest": "logos/Aston_Villa_FC.png",
+      "utcDate": "2026-05-10T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -1358,18 +1358,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537155,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 537158,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1378,32 +1366,8 @@
       "homeCrest": "logos/Bologna_FC_1909.png",
       "awayTeam": "Cagliari Calcio",
       "awayCrest": "logos/Cagliari_Calcio.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 537159,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "Parma Calcio 1913",
-      "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 537160,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "Juventus FC",
-      "homeCrest": "logos/Juventus_FC.png",
-      "awayTeam": "Hellas Verona FC",
-      "awayCrest": "logos/Hellas_Verona_FC.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-03T10:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537162,
@@ -1414,8 +1378,32 @@
       "homeCrest": "logos/US_Sassuolo_Calcio.png",
       "awayTeam": "AC Milan",
       "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-03T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537160,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Hellas Verona FC",
+      "awayCrest": "logos/Hellas_Verona_FC.png",
+      "utcDate": "2026-05-03T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537159,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-05-03T18:45:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537164,
@@ -1426,8 +1414,20 @@
       "homeCrest": "logos/US_Cremonese.png",
       "awayTeam": "SS Lazio",
       "awayCrest": "logos/SS_Lazio.png",
-      "utcDate": "2026-05-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-04T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537155,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-05-04T18:45:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537165,
