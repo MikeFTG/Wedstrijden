@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T16:05:24.803581+00:00",
+  "updated": "2026-04-19T18:00:28.376152+00:00",
   "matches": [
     {
       "id": 538106,
@@ -611,18 +611,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540668,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "Borussia M\u00f6nchengladbach",
-      "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "awayTeam": "1. FSV Mainz 05",
-      "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-04-19T17:30:00Z",
       "status": "TIMED"
     },
     {
