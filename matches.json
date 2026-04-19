@@ -1,42 +1,6 @@
 {
-  "updated": "2026-04-19T12:00:27.464457+00:00",
+  "updated": "2026-04-19T14:00:28.364211+00:00",
   "matches": [
-    {
-      "id": 538113,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Burnley FC",
-      "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2026-04-19T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538105,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-04-19T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538109,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 33,
-      "homeTeam": "Everton FC",
-      "homeCrest": "logos/Everton_FC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-04-19T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538111,
       "compCode": "PL",
@@ -662,18 +626,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540672,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 30,
-      "homeTeam": "SC Freiburg",
-      "homeCrest": "logos/SC_Freiburg.png",
-      "awayTeam": "1. FC Heidenheim 1846",
-      "awayCrest": "logos/1__FC_Heidenheim_1846.png",
-      "utcDate": "2026-04-19T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540670,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -1127,18 +1079,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537136,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 33,
-      "homeTeam": "Hellas Verona FC",
-      "homeCrest": "logos/Hellas_Verona_FC.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-04-19T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -2616,18 +2556,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542667,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 30,
-      "homeTeam": "AS Monaco FC",
-      "homeCrest": "logos/AS_Monaco_FC.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-04-19T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542669,
