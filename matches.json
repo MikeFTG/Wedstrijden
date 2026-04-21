@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-21T18:00:32.364752+00:00",
+  "updated": "2026-04-21T19:53:59.795882+00:00",
   "matches": [
-    {
-      "id": 538117,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "Brighton & Hove Albion FC",
-      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-04-21T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538115,
       "compCode": "PL",
@@ -1632,30 +1620,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544536,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-04-21T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544538,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Girona FC",
-      "homeCrest": "logos/Girona_FC.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-04-21T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544537,
