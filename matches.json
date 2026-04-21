@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T16:00:33.226233+00:00",
+  "updated": "2026-04-21T18:00:32.364752+00:00",
   "matches": [
     {
       "id": 538117,
@@ -1632,30 +1632,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544531,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-04-21T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544534,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "RCD Mallorca",
-      "homeCrest": "logos/RCD_Mallorca.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-04-21T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544536,
