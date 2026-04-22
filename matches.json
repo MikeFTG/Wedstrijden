@@ -1,30 +1,6 @@
 {
-  "updated": "2026-04-22T18:00:31.739631+00:00",
+  "updated": "2026-04-22T19:55:31.573148+00:00",
   "matches": [
-    {
-      "id": 538115,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-04-22T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538119,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "Burnley FC",
-      "homeCrest": "logos/Burnley_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-04-22T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538116,
       "compCode": "PL",
@@ -1620,18 +1596,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544532,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-04-22T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544533,
