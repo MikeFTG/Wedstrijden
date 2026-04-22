@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T16:00:33.013663+00:00",
+  "updated": "2026-04-22T18:00:31.739631+00:00",
   "matches": [
     {
       "id": 538115,
@@ -1622,30 +1622,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544537,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-04-22T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544540,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-04-22T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544532,
       "compCode": "PD",
       "compName": "La Liga",
@@ -2412,18 +2388,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542636,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 26,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "FC Nantes",
-      "awayCrest": "logos/FC_Nantes.png",
-      "utcDate": "2026-04-22T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542683,
