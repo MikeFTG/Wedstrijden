@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T16:00:31.345795+00:00",
+  "updated": "2026-04-23T17:13:13.959589+00:00",
   "matches": [
     {
       "id": 538116,
@@ -1596,18 +1596,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544533,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Levante UD",
-      "homeCrest": "logos/Levante_UD.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-04-23T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544539,
