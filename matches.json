@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T17:13:13.959589+00:00",
+  "updated": "2026-04-23T18:00:34.169487+00:00",
   "matches": [
     {
       "id": 538116,
@@ -1596,18 +1596,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544539,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-04-23T18:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544535,
