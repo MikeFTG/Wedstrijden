@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:40:43.801720+00:00",
+  "updated": "2026-04-23T20:00:31.532123+00:00",
   "matches": [
     {
       "id": 538116,
@@ -1596,18 +1596,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544535,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 33,
-      "homeTeam": "Real Oviedo",
-      "homeCrest": "logos/Real_Oviedo.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-04-23T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544522,
