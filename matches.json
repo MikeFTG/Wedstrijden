@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-24T18:05:21.089880+00:00",
+  "updated": "2026-04-24T19:26:01.077652+00:00",
   "matches": [
-    {
-      "id": 538116,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "Sunderland AFC",
-      "homeCrest": "logos/Sunderland_AFC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-04-24T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538120,
       "compCode": "PL",
@@ -566,18 +554,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540682,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 31,
-      "homeTeam": "RB Leipzig",
-      "homeCrest": "logos/RB_Leipzig.png",
-      "awayTeam": "1. FC Union Berlin",
-      "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-04-24T18:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540676,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -995,18 +971,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537154,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "SSC Napoli",
-      "homeCrest": "logos/SSC_Napoli.png",
-      "awayTeam": "US Cremonese",
-      "awayCrest": "logos/US_Cremonese.png",
-      "utcDate": "2026-04-24T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -1596,18 +1560,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544522,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-04-24T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544521,
@@ -2316,18 +2268,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542683,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-04-24T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542680,
