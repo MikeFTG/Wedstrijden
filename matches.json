@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-25T16:01:49.011699+00:00",
+  "updated": "2026-04-25T17:06:14.184564+00:00",
   "matches": [
-    {
-      "id": 538118,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-04-25T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538122,
       "compCode": "PL",
@@ -503,18 +491,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540684,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 31,
-      "homeTeam": "Hamburger SV",
-      "homeCrest": "logos/Hamburger_SV.png",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-04-25T16:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1430,18 +1406,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544530,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Girona FC",
-      "awayCrest": "logos/Girona_FC.png",
-      "utcDate": "2026-04-25T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544526,
       "compCode": "PD",
       "compName": "La Liga",
@@ -2112,18 +2076,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542682,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Angers SCO",
-      "homeCrest": "logos/Angers_SCO.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-04-25T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542679,
