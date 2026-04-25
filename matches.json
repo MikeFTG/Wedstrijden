@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T11:58:57.510275+00:00",
+  "updated": "2026-04-25T12:00:28.242038+00:00",
   "matches": [
     {
       "id": 538121,
@@ -1548,18 +1548,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544521,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "RCD Mallorca",
-      "awayCrest": "logos/RCD_Mallorca.png",
-      "utcDate": "2026-04-25T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544527,
