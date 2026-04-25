@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T18:01:53.110490+00:00",
+  "updated": "2026-04-25T19:23:43.538443+00:00",
   "matches": [
     {
       "id": 538122,
@@ -842,18 +842,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537151,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "Hellas Verona FC",
-      "homeCrest": "logos/Hellas_Verona_FC.png",
-      "awayTeam": "US Lecce",
-      "awayCrest": "logos/US_Lecce.png",
-      "utcDate": "2026-04-25T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537145,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1404,18 +1392,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544526,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-04-25T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544525,
@@ -2076,18 +2052,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542679,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Toulouse FC",
-      "homeCrest": "logos/Toulouse_FC.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-04-25T19:05:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542677,
