@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T14:11:37.320362+00:00",
+  "updated": "2026-04-25T15:05:50.047164+00:00",
   "matches": [
     {
       "id": 538118,
@@ -1440,18 +1440,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544527,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-04-25T14:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544530,
