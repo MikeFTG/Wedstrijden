@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-25T11:09:38.113328+00:00",
+  "updated": "2026-04-25T11:58:57.510275+00:00",
   "matches": [
-    {
-      "id": 538120,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "Fulham FC",
-      "homeCrest": "logos/Fulham_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-04-25T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538121,
       "compCode": "PL",
