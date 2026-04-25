@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T12:00:28.242038+00:00",
+  "updated": "2026-04-25T13:12:53.281367+00:00",
   "matches": [
     {
       "id": 538121,
@@ -959,18 +959,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537153,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "AC Pisa 1909",
-      "awayCrest": "logos/AC_Pisa_1909.png",
-      "utcDate": "2026-04-25T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -2244,18 +2232,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542680,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-04-25T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542682,
