@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T14:38:07.812283+00:00",
+  "updated": "2026-04-26T15:36:25.324441+00:00",
   "matches": [
     {
       "id": 538122,
@@ -491,18 +491,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540679,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 31,
-      "homeTeam": "Borussia Dortmund",
-      "homeCrest": "logos/Borussia_Dortmund.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-04-26T15:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1992,42 +1980,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542676,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "FC Metz",
-      "awayCrest": "logos/FC_Metz.png",
-      "utcDate": "2026-04-26T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542678,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Lille OSC",
-      "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-04-26T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542684,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "Stade Rennais FC 1901",
-      "homeCrest": "logos/Stade_Rennais_FC_1901.png",
-      "awayTeam": "FC Nantes",
-      "awayCrest": "logos/FC_Nantes.png",
-      "utcDate": "2026-04-26T15:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542681,
