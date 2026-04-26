@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T10:11:21.077574+00:00",
+  "updated": "2026-04-26T11:09:07.462931+00:00",
   "matches": [
     {
       "id": 538122,
@@ -839,18 +839,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537145,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "US Sassuolo Calcio",
-      "awayCrest": "logos/US_Sassuolo_Calcio.png",
-      "utcDate": "2026-04-26T10:30:00Z",
       "status": "TIMED"
     },
     {
