@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T16:00:40.466818+00:00",
+  "updated": "2026-04-26T16:34:49.599491+00:00",
   "matches": [
     {
       "id": 538122,
@@ -1332,18 +1332,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544524,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-04-26T16:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544528,
