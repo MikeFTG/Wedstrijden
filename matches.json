@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T12:01:01.549009+00:00",
+  "updated": "2026-04-26T13:44:51.132403+00:00",
   "matches": [
     {
       "id": 538122,
@@ -494,18 +494,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540680,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 31,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "SV Werder Bremen",
-      "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-04-26T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540679,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -839,18 +827,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537148,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "Genoa CFC",
-      "homeCrest": "logos/Genoa_CFC.png",
-      "awayTeam": "Como 1907",
-      "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-04-26T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -2028,18 +2004,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542677,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 31,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "RC Strasbourg Alsace",
-      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-04-26T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542676,
