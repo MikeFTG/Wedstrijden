@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T14:00:28.047556+00:00",
+  "updated": "2026-04-26T14:38:07.812283+00:00",
   "matches": [
     {
       "id": 538122,
@@ -1356,18 +1356,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544529,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "Real Oviedo",
-      "homeCrest": "logos/Real_Oviedo.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-04-26T14:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544524,
