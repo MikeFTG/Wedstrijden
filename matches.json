@@ -1,18 +1,6 @@
 {
-  "updated": "2026-04-27T18:00:32.513318+00:00",
+  "updated": "2026-04-27T19:07:33.370273+00:00",
   "matches": [
-    {
-      "id": 538122,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 34,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Brentford FC",
-      "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-04-27T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538131,
       "compCode": "PL",
@@ -794,18 +782,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537152,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "Udinese Calcio",
-      "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-04-27T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537161,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1284,18 +1260,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544523,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 32,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-04-27T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544546,
