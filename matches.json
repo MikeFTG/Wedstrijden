@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T16:21:44.166126+00:00",
+  "updated": "2026-04-27T17:47:23.651224+00:00",
   "matches": [
     {
       "id": 538122,
@@ -791,18 +791,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537147,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 34,
-      "homeTeam": "Cagliari Calcio",
-      "homeCrest": "logos/Cagliari_Calcio.png",
-      "awayTeam": "Atalanta BC",
-      "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-04-27T16:30:00Z",
       "status": "TIMED"
     },
     {
