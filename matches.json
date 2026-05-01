@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-01T18:00:32.799854+00:00",
+  "updated": "2026-05-01T19:01:26.538996+00:00",
   "matches": [
-    {
-      "id": 538131,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Burnley FC",
-      "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2026-05-01T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538128,
       "compCode": "PL",
@@ -818,18 +806,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537161,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "AC Pisa 1909",
-      "homeCrest": "logos/AC_Pisa_1909.png",
-      "awayTeam": "US Lecce",
-      "awayCrest": "logos/US_Lecce.png",
-      "utcDate": "2026-05-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537163,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1296,18 +1272,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544546,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Girona FC",
-      "homeCrest": "logos/Girona_FC.png",
-      "awayTeam": "RCD Mallorca",
-      "awayCrest": "logos/RCD_Mallorca.png",
-      "utcDate": "2026-05-01T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544549,
