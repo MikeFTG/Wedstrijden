@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T15:10:08.536032+00:00",
+  "updated": "2026-05-02T16:06:43.368208+00:00",
   "matches": [
     {
       "id": 538127,
@@ -707,18 +707,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537157,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "Como 1907",
-      "homeCrest": "logos/Como_1907.png",
-      "awayTeam": "SSC Napoli",
-      "awayCrest": "logos/SSC_Napoli.png",
-      "utcDate": "2026-05-02T16:00:00Z",
       "status": "TIMED"
     },
     {
