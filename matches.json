@@ -1,42 +1,6 @@
 {
-  "updated": "2026-05-02T12:53:46.698663+00:00",
+  "updated": "2026-05-02T14:07:44.206048+00:00",
   "matches": [
-    {
-      "id": 538128,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "West Ham United FC",
-      "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2026-05-02T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538133,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-05-02T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538134,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-05-02T14:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538127,
       "compCode": "PL",
@@ -482,66 +446,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540688,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "VfB Stuttgart",
-      "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-05-02T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540690,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "FC Augsburg",
-      "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-05-02T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540691,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "FC Bayern M\u00fcnchen",
-      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "awayTeam": "1. FC Heidenheim 1846",
-      "awayCrest": "logos/1__FC_Heidenheim_1846.png",
-      "utcDate": "2026-05-02T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540692,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "1. FC Union Berlin",
-      "homeCrest": "logos/1__FC_Union_Berlin.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-05-02T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540693,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-05-02T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540687,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -803,18 +707,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537163,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "Udinese Calcio",
-      "homeCrest": "logos/Udinese_Calcio.png",
-      "awayTeam": "Torino FC",
-      "awayCrest": "logos/Torino_FC.png",
-      "utcDate": "2026-05-02T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -1848,18 +1740,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542687,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "FC Nantes",
-      "homeCrest": "logos/FC_Nantes.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-05-02T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542692,
