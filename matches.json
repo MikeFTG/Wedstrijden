@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T14:07:44.206048+00:00",
+  "updated": "2026-05-02T15:10:08.536032+00:00",
   "matches": [
     {
       "id": 538127,
@@ -1166,18 +1166,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544547,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-05-02T14:15:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544541,
       "compCode": "PD",
       "compName": "La Liga",
@@ -1740,18 +1728,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542692,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "FC Lorient",
-      "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-05-02T15:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542686,
