@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T11:39:05.679827+00:00",
+  "updated": "2026-05-02T12:53:46.698663+00:00",
   "matches": [
     {
       "id": 538128,
@@ -1272,18 +1272,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544549,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Villarreal CF",
-      "homeCrest": "logos/Villarreal_CF.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-05-02T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544547,
