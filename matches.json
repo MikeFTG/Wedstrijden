@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-02T16:06:43.368208+00:00",
+  "updated": "2026-05-02T17:11:54.099285+00:00",
   "matches": [
-    {
-      "id": 538127,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-05-02T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538125,
       "compCode": "PL",
@@ -443,18 +431,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540687,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "Bayer 04 Leverkusen",
-      "homeCrest": "logos/Bayer_04_Leverkusen.png",
-      "awayTeam": "RB Leipzig",
-      "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-05-02T16:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1154,18 +1130,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 544541,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-05-02T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544548,
       "compCode": "PD",
       "compName": "La Liga",
@@ -1716,18 +1680,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542686,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "FC Metz",
-      "homeCrest": "logos/FC_Metz.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-05-02T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542689,
