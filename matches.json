@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T14:42:53.689013+00:00",
+  "updated": "2026-05-03T15:40:04.312164+00:00",
   "matches": [
     {
       "id": 538126,
@@ -407,18 +407,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540685,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "Borussia M\u00f6nchengladbach",
-      "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-05-03T15:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1572,42 +1560,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542685,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "AJ Auxerre",
-      "homeCrest": "logos/AJ_Auxerre.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-05-03T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542688,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Stade Brestois 29",
-      "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-05-03T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542693,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "RC Strasbourg Alsace",
-      "homeCrest": "logos/RC_Strasbourg_Alsace.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-05-03T15:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542690,
