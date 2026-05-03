@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T18:49:02.098671+00:00",
+  "updated": "2026-05-03T19:50:02.931904+00:00",
   "matches": [
     {
       "id": 538129,
@@ -996,18 +996,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544544,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-05-03T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544550,
