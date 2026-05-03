@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-03T13:53:02.862398+00:00",
+  "updated": "2026-05-03T14:42:53.689013+00:00",
   "matches": [
-    {
-      "id": 538132,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-05-03T14:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538126,
       "compCode": "PL",
@@ -1068,18 +1056,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544545,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-05-03T14:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544542,
