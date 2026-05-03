@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T16:40:49.369294+00:00",
+  "updated": "2026-05-03T17:40:37.117363+00:00",
   "matches": [
     {
       "id": 538126,
@@ -407,18 +407,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540689,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "SC Freiburg",
-      "homeCrest": "logos/SC_Freiburg.png",
-      "awayTeam": "VfL Wolfsburg",
-      "awayCrest": "logos/VfL_Wolfsburg.png",
-      "utcDate": "2026-05-03T17:30:00Z",
       "status": "TIMED"
     },
     {
