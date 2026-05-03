@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-03T12:03:40.491857+00:00",
+  "updated": "2026-05-03T13:53:02.862398+00:00",
   "matches": [
-    {
-      "id": 538125,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-05-03T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538132,
       "compCode": "PL",
@@ -434,18 +422,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540686,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 32,
-      "homeTeam": "FC St. Pauli 1910",
-      "homeCrest": "logos/FC_St__Pauli_1910.png",
-      "awayTeam": "1. FSV Mainz 05",
-      "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-05-03T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540685,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -683,18 +659,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537162,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "US Sassuolo Calcio",
-      "homeCrest": "logos/US_Sassuolo_Calcio.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-05-03T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -1632,18 +1596,6 @@
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542691,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 32,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-05-03T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542685,
