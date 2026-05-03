@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T15:40:04.312164+00:00",
+  "updated": "2026-05-03T16:40:49.369294+00:00",
   "matches": [
     {
       "id": 538126,
@@ -638,18 +638,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537160,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "Juventus FC",
-      "homeCrest": "logos/Juventus_FC.png",
-      "awayTeam": "Hellas Verona FC",
-      "awayCrest": "logos/Hellas_Verona_FC.png",
-      "utcDate": "2026-05-03T16:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537159,
       "compCode": "SA",
       "compName": "Serie A",
@@ -1044,18 +1032,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544542,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Real Oviedo",
-      "awayCrest": "logos/Real_Oviedo.png",
-      "utcDate": "2026-05-03T16:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544544,
