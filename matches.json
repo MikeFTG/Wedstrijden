@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T11:12:33.712318+00:00",
+  "updated": "2026-05-03T12:03:40.491857+00:00",
   "matches": [
     {
       "id": 538125,
@@ -1104,18 +1104,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544543,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-05-03T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544545,
