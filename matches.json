@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-04T18:00:20.738809+00:00",
+  "updated": "2026-05-04T19:59:49.048473+00:00",
   "matches": [
-    {
-      "id": 538130,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Everton FC",
-      "homeCrest": "logos/Everton_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-05-04T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538140,
       "compCode": "PL",
@@ -602,18 +590,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537155,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-05-04T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537168,
       "compCode": "SA",
       "compName": "Serie A",
@@ -972,18 +948,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544550,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 34,
-      "homeTeam": "Sevilla FC",
-      "homeCrest": "logos/Sevilla_FC.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-05-04T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544554,
