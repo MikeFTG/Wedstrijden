@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-04T12:10:42.159819+00:00",
+  "updated": "2026-05-04T14:37:00.354439+00:00",
   "matches": [
-    {
-      "id": 538129,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 35,
-      "homeTeam": "Chelsea FC",
-      "homeCrest": "logos/Chelsea_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-05-04T14:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538130,
       "compCode": "PL",
