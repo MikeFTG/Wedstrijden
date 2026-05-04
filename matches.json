@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T16:27:01.136164+00:00",
+  "updated": "2026-05-04T18:00:20.738809+00:00",
   "matches": [
     {
       "id": 538130,
@@ -599,18 +599,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537164,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 35,
-      "homeTeam": "US Cremonese",
-      "homeCrest": "logos/US_Cremonese.png",
-      "awayTeam": "SS Lazio",
-      "awayCrest": "logos/SS_Lazio.png",
-      "utcDate": "2026-05-04T16:30:00Z",
       "status": "TIMED"
     },
     {
