@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T11:43:14.180672+00:00",
+  "updated": "2026-05-09T13:00:13.165707+00:00",
   "matches": [
     {
       "id": 538135,
@@ -566,18 +566,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537167,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "Cagliari Calcio",
-      "homeCrest": "logos/Cagliari_Calcio.png",
-      "awayTeam": "Udinese Calcio",
-      "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-05-09T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537170,
       "compCode": "SA",
       "compName": "Serie A",
@@ -912,18 +900,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544556,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-05-09T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544558,
