@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-09T10:30:51.719841+00:00",
+  "updated": "2026-05-09T11:43:14.180672+00:00",
   "matches": [
-    {
-      "id": 538140,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-05-09T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538135,
       "compCode": "PL",
