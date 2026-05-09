@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T17:43:08.208739+00:00",
+  "updated": "2026-05-09T18:50:15.110055+00:00",
   "matches": [
     {
       "id": 538137,
@@ -455,18 +455,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537174,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "US Lecce",
-      "homeCrest": "logos/US_Lecce.png",
-      "awayTeam": "Juventus FC",
-      "awayCrest": "logos/Juventus_FC.png",
-      "utcDate": "2026-05-09T18:45:00Z",
       "status": "TIMED"
     },
     {
