@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-09T15:43:20.199021+00:00",
+  "updated": "2026-05-09T16:43:48.477089+00:00",
   "matches": [
-    {
-      "id": 538141,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Manchester City FC",
-      "homeCrest": "logos/Manchester_City_FC.png",
-      "awayTeam": "Brentford FC",
-      "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-05-09T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538137,
       "compCode": "PL",
@@ -326,18 +314,6 @@
       "status": "TIMED"
     },
     {
-      "id": 540694,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 33,
-      "homeTeam": "VfL Wolfsburg",
-      "homeCrest": "logos/VfL_Wolfsburg.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-05-09T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 540697,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -479,18 +455,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537170,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "FC Internazionale Milano",
-      "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-05-09T16:00:00Z",
       "status": "TIMED"
     },
     {
@@ -816,18 +780,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544552,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-05-09T16:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544557,
