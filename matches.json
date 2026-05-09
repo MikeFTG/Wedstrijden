@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T18:50:15.110055+00:00",
+  "updated": "2026-05-09T19:52:45.589695+00:00",
   "matches": [
     {
       "id": 538137,
@@ -768,18 +768,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544557,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-05-09T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544555,
