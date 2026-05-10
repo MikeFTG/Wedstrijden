@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T15:44:26.253726+00:00",
+  "updated": "2026-05-10T16:44:39.395439+00:00",
   "matches": [
     {
       "id": 538143,
@@ -386,18 +386,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537171,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "AS Roma",
-      "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-05-10T16:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537166,
       "compCode": "SA",
       "compName": "Serie A",
@@ -660,18 +648,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544559,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "Real Oviedo",
-      "homeCrest": "logos/Real_Oviedo.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-05-10T16:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544553,
