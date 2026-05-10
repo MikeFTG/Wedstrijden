@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-10T14:34:19.413229+00:00",
+  "updated": "2026-05-10T15:44:26.253726+00:00",
   "matches": [
-    {
-      "id": 538144,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "West Ham United FC",
-      "homeCrest": "logos/West_Ham_United_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-05-10T15:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538143,
       "compCode": "PL",
@@ -275,18 +263,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540702,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 33,
-      "homeTeam": "1. FC K\u00f6ln",
-      "homeCrest": "logos/1__FC_K\u00f6ln.png",
-      "awayTeam": "1. FC Heidenheim 1846",
-      "awayCrest": "logos/1__FC_Heidenheim_1846.png",
-      "utcDate": "2026-05-10T15:30:00Z",
       "status": "TIMED"
     },
     {
