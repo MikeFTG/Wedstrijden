@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T17:44:05.507178+00:00",
+  "updated": "2026-05-10T18:51:23.096097+00:00",
   "matches": [
     {
       "id": 538143,
@@ -371,18 +371,6 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-05-16T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537166,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "AC Milan",
-      "homeCrest": "logos/AC_Milan.png",
-      "awayTeam": "Atalanta BC",
-      "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-05-10T18:45:00Z",
       "status": "TIMED"
     },
     {
