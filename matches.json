@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T13:02:16.777684+00:00",
+  "updated": "2026-05-10T14:34:19.413229+00:00",
   "matches": [
     {
       "id": 538144,
@@ -275,18 +275,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 540697,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 33,
-      "homeTeam": "Hamburger SV",
-      "homeCrest": "logos/Hamburger_SV.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-05-10T13:30:00Z",
       "status": "TIMED"
     },
     {
@@ -696,18 +684,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544551,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-05-10T14:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544559,
