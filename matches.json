@@ -1,42 +1,6 @@
 {
-  "updated": "2026-05-10T11:47:01.986268+00:00",
+  "updated": "2026-05-10T13:02:16.777684+00:00",
   "matches": [
-    {
-      "id": 538137,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-05-10T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538138,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Burnley FC",
-      "homeCrest": "logos/Burnley_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-05-10T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538142,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-05-10T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538144,
       "compCode": "PL",
@@ -458,30 +422,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537165,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "Genoa CFC",
-      "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-05-10T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537173,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "US Cremonese",
-      "homeCrest": "logos/US_Cremonese.png",
-      "awayTeam": "AC Pisa 1909",
-      "awayCrest": "logos/AC_Pisa_1909.png",
-      "utcDate": "2026-05-10T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537171,
       "compCode": "SA",
       "compName": "Serie A",
@@ -756,18 +696,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544555,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "RCD Mallorca",
-      "homeCrest": "logos/RCD_Mallorca.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-05-10T12:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544551,
