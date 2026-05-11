@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-11T18:15:48.766754+00:00",
+  "updated": "2026-05-11T20:12:51.287491+00:00",
   "matches": [
-    {
-      "id": 538143,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 36,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-05-11T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538091,
       "compCode": "PL",
@@ -374,18 +362,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537172,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 36,
-      "homeTeam": "SSC Napoli",
-      "homeCrest": "logos/SSC_Napoli.png",
-      "awayTeam": "Bologna FC 1909",
-      "awayCrest": "logos/Bologna_FC_1909.png",
-      "utcDate": "2026-05-11T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537175,
       "compCode": "SA",
       "compName": "Serie A",
@@ -624,18 +600,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544560,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 35,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "Girona FC",
-      "awayCrest": "logos/Girona_FC.png",
-      "utcDate": "2026-05-11T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544563,
