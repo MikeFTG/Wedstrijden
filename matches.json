@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T17:59:19.535261+00:00",
+  "updated": "2026-05-12T19:58:30.351550+00:00",
   "matches": [
     {
       "id": 538091,
@@ -490,8 +490,8 @@
       "homeCrest": "logos/ACF_Fiorentina.png",
       "awayTeam": "Atalanta BC",
       "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537186,
@@ -502,8 +502,8 @@
       "homeCrest": "logos/AC_Milan.png",
       "awayTeam": "Cagliari Calcio",
       "awayCrest": "logos/Cagliari_Calcio.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537187,
@@ -514,8 +514,8 @@
       "homeCrest": "logos/Bologna_FC_1909.png",
       "awayTeam": "FC Internazionale Milano",
       "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537188,
@@ -526,8 +526,8 @@
       "homeCrest": "logos/Torino_FC.png",
       "awayTeam": "Juventus FC",
       "awayCrest": "logos/Juventus_FC.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537189,
@@ -538,8 +538,8 @@
       "homeCrest": "logos/Hellas_Verona_FC.png",
       "awayTeam": "AS Roma",
       "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537190,
@@ -550,8 +550,8 @@
       "homeCrest": "logos/SS_Lazio.png",
       "awayTeam": "AC Pisa 1909",
       "awayCrest": "logos/AC_Pisa_1909.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537191,
@@ -562,8 +562,8 @@
       "homeCrest": "logos/Parma_Calcio_1913.png",
       "awayTeam": "US Sassuolo Calcio",
       "awayCrest": "logos/US_Sassuolo_Calcio.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537192,
@@ -574,8 +574,8 @@
       "homeCrest": "logos/SSC_Napoli.png",
       "awayTeam": "Udinese Calcio",
       "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537193,
@@ -586,8 +586,8 @@
       "homeCrest": "logos/US_Cremonese.png",
       "awayTeam": "Como 1907",
       "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 537194,
@@ -598,31 +598,7 @@
       "homeCrest": "logos/US_Lecce.png",
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 544562,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-05-12T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544567,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-05-12T19:30:00Z",
+      "utcDate": "2026-05-24T13:00:00Z",
       "status": "TIMED"
     },
     {
