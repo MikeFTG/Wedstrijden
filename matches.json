@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T15:57:55.881881+00:00",
+  "updated": "2026-05-12T17:59:19.535261+00:00",
   "matches": [
     {
       "id": 538091,
@@ -600,18 +600,6 @@
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 544563,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-05-12T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 544562,
