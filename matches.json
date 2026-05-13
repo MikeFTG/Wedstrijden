@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-13T18:52:51.900615+00:00",
+  "updated": "2026-05-13T20:27:34.359027+00:00",
   "matches": [
-    {
-      "id": 538091,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 31,
-      "homeTeam": "Manchester City FC",
-      "homeCrest": "logos/Manchester_City_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-05-13T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538146,
       "compCode": "PL",
@@ -602,30 +590,6 @@
       "status": "TIMED"
     },
     {
-      "id": 544561,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-05-13T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544564,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "RCD Mallorca",
-      "awayCrest": "logos/RCD_Mallorca.png",
-      "utcDate": "2026-05-13T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544568,
       "compCode": "PD",
       "compName": "La Liga",
@@ -900,18 +864,6 @@
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542664,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 29,
-      "homeTeam": "Racing Club de Lens",
-      "homeCrest": "logos/Racing_Club_de_Lens.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-05-13T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542703,
