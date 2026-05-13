@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T16:38:34.249586+00:00",
+  "updated": "2026-05-13T18:52:51.900615+00:00",
   "matches": [
     {
       "id": 538091,
@@ -602,30 +602,6 @@
       "status": "TIMED"
     },
     {
-      "id": 544566,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-05-13T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544569,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "Villarreal CF",
-      "homeCrest": "logos/Villarreal_CF.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-05-13T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544561,
       "compCode": "PD",
       "compName": "La Liga",
@@ -924,18 +900,6 @@
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "utcDate": "2026-05-24T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 542665,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 29,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "RC Strasbourg Alsace",
-      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-05-13T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 542664,
