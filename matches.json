@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T16:06:44.954648+00:00",
+  "updated": "2026-05-14T18:14:37.396555+00:00",
   "matches": [
     {
       "id": 538146,
@@ -587,30 +587,6 @@
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544568,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-05-14T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544565,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 36,
-      "homeTeam": "Girona FC",
-      "homeCrest": "logos/Girona_FC.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-05-14T18:00:00Z",
       "status": "TIMED"
     },
     {
