@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T21:41:49.123055+00:00",
+  "updated": "2026-05-14T22:51:20.460684+00:00",
   "matches": [
     {
       "id": 538146,
@@ -826,8 +826,8 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-05-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-05-24T19:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 542703,
