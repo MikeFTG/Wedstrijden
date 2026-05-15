@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-15T17:42:23.063116+00:00",
+  "updated": "2026-05-15T19:21:05.248220+00:00",
   "matches": [
-    {
-      "id": 538146,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-05-15T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538152,
       "compCode": "PL",
