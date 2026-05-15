@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T11:33:25.915545+00:00",
+  "updated": "2026-05-15T13:49:04.657168+00:00",
   "matches": [
     {
       "id": 538146,
@@ -358,7 +358,7 @@
       "homeCrest": "logos/AS_Roma.png",
       "awayTeam": "SS Lazio",
       "awayCrest": "logos/SS_Lazio.png",
-      "utcDate": "2026-05-17T10:30:00Z",
+      "utcDate": "2026-05-17T10:00:00Z",
       "status": "TIMED"
     },
     {
@@ -370,7 +370,7 @@
       "homeCrest": "logos/Genoa_CFC.png",
       "awayTeam": "AC Milan",
       "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-05-17T10:30:00Z",
+      "utcDate": "2026-05-17T10:00:00Z",
       "status": "TIMED"
     },
     {
@@ -382,7 +382,7 @@
       "homeCrest": "logos/Como_1907.png",
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-05-17T10:30:00Z",
+      "utcDate": "2026-05-17T10:00:00Z",
       "status": "TIMED"
     },
     {
@@ -394,7 +394,7 @@
       "homeCrest": "logos/Juventus_FC.png",
       "awayTeam": "ACF Fiorentina",
       "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-05-17T10:30:00Z",
+      "utcDate": "2026-05-17T10:00:00Z",
       "status": "TIMED"
     },
     {
@@ -406,7 +406,7 @@
       "homeCrest": "logos/AC_Pisa_1909.png",
       "awayTeam": "SSC Napoli",
       "awayCrest": "logos/SSC_Napoli.png",
-      "utcDate": "2026-05-17T10:30:00Z",
+      "utcDate": "2026-05-17T10:00:00Z",
       "status": "TIMED"
     },
     {
@@ -614,18 +614,6 @@
       "status": "TIMED"
     },
     {
-      "id": 544573,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 37,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-05-17T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544574,
       "compCode": "PD",
       "compName": "La Liga",
@@ -707,6 +695,18 @@
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
       "utcDate": "2026-05-17T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 544573,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 37,
+      "homeTeam": "FC Barcelona",
+      "homeCrest": "logos/FC_Barcelona.png",
+      "awayTeam": "Real Betis Balompi\u00e9",
+      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
+      "utcDate": "2026-05-17T19:15:00Z",
       "status": "TIMED"
     },
     {
