@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-17T15:52:57.326547+00:00",
+  "updated": "2026-05-17T16:50:04.661471+00:00",
   "matches": [
-    {
-      "id": 538153,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "West Ham United FC",
-      "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2026-05-17T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538147,
       "compCode": "PL",
@@ -167,18 +155,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537176,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "Atalanta BC",
-      "homeCrest": "logos/Atalanta_BC.png",
-      "awayTeam": "Bologna FC 1909",
-      "awayCrest": "logos/Bologna_FC_1909.png",
-      "utcDate": "2026-05-17T16:00:00Z",
       "status": "TIMED"
     },
     {
