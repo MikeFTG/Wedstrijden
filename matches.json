@@ -1,54 +1,6 @@
 {
-  "updated": "2026-05-17T13:03:40.455355+00:00",
+  "updated": "2026-05-17T14:41:33.613474+00:00",
   "matches": [
-    {
-      "id": 538148,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-05-17T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538150,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Everton FC",
-      "homeCrest": "logos/Everton_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-05-17T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538151,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-05-17T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 538154,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-05-17T14:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538153,
       "compCode": "PL",
