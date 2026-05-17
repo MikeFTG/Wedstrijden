@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T18:57:58.202250+00:00",
+  "updated": "2026-05-17T20:04:18.802650+00:00",
   "matches": [
     {
       "id": 538147,
@@ -278,18 +278,6 @@
       "status": "TIMED"
     },
     {
-      "id": 544573,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 37,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-05-17T19:15:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 544581,
       "compCode": "PD",
       "compName": "La Liga",
@@ -407,114 +395,6 @@
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "utcDate": "2026-05-24T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542703,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542704,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "FC Nantes",
-      "homeCrest": "logos/FC_Nantes.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542705,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542706,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "OGC Nice",
-      "homeCrest": "logos/OGC_Nice.png",
-      "awayTeam": "FC Metz",
-      "awayCrest": "logos/FC_Metz.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542707,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542708,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542709,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542710,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "RC Strasbourg Alsace",
-      "homeCrest": "logos/RC_Strasbourg_Alsace.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-05-17T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 542711,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 34,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-05-17T19:00:00Z",
       "status": "TIMED"
     }
   ]
