@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T11:36:44.778853+00:00",
+  "updated": "2026-05-17T13:03:40.455355+00:00",
   "matches": [
     {
       "id": 538148,
@@ -215,18 +215,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537180,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "Hellas Verona FC",
-      "awayCrest": "logos/Hellas_Verona_FC.png",
-      "utcDate": "2026-05-17T13:00:00Z",
       "status": "TIMED"
     },
     {
