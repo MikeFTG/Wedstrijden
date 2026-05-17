@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T08:35:54.002509+00:00",
+  "updated": "2026-05-17T10:18:21.300525+00:00",
   "matches": [
     {
       "id": 538152,
@@ -227,66 +227,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537175,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "SS Lazio",
-      "awayCrest": "logos/SS_Lazio.png",
-      "utcDate": "2026-05-17T10:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537178,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "Genoa CFC",
-      "homeCrest": "logos/Genoa_CFC.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-05-17T10:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537179,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "Como 1907",
-      "homeCrest": "logos/Como_1907.png",
-      "awayTeam": "Parma Calcio 1913",
-      "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-05-17T10:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537181,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "Juventus FC",
-      "homeCrest": "logos/Juventus_FC.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-05-17T10:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537182,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 37,
-      "homeTeam": "AC Pisa 1909",
-      "homeCrest": "logos/AC_Pisa_1909.png",
-      "awayTeam": "SSC Napoli",
-      "awayCrest": "logos/SSC_Napoli.png",
-      "utcDate": "2026-05-17T10:00:00Z",
       "status": "TIMED"
     },
     {
