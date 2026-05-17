@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-17T10:18:21.300525+00:00",
+  "updated": "2026-05-17T11:36:44.778853+00:00",
   "matches": [
-    {
-      "id": 538152,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-05-17T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538148,
       "compCode": "PL",
