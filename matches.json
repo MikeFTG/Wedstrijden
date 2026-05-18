@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T09:45:15.831704+00:00",
+  "updated": "2026-05-18T13:39:00.515792+00:00",
   "matches": [
     {
       "id": 538147,
@@ -166,19 +166,7 @@
       "homeCrest": "logos/ACF_Fiorentina.png",
       "awayTeam": "Atalanta BC",
       "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-05-24T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537186,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "AC Milan",
-      "homeCrest": "logos/AC_Milan.png",
-      "awayTeam": "Cagliari Calcio",
-      "awayCrest": "logos/Cagliari_Calcio.png",
-      "utcDate": "2026-05-24T13:00:00Z",
+      "utcDate": "2026-05-22T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -190,31 +178,7 @@
       "homeCrest": "logos/Bologna_FC_1909.png",
       "awayTeam": "FC Internazionale Milano",
       "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-05-24T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537188,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "Torino FC",
-      "homeCrest": "logos/Torino_FC.png",
-      "awayTeam": "Juventus FC",
-      "awayCrest": "logos/Juventus_FC.png",
-      "utcDate": "2026-05-24T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537189,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "Hellas Verona FC",
-      "homeCrest": "logos/Hellas_Verona_FC.png",
-      "awayTeam": "AS Roma",
-      "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-05-24T13:00:00Z",
+      "utcDate": "2026-05-23T16:00:00Z",
       "status": "TIMED"
     },
     {
@@ -226,6 +190,18 @@
       "homeCrest": "logos/SS_Lazio.png",
       "awayTeam": "AC Pisa 1909",
       "awayCrest": "logos/AC_Pisa_1909.png",
+      "utcDate": "2026-05-23T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537188,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
       "utcDate": "2026-05-24T13:00:00Z",
       "status": "TIMED"
     },
@@ -250,7 +226,31 @@
       "homeCrest": "logos/SSC_Napoli.png",
       "awayTeam": "Udinese Calcio",
       "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-05-24T13:00:00Z",
+      "utcDate": "2026-05-24T16:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537186,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-05-24T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 537189,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Hellas Verona FC",
+      "homeCrest": "logos/Hellas_Verona_FC.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-05-24T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -262,7 +262,7 @@
       "homeCrest": "logos/US_Cremonese.png",
       "awayTeam": "Como 1907",
       "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-05-24T13:00:00Z",
+      "utcDate": "2026-05-24T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -274,7 +274,7 @@
       "homeCrest": "logos/US_Lecce.png",
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-05-24T13:00:00Z",
+      "utcDate": "2026-05-24T18:45:00Z",
       "status": "TIMED"
     },
     {
