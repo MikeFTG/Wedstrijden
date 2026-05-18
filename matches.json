@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-18T18:27:24.642802+00:00",
+  "updated": "2026-05-18T20:11:44.200604+00:00",
   "matches": [
-    {
-      "id": 538147,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "Burnley FC",
-      "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2026-05-18T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538145,
       "compCode": "PL",
