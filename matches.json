@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-19T18:55:56.818678+00:00",
+  "updated": "2026-05-19T20:27:21.796170+00:00",
   "matches": [
-    {
-      "id": 538149,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "Chelsea FC",
-      "homeCrest": "logos/Chelsea_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-05-19T19:15:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538155,
       "compCode": "PL",
