@@ -1,18 +1,6 @@
 {
-  "updated": "2026-05-19T16:47:02.695574+00:00",
+  "updated": "2026-05-19T18:55:56.818678+00:00",
   "matches": [
-    {
-      "id": 538145,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 37,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-05-19T18:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 538149,
       "compCode": "PL",
