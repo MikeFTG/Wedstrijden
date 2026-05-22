@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T17:46:31.669631+00:00",
+  "updated": "2026-05-22T19:25:31.212835+00:00",
   "matches": [
     {
       "id": 538155,
@@ -119,18 +119,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537185,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "Atalanta BC",
-      "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-05-22T18:45:00Z",
       "status": "TIMED"
     },
     {
