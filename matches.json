@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T18:02:24.520597+00:00",
+  "updated": "2026-05-23T19:42:58.631401+00:00",
   "matches": [
     {
       "id": 538155,
@@ -122,18 +122,6 @@
       "status": "TIMED"
     },
     {
-      "id": 537190,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "AC Pisa 1909",
-      "awayCrest": "logos/AC_Pisa_1909.png",
-      "utcDate": "2026-05-23T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 537191,
       "compCode": "SA",
       "compName": "Serie A",
@@ -215,114 +203,6 @@
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-05-24T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544581,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544582,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544583,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544584,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544585,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544586,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "RCD Mallorca",
-      "homeCrest": "logos/RCD_Mallorca.png",
-      "awayTeam": "Real Oviedo",
-      "awayCrest": "logos/Real_Oviedo.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544587,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544589,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-05-23T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 544590,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 38,
-      "homeTeam": "Girona FC",
-      "homeCrest": "logos/Girona_FC.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-05-23T19:00:00Z",
       "status": "TIMED"
     },
     {
