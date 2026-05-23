@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T15:57:52.630080+00:00",
+  "updated": "2026-05-23T16:59:04.343865+00:00",
   "matches": [
     {
       "id": 538155,
@@ -119,18 +119,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537187,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "Bologna FC 1909",
-      "homeCrest": "logos/Bologna_FC_1909.png",
-      "awayTeam": "FC Internazionale Milano",
-      "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-05-23T16:00:00Z",
       "status": "TIMED"
     },
     {
