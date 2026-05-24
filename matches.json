@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T11:58:10.848198+00:00",
+  "updated": "2026-05-24T13:38:40.064617+00:00",
   "matches": [
     {
       "id": 538155,
@@ -119,18 +119,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-05-24T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 537191,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 38,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "US Sassuolo Calcio",
-      "awayCrest": "logos/US_Sassuolo_Calcio.png",
-      "utcDate": "2026-05-24T13:00:00Z",
       "status": "TIMED"
     },
     {
