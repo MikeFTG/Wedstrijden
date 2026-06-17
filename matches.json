@@ -1,6 +1,4566 @@
 {
-  "updated": "2026-06-16T23:00:08.332754+00:00",
+  "updated": "2026-06-17T00:22:20.542418+00:00",
   "matches": [
+    {
+      "id": 558629,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558630,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558631,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558632,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558633,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558634,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558635,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558636,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558637,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558638,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 1,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-08-23T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558619,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558620,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558621,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558622,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558623,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558624,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558625,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558626,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558627,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558628,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 2,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-08-30T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558609,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558610,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558611,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558612,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558613,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558614,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558615,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558616,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558617,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558618,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 3,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558599,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558600,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558601,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558602,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558603,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558604,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558605,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558606,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558607,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558608,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 4,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-09-13T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558592,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558593,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558594,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558595,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558596,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558597,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558598,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558589,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558590,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558591,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 5,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-09-20T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558579,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558580,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558581,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558582,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558583,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558584,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558585,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558586,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558587,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558588,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 6,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-10-11T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558569,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558570,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558571,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558572,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558573,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558574,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558575,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558576,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558577,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558578,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 7,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-10-18T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558559,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558560,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558561,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558562,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558563,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558564,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558565,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558566,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558567,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558568,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 8,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-10-25T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558549,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558550,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558551,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558552,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558553,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558554,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558555,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558556,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558557,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558558,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 9,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-10-28T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558539,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558540,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558541,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558542,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558543,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558544,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558545,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558546,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558547,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558548,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 10,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-11-01T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558529,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558530,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558531,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558532,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558533,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558534,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558535,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558536,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558537,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558538,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 11,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-11-08T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558519,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558520,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558521,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558522,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558523,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558524,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558525,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558526,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558527,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558528,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 12,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-11-22T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558509,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558510,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558511,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558512,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558513,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558514,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558515,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558516,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558517,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558518,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 13,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558499,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558500,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558501,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558502,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558503,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558504,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558505,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558506,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558507,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558508,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 14,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2026-12-06T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558489,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558490,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558491,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558492,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558493,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558494,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558495,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558496,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558497,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558498,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 15,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558479,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558480,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558481,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558482,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558483,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558484,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558485,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558486,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558487,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558488,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 16,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2026-12-20T17:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558469,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558470,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558471,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558472,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558473,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558474,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558475,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558476,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558477,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558478,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 17,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-01-03T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558459,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558460,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558461,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558462,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558463,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558464,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558465,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558466,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558467,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558468,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 18,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-01-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558449,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558450,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558451,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558452,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558453,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558454,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558455,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558456,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558457,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558458,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 19,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-01-10T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558439,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558440,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558441,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558442,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558443,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558444,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558445,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558446,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558447,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558448,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 20,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-01-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558429,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558430,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558431,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558432,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558433,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558434,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558435,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558436,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558437,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558438,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 21,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-01-24T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558419,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558420,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558421,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558422,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558423,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558424,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558425,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558426,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558427,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558428,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 22,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-01-31T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558409,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558410,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558411,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558412,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558413,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558414,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558415,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558416,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558417,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558418,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 23,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-02-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558399,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558400,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558401,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558402,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558403,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558404,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558405,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558406,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558407,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558408,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 24,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-02-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558389,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558390,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558391,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558392,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558393,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558394,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558395,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558396,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558397,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558398,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 25,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-02-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558379,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558380,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558381,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558382,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558383,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558384,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558385,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558386,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558387,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558388,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 26,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-02-28T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558369,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558370,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558371,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558372,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558373,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558374,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558375,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558376,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558377,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558378,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 27,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-03-07T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558359,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558360,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558361,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558362,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558363,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558364,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558365,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558366,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558367,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558368,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 28,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-03-14T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558349,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558350,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558351,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558352,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558353,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558354,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558355,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558356,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558357,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558358,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 29,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-03-21T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558339,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558340,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558341,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558342,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558343,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558344,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558345,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558346,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558347,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558348,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 30,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-04-04T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558336,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558337,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558338,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558329,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558330,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558331,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558332,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558333,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558334,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558335,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 31,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-04-11T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558319,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558320,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558321,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558322,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558323,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558324,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558325,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558326,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558327,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558328,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 32,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-04-18T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558309,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558310,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558311,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558312,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558313,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558314,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558315,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558316,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558317,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558318,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 33,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-04-25T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558299,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558300,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558301,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558302,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558303,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558304,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558305,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558306,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558307,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558308,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 34,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-05-02T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558289,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558290,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558291,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558292,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558293,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558294,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558295,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558296,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558297,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558298,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 35,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-05-09T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558279,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558280,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558281,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558282,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558283,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558284,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558285,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558286,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558287,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558288,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 36,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-05-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558269,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "AS Roma",
+      "homeCrest": "logos/AS_Roma.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "logos/Como_1907.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558270,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Parma Calcio 1913",
+      "homeCrest": "logos/Parma_Calcio_1913.png",
+      "awayTeam": "Juventus FC",
+      "awayCrest": "logos/Juventus_FC.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558271,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Torino FC",
+      "homeCrest": "logos/Torino_FC.png",
+      "awayTeam": "SSC Napoli",
+      "awayCrest": "logos/SSC_Napoli.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558272,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "logos/Atalanta_BC.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "logos/US_Lecce.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558273,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "FC Internazionale Milano",
+      "homeCrest": "logos/FC_Internazionale_Milano.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "logos/SS_Lazio.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558274,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "logos/Udinese_Calcio.png",
+      "awayTeam": "US Sassuolo Calcio",
+      "awayCrest": "logos/US_Sassuolo_Calcio.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558275,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "logos/Frosinone_Calcio.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "logos/Cagliari_Calcio.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558276,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "logos/ACF_Fiorentina.png",
+      "awayTeam": "AC Monza",
+      "awayCrest": "logos/AC_Monza.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558277,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Venezia FC",
+      "homeCrest": "logos/Venezia_FC.png",
+      "awayTeam": "AC Milan",
+      "awayCrest": "logos/AC_Milan.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558278,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 37,
+      "homeTeam": "Genoa CFC",
+      "homeCrest": "logos/Genoa_CFC.png",
+      "awayTeam": "Bologna FC 1909",
+      "awayCrest": "logos/Bologna_FC_1909.png",
+      "utcDate": "2027-05-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558259,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "AC Milan",
+      "homeCrest": "logos/AC_Milan.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "logos/Udinese_Calcio.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558260,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Juventus FC",
+      "homeCrest": "logos/Juventus_FC.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "logos/Frosinone_Calcio.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558261,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "AC Monza",
+      "homeCrest": "logos/AC_Monza.png",
+      "awayTeam": "Torino FC",
+      "awayCrest": "logos/Torino_FC.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558262,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "logos/US_Sassuolo_Calcio.png",
+      "awayTeam": "FC Internazionale Milano",
+      "awayCrest": "logos/FC_Internazionale_Milano.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558263,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Cagliari Calcio",
+      "homeCrest": "logos/Cagliari_Calcio.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "logos/AS_Roma.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558264,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "SS Lazio",
+      "homeCrest": "logos/SS_Lazio.png",
+      "awayTeam": "ACF Fiorentina",
+      "awayCrest": "logos/ACF_Fiorentina.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558265,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Como 1907",
+      "homeCrest": "logos/Como_1907.png",
+      "awayTeam": "Genoa CFC",
+      "awayCrest": "logos/Genoa_CFC.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558266,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "SSC Napoli",
+      "homeCrest": "logos/SSC_Napoli.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "logos/Atalanta_BC.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558267,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "US Lecce",
+      "homeCrest": "logos/US_Lecce.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "logos/Venezia_FC.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 558268,
+      "compCode": "SA",
+      "compName": "Serie A",
+      "matchday": 38,
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "logos/Bologna_FC_1909.png",
+      "awayTeam": "Parma Calcio 1913",
+      "awayCrest": "logos/Parma_Calcio_1913.png",
+      "utcDate": "2027-05-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
     {
       "id": 559711,
       "compCode": "FL1",
@@ -10,7 +4570,7 @@
       "homeCrest": "",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -22,7 +4582,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -34,7 +4594,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -46,7 +4606,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -58,7 +4618,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -70,7 +4630,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -82,7 +4642,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -94,7 +4654,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -106,7 +4666,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-08-22T17:00:00Z",
+      "utcDate": "2026-08-22T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -118,7 +4678,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -130,7 +4690,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -142,7 +4702,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -154,7 +4714,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -166,7 +4726,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -178,7 +4738,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -190,7 +4750,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -202,7 +4762,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-08-29T17:00:00Z",
+      "utcDate": "2026-08-29T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -214,7 +4774,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-08-30T20:45:00Z",
+      "utcDate": "2026-08-30T18:45:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -226,7 +4786,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -238,7 +4798,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -250,7 +4810,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -262,7 +4822,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -274,7 +4834,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -286,7 +4846,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -298,7 +4858,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -310,7 +4870,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -322,7 +4882,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-09-05T17:00:00Z",
+      "utcDate": "2026-09-05T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -334,7 +4894,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -346,7 +4906,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -358,7 +4918,7 @@
       "homeCrest": "",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -370,7 +4930,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -382,7 +4942,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -394,7 +4954,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -406,7 +4966,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -418,7 +4978,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -430,7 +4990,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-09-12T17:00:00Z",
+      "utcDate": "2026-09-12T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -442,7 +5002,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -454,7 +5014,7 @@
       "homeCrest": "",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -466,7 +5026,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -478,7 +5038,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -490,7 +5050,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -502,7 +5062,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -514,7 +5074,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -526,7 +5086,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-09-19T17:00:00Z",
+      "utcDate": "2026-09-19T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -538,7 +5098,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-09-20T20:45:00Z",
+      "utcDate": "2026-09-20T18:45:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -550,7 +5110,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -562,7 +5122,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -574,7 +5134,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -586,7 +5146,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -598,7 +5158,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -610,7 +5170,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -622,7 +5182,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -634,7 +5194,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -646,7 +5206,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-10-10T17:00:00Z",
+      "utcDate": "2026-10-10T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -658,7 +5218,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -670,7 +5230,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -682,7 +5242,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -694,7 +5254,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -706,7 +5266,7 @@
       "homeCrest": "",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -718,7 +5278,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -730,7 +5290,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -742,7 +5302,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -754,7 +5314,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-10-17T17:00:00Z",
+      "utcDate": "2026-10-17T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -766,7 +5326,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -778,7 +5338,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -790,7 +5350,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -802,7 +5362,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -814,7 +5374,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -826,7 +5386,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -838,7 +5398,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -850,7 +5410,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-10-24T17:00:00Z",
+      "utcDate": "2026-10-24T15:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -862,7 +5422,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-10-25T20:45:00Z",
+      "utcDate": "2026-10-25T19:45:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -874,7 +5434,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -886,7 +5446,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -898,7 +5458,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -910,7 +5470,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -922,7 +5482,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -934,7 +5494,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -946,7 +5506,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -958,7 +5518,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -970,7 +5530,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-31T17:00:00Z",
+      "utcDate": "2026-10-31T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -982,7 +5542,7 @@
       "homeCrest": "",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -994,7 +5554,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1006,7 +5566,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1018,7 +5578,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1030,7 +5590,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1042,7 +5602,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1054,7 +5614,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1066,7 +5626,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-11-07T17:00:00Z",
+      "utcDate": "2026-11-07T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1078,7 +5638,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-11-07T20:45:00Z",
+      "utcDate": "2026-11-07T19:45:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1090,7 +5650,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1102,7 +5662,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1114,7 +5674,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1126,7 +5686,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1138,7 +5698,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1150,7 +5710,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1162,7 +5722,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1174,7 +5734,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1186,7 +5746,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-11-21T17:00:00Z",
+      "utcDate": "2026-11-21T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1198,7 +5758,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1210,7 +5770,7 @@
       "homeCrest": "",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1222,7 +5782,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1234,7 +5794,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1246,7 +5806,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1258,7 +5818,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1270,7 +5830,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1282,7 +5842,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1294,7 +5854,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-11-28T17:00:00Z",
+      "utcDate": "2026-11-28T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1306,7 +5866,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1318,7 +5878,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1330,7 +5890,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1342,7 +5902,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1354,7 +5914,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1366,7 +5926,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1378,7 +5938,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1390,7 +5950,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1402,7 +5962,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-12-05T17:00:00Z",
+      "utcDate": "2026-12-05T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1414,7 +5974,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1426,7 +5986,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1438,7 +5998,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1450,7 +6010,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1462,7 +6022,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1474,7 +6034,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1486,7 +6046,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1498,7 +6058,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-12-12T17:00:00Z",
+      "utcDate": "2026-12-12T16:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -1510,7 +6070,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-12-13T20:45:00Z",
+      "utcDate": "2026-12-13T19:45:00Z",
       "status": "SCHEDULED"
     },
     {
