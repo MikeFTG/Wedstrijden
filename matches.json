@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T05:31:18.927871+00:00",
+  "updated": "2026-07-09T09:30:10.840853+00:00",
   "matches": [
     {
       "id": 560542,
@@ -122,42 +122,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 560552,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
-    },
-    {
-      "id": 560553,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Ipswich Town FC",
-      "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
-    },
-    {
-      "id": 560554,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Sunderland AFC",
-      "homeCrest": "logos/Sunderland_AFC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
-    },
-    {
       "id": 560555,
       "compCode": "PL",
       "compName": "Premier League",
@@ -166,56 +130,20 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
+      "utcDate": "2026-08-28T19:00:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 560556,
+      "id": 560552,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 2,
-      "homeTeam": "Chelsea FC",
-      "homeCrest": "logos/Chelsea_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
-    },
-    {
-      "id": 560557,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
-    },
-    {
-      "id": 560558,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
-    },
-    {
-      "id": 560559,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Brentford FC",
-      "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-08-29T14:00:00Z",
-      "status": "2026-08-29 14:00:00Z"
+      "homeTeam": "Liverpool FC",
+      "homeCrest": "logos/Liverpool_FC.png",
+      "awayTeam": "Nottingham Forest FC",
+      "awayCrest": "logos/Nottingham_Forest_FC.png",
+      "utcDate": "2026-08-29T11:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 560560,
@@ -239,6 +167,102 @@
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
       "utcDate": "2026-08-29T14:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560558,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 2,
+      "homeTeam": "Tottenham Hotspur FC",
+      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "logos/Newcastle_United_FC.png",
+      "utcDate": "2026-08-29T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560554,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 2,
+      "homeTeam": "Sunderland AFC",
+      "homeCrest": "logos/Sunderland_AFC.png",
+      "awayTeam": "Fulham FC",
+      "awayCrest": "logos/Fulham_FC.png",
+      "utcDate": "2026-08-30T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560556,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 2,
+      "homeTeam": "Chelsea FC",
+      "homeCrest": "logos/Chelsea_FC.png",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "utcDate": "2026-08-30T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560559,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 2,
+      "homeTeam": "Leeds United FC",
+      "homeCrest": "logos/Leeds_United_FC.png",
+      "awayTeam": "Brentford FC",
+      "awayCrest": "logos/Brentford_FC.png",
+      "utcDate": "2026-08-30T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560553,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 2,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
+      "awayTeam": "Ipswich Town FC",
+      "awayCrest": "logos/Ipswich_Town_FC.png",
+      "utcDate": "2026-08-30T15:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560557,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 2,
+      "homeTeam": "Aston Villa FC",
+      "homeCrest": "logos/Aston_Villa_FC.png",
+      "awayTeam": "Arsenal FC",
+      "awayCrest": "logos/Arsenal_FC.png",
+      "utcDate": "2026-08-31T19:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560566,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 3,
+      "homeTeam": "Ipswich Town FC",
+      "homeCrest": "logos/Ipswich_Town_FC.png",
+      "awayTeam": "Liverpool FC",
+      "awayCrest": "logos/Liverpool_FC.png",
+      "utcDate": "2026-09-04T19:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560571,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 3,
+      "homeTeam": "Newcastle United FC",
+      "homeCrest": "logos/Newcastle_United_FC.png",
+      "awayTeam": "AFC Bournemouth",
+      "awayCrest": "logos/AFC_Bournemouth.png",
+      "utcDate": "2026-09-05T11:30:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -290,30 +314,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 560566,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 3,
-      "homeTeam": "Ipswich Town FC",
-      "homeCrest": "logos/Ipswich_Town_FC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 14:00:00Z"
-    },
-    {
-      "id": 560567,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 3,
-      "homeTeam": "Everton FC",
-      "homeCrest": "logos/Everton_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 14:00:00Z"
-    },
-    {
       "id": 560568,
       "compCode": "PL",
       "compName": "Premier League",
@@ -334,8 +334,20 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 14:00:00Z"
+      "utcDate": "2026-09-05T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560567,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 3,
+      "homeTeam": "Everton FC",
+      "homeCrest": "logos/Everton_FC.png",
+      "awayTeam": "Manchester United FC",
+      "awayCrest": "logos/Manchester_United_FC.png",
+      "utcDate": "2026-09-06T13:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 560570,
@@ -346,20 +358,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 14:00:00Z"
-    },
-    {
-      "id": 560571,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 3,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 14:00:00Z"
+      "utcDate": "2026-09-06T15:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 560572,
@@ -398,18 +398,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 560575,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 14:00:00Z"
-    },
-    {
       "id": 560576,
       "compCode": "PL",
       "compName": "Premier League",
@@ -420,54 +408,6 @@
       "awayCrest": "logos/Brentford_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 560577,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Sunderland AFC",
-      "homeCrest": "logos/Sunderland_AFC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 14:00:00Z"
-    },
-    {
-      "id": 560578,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 14:00:00Z"
-    },
-    {
-      "id": 560579,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 14:00:00Z"
-    },
-    {
-      "id": 560580,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 14:00:00Z"
     },
     {
       "id": 560581,
@@ -482,28 +422,88 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 560582,
+      "id": 560575,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 14:00:00Z"
+      "matchday": 4,
+      "homeTeam": "Tottenham Hotspur FC",
+      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
+      "awayTeam": "Everton FC",
+      "awayCrest": "logos/Everton_FC.png",
+      "utcDate": "2026-09-12T16:30:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 560583,
+      "id": 560577,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 4,
+      "homeTeam": "Sunderland AFC",
+      "homeCrest": "logos/Sunderland_AFC.png",
+      "awayTeam": "Arsenal FC",
+      "awayCrest": "logos/Arsenal_FC.png",
+      "utcDate": "2026-09-12T19:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560578,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 4,
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "logos/Coventry_City_FC.png",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "utcDate": "2026-09-13T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560580,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 4,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
+      "awayTeam": "Manchester City FC",
+      "awayCrest": "logos/Manchester_City_FC.png",
+      "utcDate": "2026-09-13T15:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560579,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 4,
+      "homeTeam": "Leeds United FC",
+      "homeCrest": "logos/Leeds_United_FC.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "logos/Newcastle_United_FC.png",
+      "utcDate": "2026-09-14T19:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560591,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 5,
-      "homeTeam": "Fulham FC",
-      "homeCrest": "logos/Fulham_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 14:00:00Z"
+      "homeTeam": "Brentford FC",
+      "homeCrest": "logos/Brentford_FC.png",
+      "awayTeam": "Chelsea FC",
+      "awayCrest": "logos/Chelsea_FC.png",
+      "utcDate": "2026-09-18T19:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560587,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 5,
+      "homeTeam": "Tottenham Hotspur FC",
+      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
+      "awayTeam": "Aston Villa FC",
+      "awayCrest": "logos/Aston_Villa_FC.png",
+      "utcDate": "2026-09-19T11:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 560584,
@@ -542,18 +542,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 560587,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 14:00:00Z"
-    },
-    {
       "id": 560588,
       "compCode": "PL",
       "compName": "Premier League",
@@ -564,18 +552,6 @@
       "awayCrest": "logos/Hull_City_AFC.png",
       "utcDate": "2026-09-19T14:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 560589,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Coventry City FC",
-      "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 14:00:00Z"
     },
     {
       "id": 560590,
@@ -590,16 +566,40 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 560591,
+      "id": 560589,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 5,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 14:00:00Z"
+      "homeTeam": "Nottingham Forest FC",
+      "homeCrest": "logos/Nottingham_Forest_FC.png",
+      "awayTeam": "Coventry City FC",
+      "awayCrest": "logos/Coventry_City_FC.png",
+      "utcDate": "2026-09-19T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560582,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 5,
+      "homeTeam": "AFC Bournemouth",
+      "homeCrest": "logos/AFC_Bournemouth.png",
+      "awayTeam": "Liverpool FC",
+      "awayCrest": "logos/Liverpool_FC.png",
+      "utcDate": "2026-09-20T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 560583,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 5,
+      "homeTeam": "Fulham FC",
+      "homeCrest": "logos/Fulham_FC.png",
+      "awayTeam": "Manchester United FC",
+      "awayCrest": "logos/Manchester_United_FC.png",
+      "utcDate": "2026-09-20T15:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 560592,
