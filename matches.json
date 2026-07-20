@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T05:51:36.852308+00:00",
+  "updated": "2026-07-20T08:44:58.924898+00:00",
   "matches": [
     {
       "id": 560542,
@@ -4622,30 +4622,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 565781,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 1,
-      "homeTeam": "Borussia Dortmund",
-      "homeCrest": "logos/Borussia_Dortmund.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-08-29T13:30:00Z",
-      "status": "2026-08-29 13:30:00Z"
-    },
-    {
-      "id": 565782,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 1,
-      "homeTeam": "FC Augsburg",
-      "homeCrest": "logos/FC_Augsburg.png",
-      "awayTeam": "FC Schalke 04",
-      "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-08-29T13:30:00Z",
-      "status": "2026-08-29 13:30:00Z"
-    },
-    {
       "id": 565783,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -4658,6 +4634,18 @@
       "status": "SCHEDULED"
     },
     {
+      "id": 565781,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 1,
+      "homeTeam": "Borussia Dortmund",
+      "homeCrest": "logos/Borussia_Dortmund.png",
+      "awayTeam": "Hamburger SV",
+      "awayCrest": "logos/Hamburger_SV.png",
+      "utcDate": "2026-08-29T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
       "id": 565784,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -4666,8 +4654,32 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-08-29T13:30:00Z",
-      "status": "2026-08-29 13:30:00Z"
+      "utcDate": "2026-08-30T13:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565782,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 1,
+      "homeTeam": "FC Augsburg",
+      "homeCrest": "logos/FC_Augsburg.png",
+      "awayTeam": "FC Schalke 04",
+      "awayCrest": "logos/FC_Schalke_04.png",
+      "utcDate": "2026-08-30T15:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565791,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 2,
+      "homeTeam": "VfB Stuttgart",
+      "homeCrest": "logos/VfB_Stuttgart.png",
+      "awayTeam": "1. FC K\u00f6ln",
+      "awayCrest": "logos/1__FC_K\u00f6ln.png",
+      "utcDate": "2026-09-04T18:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 565785,
@@ -4682,18 +4694,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 565786,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "FC Augsburg",
-      "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 13:30:00Z"
-    },
-    {
       "id": 565787,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -4706,30 +4706,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 565788,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "Hamburger SV",
-      "homeCrest": "logos/Hamburger_SV.png",
-      "awayTeam": "1. FSV Mainz 05",
-      "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 13:30:00Z"
-    },
-    {
-      "id": 565789,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "FC Schalke 04",
-      "homeCrest": "logos/FC_Schalke_04.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 13:30:00Z"
-    },
-    {
       "id": 565790,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -4740,18 +4716,6 @@
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-09-05T13:30:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 565791,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 13:30:00Z"
     },
     {
       "id": 565792,
@@ -4775,6 +4739,54 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-09-05T13:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565789,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 2,
+      "homeTeam": "FC Schalke 04",
+      "homeCrest": "logos/FC_Schalke_04.png",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "utcDate": "2026-09-05T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565788,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 2,
+      "homeTeam": "Hamburger SV",
+      "homeCrest": "logos/Hamburger_SV.png",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayCrest": "logos/1__FSV_Mainz_05.png",
+      "utcDate": "2026-09-06T13:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565786,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 2,
+      "homeTeam": "Eintracht Frankfurt",
+      "homeCrest": "logos/Eintracht_Frankfurt.png",
+      "awayTeam": "FC Augsburg",
+      "awayCrest": "logos/FC_Augsburg.png",
+      "utcDate": "2026-09-06T15:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565797,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 3,
+      "homeTeam": "1. FC Union Berlin",
+      "homeCrest": "logos/1__FC_Union_Berlin.png",
+      "awayTeam": "FC Schalke 04",
+      "awayCrest": "logos/FC_Schalke_04.png",
+      "utcDate": "2026-09-11T18:30:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -4814,54 +4826,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 565797,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 3,
-      "homeTeam": "1. FC Union Berlin",
-      "homeCrest": "logos/1__FC_Union_Berlin.png",
-      "awayTeam": "FC Schalke 04",
-      "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 13:30:00Z"
-    },
-    {
-      "id": 565798,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 3,
-      "homeTeam": "1. FC K\u00f6ln",
-      "homeCrest": "logos/1__FC_K\u00f6ln.png",
-      "awayTeam": "SV Werder Bremen",
-      "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 13:30:00Z"
-    },
-    {
-      "id": 565799,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 3,
-      "homeTeam": "RB Leipzig",
-      "homeCrest": "logos/RB_Leipzig.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 13:30:00Z"
-    },
-    {
-      "id": 565800,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 3,
-      "homeTeam": "SV 07 Elversberg",
-      "homeCrest": "logos/SV_07_Elversberg.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 13:30:00Z"
-    },
-    {
       "id": 565801,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -4886,16 +4850,40 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 565803,
+      "id": 565798,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 4,
-      "homeTeam": "SC Paderborn 07",
-      "homeCrest": "logos/SC_Paderborn_07.png",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 13:30:00Z"
+      "matchday": 3,
+      "homeTeam": "1. FC K\u00f6ln",
+      "homeCrest": "logos/1__FC_K\u00f6ln.png",
+      "awayTeam": "SV Werder Bremen",
+      "awayCrest": "logos/SV_Werder_Bremen.png",
+      "utcDate": "2026-09-12T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565799,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 3,
+      "homeTeam": "RB Leipzig",
+      "homeCrest": "logos/RB_Leipzig.png",
+      "awayTeam": "Hamburger SV",
+      "awayCrest": "logos/Hamburger_SV.png",
+      "utcDate": "2026-09-13T13:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565800,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 3,
+      "homeTeam": "SV 07 Elversberg",
+      "homeCrest": "logos/SV_07_Elversberg.png",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "utcDate": "2026-09-13T15:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 565804,
@@ -4906,44 +4894,8 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 13:30:00Z"
-    },
-    {
-      "id": 565805,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 4,
-      "homeTeam": "FC Schalke 04",
-      "homeCrest": "logos/FC_Schalke_04.png",
-      "awayTeam": "SV 07 Elversberg",
-      "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 13:30:00Z"
-    },
-    {
-      "id": 565806,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 4,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 13:30:00Z"
-    },
-    {
-      "id": 565807,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 4,
-      "homeTeam": "Bayer 04 Leverkusen",
-      "homeCrest": "logos/Bayer_04_Leverkusen.png",
-      "awayTeam": "RB Leipzig",
-      "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 13:30:00Z"
+      "utcDate": "2026-09-18T18:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 565808,
@@ -4991,6 +4943,54 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-09-19T13:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565806,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 4,
+      "homeTeam": "VfB Stuttgart",
+      "homeCrest": "logos/VfB_Stuttgart.png",
+      "awayTeam": "Borussia Dortmund",
+      "awayCrest": "logos/Borussia_Dortmund.png",
+      "utcDate": "2026-09-19T16:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565807,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 4,
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeCrest": "logos/Bayer_04_Leverkusen.png",
+      "awayTeam": "RB Leipzig",
+      "awayCrest": "logos/RB_Leipzig.png",
+      "utcDate": "2026-09-20T13:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565805,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 4,
+      "homeTeam": "FC Schalke 04",
+      "homeCrest": "logos/FC_Schalke_04.png",
+      "awayTeam": "SV 07 Elversberg",
+      "awayCrest": "logos/SV_07_Elversberg.png",
+      "utcDate": "2026-09-20T15:30:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 565803,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 4,
+      "homeTeam": "SC Paderborn 07",
+      "homeCrest": "logos/SC_Paderborn_07.png",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
+      "utcDate": "2026-09-20T17:30:00Z",
       "status": "SCHEDULED"
     },
     {
