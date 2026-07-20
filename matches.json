@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T02:15:11.669765+00:00",
+  "updated": "2026-07-20T05:51:36.852308+00:00",
   "matches": [
     {
       "id": 560542,
@@ -4631,7 +4631,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-29 13:30:00Z"
     },
     {
       "id": 565782,
@@ -4643,7 +4643,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-29 13:30:00Z"
     },
     {
       "id": 565783,
@@ -4667,7 +4667,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-29 13:30:00Z"
     },
     {
       "id": 565785,
@@ -4691,7 +4691,7 @@
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 13:30:00Z"
     },
     {
       "id": 565787,
@@ -4715,7 +4715,7 @@
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 13:30:00Z"
     },
     {
       "id": 565789,
@@ -4727,7 +4727,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 13:30:00Z"
     },
     {
       "id": 565790,
@@ -4751,7 +4751,7 @@
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 13:30:00Z"
     },
     {
       "id": 565792,
@@ -4823,7 +4823,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-12 13:30:00Z"
     },
     {
       "id": 565798,
@@ -4835,7 +4835,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-12 13:30:00Z"
     },
     {
       "id": 565799,
@@ -4847,7 +4847,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-12 13:30:00Z"
     },
     {
       "id": 565800,
@@ -4859,7 +4859,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-12 13:30:00Z"
     },
     {
       "id": 565801,
@@ -4895,7 +4895,7 @@
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 565804,
@@ -4907,7 +4907,7 @@
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 565805,
@@ -4919,7 +4919,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 565806,
@@ -4931,7 +4931,7 @@
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 565807,
@@ -4943,7 +4943,7 @@
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 565808,
