@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T17:50:45.262594+00:00",
+  "updated": "2026-07-21T19:07:16.427326+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12803,7 +12803,7 @@
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564629,
@@ -12827,7 +12827,7 @@
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564631,
@@ -12839,7 +12839,7 @@
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564632,
@@ -12851,7 +12851,7 @@
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564633,
@@ -12863,7 +12863,7 @@
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564634,
@@ -12875,7 +12875,7 @@
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564635,
@@ -12887,7 +12887,7 @@
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564636,
@@ -12899,7 +12899,7 @@
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564637,
@@ -12911,7 +12911,7 @@
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-16 15:00:00Z"
     },
     {
       "id": 564638,
@@ -12923,7 +12923,7 @@
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564639,
@@ -12935,7 +12935,7 @@
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564640,
@@ -12947,7 +12947,7 @@
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564641,
@@ -12959,7 +12959,7 @@
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564642,
@@ -12971,7 +12971,7 @@
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564643,
@@ -12983,7 +12983,7 @@
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564644,
@@ -12995,7 +12995,7 @@
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564645,
@@ -13007,7 +13007,7 @@
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564646,
@@ -13031,7 +13031,7 @@
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-23 15:00:00Z"
     },
     {
       "id": 564648,
@@ -13043,7 +13043,7 @@
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564649,
@@ -13055,7 +13055,7 @@
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564650,
@@ -13067,7 +13067,7 @@
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564651,
@@ -13079,7 +13079,7 @@
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564652,
@@ -13091,7 +13091,7 @@
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564653,
@@ -13103,7 +13103,7 @@
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564654,
@@ -13115,7 +13115,7 @@
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564655,
@@ -13127,7 +13127,7 @@
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564656,
@@ -13151,7 +13151,7 @@
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-08-30 15:00:00Z"
     },
     {
       "id": 564658,
