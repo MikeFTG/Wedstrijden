@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T07:59:24.522862+00:00",
+  "updated": "2026-07-28T10:38:47.766938+00:00",
   "matches": [
     {
       "id": 560542,
@@ -4571,7 +4571,7 @@
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
       "utcDate": "2026-08-28T18:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565777,
@@ -4583,7 +4583,7 @@
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565778,
@@ -4595,7 +4595,7 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565779,
@@ -4607,7 +4607,7 @@
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565780,
@@ -4619,7 +4619,7 @@
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565783,
@@ -4631,7 +4631,7 @@
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
       "utcDate": "2026-08-29T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565781,
@@ -4643,7 +4643,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-08-29T16:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565784,
@@ -4655,7 +4655,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-08-30T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565782,
@@ -4667,7 +4667,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-08-30T15:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565791,
@@ -4679,7 +4679,7 @@
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
       "utcDate": "2026-09-04T18:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565785,
@@ -4691,7 +4691,7 @@
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565787,
@@ -4703,7 +4703,7 @@
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565790,
@@ -4715,7 +4715,7 @@
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565792,
@@ -4727,7 +4727,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565793,
@@ -4739,7 +4739,7 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565789,
@@ -4751,7 +4751,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-09-05T16:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565788,
@@ -4763,7 +4763,7 @@
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
       "utcDate": "2026-09-06T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565786,
@@ -4775,7 +4775,7 @@
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
       "utcDate": "2026-09-06T15:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565797,
@@ -4787,7 +4787,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-09-11T18:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565794,
@@ -4799,7 +4799,7 @@
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565795,
@@ -4811,7 +4811,7 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565796,
@@ -4823,7 +4823,7 @@
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565801,
@@ -4835,7 +4835,7 @@
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565802,
@@ -4847,7 +4847,7 @@
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565798,
@@ -4859,7 +4859,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-09-12T16:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565799,
@@ -4871,7 +4871,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-09-13T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565800,
@@ -4883,7 +4883,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-09-13T15:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565804,
@@ -4895,7 +4895,7 @@
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-09-18T18:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565808,
@@ -4907,7 +4907,7 @@
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565809,
@@ -4919,7 +4919,7 @@
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565810,
@@ -4931,7 +4931,7 @@
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565811,
@@ -4943,7 +4943,7 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565806,
@@ -4955,7 +4955,7 @@
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
       "utcDate": "2026-09-19T16:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565807,
@@ -4967,7 +4967,7 @@
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
       "utcDate": "2026-09-20T13:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565805,
@@ -4979,7 +4979,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-09-20T15:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565803,
@@ -4991,7 +4991,7 @@
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
       "utcDate": "2026-09-20T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 565812,
@@ -5002,7 +5002,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5014,7 +5014,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5026,7 +5026,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5038,7 +5038,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5050,7 +5050,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5062,7 +5062,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5074,7 +5074,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5086,7 +5086,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5098,7 +5098,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-10-10T13:30:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5110,7 +5110,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5122,7 +5122,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5134,7 +5134,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5146,7 +5146,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5158,7 +5158,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5170,7 +5170,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5182,7 +5182,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5194,7 +5194,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5206,7 +5206,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-10-17T13:30:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5218,7 +5218,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5230,7 +5230,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5242,7 +5242,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5254,7 +5254,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5266,7 +5266,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5278,7 +5278,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5290,7 +5290,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5302,7 +5302,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5314,7 +5314,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-10-24T13:30:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5326,7 +5326,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5338,7 +5338,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5350,7 +5350,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5362,7 +5362,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5374,7 +5374,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5386,7 +5386,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5398,7 +5398,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5410,7 +5410,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5422,7 +5422,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-10-31T14:30:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5434,7 +5434,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5446,7 +5446,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5458,7 +5458,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5470,7 +5470,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5482,7 +5482,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5494,7 +5494,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5506,7 +5506,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5518,7 +5518,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5530,7 +5530,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-11-07T14:30:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5542,7 +5542,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5554,7 +5554,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5566,7 +5566,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5578,7 +5578,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5590,7 +5590,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5602,7 +5602,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5614,7 +5614,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5626,7 +5626,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5638,7 +5638,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-11-21T14:30:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5650,7 +5650,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5662,7 +5662,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5674,7 +5674,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5686,7 +5686,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5698,7 +5698,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5710,7 +5710,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5722,7 +5722,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5734,7 +5734,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5746,7 +5746,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-11-28T14:30:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5758,7 +5758,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5770,7 +5770,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5782,7 +5782,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5794,7 +5794,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5806,7 +5806,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5818,7 +5818,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5830,7 +5830,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5842,7 +5842,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5854,7 +5854,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-12-05T14:30:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5866,7 +5866,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5878,7 +5878,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5890,7 +5890,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5902,7 +5902,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5914,7 +5914,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5926,7 +5926,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5938,7 +5938,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5950,7 +5950,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5962,7 +5962,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-12-12T14:30:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5974,7 +5974,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5986,7 +5986,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -5998,7 +5998,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6010,7 +6010,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6022,7 +6022,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6034,7 +6034,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6046,7 +6046,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6058,7 +6058,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6070,7 +6070,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-12-19T14:30:00Z",
+      "utcDate": "2026-12-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6082,7 +6082,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6094,7 +6094,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6106,7 +6106,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6118,7 +6118,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6130,7 +6130,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6142,7 +6142,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6154,7 +6154,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6166,7 +6166,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6178,7 +6178,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-01-09T12:00:00Z",
+      "utcDate": "2027-01-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6190,7 +6190,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6202,7 +6202,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6214,7 +6214,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6226,7 +6226,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6238,7 +6238,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6250,7 +6250,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6262,7 +6262,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6274,7 +6274,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6286,7 +6286,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-01-13T12:00:00Z",
+      "utcDate": "2027-01-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6298,7 +6298,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6310,7 +6310,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6322,7 +6322,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6334,7 +6334,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6346,7 +6346,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6358,7 +6358,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6370,7 +6370,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6382,7 +6382,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6394,7 +6394,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6406,7 +6406,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6418,7 +6418,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6430,7 +6430,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6442,7 +6442,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6454,7 +6454,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6466,7 +6466,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6478,7 +6478,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6490,7 +6490,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6502,7 +6502,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6514,7 +6514,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6526,7 +6526,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6538,7 +6538,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6550,7 +6550,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6562,7 +6562,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6574,7 +6574,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6586,7 +6586,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6598,7 +6598,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6610,7 +6610,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6622,7 +6622,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6634,7 +6634,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6646,7 +6646,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6658,7 +6658,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6670,7 +6670,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6682,7 +6682,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6694,7 +6694,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6706,7 +6706,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6718,7 +6718,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6730,7 +6730,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6742,7 +6742,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6754,7 +6754,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6766,7 +6766,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6778,7 +6778,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6790,7 +6790,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6802,7 +6802,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6814,7 +6814,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6826,7 +6826,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6838,7 +6838,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6850,7 +6850,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6862,7 +6862,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6874,7 +6874,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6886,7 +6886,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6898,7 +6898,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6910,7 +6910,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6922,7 +6922,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6934,7 +6934,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6946,7 +6946,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6958,7 +6958,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6970,7 +6970,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6982,7 +6982,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -6994,7 +6994,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7006,7 +7006,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7018,7 +7018,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7030,7 +7030,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7042,7 +7042,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7054,7 +7054,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7066,7 +7066,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7078,7 +7078,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7090,7 +7090,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7102,7 +7102,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7114,7 +7114,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7126,7 +7126,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7138,7 +7138,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7150,7 +7150,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-03-03T12:00:00Z",
+      "utcDate": "2027-03-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7162,7 +7162,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7174,7 +7174,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7186,7 +7186,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7198,7 +7198,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7210,7 +7210,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7222,7 +7222,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7234,7 +7234,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7246,7 +7246,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7258,7 +7258,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7270,7 +7270,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7282,7 +7282,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7294,7 +7294,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7306,7 +7306,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7318,7 +7318,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7330,7 +7330,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7342,7 +7342,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7354,7 +7354,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7366,7 +7366,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7378,7 +7378,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7390,7 +7390,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7402,7 +7402,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7414,7 +7414,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7426,7 +7426,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7438,7 +7438,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7450,7 +7450,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7462,7 +7462,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7474,7 +7474,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7486,7 +7486,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7498,7 +7498,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7510,7 +7510,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7522,7 +7522,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7534,7 +7534,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7546,7 +7546,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7558,7 +7558,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7570,7 +7570,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7582,7 +7582,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7594,7 +7594,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7606,7 +7606,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7618,7 +7618,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7630,7 +7630,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7642,7 +7642,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7654,7 +7654,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7666,7 +7666,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7678,7 +7678,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7690,7 +7690,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7702,7 +7702,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7714,7 +7714,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7726,7 +7726,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7738,7 +7738,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7750,7 +7750,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7762,7 +7762,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7774,7 +7774,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7786,7 +7786,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7798,7 +7798,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7810,7 +7810,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7822,7 +7822,7 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7834,7 +7834,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7846,7 +7846,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7858,7 +7858,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7870,7 +7870,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7882,7 +7882,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7894,7 +7894,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7906,7 +7906,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7918,7 +7918,7 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7930,7 +7930,7 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7942,7 +7942,7 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7954,7 +7954,7 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7966,7 +7966,7 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7978,7 +7978,7 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -7990,7 +7990,7 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8002,7 +8002,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8014,7 +8014,7 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8026,7 +8026,7 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8038,7 +8038,7 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8050,7 +8050,7 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8062,7 +8062,7 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8074,7 +8074,7 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8086,7 +8086,7 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8098,7 +8098,7 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8110,7 +8110,7 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8122,7 +8122,7 @@
       "homeCrest": "logos/TSG_1899_Hoffenheim.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-05-15T12:00:00Z",
+      "utcDate": "2027-05-15T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -8134,8 +8134,8 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566074,
@@ -8146,8 +8146,8 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566075,
@@ -8158,8 +8158,8 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566076,
@@ -8170,8 +8170,8 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566077,
@@ -8182,8 +8182,8 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566078,
@@ -8194,8 +8194,8 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566079,
@@ -8206,8 +8206,8 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566080,
@@ -8218,8 +8218,8 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 566081,
@@ -8230,8 +8230,8 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-05-22T12:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-22T13:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 558629,
