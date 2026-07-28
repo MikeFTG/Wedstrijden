@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T05:27:50.841649+00:00",
+  "updated": "2026-07-28T07:59:24.522862+00:00",
   "matches": [
     {
       "id": 560542,
@@ -17354,16 +17354,16 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559711,
+      "id": 559715,
       "compCode": "FL1",
       "compName": "Ligue 1",
       "matchday": 1,
-      "homeTeam": "Le Mans FC",
-      "homeCrest": "",
-      "awayTeam": "Stade Brestois 29",
-      "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "homeTeam": "Olympique de Marseille",
+      "homeCrest": "logos/Olympique_de_Marseille.png",
+      "awayTeam": "RC Strasbourg Alsace",
+      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
+      "utcDate": "2026-08-21T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559712,
@@ -17374,20 +17374,20 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "utcDate": "2026-08-22T15:15:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 559713,
+      "id": 559711,
       "compCode": "FL1",
       "compName": "Ligue 1",
       "matchday": 1,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "homeTeam": "Le Mans FC",
+      "homeCrest": "",
+      "awayTeam": "Stade Brestois 29",
+      "awayCrest": "logos/Stade_Brestois_29.png",
+      "utcDate": "2026-08-22T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559714,
@@ -17398,20 +17398,8 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
-    },
-    {
-      "id": 559715,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 1,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "RC Strasbourg Alsace",
-      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "utcDate": "2026-08-22T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559716,
@@ -17422,20 +17410,8 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
-    },
-    {
-      "id": 559717,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 1,
-      "homeTeam": "Angers SCO",
-      "homeCrest": "logos/Angers_SCO.png",
-      "awayTeam": "Lille OSC",
-      "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "utcDate": "2026-08-22T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559718,
@@ -17446,8 +17422,20 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "utcDate": "2026-08-22T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559717,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 1,
+      "homeTeam": "Angers SCO",
+      "homeCrest": "logos/Angers_SCO.png",
+      "awayTeam": "Lille OSC",
+      "awayCrest": "logos/Lille_OSC.png",
+      "utcDate": "2026-08-23T13:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559719,
@@ -17458,104 +17446,20 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "2026-08-22 15:00:00Z"
+      "utcDate": "2026-08-23T15:15:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 559703,
+      "id": 559713,
       "compCode": "FL1",
       "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "AS Monaco FC",
-      "homeCrest": "logos/AS_Monaco_FC.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559704,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "RC Strasbourg Alsace",
-      "homeCrest": "logos/RC_Strasbourg_Alsace.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559705,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "ES Troyes AC",
-      "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559706,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559707,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "OGC Nice",
-      "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559708,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "AJ Auxerre",
-      "homeCrest": "logos/AJ_Auxerre.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559709,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "Stade Rennais FC 1901",
-      "homeCrest": "logos/Stade_Rennais_FC_1901.png",
-      "awayTeam": "Le Mans FC",
-      "awayCrest": "",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
-    },
-    {
-      "id": 559710,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-08-29T15:00:00Z",
-      "status": "2026-08-29 15:00:00Z"
+      "matchday": 1,
+      "homeTeam": "Paris Saint-Germain FC",
+      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
+      "awayTeam": "Stade Rennais FC 1901",
+      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
+      "utcDate": "2026-08-23T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559702,
@@ -17566,8 +17470,104 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
+      "utcDate": "2026-08-28T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559704,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "RC Strasbourg Alsace",
+      "homeCrest": "logos/RC_Strasbourg_Alsace.png",
+      "awayTeam": "Racing Club de Lens",
+      "awayCrest": "logos/Racing_Club_de_Lens.png",
+      "utcDate": "2026-08-29T15:15:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559705,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "FC Lorient",
+      "homeCrest": "logos/FC_Lorient.png",
+      "awayTeam": "ES Troyes AC",
+      "awayCrest": "logos/ES_Troyes_AC.png",
+      "utcDate": "2026-08-29T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559706,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "Olympique Lyonnais",
+      "homeCrest": "logos/Olympique_Lyonnais.png",
+      "awayTeam": "Le Havre AC",
+      "awayCrest": "logos/Le_Havre_AC.png",
+      "utcDate": "2026-08-29T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559708,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "AJ Auxerre",
+      "homeCrest": "logos/AJ_Auxerre.png",
+      "awayTeam": "Angers SCO",
+      "awayCrest": "logos/Angers_SCO.png",
+      "utcDate": "2026-08-29T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559710,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "Stade Brestois 29",
+      "homeCrest": "logos/Stade_Brestois_29.png",
+      "awayTeam": "Toulouse FC",
+      "awayCrest": "logos/Toulouse_FC.png",
+      "utcDate": "2026-08-29T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559707,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "Paris FC",
+      "homeCrest": "logos/Paris_FC.png",
+      "awayTeam": "OGC Nice",
+      "awayCrest": "logos/OGC_Nice.png",
+      "utcDate": "2026-08-30T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559709,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "Stade Rennais FC 1901",
+      "homeCrest": "logos/Stade_Rennais_FC_1901.png",
+      "awayTeam": "Le Mans FC",
+      "awayCrest": "",
+      "utcDate": "2026-08-30T15:15:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559703,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 2,
+      "homeTeam": "AS Monaco FC",
+      "homeCrest": "logos/AS_Monaco_FC.png",
+      "awayTeam": "Olympique de Marseille",
+      "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-08-30T18:45:00Z",
-      "status": "2026-08-30 18:45:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 559693,
@@ -17678,40 +17678,16 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559684,
+      "id": 559689,
       "compCode": "FL1",
       "compName": "Ligue 1",
       "matchday": 4,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
-    },
-    {
-      "id": 559685,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "ES Troyes AC",
-      "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
-    },
-    {
-      "id": 559686,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Le Mans FC",
-      "homeCrest": "",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "homeTeam": "Stade Rennais FC 1901",
+      "homeCrest": "logos/Stade_Rennais_FC_1901.png",
+      "awayTeam": "Olympique de Marseille",
+      "awayCrest": "logos/Olympique_de_Marseille.png",
+      "utcDate": "2026-09-11T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559687,
@@ -17722,8 +17698,20 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "utcDate": "2026-09-12T15:15:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559684,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 4,
+      "homeTeam": "FC Lorient",
+      "homeCrest": "logos/FC_Lorient.png",
+      "awayTeam": "Toulouse FC",
+      "awayCrest": "logos/Toulouse_FC.png",
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559688,
@@ -17734,20 +17722,8 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
-    },
-    {
-      "id": 559689,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Stade Rennais FC 1901",
-      "homeCrest": "logos/Stade_Rennais_FC_1901.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559690,
@@ -17758,20 +17734,8 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
-    },
-    {
-      "id": 559691,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559692,
@@ -17782,8 +17746,44 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-09-12T15:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559685,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 4,
+      "homeTeam": "Lille OSC",
+      "homeCrest": "logos/Lille_OSC.png",
+      "awayTeam": "ES Troyes AC",
+      "awayCrest": "logos/ES_Troyes_AC.png",
+      "utcDate": "2026-09-13T13:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559686,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 4,
+      "homeTeam": "Le Mans FC",
+      "homeCrest": "",
+      "awayTeam": "Racing Club de Lens",
+      "awayCrest": "logos/Racing_Club_de_Lens.png",
+      "utcDate": "2026-09-13T15:15:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 559691,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 4,
+      "homeTeam": "Stade Brestois 29",
+      "homeCrest": "logos/Stade_Brestois_29.png",
+      "awayTeam": "Paris Saint-Germain FC",
+      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
+      "utcDate": "2026-09-13T18:45:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 559676,
