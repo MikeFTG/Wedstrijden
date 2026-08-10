@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T08:21:42.802978+00:00",
+  "updated": "2026-08-10T09:54:53.343099+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12803,7 +12803,7 @@
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
       "utcDate": "2026-08-15T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564633,
@@ -12815,7 +12815,7 @@
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "utcDate": "2026-08-15T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564629,
@@ -12827,7 +12827,7 @@
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564632,
@@ -12839,7 +12839,7 @@
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564636,
@@ -12851,7 +12851,7 @@
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
       "utcDate": "2026-08-16T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564635,
@@ -12863,7 +12863,7 @@
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564628,
@@ -12875,7 +12875,7 @@
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
       "utcDate": "2026-08-19T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564638,
@@ -12887,7 +12887,7 @@
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564647,
@@ -12899,7 +12899,7 @@
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "utcDate": "2026-08-21T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564641,
@@ -12911,7 +12911,7 @@
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
       "utcDate": "2026-08-22T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564643,
@@ -12923,7 +12923,7 @@
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
       "utcDate": "2026-08-22T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564645,
@@ -12935,7 +12935,7 @@
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
       "utcDate": "2026-08-22T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564646,
@@ -12947,7 +12947,7 @@
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564644,
@@ -12959,7 +12959,7 @@
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
       "utcDate": "2026-08-23T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564642,
@@ -12971,7 +12971,7 @@
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
       "utcDate": "2026-08-23T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564639,
@@ -12983,7 +12983,7 @@
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
       "utcDate": "2026-08-24T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564640,
@@ -12995,7 +12995,7 @@
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "utcDate": "2026-08-24T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564637,
@@ -13007,7 +13007,7 @@
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564631,
@@ -13019,7 +13019,7 @@
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "utcDate": "2026-08-26T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564630,
@@ -13031,7 +13031,7 @@
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
       "utcDate": "2026-08-27T19:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564654,
@@ -13043,7 +13043,7 @@
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
       "utcDate": "2026-08-28T17:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564648,
@@ -13055,7 +13055,7 @@
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
       "utcDate": "2026-08-28T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564655,
@@ -13067,7 +13067,7 @@
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "utcDate": "2026-08-29T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564653,
@@ -13079,7 +13079,7 @@
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "utcDate": "2026-08-29T17:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564649,
@@ -13091,7 +13091,7 @@
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "utcDate": "2026-08-29T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564656,
@@ -13103,7 +13103,7 @@
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564651,
@@ -13115,7 +13115,7 @@
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2026-08-30T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564652,
@@ -13127,7 +13127,7 @@
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
       "utcDate": "2026-08-30T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564657,
@@ -13139,7 +13139,7 @@
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
       "utcDate": "2026-08-31T17:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564650,
@@ -13151,7 +13151,7 @@
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "utcDate": "2026-08-31T19:30:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 564682,
@@ -13162,116 +13162,8 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-09-03T21:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564658,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564659,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564660,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "Real Racing Club de Santander",
-      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564661,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564662,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Villarreal CF",
-      "homeCrest": "logos/Villarreal_CF.png",
-      "awayTeam": "RC Deportivo La Coru\u00f1a",
-      "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564663,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564664,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564665,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564666,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "M\u00e1laga CF",
-      "homeCrest": "logos/M\u00e1laga_CF.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-09-03T19:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564667,
@@ -13282,8 +13174,116 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-09-06T15:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-09-04T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564663,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Athletic Club",
+      "homeCrest": "logos/Athletic_Club.png",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
+      "utcDate": "2026-09-05T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564660,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
+      "awayTeam": "Real Racing Club de Santander",
+      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
+      "utcDate": "2026-09-05T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564662,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Villarreal CF",
+      "homeCrest": "logos/Villarreal_CF.png",
+      "awayTeam": "RC Deportivo La Coru\u00f1a",
+      "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
+      "utcDate": "2026-09-05T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564659,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Valencia CF",
+      "homeCrest": "logos/Valencia_CF.png",
+      "awayTeam": "FC Barcelona",
+      "awayCrest": "logos/FC_Barcelona.png",
+      "utcDate": "2026-09-06T14:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564664,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Deportivo Alav\u00e9s",
+      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "logos/CA_Osasuna.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564666,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "M\u00e1laga CF",
+      "homeCrest": "logos/M\u00e1laga_CF.png",
+      "awayTeam": "Levante UD",
+      "awayCrest": "logos/Levante_UD.png",
+      "utcDate": "2026-09-06T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564661,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
+      "awayTeam": "Sevilla FC",
+      "awayCrest": "logos/Sevilla_FC.png",
+      "utcDate": "2026-09-06T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564665,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Getafe CF",
+      "homeCrest": "logos/Getafe_CF.png",
+      "awayTeam": "RC Celta de Vigo",
+      "awayCrest": "logos/RC_Celta_de_Vigo.png",
+      "utcDate": "2026-09-07T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564658,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 4,
+      "homeTeam": "Elche CF",
+      "homeCrest": "logos/Elche_CF.png",
+      "awayTeam": "Real Sociedad de F\u00fatbol",
+      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
+      "utcDate": "2026-09-07T19:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564668,
@@ -13294,7 +13294,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13306,7 +13306,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13318,7 +13318,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13330,7 +13330,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13342,7 +13342,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13354,7 +13354,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13366,7 +13366,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13378,7 +13378,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13390,7 +13390,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13402,7 +13402,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-09-13T15:00:00Z",
+      "utcDate": "2026-09-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13414,7 +13414,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13426,7 +13426,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13438,7 +13438,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13450,7 +13450,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13462,7 +13462,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13474,7 +13474,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13486,7 +13486,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13498,7 +13498,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13510,7 +13510,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-09-16T15:00:00Z",
+      "utcDate": "2026-09-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13522,7 +13522,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13534,7 +13534,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13546,7 +13546,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13558,7 +13558,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13570,7 +13570,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13582,7 +13582,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13594,7 +13594,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13606,7 +13606,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13618,7 +13618,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13630,7 +13630,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-09-20T15:00:00Z",
+      "utcDate": "2026-09-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13642,7 +13642,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13654,7 +13654,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13666,7 +13666,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13678,7 +13678,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13690,7 +13690,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13702,7 +13702,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13714,7 +13714,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13726,7 +13726,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13738,7 +13738,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13750,7 +13750,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-10-11T15:00:00Z",
+      "utcDate": "2026-10-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13762,7 +13762,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13774,7 +13774,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13786,7 +13786,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13798,7 +13798,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13810,7 +13810,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13822,7 +13822,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13834,7 +13834,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13846,7 +13846,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13858,7 +13858,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13870,7 +13870,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-10-18T15:00:00Z",
+      "utcDate": "2026-10-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13882,7 +13882,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13894,7 +13894,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13906,7 +13906,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13918,7 +13918,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13930,7 +13930,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13942,7 +13942,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13954,7 +13954,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13966,7 +13966,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13978,7 +13978,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -13990,7 +13990,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-10-25T16:00:00Z",
+      "utcDate": "2026-10-25T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14002,7 +14002,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14014,7 +14014,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14026,7 +14026,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14038,7 +14038,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14050,7 +14050,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14062,7 +14062,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14074,7 +14074,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14086,7 +14086,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14098,7 +14098,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14110,7 +14110,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-11-01T16:00:00Z",
+      "utcDate": "2026-11-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14122,7 +14122,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14134,7 +14134,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14146,7 +14146,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14158,7 +14158,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14170,7 +14170,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14182,7 +14182,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14194,7 +14194,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14206,7 +14206,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14218,7 +14218,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14230,7 +14230,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-11-08T16:00:00Z",
+      "utcDate": "2026-11-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14242,7 +14242,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14254,7 +14254,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14266,7 +14266,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14278,7 +14278,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14290,7 +14290,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14302,7 +14302,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14314,7 +14314,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14326,7 +14326,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14338,7 +14338,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14350,7 +14350,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-11-22T16:00:00Z",
+      "utcDate": "2026-11-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14362,7 +14362,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14374,7 +14374,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14386,7 +14386,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14398,7 +14398,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14410,7 +14410,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14422,7 +14422,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14434,7 +14434,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14446,7 +14446,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14458,7 +14458,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14470,7 +14470,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-11-29T16:00:00Z",
+      "utcDate": "2026-11-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14482,7 +14482,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14494,7 +14494,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14506,7 +14506,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14518,7 +14518,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14530,7 +14530,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14542,7 +14542,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14554,7 +14554,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14566,7 +14566,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14578,7 +14578,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14590,7 +14590,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-12-06T16:00:00Z",
+      "utcDate": "2026-12-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14602,7 +14602,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14614,7 +14614,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14626,7 +14626,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14638,7 +14638,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14650,7 +14650,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14662,7 +14662,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14674,7 +14674,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14686,7 +14686,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14698,7 +14698,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14710,7 +14710,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-12-13T16:00:00Z",
+      "utcDate": "2026-12-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14722,7 +14722,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14734,7 +14734,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14746,7 +14746,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14758,7 +14758,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14770,7 +14770,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14782,7 +14782,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14794,7 +14794,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14806,7 +14806,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14818,7 +14818,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14830,7 +14830,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-12-20T16:00:00Z",
+      "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14842,7 +14842,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14854,7 +14854,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14866,7 +14866,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14878,7 +14878,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14890,7 +14890,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14902,7 +14902,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14914,7 +14914,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14926,7 +14926,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14938,7 +14938,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14950,7 +14950,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14962,7 +14962,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14974,7 +14974,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14986,7 +14986,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -14998,7 +14998,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15010,7 +15010,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15022,7 +15022,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15034,7 +15034,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15046,7 +15046,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15058,7 +15058,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15070,7 +15070,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-01-10T12:00:00Z",
+      "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15082,7 +15082,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15094,7 +15094,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15106,7 +15106,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15118,7 +15118,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15130,7 +15130,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15142,7 +15142,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15154,7 +15154,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15166,7 +15166,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15178,7 +15178,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15190,7 +15190,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-01-17T12:00:00Z",
+      "utcDate": "2027-01-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15202,7 +15202,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15214,7 +15214,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15226,7 +15226,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15238,7 +15238,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15250,7 +15250,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15262,7 +15262,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15274,7 +15274,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15286,7 +15286,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15298,7 +15298,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15310,7 +15310,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-01-24T12:00:00Z",
+      "utcDate": "2027-01-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15322,7 +15322,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15334,7 +15334,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15346,7 +15346,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15358,7 +15358,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15370,7 +15370,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15382,7 +15382,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15394,7 +15394,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15406,7 +15406,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15418,7 +15418,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15430,7 +15430,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-01-31T12:00:00Z",
+      "utcDate": "2027-01-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15442,7 +15442,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15454,7 +15454,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15466,7 +15466,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15478,7 +15478,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15490,7 +15490,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15502,7 +15502,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15514,7 +15514,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15526,7 +15526,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15538,7 +15538,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15550,7 +15550,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15562,7 +15562,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15574,7 +15574,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15586,7 +15586,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15598,7 +15598,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15610,7 +15610,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15622,7 +15622,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15634,7 +15634,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15646,7 +15646,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15658,7 +15658,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15670,7 +15670,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-02-14T12:00:00Z",
+      "utcDate": "2027-02-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15682,7 +15682,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15694,7 +15694,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15706,7 +15706,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15718,7 +15718,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15730,7 +15730,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15742,7 +15742,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15754,7 +15754,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15766,7 +15766,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15778,7 +15778,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15790,7 +15790,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-02-21T12:00:00Z",
+      "utcDate": "2027-02-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15802,7 +15802,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15814,7 +15814,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15826,7 +15826,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15838,7 +15838,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15850,7 +15850,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15862,7 +15862,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15874,7 +15874,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15886,7 +15886,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15898,7 +15898,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15910,7 +15910,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15922,7 +15922,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15934,7 +15934,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15946,7 +15946,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15958,7 +15958,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15970,7 +15970,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15982,7 +15982,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -15994,7 +15994,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16006,7 +16006,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16018,7 +16018,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16030,7 +16030,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-03-07T12:00:00Z",
+      "utcDate": "2027-03-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16042,7 +16042,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16054,7 +16054,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16066,7 +16066,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16078,7 +16078,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16090,7 +16090,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16102,7 +16102,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16114,7 +16114,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16126,7 +16126,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16138,7 +16138,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16150,7 +16150,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-03-14T12:00:00Z",
+      "utcDate": "2027-03-14T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16162,7 +16162,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16174,7 +16174,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16186,7 +16186,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16198,7 +16198,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16210,7 +16210,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16222,7 +16222,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16234,7 +16234,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16246,7 +16246,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16258,7 +16258,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16270,7 +16270,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16282,7 +16282,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16294,7 +16294,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16306,7 +16306,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16318,7 +16318,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16330,7 +16330,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16342,7 +16342,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16354,7 +16354,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16366,7 +16366,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16378,7 +16378,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16390,7 +16390,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-04-04T12:00:00Z",
+      "utcDate": "2027-04-04T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16402,7 +16402,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16414,7 +16414,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16426,7 +16426,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16438,7 +16438,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16450,7 +16450,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16462,7 +16462,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16474,7 +16474,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16486,7 +16486,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16498,7 +16498,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16510,7 +16510,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-04-11T12:00:00Z",
+      "utcDate": "2027-04-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16522,7 +16522,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16534,7 +16534,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16546,7 +16546,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16558,7 +16558,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16570,7 +16570,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16582,7 +16582,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16594,7 +16594,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16606,7 +16606,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16618,7 +16618,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16630,7 +16630,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-04-18T12:00:00Z",
+      "utcDate": "2027-04-18T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16642,7 +16642,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16654,7 +16654,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16666,7 +16666,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16678,7 +16678,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16690,7 +16690,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16702,7 +16702,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16714,7 +16714,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16726,7 +16726,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16738,7 +16738,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16750,7 +16750,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-04-21T12:00:00Z",
+      "utcDate": "2027-04-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16762,7 +16762,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16774,7 +16774,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16786,7 +16786,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16798,7 +16798,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16810,7 +16810,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16822,7 +16822,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16834,7 +16834,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16846,7 +16846,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16858,7 +16858,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16870,7 +16870,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-05-02T12:00:00Z",
+      "utcDate": "2027-05-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16882,7 +16882,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16894,7 +16894,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16906,7 +16906,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16918,7 +16918,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16930,7 +16930,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16942,7 +16942,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16954,7 +16954,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16966,7 +16966,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16978,7 +16978,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16990,7 +16990,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17002,7 +17002,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17014,7 +17014,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17026,7 +17026,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17038,7 +17038,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17050,7 +17050,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17062,7 +17062,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17074,7 +17074,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17086,7 +17086,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17098,7 +17098,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17110,7 +17110,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17122,7 +17122,7 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17134,7 +17134,7 @@
       "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17146,7 +17146,7 @@
       "homeCrest": "logos/Sevilla_FC.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17158,7 +17158,7 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17170,7 +17170,7 @@
       "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17182,7 +17182,7 @@
       "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
       "awayTeam": "RCD Espanyol de Barcelona",
       "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17194,7 +17194,7 @@
       "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
       "awayTeam": "Real Betis Balompi\u00e9",
       "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17206,7 +17206,7 @@
       "homeCrest": "logos/FC_Barcelona.png",
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17218,7 +17218,7 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Elche CF",
       "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17230,7 +17230,7 @@
       "homeCrest": "logos/RC_Celta_de_Vigo.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2027-05-23T12:00:00Z",
+      "utcDate": "2027-05-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17242,7 +17242,7 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17254,7 +17254,7 @@
       "homeCrest": "logos/Real_Madrid_CF.png",
       "awayTeam": "RC Deportivo La Coru\u00f1a",
       "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17266,7 +17266,7 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Club Atl\u00e9tico de Madrid",
       "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17278,7 +17278,7 @@
       "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17290,7 +17290,7 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17302,7 +17302,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17314,7 +17314,7 @@
       "homeCrest": "logos/Athletic_Club.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17326,7 +17326,7 @@
       "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17338,7 +17338,7 @@
       "homeCrest": "logos/Getafe_CF.png",
       "awayTeam": "FC Barcelona",
       "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17350,7 +17350,7 @@
       "homeCrest": "logos/CA_Osasuna.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2027-05-30T12:00:00Z",
+      "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
