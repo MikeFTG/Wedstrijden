@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T01:17:11.179675+00:00",
+  "updated": "2026-08-14T03:34:51.661241+00:00",
   "matches": [
     {
       "id": 560542,
@@ -8578,7 +8578,7 @@
       "homeCrest": "logos/Cagliari_Calcio.png",
       "awayTeam": "US Lecce",
       "awayCrest": "logos/US_Lecce.png",
-      "utcDate": "2026-09-07T16:30:00Z",
+      "utcDate": "2026-09-07T16:00:00Z",
       "status": "TIMED"
     },
     {
@@ -13282,7 +13282,7 @@
       "homeCrest": "logos/Elche_CF.png",
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-09-07T19:00:00Z",
+      "utcDate": "2026-09-07T19:30:00Z",
       "status": "TIMED"
     },
     {
