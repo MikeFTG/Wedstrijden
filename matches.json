@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T17:13:56.192626+00:00",
+  "updated": "2026-08-15T17:42:31.711990+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12792,18 +12792,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564634,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-08-15T17:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564633,
