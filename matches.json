@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:16:09.701605+00:00",
+  "updated": "2026-08-15T19:42:19.965383+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12792,18 +12792,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564633,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "Sevilla FC",
-      "homeCrest": "logos/Sevilla_FC.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-08-15T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564629,
