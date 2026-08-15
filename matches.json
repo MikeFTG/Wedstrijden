@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T05:48:31.189267+00:00",
+  "updated": "2026-08-15T06:23:41.826755+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12842,18 +12842,6 @@
       "status": "TIMED"
     },
     {
-      "id": 564636,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-08-16T19:30:00Z",
-      "status": "2026-08-16 19:30:00Z"
-    },
-    {
       "id": 564635,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13019,6 +13007,18 @@
       "awayTeam": "Real Sociedad de F\u00fatbol",
       "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
       "utcDate": "2026-08-26T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564636,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 1,
+      "homeTeam": "RC Celta de Vigo",
+      "homeCrest": "logos/RC_Celta_de_Vigo.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "logos/CA_Osasuna.png",
+      "utcDate": "2026-08-27T18:30:00Z",
       "status": "TIMED"
     },
     {
