@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T16:47:48.893603+00:00",
+  "updated": "2026-08-16T17:12:56.566720+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12792,18 +12792,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564632,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-08-16T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564635,
