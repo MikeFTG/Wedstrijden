@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:26:38.543929+00:00",
+  "updated": "2026-08-17T19:06:42.343745+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12792,18 +12792,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564635,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "RC Deportivo La Coru\u00f1a",
-      "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-08-17T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564628,
