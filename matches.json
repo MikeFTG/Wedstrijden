@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T09:01:23.162147+00:00",
+  "updated": "2026-08-18T09:55:43.970063+00:00",
   "matches": [
     {
       "id": 560542,
@@ -17519,7 +17519,7 @@
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559694,
@@ -17531,7 +17531,7 @@
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559695,
@@ -17543,7 +17543,7 @@
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559696,
@@ -17555,7 +17555,7 @@
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559697,
@@ -17567,7 +17567,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559698,
@@ -17579,7 +17579,7 @@
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559699,
@@ -17591,7 +17591,7 @@
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559700,
@@ -17603,7 +17603,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559701,
@@ -17615,7 +17615,7 @@
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2026-09-05 15:00:00Z"
     },
     {
       "id": 559689,
