@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:24:29.162332+00:00",
+  "updated": "2026-08-18T14:03:46.689591+00:00",
   "matches": [
     {
       "id": 560542,
@@ -602,18 +602,6 @@
       "status": "TIMED"
     },
     {
-      "id": 560592,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Sunderland AFC",
-      "homeCrest": "logos/Sunderland_AFC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 560593,
       "compCode": "PL",
       "compName": "Premier League",
@@ -622,20 +610,20 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-10T11:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560594,
+      "id": 560592,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 6,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "Sunderland AFC",
+      "homeCrest": "logos/Sunderland_AFC.png",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "utcDate": "2026-10-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560595,
@@ -646,44 +634,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560596,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560597,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560598,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560599,
@@ -694,20 +646,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560600,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560601,
@@ -718,20 +658,68 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560602,
+      "id": 560600,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Fulham FC",
-      "homeCrest": "logos/Fulham_FC.png",
-      "awayTeam": "Hull City AFC",
-      "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 6,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
+      "awayTeam": "Tottenham Hotspur FC",
+      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
+      "utcDate": "2026-10-10T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560594,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 6,
+      "homeTeam": "Hull City AFC",
+      "homeCrest": "logos/Hull_City_AFC.png",
+      "awayTeam": "Everton FC",
+      "awayCrest": "logos/Everton_FC.png",
+      "utcDate": "2026-10-11T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560596,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 6,
+      "homeTeam": "Crystal Palace FC",
+      "homeCrest": "logos/Crystal_Palace_FC.png",
+      "awayTeam": "Nottingham Forest FC",
+      "awayCrest": "logos/Nottingham_Forest_FC.png",
+      "utcDate": "2026-10-11T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560598,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 6,
+      "homeTeam": "Liverpool FC",
+      "homeCrest": "logos/Liverpool_FC.png",
+      "awayTeam": "Manchester City FC",
+      "awayCrest": "logos/Manchester_City_FC.png",
+      "utcDate": "2026-10-11T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560597,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 6,
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "logos/Coventry_City_FC.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "logos/Newcastle_United_FC.png",
+      "utcDate": "2026-10-12T19:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560603,
@@ -742,80 +730,20 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-17T11:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560604,
+      "id": 560602,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 7,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560605,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560606,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Coventry City FC",
-      "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560607,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560608,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560609,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Brighton & Hove Albion FC",
-      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "Fulham FC",
+      "homeCrest": "logos/Fulham_FC.png",
+      "awayTeam": "Hull City AFC",
+      "awayCrest": "logos/Hull_City_AFC.png",
+      "utcDate": "2026-10-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560610,
@@ -826,8 +754,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560611,
@@ -838,104 +766,80 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560612,
+      "id": 560607,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 7,
+      "homeTeam": "Newcastle United FC",
+      "homeCrest": "logos/Newcastle_United_FC.png",
+      "awayTeam": "Aston Villa FC",
+      "awayCrest": "logos/Aston_Villa_FC.png",
+      "utcDate": "2026-10-17T16:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560613,
+      "id": 560604,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 7,
+      "homeTeam": "AFC Bournemouth",
+      "homeCrest": "logos/AFC_Bournemouth.png",
+      "awayTeam": "Sunderland AFC",
+      "awayCrest": "logos/Sunderland_AFC.png",
+      "utcDate": "2026-10-18T13:00:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560614,
+      "id": 560605,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 7,
+      "homeTeam": "Leeds United FC",
+      "homeCrest": "logos/Leeds_United_FC.png",
+      "awayTeam": "Manchester United FC",
+      "awayCrest": "logos/Manchester_United_FC.png",
+      "utcDate": "2026-10-18T13:00:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560615,
+      "id": 560609,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 7,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "awayTeam": "Crystal Palace FC",
+      "awayCrest": "logos/Crystal_Palace_FC.png",
+      "utcDate": "2026-10-18T13:00:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560616,
+      "id": 560608,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 7,
+      "homeTeam": "Nottingham Forest FC",
+      "homeCrest": "logos/Nottingham_Forest_FC.png",
+      "awayTeam": "Arsenal FC",
+      "awayCrest": "logos/Arsenal_FC.png",
+      "utcDate": "2026-10-18T15:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560617,
+      "id": 560606,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Chelsea FC",
-      "homeCrest": "logos/Chelsea_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560618,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560619,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Brentford FC",
-      "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 7,
+      "homeTeam": "Tottenham Hotspur FC",
+      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
+      "awayTeam": "Coventry City FC",
+      "awayCrest": "logos/Coventry_City_FC.png",
+      "utcDate": "2026-10-19T19:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560620,
@@ -946,8 +850,104 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-23T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560614,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Aston Villa FC",
+      "homeCrest": "logos/Aston_Villa_FC.png",
+      "awayTeam": "Manchester City FC",
+      "awayCrest": "logos/Manchester_City_FC.png",
+      "utcDate": "2026-10-24T11:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560612,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Liverpool FC",
+      "homeCrest": "logos/Liverpool_FC.png",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "utcDate": "2026-10-24T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560616,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Arsenal FC",
+      "homeCrest": "logos/Arsenal_FC.png",
+      "awayTeam": "Everton FC",
+      "awayCrest": "logos/Everton_FC.png",
+      "utcDate": "2026-10-24T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560618,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "logos/Coventry_City_FC.png",
+      "awayTeam": "Fulham FC",
+      "awayCrest": "logos/Fulham_FC.png",
+      "utcDate": "2026-10-24T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560617,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Chelsea FC",
+      "homeCrest": "logos/Chelsea_FC.png",
+      "awayTeam": "Tottenham Hotspur FC",
+      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
+      "utcDate": "2026-10-24T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560613,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Crystal Palace FC",
+      "homeCrest": "logos/Crystal_Palace_FC.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "logos/Newcastle_United_FC.png",
+      "utcDate": "2026-10-25T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560615,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
+      "awayTeam": "AFC Bournemouth",
+      "awayCrest": "logos/AFC_Bournemouth.png",
+      "utcDate": "2026-10-25T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560619,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 8,
+      "homeTeam": "Hull City AFC",
+      "homeCrest": "logos/Hull_City_AFC.png",
+      "awayTeam": "Brentford FC",
+      "awayCrest": "logos/Brentford_FC.png",
+      "utcDate": "2026-10-25T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560621,
@@ -958,56 +958,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560622,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 9,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560623,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 9,
-      "homeTeam": "Manchester City FC",
-      "homeCrest": "logos/Manchester_City_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560624,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 9,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 560625,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 9,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-25T16:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560626,
@@ -1018,32 +970,44 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-31T12:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560627,
+      "id": 560623,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 9,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "Manchester City FC",
+      "homeCrest": "logos/Manchester_City_FC.png",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 560628,
+      "id": 560624,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 9,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "AFC Bournemouth",
+      "homeCrest": "logos/AFC_Bournemouth.png",
+      "awayTeam": "Leeds United FC",
+      "awayCrest": "logos/Leeds_United_FC.png",
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560625,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 9,
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "logos/Coventry_City_FC.png",
+      "awayTeam": "Sunderland AFC",
+      "awayCrest": "logos/Sunderland_AFC.png",
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560629,
@@ -1054,8 +1018,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560630,
@@ -1066,8 +1030,32 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-10-31T15:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560627,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 9,
+      "homeTeam": "Tottenham Hotspur FC",
+      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
+      "awayTeam": "Crystal Palace FC",
+      "awayCrest": "logos/Crystal_Palace_FC.png",
+      "utcDate": "2026-10-31T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560628,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 9,
+      "homeTeam": "Aston Villa FC",
+      "homeCrest": "logos/Aston_Villa_FC.png",
+      "awayTeam": "Fulham FC",
+      "awayCrest": "logos/Fulham_FC.png",
+      "utcDate": "2026-11-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560631,
@@ -1078,8 +1066,20 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-10-31T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-01T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560622,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 9,
+      "homeTeam": "Newcastle United FC",
+      "homeCrest": "logos/Newcastle_United_FC.png",
+      "awayTeam": "Everton FC",
+      "awayCrest": "logos/Everton_FC.png",
+      "utcDate": "2026-11-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560640,
@@ -17303,7 +17303,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2026-08-21T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559712,
@@ -17315,7 +17315,7 @@
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
       "utcDate": "2026-08-22T15:15:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559711,
@@ -17327,7 +17327,7 @@
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559714,
@@ -17339,7 +17339,7 @@
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559716,
@@ -17351,7 +17351,7 @@
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559718,
@@ -17363,7 +17363,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559717,
@@ -17375,7 +17375,7 @@
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
       "utcDate": "2026-08-23T13:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559719,
@@ -17387,7 +17387,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2026-08-23T15:15:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559713,
@@ -17399,7 +17399,7 @@
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559702,
@@ -17411,7 +17411,7 @@
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
       "utcDate": "2026-08-28T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559704,
@@ -17423,7 +17423,7 @@
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
       "utcDate": "2026-08-29T15:15:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559705,
@@ -17435,7 +17435,7 @@
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559706,
@@ -17447,7 +17447,7 @@
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559708,
@@ -17459,7 +17459,7 @@
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559710,
@@ -17471,7 +17471,7 @@
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559707,
@@ -17483,7 +17483,7 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2026-08-30T13:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559709,
@@ -17495,7 +17495,7 @@
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
       "utcDate": "2026-08-30T15:15:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559703,
@@ -17507,7 +17507,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-08-30T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559693,
@@ -17519,7 +17519,7 @@
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559694,
@@ -17531,7 +17531,7 @@
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559695,
@@ -17543,7 +17543,7 @@
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559696,
@@ -17555,7 +17555,7 @@
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559697,
@@ -17567,7 +17567,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559698,
@@ -17579,7 +17579,7 @@
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559699,
@@ -17591,7 +17591,7 @@
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559700,
@@ -17603,7 +17603,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559701,
@@ -17615,7 +17615,7 @@
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "2026-09-05 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559689,
@@ -17627,7 +17627,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-09-11T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559687,
@@ -17639,7 +17639,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2026-09-12T15:15:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559684,
@@ -17651,7 +17651,7 @@
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559688,
@@ -17663,7 +17663,7 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559690,
@@ -17675,7 +17675,7 @@
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559692,
@@ -17687,7 +17687,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559685,
@@ -17699,7 +17699,7 @@
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
       "utcDate": "2026-09-13T13:00:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559686,
@@ -17711,7 +17711,7 @@
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
       "utcDate": "2026-09-13T15:15:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559691,
@@ -17723,7 +17723,7 @@
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
       "utcDate": "2026-09-13T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559676,
@@ -17734,7 +17734,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17746,7 +17746,7 @@
       "homeCrest": "",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17758,7 +17758,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17770,7 +17770,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17782,7 +17782,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17794,7 +17794,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17806,7 +17806,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17818,7 +17818,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-09-19T15:00:00Z",
+      "utcDate": "2026-09-19T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17831,7 +17831,7 @@
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
       "utcDate": "2026-09-20T18:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559666,
@@ -17842,7 +17842,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17854,7 +17854,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17866,7 +17866,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17878,7 +17878,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17890,7 +17890,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17902,7 +17902,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17914,7 +17914,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17926,7 +17926,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17938,7 +17938,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-10-10T15:00:00Z",
+      "utcDate": "2026-10-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17950,7 +17950,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17962,7 +17962,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17974,7 +17974,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17986,7 +17986,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17998,7 +17998,7 @@
       "homeCrest": "",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18010,7 +18010,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18022,7 +18022,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18034,7 +18034,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18046,7 +18046,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-10-17T15:00:00Z",
+      "utcDate": "2026-10-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18058,7 +18058,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18070,7 +18070,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18082,7 +18082,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18094,7 +18094,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18106,7 +18106,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18118,7 +18118,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18130,7 +18130,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18142,7 +18142,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-10-24T15:00:00Z",
+      "utcDate": "2026-10-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18155,7 +18155,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2026-10-25T19:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559639,
@@ -18166,7 +18166,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18178,7 +18178,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18190,7 +18190,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18202,7 +18202,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18214,7 +18214,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18226,7 +18226,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18238,7 +18238,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18250,7 +18250,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18262,7 +18262,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-31T16:00:00Z",
+      "utcDate": "2026-10-31T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18274,7 +18274,7 @@
       "homeCrest": "",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18286,7 +18286,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18298,7 +18298,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18310,7 +18310,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18322,7 +18322,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18334,7 +18334,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18346,7 +18346,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18358,7 +18358,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-11-07T16:00:00Z",
+      "utcDate": "2026-11-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18371,7 +18371,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-11-07T19:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559621,
@@ -18382,7 +18382,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18394,7 +18394,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18406,7 +18406,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18418,7 +18418,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18430,7 +18430,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18442,7 +18442,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18454,7 +18454,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18466,7 +18466,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18478,7 +18478,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-11-21T16:00:00Z",
+      "utcDate": "2026-11-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18490,7 +18490,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18502,7 +18502,7 @@
       "homeCrest": "",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18514,7 +18514,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18526,7 +18526,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18538,7 +18538,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18550,7 +18550,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18562,7 +18562,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18574,7 +18574,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18586,7 +18586,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-11-28T16:00:00Z",
+      "utcDate": "2026-11-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18598,7 +18598,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18610,7 +18610,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18622,7 +18622,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18634,7 +18634,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18646,7 +18646,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18658,7 +18658,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18670,7 +18670,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18682,7 +18682,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18694,7 +18694,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-12-05T16:00:00Z",
+      "utcDate": "2026-12-05T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18706,7 +18706,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18718,7 +18718,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18730,7 +18730,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18742,7 +18742,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18754,7 +18754,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18766,7 +18766,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18778,7 +18778,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18790,7 +18790,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-12-12T16:00:00Z",
+      "utcDate": "2026-12-12T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18803,7 +18803,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-12-13T19:45:00Z",
-      "status": "SCHEDULED"
+      "status": "TIMED"
     },
     {
       "id": 559586,
@@ -18814,7 +18814,7 @@
       "homeCrest": "",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18826,7 +18826,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18838,7 +18838,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18850,7 +18850,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18862,7 +18862,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18874,7 +18874,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18886,7 +18886,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18898,7 +18898,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-01-02T12:00:00Z",
+      "utcDate": "2027-01-02T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18910,7 +18910,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-01-03T12:00:00Z",
+      "utcDate": "2027-01-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18922,7 +18922,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18934,7 +18934,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18946,7 +18946,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18958,7 +18958,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18970,7 +18970,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18982,7 +18982,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18994,7 +18994,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19006,7 +19006,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19018,7 +19018,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-01-16T12:00:00Z",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19030,7 +19030,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19042,7 +19042,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19054,7 +19054,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19066,7 +19066,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19078,7 +19078,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19090,7 +19090,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19102,7 +19102,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19114,7 +19114,7 @@
       "homeCrest": "",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19126,7 +19126,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-01-23T12:00:00Z",
+      "utcDate": "2027-01-23T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19138,7 +19138,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19150,7 +19150,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19162,7 +19162,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19174,7 +19174,7 @@
       "homeCrest": "",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19186,7 +19186,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19198,7 +19198,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19210,7 +19210,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19222,7 +19222,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19234,7 +19234,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-01-30T12:00:00Z",
+      "utcDate": "2027-01-30T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19246,7 +19246,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19258,7 +19258,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19270,7 +19270,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19282,7 +19282,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19294,7 +19294,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19306,7 +19306,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19318,7 +19318,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19330,7 +19330,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-02-06T12:00:00Z",
+      "utcDate": "2027-02-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19342,7 +19342,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-02-07T12:00:00Z",
+      "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19354,7 +19354,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19366,7 +19366,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19378,7 +19378,7 @@
       "homeCrest": "",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19390,7 +19390,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19402,7 +19402,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19414,7 +19414,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19426,7 +19426,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19438,7 +19438,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19450,7 +19450,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-02-13T12:00:00Z",
+      "utcDate": "2027-02-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19462,7 +19462,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19474,7 +19474,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19486,7 +19486,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19498,7 +19498,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19510,7 +19510,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19522,7 +19522,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19534,7 +19534,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19546,7 +19546,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19558,7 +19558,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-02-20T12:00:00Z",
+      "utcDate": "2027-02-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19570,7 +19570,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19582,7 +19582,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19594,7 +19594,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19606,7 +19606,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19618,7 +19618,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19630,7 +19630,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19642,7 +19642,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19654,7 +19654,7 @@
       "homeCrest": "",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-02-27T12:00:00Z",
+      "utcDate": "2027-02-27T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19666,7 +19666,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-02-28T12:00:00Z",
+      "utcDate": "2027-02-28T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19678,7 +19678,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19690,7 +19690,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19702,7 +19702,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19714,7 +19714,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19726,7 +19726,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19738,7 +19738,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19750,7 +19750,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19762,7 +19762,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19774,7 +19774,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-03-06T12:00:00Z",
+      "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19786,7 +19786,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19798,7 +19798,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19810,7 +19810,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19822,7 +19822,7 @@
       "homeCrest": "",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19834,7 +19834,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19846,7 +19846,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19858,7 +19858,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19870,7 +19870,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19882,7 +19882,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-03-13T12:00:00Z",
+      "utcDate": "2027-03-13T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19894,7 +19894,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19906,7 +19906,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19918,7 +19918,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19930,7 +19930,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19942,7 +19942,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19954,7 +19954,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19966,7 +19966,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19978,7 +19978,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-03-20T12:00:00Z",
+      "utcDate": "2027-03-20T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19990,7 +19990,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-03-21T12:00:00Z",
+      "utcDate": "2027-03-21T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20002,7 +20002,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20014,7 +20014,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20026,7 +20026,7 @@
       "homeCrest": "",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20038,7 +20038,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20050,7 +20050,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20062,7 +20062,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20074,7 +20074,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20086,7 +20086,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20098,7 +20098,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-04-03T12:00:00Z",
+      "utcDate": "2027-04-03T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20110,7 +20110,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20122,7 +20122,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20134,7 +20134,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20146,7 +20146,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20158,7 +20158,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20170,7 +20170,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20182,7 +20182,7 @@
       "homeCrest": "",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20194,7 +20194,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20206,7 +20206,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-04-10T12:00:00Z",
+      "utcDate": "2027-04-10T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20218,7 +20218,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20230,7 +20230,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20242,7 +20242,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20254,7 +20254,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20266,7 +20266,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20278,7 +20278,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20290,7 +20290,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20302,7 +20302,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20314,7 +20314,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-04-17T12:00:00Z",
+      "utcDate": "2027-04-17T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20326,7 +20326,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20338,7 +20338,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20350,7 +20350,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20362,7 +20362,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20374,7 +20374,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20386,7 +20386,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20398,7 +20398,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20410,7 +20410,7 @@
       "homeCrest": "",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20422,7 +20422,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-04-24T12:00:00Z",
+      "utcDate": "2027-04-24T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20434,7 +20434,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20446,7 +20446,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20458,7 +20458,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20470,7 +20470,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20482,7 +20482,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20494,7 +20494,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20506,7 +20506,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20518,7 +20518,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20530,7 +20530,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-05-01T12:00:00Z",
+      "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20542,7 +20542,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20554,7 +20554,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20566,7 +20566,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20578,7 +20578,7 @@
       "homeCrest": "",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20590,7 +20590,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20602,7 +20602,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20614,7 +20614,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20626,7 +20626,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-05-08T12:00:00Z",
+      "utcDate": "2027-05-08T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20638,7 +20638,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-05-09T12:00:00Z",
+      "utcDate": "2027-05-09T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20650,7 +20650,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20662,7 +20662,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20674,7 +20674,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20686,7 +20686,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20698,7 +20698,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20710,7 +20710,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20722,7 +20722,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20734,7 +20734,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20746,7 +20746,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-05-16T12:00:00Z",
+      "utcDate": "2027-05-16T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20758,7 +20758,7 @@
       "homeCrest": "logos/OGC_Nice.png",
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20770,7 +20770,7 @@
       "homeCrest": "logos/Angers_SCO.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20782,7 +20782,7 @@
       "homeCrest": "logos/FC_Lorient.png",
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20794,7 +20794,7 @@
       "homeCrest": "logos/ES_Troyes_AC.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20806,7 +20806,7 @@
       "homeCrest": "",
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20818,7 +20818,7 @@
       "homeCrest": "logos/Toulouse_FC.png",
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20830,7 +20830,7 @@
       "homeCrest": "logos/Le_Havre_AC.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20842,7 +20842,7 @@
       "homeCrest": "logos/Paris_FC.png",
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20854,7 +20854,7 @@
       "homeCrest": "logos/Racing_Club_de_Lens.png",
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2027-05-22T12:00:00Z",
+      "utcDate": "2027-05-22T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20866,7 +20866,7 @@
       "homeCrest": "logos/AS_Monaco_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20878,7 +20878,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20890,7 +20890,7 @@
       "homeCrest": "logos/Lille_OSC.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20902,7 +20902,7 @@
       "homeCrest": "logos/Stade_Brestois_29.png",
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20914,7 +20914,7 @@
       "homeCrest": "logos/Olympique_de_Marseille.png",
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20926,7 +20926,7 @@
       "homeCrest": "logos/Stade_Rennais_FC_1901.png",
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20938,7 +20938,7 @@
       "homeCrest": "logos/Olympique_Lyonnais.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20950,7 +20950,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20962,7 +20962,7 @@
       "homeCrest": "logos/RC_Strasbourg_Alsace.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2027-05-29T12:00:00Z",
+      "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
     }
   ]
