@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:22:09.890164+00:00",
+  "updated": "2026-08-19T19:00:33.039985+00:00",
   "matches": [
     {
       "id": 560542,
@@ -1090,8 +1090,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560641,
@@ -1102,8 +1102,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560632,
@@ -1114,8 +1114,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560633,
@@ -1126,8 +1126,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560634,
@@ -1138,8 +1138,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560635,
@@ -1150,8 +1150,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560636,
@@ -1162,8 +1162,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560637,
@@ -1174,8 +1174,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560638,
@@ -1186,8 +1186,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560639,
@@ -1198,8 +1198,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-11-07T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-07T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560642,
@@ -1210,8 +1210,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560643,
@@ -1222,8 +1222,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560644,
@@ -1234,8 +1234,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560645,
@@ -1246,8 +1246,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560646,
@@ -1258,8 +1258,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560647,
@@ -1270,8 +1270,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560648,
@@ -1282,8 +1282,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560649,
@@ -1294,8 +1294,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560650,
@@ -1306,8 +1306,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560651,
@@ -1318,8 +1318,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560652,
@@ -1330,8 +1330,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560653,
@@ -1342,8 +1342,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560654,
@@ -1354,8 +1354,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560655,
@@ -1366,8 +1366,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560656,
@@ -1378,8 +1378,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560657,
@@ -1390,8 +1390,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560658,
@@ -1402,8 +1402,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560659,
@@ -1414,8 +1414,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560660,
@@ -1426,8 +1426,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560661,
@@ -1438,8 +1438,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560662,
@@ -1450,8 +1450,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560663,
@@ -1462,8 +1462,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560664,
@@ -1474,8 +1474,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560665,
@@ -1486,8 +1486,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560666,
@@ -1498,8 +1498,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560667,
@@ -1510,8 +1510,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560668,
@@ -1522,8 +1522,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560669,
@@ -1534,8 +1534,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560670,
@@ -1546,8 +1546,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560671,
@@ -1558,8 +1558,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-02T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560672,
@@ -1570,8 +1570,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560673,
@@ -1582,8 +1582,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560674,
@@ -1594,8 +1594,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560675,
@@ -1606,8 +1606,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560676,
@@ -1618,8 +1618,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560677,
@@ -1630,8 +1630,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560678,
@@ -1642,8 +1642,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560679,
@@ -1654,8 +1654,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560680,
@@ -1666,8 +1666,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560681,
@@ -1678,8 +1678,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560682,
@@ -1690,8 +1690,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560683,
@@ -1702,8 +1702,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560684,
@@ -1714,8 +1714,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560685,
@@ -1726,8 +1726,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560686,
@@ -1738,8 +1738,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560687,
@@ -1750,8 +1750,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560688,
@@ -1762,8 +1762,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560689,
@@ -1774,8 +1774,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560690,
@@ -1786,8 +1786,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560691,
@@ -1798,8 +1798,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560692,
@@ -1810,8 +1810,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560693,
@@ -1822,8 +1822,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560694,
@@ -1834,8 +1834,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560695,
@@ -1846,8 +1846,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560696,
@@ -1858,8 +1858,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560697,
@@ -1870,8 +1870,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560698,
@@ -1882,8 +1882,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560699,
@@ -1894,8 +1894,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560700,
@@ -1906,8 +1906,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560701,
@@ -1918,8 +1918,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560702,
@@ -1930,8 +1930,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560703,
@@ -1942,8 +1942,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560704,
@@ -1954,8 +1954,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560705,
@@ -1966,8 +1966,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560706,
@@ -1978,8 +1978,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560707,
@@ -1990,8 +1990,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560708,
@@ -2002,8 +2002,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560709,
@@ -2014,8 +2014,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560710,
@@ -2026,8 +2026,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560711,
@@ -2038,8 +2038,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-12-26T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-26T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560712,
@@ -2050,8 +2050,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560713,
@@ -2062,8 +2062,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560714,
@@ -2074,8 +2074,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560715,
@@ -2086,8 +2086,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560716,
@@ -2098,8 +2098,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560717,
@@ -2110,8 +2110,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560718,
@@ -2122,8 +2122,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560719,
@@ -2134,8 +2134,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560720,
@@ -2146,8 +2146,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560721,
@@ -2158,8 +2158,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-12-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560722,
@@ -2170,8 +2170,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560723,
@@ -2182,8 +2182,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560724,
@@ -2194,8 +2194,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560725,
@@ -2206,8 +2206,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560726,
@@ -2218,8 +2218,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560727,
@@ -2230,8 +2230,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560728,
@@ -2242,8 +2242,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560729,
@@ -2254,8 +2254,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560730,
@@ -2266,8 +2266,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560731,
@@ -2278,8 +2278,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-01-02T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-02T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560732,
@@ -2290,8 +2290,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560733,
@@ -2302,8 +2302,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560734,
@@ -2314,8 +2314,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560735,
@@ -2326,8 +2326,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560736,
@@ -2338,8 +2338,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560737,
@@ -2350,8 +2350,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560738,
@@ -2362,8 +2362,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560739,
@@ -2374,8 +2374,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560740,
@@ -2386,8 +2386,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560741,
@@ -2398,8 +2398,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-01-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-06T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560742,
@@ -2410,8 +2410,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560743,
@@ -2422,8 +2422,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560744,
@@ -2434,8 +2434,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560745,
@@ -2446,8 +2446,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560746,
@@ -2458,8 +2458,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560747,
@@ -2470,8 +2470,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560748,
@@ -2482,8 +2482,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560749,
@@ -2494,8 +2494,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560750,
@@ -2506,8 +2506,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560751,
@@ -2518,8 +2518,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560752,
@@ -2530,8 +2530,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560753,
@@ -2542,8 +2542,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560754,
@@ -2554,8 +2554,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560755,
@@ -2566,8 +2566,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560756,
@@ -2578,8 +2578,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560757,
@@ -2590,8 +2590,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560758,
@@ -2602,8 +2602,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560759,
@@ -2614,8 +2614,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560760,
@@ -2626,8 +2626,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560761,
@@ -2638,8 +2638,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560762,
@@ -2650,8 +2650,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560763,
@@ -2662,8 +2662,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560764,
@@ -2674,8 +2674,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560765,
@@ -2686,8 +2686,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560766,
@@ -2698,8 +2698,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560767,
@@ -2710,8 +2710,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560768,
@@ -2722,8 +2722,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560769,
@@ -2734,8 +2734,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560770,
@@ -2746,8 +2746,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560771,
@@ -2758,8 +2758,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560772,
@@ -2770,8 +2770,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560773,
@@ -2782,8 +2782,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560774,
@@ -2794,8 +2794,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560775,
@@ -2806,8 +2806,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560776,
@@ -2818,8 +2818,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560777,
@@ -2830,8 +2830,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560778,
@@ -2842,8 +2842,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560779,
@@ -2854,8 +2854,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560780,
@@ -2866,8 +2866,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560781,
@@ -2878,8 +2878,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-06T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560782,
@@ -2890,8 +2890,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560783,
@@ -2902,8 +2902,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560784,
@@ -2914,8 +2914,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560785,
@@ -2926,8 +2926,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560786,
@@ -2938,8 +2938,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560787,
@@ -2950,8 +2950,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560788,
@@ -2962,8 +2962,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560789,
@@ -2974,8 +2974,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560790,
@@ -2986,8 +2986,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560791,
@@ -2998,8 +2998,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-02-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-10T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560792,
@@ -3010,8 +3010,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560793,
@@ -3022,8 +3022,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560794,
@@ -3034,8 +3034,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560795,
@@ -3046,8 +3046,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560796,
@@ -3058,8 +3058,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560797,
@@ -3070,8 +3070,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560798,
@@ -3082,8 +3082,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560799,
@@ -3094,8 +3094,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560800,
@@ -3106,8 +3106,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560801,
@@ -3118,8 +3118,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560802,
@@ -3130,8 +3130,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560803,
@@ -3142,8 +3142,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560804,
@@ -3154,8 +3154,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560805,
@@ -3166,8 +3166,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560806,
@@ -3178,8 +3178,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560807,
@@ -3190,8 +3190,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560808,
@@ -3202,8 +3202,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560809,
@@ -3214,8 +3214,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560810,
@@ -3226,8 +3226,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560811,
@@ -3238,8 +3238,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-02-27T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560812,
@@ -3250,8 +3250,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560813,
@@ -3262,8 +3262,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560814,
@@ -3274,8 +3274,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560815,
@@ -3286,8 +3286,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560816,
@@ -3298,8 +3298,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560817,
@@ -3310,8 +3310,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560818,
@@ -3322,8 +3322,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560819,
@@ -3334,8 +3334,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560820,
@@ -3346,8 +3346,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560821,
@@ -3358,8 +3358,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-03T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560822,
@@ -3370,8 +3370,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560823,
@@ -3382,8 +3382,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560824,
@@ -3394,8 +3394,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560825,
@@ -3406,8 +3406,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560826,
@@ -3418,8 +3418,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560827,
@@ -3430,8 +3430,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560828,
@@ -3442,8 +3442,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560829,
@@ -3454,8 +3454,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560830,
@@ -3466,8 +3466,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560831,
@@ -3478,8 +3478,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-13T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560832,
@@ -3490,8 +3490,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560833,
@@ -3502,8 +3502,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560834,
@@ -3514,8 +3514,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560835,
@@ -3526,8 +3526,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560836,
@@ -3538,8 +3538,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560837,
@@ -3550,8 +3550,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560838,
@@ -3562,8 +3562,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560839,
@@ -3574,8 +3574,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560840,
@@ -3586,8 +3586,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560841,
@@ -3598,8 +3598,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-03-20T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560842,
@@ -3610,8 +3610,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560843,
@@ -3622,8 +3622,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560844,
@@ -3634,8 +3634,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560845,
@@ -3646,8 +3646,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560846,
@@ -3658,8 +3658,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560847,
@@ -3670,8 +3670,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560848,
@@ -3682,8 +3682,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560849,
@@ -3694,8 +3694,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560850,
@@ -3706,8 +3706,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560851,
@@ -3718,8 +3718,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-10T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560852,
@@ -3730,8 +3730,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560853,
@@ -3742,8 +3742,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560854,
@@ -3754,8 +3754,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560855,
@@ -3766,8 +3766,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560856,
@@ -3778,8 +3778,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560857,
@@ -3790,8 +3790,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560858,
@@ -3802,8 +3802,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560859,
@@ -3814,8 +3814,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560860,
@@ -3826,8 +3826,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560861,
@@ -3838,8 +3838,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-04-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-17T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560862,
@@ -3850,8 +3850,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560863,
@@ -3862,8 +3862,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560864,
@@ -3874,8 +3874,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560865,
@@ -3886,8 +3886,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560866,
@@ -3898,8 +3898,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560867,
@@ -3910,8 +3910,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560868,
@@ -3922,8 +3922,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560869,
@@ -3934,8 +3934,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560870,
@@ -3946,8 +3946,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560871,
@@ -3958,8 +3958,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-04-24T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560872,
@@ -3970,8 +3970,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560873,
@@ -3982,8 +3982,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560874,
@@ -3994,8 +3994,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560875,
@@ -4006,8 +4006,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560876,
@@ -4018,8 +4018,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560877,
@@ -4030,8 +4030,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560878,
@@ -4042,8 +4042,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560879,
@@ -4054,8 +4054,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560880,
@@ -4066,8 +4066,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560881,
@@ -4078,8 +4078,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-01T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560882,
@@ -4090,8 +4090,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560883,
@@ -4102,8 +4102,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560884,
@@ -4114,8 +4114,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560885,
@@ -4126,8 +4126,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560886,
@@ -4138,8 +4138,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560887,
@@ -4150,8 +4150,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560888,
@@ -4162,8 +4162,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560889,
@@ -4174,8 +4174,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560890,
@@ -4186,8 +4186,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560891,
@@ -4198,8 +4198,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-05-08T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-08T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560896,
@@ -4210,8 +4210,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560897,
@@ -4222,8 +4222,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560898,
@@ -4234,8 +4234,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560899,
@@ -4246,8 +4246,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560900,
@@ -4258,8 +4258,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560901,
@@ -4270,8 +4270,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560892,
@@ -4282,8 +4282,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560893,
@@ -4294,8 +4294,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560894,
@@ -4306,8 +4306,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560895,
@@ -4318,8 +4318,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-05-15T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-15T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560902,
@@ -4330,8 +4330,8 @@
       "homeCrest": "logos/Brentford_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560903,
@@ -4342,8 +4342,8 @@
       "homeCrest": "logos/Newcastle_United_FC.png",
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560904,
@@ -4354,8 +4354,8 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560905,
@@ -4366,8 +4366,8 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560906,
@@ -4378,8 +4378,8 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560907,
@@ -4390,8 +4390,8 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560908,
@@ -4402,8 +4402,8 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560909,
@@ -4414,8 +4414,8 @@
       "homeCrest": "logos/Fulham_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560910,
@@ -4426,8 +4426,8 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560911,
@@ -4438,8 +4438,8 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-05-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-23T14:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560912,
@@ -4450,8 +4450,8 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560913,
@@ -4462,8 +4462,8 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560914,
@@ -4474,8 +4474,8 @@
       "homeCrest": "logos/Liverpool_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560915,
@@ -4486,8 +4486,8 @@
       "homeCrest": "logos/Coventry_City_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560916,
@@ -4498,8 +4498,8 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560917,
@@ -4510,8 +4510,8 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560918,
@@ -4522,8 +4522,8 @@
       "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560919,
@@ -4534,8 +4534,8 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560920,
@@ -4546,8 +4546,8 @@
       "homeCrest": "logos/Chelsea_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 560921,
@@ -4558,8 +4558,8 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2027-05-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-05-30T15:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565776,
@@ -12792,18 +12792,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564628,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "M\u00e1laga CF",
-      "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-08-19T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564638,
