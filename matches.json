@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:26:48.733557+00:00",
+  "updated": "2026-08-20T19:09:24.351839+00:00",
   "matches": [
     {
       "id": 560542,
@@ -12792,18 +12792,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564638,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-08-20T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564647,
