@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-21T18:25:21.074608+00:00",
+  "updated": "2026-08-21T19:05:00.252643+00:00",
   "matches": [
-    {
-      "id": 560542,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "Coventry City FC",
-      "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-08-21T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560543,
       "compCode": "PL",
@@ -12794,18 +12782,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564647,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-08-21T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564641,
       "compCode": "PD",
       "compName": "La Liga",
@@ -17268,18 +17244,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559715,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 1,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "RC Strasbourg Alsace",
-      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-08-21T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559712,
