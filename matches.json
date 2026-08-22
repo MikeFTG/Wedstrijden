@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T19:17:35.003814+00:00",
+  "updated": "2026-08-22T19:43:21.446054+00:00",
   "matches": [
     {
       "id": 560548,
@@ -12672,18 +12672,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564645,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-08-22T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564646,
