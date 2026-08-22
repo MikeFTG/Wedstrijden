@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-22T16:14:23.399645+00:00",
+  "updated": "2026-08-22T16:46:58.560241+00:00",
   "matches": [
-    {
-      "id": 560547,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-08-22T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560548,
       "compCode": "PL",
@@ -8171,30 +8159,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558629,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 1,
-      "homeTeam": "Udinese Calcio",
-      "homeCrest": "logos/Udinese_Calcio.png",
-      "awayTeam": "Como 1907",
-      "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-08-22T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558632,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 1,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "AC Monza",
-      "awayCrest": "logos/AC_Monza.png",
-      "utcDate": "2026-08-22T16:30:00Z",
       "status": "TIMED"
     },
     {
