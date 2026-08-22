@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-22T11:13:43.431633+00:00",
+  "updated": "2026-08-22T11:42:18.062075+00:00",
   "matches": [
-    {
-      "id": 560543,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-08-22T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560544,
       "compCode": "PL",
