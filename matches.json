@@ -1,42 +1,6 @@
 {
-  "updated": "2026-08-22T13:49:42.272657+00:00",
+  "updated": "2026-08-22T14:13:29.335709+00:00",
   "matches": [
-    {
-      "id": 560544,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Ipswich Town FC",
-      "homeCrest": "logos/Ipswich_Town_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-08-22T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560545,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-08-22T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560546,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Everton FC",
-      "homeCrest": "logos/Everton_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-08-22T14:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560547,
       "compCode": "PL",
