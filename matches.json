@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:13:04.746506+00:00",
+  "updated": "2026-08-22T15:43:08.739810+00:00",
   "matches": [
     {
       "id": 560547,
@@ -17184,18 +17184,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559712,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 1,
-      "homeTeam": "Racing Club de Lens",
-      "homeCrest": "logos/Racing_Club_de_Lens.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-08-22T15:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559711,
