@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:44:54.783597+00:00",
+  "updated": "2026-08-22T15:13:04.746506+00:00",
   "matches": [
     {
       "id": 560547,
@@ -12732,18 +12732,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564641,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-08-22T15:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564643,
