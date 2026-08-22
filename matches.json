@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T17:13:41.797001+00:00",
+  "updated": "2026-08-22T17:42:58.280012+00:00",
   "matches": [
     {
       "id": 560548,
@@ -12696,18 +12696,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564643,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-08-22T17:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564645,
