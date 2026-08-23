@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:46:35.667331+00:00",
+  "updated": "2026-08-23T15:14:16.564341+00:00",
   "matches": [
     {
       "id": 560550,
@@ -12648,18 +12648,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564646,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-08-23T15:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564644,
