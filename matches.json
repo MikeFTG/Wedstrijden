@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:16:45.050828+00:00",
+  "updated": "2026-08-23T19:42:56.849843+00:00",
   "matches": [
     {
       "id": 560551,
@@ -12588,18 +12588,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564642,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-08-23T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564639,
