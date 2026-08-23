@@ -1,30 +1,6 @@
 {
-  "updated": "2026-08-23T12:23:26.461580+00:00",
+  "updated": "2026-08-23T13:08:41.548437+00:00",
   "matches": [
-    {
-      "id": 560548,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Manchester City FC",
-      "homeCrest": "logos/Manchester_City_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-08-23T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560549,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Brighton & Hove Albion FC",
-      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2026-08-23T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560550,
       "compCode": "PL",
@@ -17100,18 +17076,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559717,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 1,
-      "homeTeam": "Angers SCO",
-      "homeCrest": "logos/Angers_SCO.png",
-      "awayTeam": "Lille OSC",
-      "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-08-23T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559719,
