@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-23T15:14:16.564341+00:00",
+  "updated": "2026-08-23T15:44:00.480992+00:00",
   "matches": [
-    {
-      "id": 560550,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-08-23T15:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560551,
       "compCode": "PL",
@@ -17064,18 +17052,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559719,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 1,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-08-23T15:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559713,
