@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-24T18:29:26.133156+00:00",
+  "updated": "2026-08-24T19:09:57.169687+00:00",
   "matches": [
-    {
-      "id": 560551,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 1,
-      "homeTeam": "Fulham FC",
-      "homeCrest": "logos/Fulham_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-08-24T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560555,
       "compCode": "PL",
@@ -8123,18 +8111,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558638,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 1,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-08-24T18:45:00Z",
       "status": "TIMED"
     },
     {
