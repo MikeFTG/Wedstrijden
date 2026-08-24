@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T17:03:17.716163+00:00",
+  "updated": "2026-08-24T17:55:24.217018+00:00",
   "matches": [
     {
       "id": 560551,
@@ -12576,18 +12576,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564639,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 2,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "Levante UD",
-      "awayCrest": "logos/Levante_UD.png",
-      "utcDate": "2026-08-24T17:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564640,
