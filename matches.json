@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:27:48.734552+00:00",
+  "updated": "2026-08-25T19:08:00.955719+00:00",
   "matches": [
     {
       "id": 560555,
@@ -12552,18 +12552,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564637,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-08-25T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564631,
