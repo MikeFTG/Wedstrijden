@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T05:55:21.053759+00:00",
+  "updated": "2026-08-25T06:34:17.726432+00:00",
   "matches": [
     {
       "id": 560555,
@@ -19206,10 +19206,10 @@
       "compCode": "FL1",
       "compName": "Ligue 1",
       "matchday": 23,
-      "homeTeam": "Stade Rennais FC 1901",
-      "homeCrest": "logos/Stade_Rennais_FC_1901.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
+      "homeTeam": "Paris Saint-Germain FC",
+      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
+      "awayTeam": "Stade Rennais FC 1901",
+      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2027-03-06T00:00:00Z",
       "status": "SCHEDULED"
     },
