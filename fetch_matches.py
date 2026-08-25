@@ -13,6 +13,8 @@ COMPETITIES = {
     "SA":  "Serie A",
     "PD":  "La Liga",
     "FL1": "Ligue 1",
+    "ELC": "Championship",
+    "PPL": "Primeira Liga",
 }
 
 STATUS_BESTAND = "known_matches.json"
