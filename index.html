@@ -120,7 +120,9 @@ var COMP_LOGOS = {
   SA:  'https://crests.football-data.org/SA.png',
   PD:  'https://crests.football-data.org/PD.png',
   BL2: 'https://crests.football-data.org/BL2.png',
-  FL1: 'https://crests.football-data.org/FL1.png'
+  FL1: 'https://crests.football-data.org/FL1.png',
+  ELC: 'https://crests.football-data.org/ELC.png',
+  PPL: 'https://crests.football-data.org/PPL.png'
 };
 
 // Team logo's worden opgehaald via football-data crest URLs (opgeslagen in matches.json)
@@ -180,7 +182,7 @@ function renderAll(matches) {
   }
 
   var byComp = {};
-  var compOrder = ['PL','BL1','SA','PD','FL1','BL2'];
+  var compOrder = ['PL','BL1','SA','PD','FL1','BL2','ELC','PPL'];
   for (var i = 0; i < matches.length; i++) {
     var m = matches[i];
     if (!byComp[m.compCode]) byComp[m.compCode] = {};
