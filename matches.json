@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:11:43.045040+00:00",
+  "updated": "2026-08-26T20:25:32.588519+00:00",
   "matches": [
     {
       "id": 560555,
@@ -12552,18 +12552,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564631,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-08-26T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564636,
