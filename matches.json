@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T18:00:14.682047+00:00",
+  "updated": "2026-08-28T02:14:12.922789+00:00",
   "matches": [
     {
       "id": 560555,
@@ -12552,30 +12552,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564636,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-08-27T18:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564630,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 1,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-08-27T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564654,
