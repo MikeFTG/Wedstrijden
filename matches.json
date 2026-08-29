@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T23:36:44.674069+00:00",
+  "updated": "2026-08-29T05:01:42.168434+00:00",
   "matches": [
     {
       "id": 560552,
@@ -21146,18 +21146,6 @@
       "status": "TIMED"
     },
     {
-      "id": 561850,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 8,
-      "homeTeam": "Norwich City FC",
-      "homeCrest": "logos/Norwich_City_FC.png",
-      "awayTeam": "Bolton Wanderers FC",
-      "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 561853,
       "compCode": "ELC",
       "compName": "Championship",
@@ -21215,6 +21203,18 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-09-20T11:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 561850,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 8,
+      "homeTeam": "Norwich City FC",
+      "homeCrest": "logos/Norwich_City_FC.png",
+      "awayTeam": "Bolton Wanderers FC",
+      "awayCrest": "logos/Bolton_Wanderers_FC.png",
+      "utcDate": "2026-09-20T12:30:00Z",
       "status": "TIMED"
     },
     {
