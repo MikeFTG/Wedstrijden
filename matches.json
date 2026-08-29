@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T21:51:05.386972+00:00",
+  "updated": "2026-08-29T23:47:01.933943+00:00",
   "matches": [
     {
       "id": 560554,
@@ -26354,18 +26354,6 @@
       "status": "TIMED"
     },
     {
-      "id": 567298,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "CD Nacional",
-      "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-09-04T19:15:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 567299,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -26411,6 +26399,18 @@
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "utcDate": "2026-09-05T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567298,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 5,
+      "homeTeam": "Sporting Clube de Portugal",
+      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
+      "awayTeam": "CD Nacional",
+      "awayCrest": "logos/CD_Nacional.png",
+      "utcDate": "2026-09-05T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -26470,7 +26470,7 @@
       "homeCrest": "logos/Moreirense_FC.png",
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-09-09T19:15:00Z",
+      "utcDate": "2026-09-09T19:45:00Z",
       "status": "TIMED"
     },
     {
