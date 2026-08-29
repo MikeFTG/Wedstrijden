@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-29T05:01:42.168434+00:00",
+  "updated": "2026-08-29T11:42:59.191838+00:00",
   "matches": [
-    {
-      "id": 560552,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-08-29T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560560,
       "compCode": "PL",
@@ -20364,42 +20352,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561789,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 3,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Stoke City FC",
-      "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2026-08-29T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561791,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 3,
-      "homeTeam": "Derby County FC",
-      "homeCrest": "logos/Derby_County_FC.png",
-      "awayTeam": "Swansea City AFC",
-      "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2026-08-29T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561794,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 3,
-      "homeTeam": "Middlesbrough FC",
-      "homeCrest": "logos/Middlesbrough_FC.png",
-      "awayTeam": "West Bromwich Albion FC",
-      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2026-08-29T11:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561785,
