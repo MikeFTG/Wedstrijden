@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T18:07:11.321002+00:00",
+  "updated": "2026-08-30T21:18:39.254227+00:00",
   "matches": [
     {
       "id": 560557,
@@ -7898,30 +7898,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558622,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 2,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "Genoa CFC",
-      "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-08-30T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558623,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 2,
-      "homeTeam": "Cagliari Calcio",
-      "homeCrest": "logos/Cagliari_Calcio.png",
-      "awayTeam": "FC Internazionale Milano",
-      "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-08-30T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558621,
       "compCode": "SA",
       "compName": "Serie A",
@@ -12266,18 +12242,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564652,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 3,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-08-30T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564657,
       "compCode": "PD",
       "compName": "La Liga",
@@ -16502,18 +16466,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559703,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 2,
-      "homeTeam": "AS Monaco FC",
-      "homeCrest": "logos/AS_Monaco_FC.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-08-30T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559696,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -20339,7 +20291,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-09-09T18:45:00Z",
-      "status": "2026-09-09 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 561829,
@@ -20531,7 +20483,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-09-15T18:45:00Z",
-      "status": "2026-09-08 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 561828,
@@ -20543,7 +20495,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-09-15T18:45:00Z",
-      "status": "2026-09-08 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 561845,
@@ -20687,7 +20639,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-09-20T12:30:00Z",
-      "status": "2026-09-19 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 561862,
@@ -26162,18 +26114,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567284,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 4,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2026-08-30T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 567288,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -26195,18 +26135,6 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-08-31T19:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567298,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "CD Nacional",
-      "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-09-04T19:15:00Z",
       "status": "TIMED"
     },
     {
@@ -26255,6 +26183,18 @@
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "utcDate": "2026-09-05T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567298,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 5,
+      "homeTeam": "Sporting Clube de Portugal",
+      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
+      "awayTeam": "CD Nacional",
+      "awayCrest": "logos/CD_Nacional.png",
+      "utcDate": "2026-09-05T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -26314,7 +26254,7 @@
       "homeCrest": "logos/Moreirense_FC.png",
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-09-09T19:15:00Z",
+      "utcDate": "2026-09-09T19:45:00Z",
       "status": "TIMED"
     },
     {
