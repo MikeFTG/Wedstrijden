@@ -1,18 +1,6 @@
 {
-  "updated": "2026-08-31T17:09:05.050528+00:00",
+  "updated": "2026-08-31T21:57:46.672110+00:00",
   "matches": [
-    {
-      "id": 560557,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 2,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-08-31T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560566,
       "compCode": "PL",
@@ -7898,18 +7886,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558628,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 2,
-      "homeTeam": "Atalanta BC",
-      "homeCrest": "logos/Atalanta_BC.png",
-      "awayTeam": "Bologna FC 1909",
-      "awayCrest": "logos/Bologna_FC_1909.png",
-      "utcDate": "2026-08-31T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558609,
       "compCode": "SA",
       "compName": "Serie A",
@@ -12228,30 +12204,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564657,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 3,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-08-31T17:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564650,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 3,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-08-31T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564682,
@@ -20270,18 +20222,6 @@
       "status": "TIMED"
     },
     {
-      "id": 561826,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 6,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Portsmouth FC",
-      "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2026-09-09T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 561829,
       "compCode": "ELC",
       "compName": "Championship",
@@ -26100,30 +26040,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567288,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 4,
-      "homeTeam": "Sport Lisboa e Benfica",
-      "homeCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "awayTeam": "GD Estoril Praia",
-      "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2026-08-31T19:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567292,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 4,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "Vit\u00f3ria SC",
-      "awayCrest": "logos/Vit\u00f3ria_SC.png",
-      "utcDate": "2026-08-31T19:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567299,
