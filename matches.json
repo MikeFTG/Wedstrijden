@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T09:09:25.881321+00:00",
+  "updated": "2026-08-31T17:09:05.050528+00:00",
   "matches": [
     {
       "id": 560557,
@@ -7895,18 +7895,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558621,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 2,
-      "homeTeam": "US Lecce",
-      "homeCrest": "logos/US_Lecce.png",
-      "awayTeam": "AS Roma",
-      "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-08-31T16:30:00Z",
       "status": "TIMED"
     },
     {
