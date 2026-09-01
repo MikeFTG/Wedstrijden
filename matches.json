@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:52:32.796953+00:00",
+  "updated": "2026-09-01T23:42:28.589239+00:00",
   "matches": [
     {
       "id": 560566,
@@ -278,18 +278,6 @@
       "status": "TIMED"
     },
     {
-      "id": 560585,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 560586,
       "compCode": "PL",
       "compName": "Premier League",
@@ -334,6 +322,18 @@
       "homeCrest": "logos/AFC_Bournemouth.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
+      "utcDate": "2026-09-20T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560585,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 5,
+      "homeTeam": "Leeds United FC",
+      "homeCrest": "logos/Leeds_United_FC.png",
+      "awayTeam": "Crystal Palace FC",
+      "awayCrest": "logos/Crystal_Palace_FC.png",
       "utcDate": "2026-09-20T13:00:00Z",
       "status": "TIMED"
     },
