@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T15:51:18.969017+00:00",
+  "updated": "2026-09-01T19:05:18.961925+00:00",
   "matches": [
     {
       "id": 560566,
@@ -19860,102 +19860,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561798,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Preston North End FC",
-      "homeCrest": "logos/Preston_North_End_FC.png",
-      "awayTeam": "Bristol City FC",
-      "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2026-09-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561799,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "West Ham United FC",
-      "homeCrest": "logos/West_Ham_United_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-09-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561800,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Lincoln City FC",
-      "homeCrest": "logos/Lincoln_City_FC.png",
-      "awayTeam": "Blackburn Rovers FC",
-      "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2026-09-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561801,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Sheffield United FC",
-      "homeCrest": "logos/Sheffield_United_FC.png",
-      "awayTeam": "Bolton Wanderers FC",
-      "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2026-09-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561802,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Portsmouth FC",
-      "homeCrest": "logos/Portsmouth_FC.png",
-      "awayTeam": "Derby County FC",
-      "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2026-09-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561804,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Swansea City AFC",
-      "homeCrest": "logos/Swansea_City_AFC.png",
-      "awayTeam": "Watford FC",
-      "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2026-09-01T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561797,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Stoke City FC",
-      "homeCrest": "logos/Stoke_City_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2026-09-01T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561803,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 4,
-      "homeTeam": "Birmingham City FC",
-      "homeCrest": "logos/Birmingham_City_FC.png",
-      "awayTeam": "Southampton FC",
-      "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2026-09-01T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561806,
