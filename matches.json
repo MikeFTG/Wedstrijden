@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T11:52:13.510615+00:00",
+  "updated": "2026-09-01T15:51:18.969017+00:00",
   "matches": [
     {
       "id": 560566,
@@ -12566,6 +12566,18 @@
       "status": "TIMED"
     },
     {
+      "id": 564692,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 7,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
+      "awayTeam": "Elche CF",
+      "awayCrest": "logos/Elche_CF.png",
+      "utcDate": "2026-09-18T19:00:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 564693,
       "compCode": "PD",
       "compName": "La Liga",
@@ -12614,30 +12626,6 @@
       "status": "TIMED"
     },
     {
-      "id": 564689,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 7,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-09-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564692,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 7,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-09-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 564697,
       "compCode": "PD",
       "compName": "La Liga",
@@ -12683,6 +12671,18 @@
       "awayTeam": "Levante UD",
       "awayCrest": "logos/Levante_UD.png",
       "utcDate": "2026-09-20T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564689,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 7,
+      "homeTeam": "Valencia CF",
+      "homeCrest": "logos/Valencia_CF.png",
+      "awayTeam": "Real Sociedad de F\u00fatbol",
+      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
+      "utcDate": "2026-09-20T19:00:00Z",
       "status": "TIMED"
     },
     {
