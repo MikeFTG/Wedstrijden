@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T00:25:33.701478+00:00",
+  "updated": "2026-09-03T04:49:22.391462+00:00",
   "matches": [
     {
       "id": 560566,
@@ -7991,7 +7991,7 @@
       "awayTeam": "US Lecce",
       "awayCrest": "logos/US_Lecce.png",
       "utcDate": "2026-09-07T16:30:00Z",
-      "status": "2026-09-07 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558617,
@@ -8039,7 +8039,7 @@
       "awayTeam": "AC Milan",
       "awayCrest": "logos/AC_Milan.png",
       "utcDate": "2026-09-12T16:00:00Z",
-      "status": "2026-09-13 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558607,
@@ -8087,7 +8087,7 @@
       "awayTeam": "Juventus FC",
       "awayCrest": "logos/Juventus_FC.png",
       "utcDate": "2026-09-13T18:45:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558602,
@@ -8099,7 +8099,7 @@
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2026-09-14T16:30:00Z",
-      "status": "2026-09-13 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558603,
@@ -8111,7 +8111,7 @@
       "awayTeam": "AS Roma",
       "awayCrest": "logos/AS_Roma.png",
       "utcDate": "2026-09-14T16:30:00Z",
-      "status": "2026-09-13 09:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558601,
