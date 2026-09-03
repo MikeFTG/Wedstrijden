@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:25:24.553594+00:00",
+  "updated": "2026-09-03T19:59:32.300490+00:00",
   "matches": [
     {
       "id": 560566,
@@ -12206,18 +12206,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564682,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 6,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-09-03T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564667,
       "compCode": "PD",
       "compName": "La Liga",
@@ -16404,18 +16392,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559696,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "Toulouse FC",
-      "homeCrest": "logos/Toulouse_FC.png",
-      "awayTeam": "Lille OSC",
-      "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-09-03T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559699,
