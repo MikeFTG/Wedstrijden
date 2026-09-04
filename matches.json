@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T13:38:46.021626+00:00",
+  "updated": "2026-09-04T17:18:16.949326+00:00",
   "matches": [
     {
       "id": 560566,
@@ -11,7 +11,7 @@
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
       "utcDate": "2026-09-04T19:00:00Z",
-      "status": "2026-09-04 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560571,
@@ -23,7 +23,7 @@
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
       "utcDate": "2026-09-05T11:30:00Z",
-      "status": "2026-09-05 10:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560562,
@@ -35,7 +35,7 @@
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
       "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560563,
@@ -47,7 +47,7 @@
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
       "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560564,
@@ -59,7 +59,7 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560565,
@@ -71,7 +71,7 @@
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
       "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560568,
@@ -83,7 +83,7 @@
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
       "utcDate": "2026-09-05T14:00:00Z",
-      "status": "2026-09-05 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560569,
@@ -95,7 +95,7 @@
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
       "utcDate": "2026-09-05T16:30:00Z",
-      "status": "2026-09-05 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560567,
@@ -107,7 +107,7 @@
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
       "utcDate": "2026-09-06T13:00:00Z",
-      "status": "2026-09-06 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560570,
@@ -119,7 +119,7 @@
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
       "utcDate": "2026-09-06T15:30:00Z",
-      "status": "2026-09-06 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560572,
@@ -131,7 +131,7 @@
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560573,
@@ -143,7 +143,7 @@
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560574,
@@ -155,7 +155,7 @@
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560576,
@@ -167,7 +167,7 @@
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560581,
@@ -179,7 +179,7 @@
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "2026-09-12 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560575,
@@ -191,7 +191,7 @@
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
       "utcDate": "2026-09-12T16:30:00Z",
-      "status": "2026-09-12 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560577,
@@ -203,7 +203,7 @@
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
       "utcDate": "2026-09-12T19:00:00Z",
-      "status": "2026-09-12 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560578,
@@ -215,7 +215,7 @@
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
       "utcDate": "2026-09-13T13:00:00Z",
-      "status": "2026-09-13 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560580,
@@ -227,7 +227,7 @@
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
       "utcDate": "2026-09-13T15:30:00Z",
-      "status": "2026-09-13 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560579,
@@ -239,7 +239,7 @@
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
       "utcDate": "2026-09-14T19:00:00Z",
-      "status": "2026-09-14 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560591,
@@ -251,7 +251,7 @@
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
       "utcDate": "2026-09-18T19:00:00Z",
-      "status": "2026-09-18 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560587,
@@ -263,7 +263,7 @@
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
       "utcDate": "2026-09-19T11:30:00Z",
-      "status": "2026-09-19 10:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560584,
@@ -275,7 +275,7 @@
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560586,
@@ -287,7 +287,7 @@
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560588,
@@ -299,7 +299,7 @@
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "2026-09-19 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560589,
@@ -311,7 +311,7 @@
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
       "utcDate": "2026-09-19T16:30:00Z",
-      "status": "2026-09-19 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560582,
@@ -323,7 +323,7 @@
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "2026-09-20 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560585,
@@ -335,7 +335,7 @@
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "2026-09-20 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560590,
@@ -347,7 +347,7 @@
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "2026-09-20 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560583,
@@ -359,7 +359,7 @@
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
       "utcDate": "2026-09-20T15:30:00Z",
-      "status": "2026-09-20 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560593,
@@ -371,7 +371,7 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2026-10-10T11:30:00Z",
-      "status": "2026-10-10 10:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560592,
@@ -383,7 +383,7 @@
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "2026-10-10 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560595,
@@ -395,7 +395,7 @@
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "2026-10-10 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560599,
@@ -407,7 +407,7 @@
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "2026-10-10 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560601,
@@ -419,7 +419,7 @@
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "2026-10-10 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560600,
@@ -431,7 +431,7 @@
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
       "utcDate": "2026-10-10T16:30:00Z",
-      "status": "2026-10-10 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560594,
@@ -443,7 +443,7 @@
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
       "utcDate": "2026-10-11T13:00:00Z",
-      "status": "2026-10-11 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560596,
@@ -455,7 +455,7 @@
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
       "utcDate": "2026-10-11T13:00:00Z",
-      "status": "2026-10-11 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560598,
@@ -467,7 +467,7 @@
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
       "utcDate": "2026-10-11T15:30:00Z",
-      "status": "2026-10-11 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560597,
@@ -479,7 +479,7 @@
       "awayTeam": "Newcastle United FC",
       "awayCrest": "logos/Newcastle_United_FC.png",
       "utcDate": "2026-10-12T19:00:00Z",
-      "status": "2026-10-12 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560603,
@@ -491,7 +491,7 @@
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
       "utcDate": "2026-10-17T11:30:00Z",
-      "status": "2026-10-17 10:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560602,
@@ -503,7 +503,7 @@
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "2026-10-17 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560610,
@@ -515,7 +515,7 @@
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "logos/Ipswich_Town_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "2026-10-17 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560611,
@@ -527,7 +527,7 @@
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "2026-10-17 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560607,
@@ -539,7 +539,7 @@
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
       "utcDate": "2026-10-17T16:30:00Z",
-      "status": "2026-10-17 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560604,
@@ -551,7 +551,7 @@
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
       "utcDate": "2026-10-18T13:00:00Z",
-      "status": "2026-10-18 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560605,
@@ -563,7 +563,7 @@
       "awayTeam": "Manchester United FC",
       "awayCrest": "logos/Manchester_United_FC.png",
       "utcDate": "2026-10-18T13:00:00Z",
-      "status": "2026-10-18 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560609,
@@ -575,7 +575,7 @@
       "awayTeam": "Crystal Palace FC",
       "awayCrest": "logos/Crystal_Palace_FC.png",
       "utcDate": "2026-10-18T13:00:00Z",
-      "status": "2026-10-18 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560608,
@@ -587,7 +587,7 @@
       "awayTeam": "Arsenal FC",
       "awayCrest": "logos/Arsenal_FC.png",
       "utcDate": "2026-10-18T15:30:00Z",
-      "status": "2026-10-18 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560606,
@@ -599,7 +599,7 @@
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
       "utcDate": "2026-10-19T19:00:00Z",
-      "status": "2026-10-19 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560620,
@@ -611,7 +611,7 @@
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
       "utcDate": "2026-10-23T19:00:00Z",
-      "status": "2026-10-23 18:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560614,
@@ -623,7 +623,7 @@
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
       "utcDate": "2026-10-24T11:30:00Z",
-      "status": "2026-10-24 10:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560616,
@@ -635,7 +635,7 @@
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "2026-10-24 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560618,
@@ -647,7 +647,7 @@
       "awayTeam": "Fulham FC",
       "awayCrest": "logos/Fulham_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "2026-10-24 13:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560617,
@@ -659,7 +659,7 @@
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
       "utcDate": "2026-10-24T16:30:00Z",
-      "status": "2026-10-24 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 560612,
@@ -4331,7 +4331,7 @@
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
       "utcDate": "2026-09-04T18:30:00Z",
-      "status": "2026-09-04 17:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565785,
@@ -4343,7 +4343,7 @@
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565787,
@@ -4355,7 +4355,7 @@
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565790,
@@ -4367,7 +4367,7 @@
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565792,
@@ -4379,7 +4379,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565793,
@@ -4391,7 +4391,7 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-09-05T13:30:00Z",
-      "status": "2026-09-05 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565789,
@@ -4403,7 +4403,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-09-05T16:30:00Z",
-      "status": "2026-09-05 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565788,
@@ -4415,7 +4415,7 @@
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
       "utcDate": "2026-09-06T13:30:00Z",
-      "status": "2026-09-06 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565786,
@@ -4427,7 +4427,7 @@
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
       "utcDate": "2026-09-06T15:30:00Z",
-      "status": "2026-09-06 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565797,
@@ -4439,7 +4439,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-09-11T18:30:00Z",
-      "status": "2026-09-11 17:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565794,
@@ -4451,7 +4451,7 @@
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565795,
@@ -4463,7 +4463,7 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565796,
@@ -4475,7 +4475,7 @@
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565801,
@@ -4487,7 +4487,7 @@
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565802,
@@ -4499,7 +4499,7 @@
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "utcDate": "2026-09-12T13:30:00Z",
-      "status": "2026-09-12 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565798,
@@ -4511,7 +4511,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-09-12T16:30:00Z",
-      "status": "2026-09-12 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565799,
@@ -4523,7 +4523,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-09-13T13:30:00Z",
-      "status": "2026-09-13 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565800,
@@ -4535,7 +4535,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-09-13T15:30:00Z",
-      "status": "2026-09-13 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565804,
@@ -4547,7 +4547,7 @@
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-09-18T18:30:00Z",
-      "status": "2026-09-18 17:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565808,
@@ -4559,7 +4559,7 @@
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565809,
@@ -4571,7 +4571,7 @@
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565810,
@@ -4583,7 +4583,7 @@
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565811,
@@ -4595,7 +4595,7 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-09-19T13:30:00Z",
-      "status": "2026-09-19 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565806,
@@ -4607,7 +4607,7 @@
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
       "utcDate": "2026-09-19T16:30:00Z",
-      "status": "2026-09-19 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565807,
@@ -4619,7 +4619,7 @@
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
       "utcDate": "2026-09-20T13:30:00Z",
-      "status": "2026-09-20 12:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565805,
@@ -4631,7 +4631,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-09-20T15:30:00Z",
-      "status": "2026-09-20 14:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565803,
@@ -4643,7 +4643,7 @@
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
       "utcDate": "2026-09-20T17:30:00Z",
-      "status": "2026-09-20 16:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 565812,
@@ -4655,7 +4655,7 @@
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565813,
@@ -4667,7 +4667,7 @@
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565814,
@@ -4679,7 +4679,7 @@
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565815,
@@ -4691,7 +4691,7 @@
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565816,
@@ -4703,7 +4703,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565817,
@@ -4715,7 +4715,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565818,
@@ -4727,7 +4727,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565819,
@@ -4739,7 +4739,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565820,
@@ -4751,7 +4751,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-10-10T00:00:00Z",
-      "status": "2026-10-10 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565821,
@@ -4763,7 +4763,7 @@
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565822,
@@ -4775,7 +4775,7 @@
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565823,
@@ -4787,7 +4787,7 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565824,
@@ -4799,7 +4799,7 @@
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565825,
@@ -4811,7 +4811,7 @@
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565826,
@@ -4823,7 +4823,7 @@
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565827,
@@ -4835,7 +4835,7 @@
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565828,
@@ -4847,7 +4847,7 @@
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565829,
@@ -4859,7 +4859,7 @@
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
       "utcDate": "2026-10-17T00:00:00Z",
-      "status": "2026-10-17 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565830,
@@ -4871,7 +4871,7 @@
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565831,
@@ -4883,7 +4883,7 @@
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565832,
@@ -4895,7 +4895,7 @@
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565833,
@@ -4907,7 +4907,7 @@
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565834,
@@ -4919,7 +4919,7 @@
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565835,
@@ -4931,7 +4931,7 @@
       "awayTeam": "Bayer 04 Leverkusen",
       "awayCrest": "logos/Bayer_04_Leverkusen.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565836,
@@ -4943,7 +4943,7 @@
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565837,
@@ -4955,7 +4955,7 @@
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565838,
@@ -4967,7 +4967,7 @@
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
       "utcDate": "2026-10-24T00:00:00Z",
-      "status": "2026-10-24 12:30:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 565839,
@@ -16394,18 +16394,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559699,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-09-04T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559697,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -20052,6 +20040,18 @@
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-09-08T19:00:00Z",
       "status": "TIMED"
+    },
+    {
+      "id": 561826,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 6,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "awayTeam": "Portsmouth FC",
+      "awayCrest": "logos/Portsmouth_FC.png",
+      "utcDate": "2026-09-09T00:00:00Z",
+      "status": "2026-09-16 17:45:00Z"
     },
     {
       "id": 561829,
