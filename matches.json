@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-04T17:18:16.949326+00:00",
+  "updated": "2026-09-04T19:44:32.779614+00:00",
   "matches": [
-    {
-      "id": 560566,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 3,
-      "homeTeam": "Ipswich Town FC",
-      "homeCrest": "logos/Ipswich_Town_FC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-09-04T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560571,
       "compCode": "PL",
@@ -4322,18 +4310,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565791,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-09-04T18:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565785,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -7883,18 +7859,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558609,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 3,
-      "homeTeam": "Genoa CFC",
-      "homeCrest": "logos/Genoa_CFC.png",
-      "awayTeam": "Como 1907",
-      "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-09-04T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -12206,18 +12170,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564667,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-09-04T19:00:00Z",
-      "status": "2026-09-04 18:00:00Z"
-    },
-    {
       "id": 564663,
       "compCode": "PD",
       "compName": "La Liga",
@@ -16392,18 +16344,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559697,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-09-04T19:05:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559695,
@@ -25872,18 +25812,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567299,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "FC Porto",
-      "homeCrest": "logos/FC_Porto.png",
-      "awayTeam": "Moreirense FC",
-      "awayCrest": "logos/Moreirense_FC.png",
-      "utcDate": "2026-09-04T19:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567297,
