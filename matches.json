@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T04:50:44.200904+00:00",
+  "updated": "2026-09-04T09:14:04.719540+00:00",
   "matches": [
     {
       "id": 560566,
@@ -12215,7 +12215,7 @@
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
       "utcDate": "2026-09-04T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-04 18:00:00Z"
     },
     {
       "id": 564663,
@@ -20052,6 +20052,18 @@
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-09-08T19:00:00Z",
       "status": "TIMED"
+    },
+    {
+      "id": 561826,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 6,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "awayTeam": "Portsmouth FC",
+      "awayCrest": "logos/Portsmouth_FC.png",
+      "utcDate": "2026-09-09T00:00:00Z",
+      "status": "2026-09-16 17:45:00Z"
     },
     {
       "id": 561829,
