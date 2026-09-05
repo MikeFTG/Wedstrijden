@@ -3316,112 +3316,112 @@
     "datum": "2026-11-01T14:00:00Z"
   },
   "559631": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-08T16:15:00Z"
   },
   "559632": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-08T16:15:00Z"
   },
   "559633": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-08T16:15:00Z"
   },
   "559634": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-08T16:15:00Z"
   },
   "559635": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
-  },
-  "559636": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
-  },
-  "559637": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
-  },
-  "559638": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-07T00:00:00Z"
-  },
-  "559630": {
     "status": "TIMED",
     "datum": "2026-11-07T19:45:00Z"
   },
+  "559636": {
+    "status": "TIMED",
+    "datum": "2026-11-08T14:00:00Z"
+  },
+  "559637": {
+    "status": "TIMED",
+    "datum": "2026-11-07T16:15:00Z"
+  },
+  "559638": {
+    "status": "TIMED",
+    "datum": "2026-11-06T19:45:00Z"
+  },
+  "559630": {
+    "status": "TIMED",
+    "datum": "2026-11-08T19:45:00Z"
+  },
   "559621": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-21T19:45:00Z"
   },
   "559622": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-20T19:45:00Z"
   },
   "559623": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-21T19:45:00Z"
   },
   "559624": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-21T19:45:00Z"
   },
   "559625": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-22T14:00:00Z"
   },
   "559626": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-22T16:15:00Z"
   },
   "559627": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-21T19:45:00Z"
   },
   "559628": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-21T16:15:00Z"
   },
   "559629": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-21T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-22T19:45:00Z"
   },
   "559616": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-27T19:45:00Z"
   },
   "559617": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T19:45:00Z"
   },
   "559618": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T16:15:00Z"
   },
   "559619": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T14:00:00Z"
   },
   "559620": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T19:45:00Z"
   },
   "559612": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T16:15:00Z"
   },
   "559613": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T19:45:00Z"
   },
   "559614": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T19:45:00Z"
   },
   "559615": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-28T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T19:45:00Z"
   },
   "559603": {
     "status": "SCHEDULED",
