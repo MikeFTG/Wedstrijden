@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T18:42:23.822715+00:00",
+  "updated": "2026-09-05T20:51:23.857297+00:00",
   "matches": [
     {
       "id": 560567,
@@ -7706,18 +7706,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558611,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 3,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "Atalanta BC",
-      "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-09-05T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558612,
       "compCode": "SA",
       "compName": "Serie A",
@@ -11990,18 +11978,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564662,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "Villarreal CF",
-      "homeCrest": "logos/Villarreal_CF.png",
-      "awayTeam": "RC Deportivo La Coru\u00f1a",
-      "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-09-05T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564659,
       "compCode": "PD",
       "compName": "La Liga",
@@ -16142,30 +16118,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559693,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "Stade Brestois 29",
-      "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-09-05T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559701,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "OGC Nice",
-      "homeCrest": "logos/OGC_Nice.png",
-      "awayTeam": "Le Mans FC",
-      "awayCrest": "",
-      "utcDate": "2026-09-05T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559700,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -19548,18 +19500,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561811,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 5,
-      "homeTeam": "Swansea City AFC",
-      "homeCrest": "logos/Swansea_City_AFC.png",
-      "awayTeam": "Wrexham AFC",
-      "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2026-09-05T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561819,
@@ -25464,18 +25404,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567298,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "CD Nacional",
-      "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-09-05T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567300,
