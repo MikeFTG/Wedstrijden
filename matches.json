@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T16:30:29.246721+00:00",
+  "updated": "2026-09-05T18:42:23.822715+00:00",
   "matches": [
     {
       "id": 560567,
@@ -25464,30 +25464,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567296,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "FC Alverca",
-      "homeCrest": "logos/FC_Alverca.png",
-      "awayTeam": "Sporting Clube de Braga",
-      "awayCrest": "logos/Sporting_Clube_de_Braga.png",
-      "utcDate": "2026-09-05T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567293,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "CS Mar\u00edtimo",
-      "homeCrest": "logos/CS_Mar\u00edtimo.png",
-      "awayTeam": "Sport Lisboa e Benfica",
-      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-09-05T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567298,
