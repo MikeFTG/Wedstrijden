@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-05T11:20:00.294049+00:00",
+  "updated": "2026-09-05T13:56:42.447121+00:00",
   "matches": [
-    {
-      "id": 560571,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 3,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-09-05T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560562,
       "compCode": "PL",
@@ -4310,66 +4298,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565785,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "RB Leipzig",
-      "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565787,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565790,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "Bayer 04 Leverkusen",
-      "homeCrest": "logos/Bayer_04_Leverkusen.png",
-      "awayTeam": "1. FC Union Berlin",
-      "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565792,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "Borussia M\u00f6nchengladbach",
-      "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "awayTeam": "SV 07 Elversberg",
-      "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565793,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 2,
-      "homeTeam": "SC Paderborn 07",
-      "homeCrest": "logos/SC_Paderborn_07.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-09-05T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565789,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -7859,18 +7787,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558616,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 3,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "Torino FC",
-      "awayCrest": "logos/Torino_FC.png",
-      "utcDate": "2026-09-05T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -19764,42 +19680,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561813,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 5,
-      "homeTeam": "Preston North End FC",
-      "homeCrest": "logos/Preston_North_End_FC.png",
-      "awayTeam": "Blackburn Rovers FC",
-      "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2026-09-05T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561815,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 5,
-      "homeTeam": "Stoke City FC",
-      "homeCrest": "logos/Stoke_City_FC.png",
-      "awayTeam": "Charlton Athletic FC",
-      "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2026-09-05T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561820,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 5,
-      "homeTeam": "Lincoln City FC",
-      "homeCrest": "logos/Lincoln_City_FC.png",
-      "awayTeam": "Southampton FC",
-      "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2026-09-05T11:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561809,
