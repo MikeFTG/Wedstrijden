@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-06T09:07:06.171732+00:00",
+  "updated": "2026-09-06T13:00:08.894756+00:00",
   "matches": [
-    {
-      "id": 560567,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 3,
-      "homeTeam": "Everton FC",
-      "homeCrest": "logos/Everton_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560570,
       "compCode": "PL",
@@ -7703,30 +7691,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558612,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 3,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "AC Monza",
-      "awayCrest": "logos/AC_Monza.png",
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558615,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 3,
-      "homeTeam": "Frosinone Calcio",
-      "homeCrest": "logos/Frosinone_Calcio.png",
-      "awayTeam": "Venezia FC",
-      "awayCrest": "logos/Venezia_FC.png",
-      "utcDate": "2026-09-06T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -16118,18 +16082,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559700,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "ES Troyes AC",
-      "homeCrest": "logos/ES_Troyes_AC.png",
-      "awayTeam": "RC Strasbourg Alsace",
-      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559698,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -19500,18 +19452,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561819,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 5,
-      "homeTeam": "Birmingham City FC",
-      "homeCrest": "logos/Birmingham_City_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-09-06T11:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561821,
