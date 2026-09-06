@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:28:09.594118+00:00",
+  "updated": "2026-09-06T20:40:04.310595+00:00",
   "matches": [
     {
       "id": 560572,
@@ -7658,18 +7658,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558618,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 3,
-      "homeTeam": "Juventus FC",
-      "homeCrest": "logos/Juventus_FC.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-09-06T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558610,
       "compCode": "SA",
       "compName": "Serie A",
@@ -11894,18 +11882,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564661,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 4,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-09-06T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564665,
       "compCode": "PD",
       "compName": "La Liga",
@@ -15996,18 +15972,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559694,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 3,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "Paris FC",
-      "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-09-06T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559689,
@@ -25260,18 +25224,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567301,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 5,
-      "homeTeam": "Gil Vicente FC",
-      "homeCrest": "logos/Gil_Vicente_FC.png",
-      "awayTeam": "Acad\u00e9mico de Viseu FC",
-      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "utcDate": "2026-09-06T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567295,
