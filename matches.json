@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T20:18:46.168647+00:00",
+  "updated": "2026-09-07T22:55:21.506374+00:00",
   "matches": [
     {
       "id": 560572,
@@ -25211,7 +25211,7 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-09-12T14:30:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567307,
@@ -25223,7 +25223,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-09-12T17:00:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567309,
@@ -25235,7 +25235,7 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-09-12T19:30:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567304,
@@ -25247,7 +25247,7 @@
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
       "utcDate": "2026-09-13T17:00:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567310,
@@ -25259,7 +25259,7 @@
       "awayTeam": "CD Santa Clara",
       "awayCrest": "logos/CD_Santa_Clara.png",
       "utcDate": "2026-09-13T17:00:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567305,
@@ -25271,7 +25271,7 @@
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
       "utcDate": "2026-09-13T19:30:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567303,
@@ -25283,7 +25283,7 @@
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
       "utcDate": "2026-09-14T17:45:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567302,
@@ -25295,7 +25295,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-09-14T19:15:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567308,
@@ -25307,7 +25307,7 @@
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
       "utcDate": "2026-09-14T19:45:00Z",
-      "status": "2026-09-13 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567311,
@@ -25319,7 +25319,7 @@
       "awayTeam": "FC Famalic\u00e3o",
       "awayCrest": "logos/FC_Famalic\u00e3o.png",
       "utcDate": "2026-09-19T14:30:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567312,
@@ -25331,7 +25331,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-09-19T14:30:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567318,
@@ -25343,7 +25343,7 @@
       "awayTeam": "Rio Ave FC",
       "awayCrest": "logos/Rio_Ave_FC.png",
       "utcDate": "2026-09-19T17:00:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567313,
@@ -25355,7 +25355,7 @@
       "awayTeam": "FC Arouca",
       "awayCrest": "logos/FC_Arouca.png",
       "utcDate": "2026-09-19T19:30:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567315,
@@ -25367,7 +25367,7 @@
       "awayTeam": "Moreirense FC",
       "awayCrest": "logos/Moreirense_FC.png",
       "utcDate": "2026-09-20T14:30:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567317,
@@ -25379,7 +25379,7 @@
       "awayTeam": "Acad\u00e9mico de Viseu FC",
       "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
       "utcDate": "2026-09-20T14:30:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567314,
@@ -25391,7 +25391,7 @@
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
       "utcDate": "2026-09-20T17:00:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567319,
@@ -25403,7 +25403,7 @@
       "awayTeam": "Casa Pia AC",
       "awayCrest": "logos/Casa_Pia_AC.png",
       "utcDate": "2026-09-20T17:00:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567316,
@@ -25415,7 +25415,7 @@
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "utcDate": "2026-09-20T19:30:00Z",
-      "status": "2026-09-20 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567327,
@@ -25427,7 +25427,7 @@
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
       "utcDate": "2026-10-09T17:45:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567326,
@@ -25439,7 +25439,7 @@
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
       "utcDate": "2026-10-09T19:15:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567321,
@@ -25451,7 +25451,7 @@
       "awayTeam": "CD Santa Clara",
       "awayCrest": "logos/CD_Santa_Clara.png",
       "utcDate": "2026-10-10T14:30:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567323,
@@ -25463,7 +25463,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-10-10T17:00:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567322,
@@ -25475,7 +25475,7 @@
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
       "utcDate": "2026-10-10T19:30:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567328,
@@ -25487,7 +25487,7 @@
       "awayTeam": "CD Nacional",
       "awayCrest": "logos/CD_Nacional.png",
       "utcDate": "2026-10-11T14:30:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567320,
@@ -25499,7 +25499,7 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-10-11T17:00:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567324,
@@ -25511,7 +25511,7 @@
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
       "utcDate": "2026-10-11T19:30:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567325,
@@ -25523,7 +25523,7 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-10-12T19:15:00Z",
-      "status": "2026-10-11 14:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567329,
@@ -25535,7 +25535,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-10-23T19:45:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567337,
@@ -25547,7 +25547,7 @@
       "awayTeam": "Casa Pia AC",
       "awayCrest": "logos/Casa_Pia_AC.png",
       "utcDate": "2026-10-24T14:30:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567333,
@@ -25559,7 +25559,7 @@
       "awayTeam": "FC Arouca",
       "awayCrest": "logos/FC_Arouca.png",
       "utcDate": "2026-10-24T17:00:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567335,
@@ -25571,7 +25571,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-10-24T19:30:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567336,
@@ -25583,7 +25583,7 @@
       "awayTeam": "Moreirense FC",
       "awayCrest": "logos/Moreirense_FC.png",
       "utcDate": "2026-10-25T15:30:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567330,
@@ -25595,7 +25595,7 @@
       "awayTeam": "FC Famalic\u00e3o",
       "awayCrest": "logos/FC_Famalic\u00e3o.png",
       "utcDate": "2026-10-25T18:00:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567334,
@@ -25607,7 +25607,7 @@
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
       "utcDate": "2026-10-25T18:00:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567332,
@@ -25619,7 +25619,7 @@
       "awayTeam": "Acad\u00e9mico de Viseu FC",
       "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
       "utcDate": "2026-10-25T20:30:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567331,
@@ -25631,7 +25631,7 @@
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "utcDate": "2026-10-26T18:45:00Z",
-      "status": "2026-10-25 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567344,
@@ -25643,7 +25643,7 @@
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
       "utcDate": "2026-10-30T20:15:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567343,
@@ -25655,7 +25655,7 @@
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
       "utcDate": "2026-10-31T15:30:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567338,
@@ -25667,7 +25667,7 @@
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
       "utcDate": "2026-10-31T20:30:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567341,
@@ -25679,7 +25679,7 @@
       "awayTeam": "CD Nacional",
       "awayCrest": "logos/CD_Nacional.png",
       "utcDate": "2026-11-01T15:30:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567340,
@@ -25691,7 +25691,7 @@
       "awayTeam": "CD Santa Clara",
       "awayCrest": "logos/CD_Santa_Clara.png",
       "utcDate": "2026-11-01T18:00:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567345,
@@ -25703,7 +25703,7 @@
       "awayTeam": "Rio Ave FC",
       "awayCrest": "logos/Rio_Ave_FC.png",
       "utcDate": "2026-11-01T18:00:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567339,
@@ -25715,7 +25715,7 @@
       "awayTeam": "FC Famalic\u00e3o",
       "awayCrest": "logos/FC_Famalic\u00e3o.png",
       "utcDate": "2026-11-01T20:30:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567342,
@@ -25727,7 +25727,7 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-11-02T20:15:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567346,
@@ -25739,7 +25739,7 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-11-02T20:15:00Z",
-      "status": "2026-11-01 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567353,
@@ -25751,7 +25751,7 @@
       "awayTeam": "FC Arouca",
       "awayCrest": "logos/FC_Arouca.png",
       "utcDate": "2026-11-06T20:45:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567352,
@@ -25763,7 +25763,7 @@
       "awayTeam": "Acad\u00e9mico de Viseu FC",
       "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
       "utcDate": "2026-11-07T15:30:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567347,
@@ -25775,7 +25775,7 @@
       "awayTeam": "Casa Pia AC",
       "awayCrest": "logos/Casa_Pia_AC.png",
       "utcDate": "2026-11-07T18:00:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567350,
@@ -25787,7 +25787,7 @@
       "awayTeam": "Moreirense FC",
       "awayCrest": "logos/Moreirense_FC.png",
       "utcDate": "2026-11-07T20:30:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567348,
@@ -25799,7 +25799,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-11-08T15:30:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567351,
@@ -25811,7 +25811,7 @@
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
       "utcDate": "2026-11-08T15:30:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567349,
@@ -25823,7 +25823,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-11-08T18:00:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567354,
@@ -25835,7 +25835,7 @@
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
       "utcDate": "2026-11-08T20:30:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567355,
@@ -25847,7 +25847,7 @@
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "utcDate": "2026-11-08T20:30:00Z",
-      "status": "2026-11-08 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567361,
@@ -25859,7 +25859,7 @@
       "awayTeam": "CD Nacional",
       "awayCrest": "logos/CD_Nacional.png",
       "utcDate": "2026-11-27T20:15:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567357,
@@ -25871,7 +25871,7 @@
       "awayTeam": "CD Santa Clara",
       "awayCrest": "logos/CD_Santa_Clara.png",
       "utcDate": "2026-11-28T15:30:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567362,
@@ -25883,7 +25883,7 @@
       "awayTeam": "Rio Ave FC",
       "awayCrest": "logos/Rio_Ave_FC.png",
       "utcDate": "2026-11-28T15:30:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567364,
@@ -25895,7 +25895,7 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-11-28T18:00:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567356,
@@ -25907,7 +25907,7 @@
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
       "utcDate": "2026-11-28T20:30:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567363,
@@ -25919,7 +25919,7 @@
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
       "utcDate": "2026-11-29T00:00:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 567358,
@@ -25931,7 +25931,7 @@
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
       "utcDate": "2026-11-29T20:30:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567359,
@@ -25943,7 +25943,7 @@
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
       "utcDate": "2026-11-30T00:00:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "SCHEDULED"
     },
     {
       "id": 567360,
@@ -25955,7 +25955,7 @@
       "awayTeam": "FC Famalic\u00e3o",
       "awayCrest": "logos/FC_Famalic\u00e3o.png",
       "utcDate": "2026-11-30T20:15:00Z",
-      "status": "2026-11-29 16:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 567365,
