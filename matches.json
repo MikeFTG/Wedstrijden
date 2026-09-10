@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T19:23:40.564742+00:00",
+  "updated": "2026-09-10T21:43:25.729728+00:00",
   "matches": [
     {
       "id": 560572,
@@ -15935,7 +15935,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-09-11T18:45:00Z",
-      "status": "2026-09-11 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559687,
@@ -15947,7 +15947,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2026-09-12T15:15:00Z",
-      "status": "2026-09-12 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559684,
@@ -15959,7 +15959,7 @@
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "2026-09-12 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559688,
@@ -15971,7 +15971,7 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "2026-09-12 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559690,
@@ -15983,7 +15983,7 @@
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "2026-09-12 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559692,
@@ -15995,7 +15995,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "2026-09-12 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559685,
@@ -16007,7 +16007,7 @@
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
       "utcDate": "2026-09-13T13:00:00Z",
-      "status": "2026-09-13 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559686,
@@ -16019,7 +16019,7 @@
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
       "utcDate": "2026-09-13T15:15:00Z",
-      "status": "2026-09-13 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559691,
@@ -16031,7 +16031,7 @@
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
       "utcDate": "2026-09-13T18:45:00Z",
-      "status": "2026-09-13 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559682,
@@ -16043,7 +16043,7 @@
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
       "utcDate": "2026-09-18T18:45:00Z",
-      "status": "2026-09-18 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559679,
@@ -16055,7 +16055,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2026-09-19T15:15:00Z",
-      "status": "2026-09-19 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559677,
@@ -16067,7 +16067,7 @@
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
       "utcDate": "2026-09-19T18:45:00Z",
-      "status": "2026-09-19 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559680,
@@ -16079,7 +16079,7 @@
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
       "utcDate": "2026-09-19T18:45:00Z",
-      "status": "2026-09-19 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559681,
@@ -16091,7 +16091,7 @@
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
       "utcDate": "2026-09-19T18:45:00Z",
-      "status": "2026-09-19 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559683,
@@ -16103,7 +16103,7 @@
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2026-09-19T18:45:00Z",
-      "status": "2026-09-19 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559676,
@@ -16115,7 +16115,7 @@
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "2026-09-20 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559678,
@@ -16127,7 +16127,7 @@
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
       "utcDate": "2026-09-20T15:15:00Z",
-      "status": "2026-09-20 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559675,
@@ -16139,7 +16139,7 @@
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
       "utcDate": "2026-09-20T18:45:00Z",
-      "status": "2026-09-20 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559669,
@@ -16151,7 +16151,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2026-10-09T18:45:00Z",
-      "status": "2026-10-09 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559674,
@@ -16163,7 +16163,7 @@
       "awayTeam": "Le Havre AC",
       "awayCrest": "logos/Le_Havre_AC.png",
       "utcDate": "2026-10-10T15:15:00Z",
-      "status": "2026-10-10 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559666,
@@ -16175,7 +16175,7 @@
       "awayTeam": "Angers SCO",
       "awayCrest": "logos/Angers_SCO.png",
       "utcDate": "2026-10-10T18:45:00Z",
-      "status": "2026-10-10 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559668,
@@ -16187,7 +16187,7 @@
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
       "utcDate": "2026-10-10T18:45:00Z",
-      "status": "2026-10-10 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559672,
@@ -16199,7 +16199,7 @@
       "awayTeam": "Le Mans FC",
       "awayCrest": "",
       "utcDate": "2026-10-10T18:45:00Z",
-      "status": "2026-10-10 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559673,
@@ -16211,7 +16211,7 @@
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
       "utcDate": "2026-10-10T18:45:00Z",
-      "status": "2026-10-10 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559670,
@@ -16223,7 +16223,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2026-10-11T13:00:00Z",
-      "status": "2026-10-11 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559667,
@@ -16235,7 +16235,7 @@
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
       "utcDate": "2026-10-11T15:15:00Z",
-      "status": "2026-10-11 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559671,
@@ -16247,7 +16247,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-10-11T18:45:00Z",
-      "status": "2026-10-11 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559661,
@@ -16259,7 +16259,7 @@
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
       "utcDate": "2026-10-16T18:45:00Z",
-      "status": "2026-10-16 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559662,
@@ -16271,7 +16271,7 @@
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "logos/Paris_Saint-Germain_FC.png",
       "utcDate": "2026-10-17T15:15:00Z",
-      "status": "2026-10-17 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559659,
@@ -16283,7 +16283,7 @@
       "awayTeam": "Racing Club de Lens",
       "awayCrest": "logos/Racing_Club_de_Lens.png",
       "utcDate": "2026-10-17T18:45:00Z",
-      "status": "2026-10-17 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559660,
@@ -16295,7 +16295,7 @@
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
       "utcDate": "2026-10-17T18:45:00Z",
-      "status": "2026-10-17 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559664,
@@ -16307,7 +16307,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2026-10-18T13:00:00Z",
-      "status": "2026-10-18 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559657,
@@ -16319,7 +16319,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2026-10-18T15:15:00Z",
-      "status": "2026-10-18 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559658,
@@ -16331,7 +16331,7 @@
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2026-10-18T15:15:00Z",
-      "status": "2026-10-18 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559663,
@@ -16343,7 +16343,7 @@
       "awayTeam": "AJ Auxerre",
       "awayCrest": "logos/AJ_Auxerre.png",
       "utcDate": "2026-10-18T15:15:00Z",
-      "status": "2026-10-18 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559665,
@@ -16355,7 +16355,7 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2026-10-18T18:45:00Z",
-      "status": "2026-10-18 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559654,
@@ -16367,7 +16367,7 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2026-10-23T18:45:00Z",
-      "status": "2026-10-23 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559655,
@@ -16379,7 +16379,7 @@
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
       "utcDate": "2026-10-24T15:15:00Z",
-      "status": "2026-10-24 14:15:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559652,
@@ -16391,7 +16391,7 @@
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
       "utcDate": "2026-10-24T18:45:00Z",
-      "status": "2026-10-24 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559650,
@@ -25079,7 +25079,7 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-09-12T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:30:00Z"
     },
     {
       "id": 567307,
@@ -25091,7 +25091,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-09-12T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 16:00:00Z"
     },
     {
       "id": 567309,
@@ -25103,7 +25103,7 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-09-12T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 18:30:00Z"
     },
     {
       "id": 567304,
@@ -25115,7 +25115,7 @@
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
       "utcDate": "2026-09-13T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-13 16:00:00Z"
     },
     {
       "id": 567310,
@@ -25127,7 +25127,7 @@
       "awayTeam": "CD Santa Clara",
       "awayCrest": "logos/CD_Santa_Clara.png",
       "utcDate": "2026-09-13T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-13 16:00:00Z"
     },
     {
       "id": 567305,
@@ -25139,7 +25139,7 @@
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
       "utcDate": "2026-09-13T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-13 18:30:00Z"
     },
     {
       "id": 567303,
@@ -25151,7 +25151,7 @@
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
       "utcDate": "2026-09-14T17:45:00Z",
-      "status": "TIMED"
+      "status": "2026-09-14 16:45:00Z"
     },
     {
       "id": 567302,
@@ -25163,7 +25163,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-09-14T19:15:00Z",
-      "status": "TIMED"
+      "status": "2026-09-14 18:15:00Z"
     },
     {
       "id": 567308,
@@ -25175,7 +25175,7 @@
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
       "utcDate": "2026-09-14T19:45:00Z",
-      "status": "TIMED"
+      "status": "2026-09-14 18:45:00Z"
     },
     {
       "id": 567311,
@@ -25187,7 +25187,7 @@
       "awayTeam": "FC Famalic\u00e3o",
       "awayCrest": "logos/FC_Famalic\u00e3o.png",
       "utcDate": "2026-09-19T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 567312,
@@ -25199,7 +25199,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-09-19T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:30:00Z"
     },
     {
       "id": 567318,
@@ -25211,7 +25211,7 @@
       "awayTeam": "Rio Ave FC",
       "awayCrest": "logos/Rio_Ave_FC.png",
       "utcDate": "2026-09-19T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 16:00:00Z"
     },
     {
       "id": 567313,
@@ -25223,7 +25223,7 @@
       "awayTeam": "FC Arouca",
       "awayCrest": "logos/FC_Arouca.png",
       "utcDate": "2026-09-19T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 18:30:00Z"
     },
     {
       "id": 567315,
@@ -25235,7 +25235,7 @@
       "awayTeam": "Moreirense FC",
       "awayCrest": "logos/Moreirense_FC.png",
       "utcDate": "2026-09-20T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 13:30:00Z"
     },
     {
       "id": 567317,
@@ -25247,7 +25247,7 @@
       "awayTeam": "Acad\u00e9mico de Viseu FC",
       "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
       "utcDate": "2026-09-20T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 13:30:00Z"
     },
     {
       "id": 567314,
@@ -25259,7 +25259,7 @@
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
       "utcDate": "2026-09-20T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 16:00:00Z"
     },
     {
       "id": 567319,
@@ -25271,7 +25271,7 @@
       "awayTeam": "Casa Pia AC",
       "awayCrest": "logos/Casa_Pia_AC.png",
       "utcDate": "2026-09-20T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 16:00:00Z"
     },
     {
       "id": 567316,
@@ -25283,7 +25283,7 @@
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "utcDate": "2026-09-20T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 18:30:00Z"
     },
     {
       "id": 567327,
@@ -25295,7 +25295,7 @@
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
       "utcDate": "2026-10-09T17:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-09 16:45:00Z"
     },
     {
       "id": 567326,
@@ -25307,7 +25307,7 @@
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
       "utcDate": "2026-10-09T19:15:00Z",
-      "status": "TIMED"
+      "status": "2026-10-09 18:15:00Z"
     },
     {
       "id": 567321,
@@ -25319,7 +25319,7 @@
       "awayTeam": "CD Santa Clara",
       "awayCrest": "logos/CD_Santa_Clara.png",
       "utcDate": "2026-10-10T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:30:00Z"
     },
     {
       "id": 567323,
@@ -25331,7 +25331,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-10-10T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 16:00:00Z"
     },
     {
       "id": 567322,
@@ -25343,7 +25343,7 @@
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
       "utcDate": "2026-10-10T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 18:30:00Z"
     },
     {
       "id": 567328,
@@ -25355,7 +25355,7 @@
       "awayTeam": "CD Nacional",
       "awayCrest": "logos/CD_Nacional.png",
       "utcDate": "2026-10-11T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-11 13:30:00Z"
     },
     {
       "id": 567320,
@@ -25367,7 +25367,7 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-10-11T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-11 16:00:00Z"
     },
     {
       "id": 567324,
@@ -25379,7 +25379,7 @@
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
       "utcDate": "2026-10-11T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-11 18:30:00Z"
     },
     {
       "id": 567325,
@@ -25391,7 +25391,7 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-10-12T19:15:00Z",
-      "status": "TIMED"
+      "status": "2026-10-12 18:15:00Z"
     },
     {
       "id": 567329,
@@ -25403,7 +25403,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-10-23T19:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-23 18:45:00Z"
     },
     {
       "id": 567337,
@@ -25415,7 +25415,7 @@
       "awayTeam": "Casa Pia AC",
       "awayCrest": "logos/Casa_Pia_AC.png",
       "utcDate": "2026-10-24T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:30:00Z"
     },
     {
       "id": 567333,
@@ -25427,7 +25427,7 @@
       "awayTeam": "FC Arouca",
       "awayCrest": "logos/FC_Arouca.png",
       "utcDate": "2026-10-24T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 16:00:00Z"
     },
     {
       "id": 567335,
@@ -25439,7 +25439,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-10-24T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 18:30:00Z"
     },
     {
       "id": 567336,
