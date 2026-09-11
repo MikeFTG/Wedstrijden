@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:16:25.530320+00:00",
+  "updated": "2026-09-11T16:38:51.875094+00:00",
   "matches": [
     {
       "id": 560572,
@@ -1570,31 +1570,7 @@
       "homeCrest": "logos/Aston_Villa_FC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560703,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 17,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560704,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 17,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-12-26T15:00:00Z",
+      "utcDate": "2026-12-26T12:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1606,30 +1582,6 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Sunderland AFC",
       "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560706,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 17,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560707,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 17,
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "logos/Newcastle_United_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
       "status": "TIMED"
     },
@@ -1658,18 +1610,6 @@
       "status": "TIMED"
     },
     {
-      "id": 560710,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 17,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 560711,
       "compCode": "PL",
       "compName": "Premier League",
@@ -1682,51 +1622,63 @@
       "status": "TIMED"
     },
     {
-      "id": 560712,
+      "id": 560710,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 18,
-      "homeTeam": "Fulham FC",
-      "homeCrest": "logos/Fulham_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560713,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 18,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Brentford FC",
-      "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560714,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 18,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
+      "matchday": 17,
+      "homeTeam": "Hull City AFC",
+      "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
+      "utcDate": "2026-12-26T17:30:00Z",
       "status": "TIMED"
     },
     {
-      "id": 560715,
+      "id": 560707,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 18,
+      "matchday": 17,
       "homeTeam": "Newcastle United FC",
       "homeCrest": "logos/Newcastle_United_FC.png",
+      "awayTeam": "Manchester City FC",
+      "awayCrest": "logos/Manchester_City_FC.png",
+      "utcDate": "2026-12-26T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560706,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 17,
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "logos/Coventry_City_FC.png",
+      "awayTeam": "Chelsea FC",
+      "awayCrest": "logos/Chelsea_FC.png",
+      "utcDate": "2026-12-27T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560703,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 17,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
       "awayTeam": "Nottingham Forest FC",
       "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
+      "utcDate": "2026-12-27T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560704,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 17,
+      "homeTeam": "Crystal Palace FC",
+      "homeCrest": "logos/Crystal_Palace_FC.png",
+      "awayTeam": "Arsenal FC",
+      "awayCrest": "logos/Arsenal_FC.png",
+      "utcDate": "2026-12-27T19:00:00Z",
       "status": "TIMED"
     },
     {
@@ -1738,31 +1690,7 @@
       "homeCrest": "logos/Hull_City_AFC.png",
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560717,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 18,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560718,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 18,
-      "homeTeam": "Ipswich Town FC",
-      "homeCrest": "logos/Ipswich_Town_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
+      "utcDate": "2026-12-29T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1774,7 +1702,7 @@
       "homeCrest": "logos/Tottenham_Hotspur_FC.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
+      "utcDate": "2026-12-29T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1786,7 +1714,55 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2026-12-30T20:00:00Z",
+      "utcDate": "2026-12-29T20:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560712,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 18,
+      "homeTeam": "Fulham FC",
+      "homeCrest": "logos/Fulham_FC.png",
+      "awayTeam": "Arsenal FC",
+      "awayCrest": "logos/Arsenal_FC.png",
+      "utcDate": "2026-12-30T19:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560713,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 18,
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "logos/Coventry_City_FC.png",
+      "awayTeam": "Brentford FC",
+      "awayCrest": "logos/Brentford_FC.png",
+      "utcDate": "2026-12-30T19:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560715,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 18,
+      "homeTeam": "Newcastle United FC",
+      "homeCrest": "logos/Newcastle_United_FC.png",
+      "awayTeam": "Nottingham Forest FC",
+      "awayCrest": "logos/Nottingham_Forest_FC.png",
+      "utcDate": "2026-12-30T19:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560717,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 18,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
+      "awayTeam": "Sunderland AFC",
+      "awayCrest": "logos/Sunderland_AFC.png",
+      "utcDate": "2026-12-30T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1798,31 +1774,31 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-12-30T20:00:00Z",
+      "utcDate": "2026-12-30T19:30:00Z",
       "status": "TIMED"
     },
     {
-      "id": 560722,
+      "id": 560714,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 19,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-01-02T15:00:00Z",
+      "matchday": 18,
+      "homeTeam": "Aston Villa FC",
+      "homeCrest": "logos/Aston_Villa_FC.png",
+      "awayTeam": "Liverpool FC",
+      "awayCrest": "logos/Liverpool_FC.png",
+      "utcDate": "2026-12-30T20:15:00Z",
       "status": "TIMED"
     },
     {
-      "id": 560723,
+      "id": 560718,
       "compCode": "PL",
       "compName": "Premier League",
-      "matchday": 19,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2027-01-02T15:00:00Z",
+      "matchday": 18,
+      "homeTeam": "Ipswich Town FC",
+      "homeCrest": "logos/Ipswich_Town_FC.png",
+      "awayTeam": "Chelsea FC",
+      "awayCrest": "logos/Chelsea_FC.png",
+      "utcDate": "2026-12-30T20:15:00Z",
       "status": "TIMED"
     },
     {
@@ -1834,6 +1810,30 @@
       "homeCrest": "logos/Leeds_United_FC.png",
       "awayTeam": "Everton FC",
       "awayCrest": "logos/Everton_FC.png",
+      "utcDate": "2027-01-01T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560730,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 19,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
+      "awayTeam": "Manchester United FC",
+      "awayCrest": "logos/Manchester_United_FC.png",
+      "utcDate": "2027-01-02T12:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560723,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 19,
+      "homeTeam": "Brentford FC",
+      "homeCrest": "logos/Brentford_FC.png",
+      "awayTeam": "Crystal Palace FC",
+      "awayCrest": "logos/Crystal_Palace_FC.png",
       "utcDate": "2027-01-02T15:00:00Z",
       "status": "TIMED"
     },
@@ -1874,18 +1874,6 @@
       "status": "TIMED"
     },
     {
-      "id": 560728,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 19,
-      "homeTeam": "Chelsea FC",
-      "homeCrest": "logos/Chelsea_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-01-02T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 560729,
       "compCode": "PL",
       "compName": "Premier League",
@@ -1898,15 +1886,27 @@
       "status": "TIMED"
     },
     {
-      "id": 560730,
+      "id": 560722,
       "compCode": "PL",
       "compName": "Premier League",
       "matchday": 19,
-      "homeTeam": "Brighton & Hove Albion FC",
-      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2027-01-02T15:00:00Z",
+      "homeTeam": "AFC Bournemouth",
+      "homeCrest": "logos/AFC_Bournemouth.png",
+      "awayTeam": "Aston Villa FC",
+      "awayCrest": "logos/Aston_Villa_FC.png",
+      "utcDate": "2027-01-02T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560728,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 19,
+      "homeTeam": "Chelsea FC",
+      "homeCrest": "logos/Chelsea_FC.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "logos/Newcastle_United_FC.png",
+      "utcDate": "2027-01-03T14:00:00Z",
       "status": "TIMED"
     },
     {
@@ -1918,7 +1918,7 @@
       "homeCrest": "logos/Manchester_City_FC.png",
       "awayTeam": "Tottenham Hotspur FC",
       "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-01-02T15:00:00Z",
+      "utcDate": "2027-01-03T16:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1930,31 +1930,7 @@
       "homeCrest": "logos/Arsenal_FC.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560733,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 20,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Manchester City FC",
-      "awayCrest": "logos/Manchester_City_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560734,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 20,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-05T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1966,7 +1942,7 @@
       "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
       "awayTeam": "AFC Bournemouth",
       "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-05T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -1978,19 +1954,7 @@
       "homeCrest": "logos/Nottingham_Forest_FC.png",
       "awayTeam": "Hull City AFC",
       "awayCrest": "logos/Hull_City_AFC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560737,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 20,
-      "homeTeam": "Fulham FC",
-      "homeCrest": "logos/Fulham_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-05T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2002,7 +1966,7 @@
       "homeCrest": "logos/Everton_FC.png",
       "awayTeam": "Aston Villa FC",
       "awayCrest": "logos/Aston_Villa_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-05T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2014,7 +1978,19 @@
       "homeCrest": "logos/Sunderland_AFC.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-05T20:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560737,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 20,
+      "homeTeam": "Fulham FC",
+      "homeCrest": "logos/Fulham_FC.png",
+      "awayTeam": "Tottenham Hotspur FC",
+      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
+      "utcDate": "2027-01-06T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2026,7 +2002,7 @@
       "homeCrest": "logos/Crystal_Palace_FC.png",
       "awayTeam": "Chelsea FC",
       "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-06T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -2038,7 +2014,31 @@
       "homeCrest": "logos/Ipswich_Town_FC.png",
       "awayTeam": "Coventry City FC",
       "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2027-01-06T20:00:00Z",
+      "utcDate": "2027-01-06T19:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560733,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 20,
+      "homeTeam": "Leeds United FC",
+      "homeCrest": "logos/Leeds_United_FC.png",
+      "awayTeam": "Manchester City FC",
+      "awayCrest": "logos/Manchester_City_FC.png",
+      "utcDate": "2027-01-06T20:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 560734,
+      "compCode": "PL",
+      "compName": "Premier League",
+      "matchday": 20,
+      "homeTeam": "Manchester United FC",
+      "homeCrest": "logos/Manchester_United_FC.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "logos/Newcastle_United_FC.png",
+      "utcDate": "2027-01-07T20:00:00Z",
       "status": "TIMED"
     },
     {
@@ -19283,7 +19283,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-09-11T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-11 18:00:00Z"
     },
     {
       "id": 561835,
@@ -19295,7 +19295,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-09-12T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 10:30:00Z"
     },
     {
       "id": 561837,
@@ -19307,7 +19307,7 @@
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
       "utcDate": "2026-09-12T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 10:30:00Z"
     },
     {
       "id": 561839,
@@ -19319,7 +19319,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-09-12T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 10:30:00Z"
     },
     {
       "id": 561833,
@@ -19331,7 +19331,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561834,
@@ -19343,7 +19343,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561836,
@@ -19355,7 +19355,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561838,
@@ -19367,7 +19367,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561840,
@@ -19379,7 +19379,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561841,
@@ -19391,7 +19391,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561843,
@@ -19403,7 +19403,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-09-12T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-12 13:00:00Z"
     },
     {
       "id": 561844,
@@ -19415,7 +19415,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-09-13T11:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-13 10:00:00Z"
     },
     {
       "id": 561825,
@@ -19427,7 +19427,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-09-15T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-09-15 17:45:00Z"
     },
     {
       "id": 561828,
@@ -19439,7 +19439,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-09-15T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-09-15 17:45:00Z"
     },
     {
       "id": 561845,
@@ -19451,7 +19451,7 @@
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
       "utcDate": "2026-09-18T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-18 18:00:00Z"
     },
     {
       "id": 561847,
@@ -19463,7 +19463,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-09-19T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 10:30:00Z"
     },
     {
       "id": 561849,
@@ -19475,7 +19475,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-09-19T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 10:30:00Z"
     },
     {
       "id": 561852,
@@ -19487,7 +19487,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-09-19T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 10:30:00Z"
     },
     {
       "id": 561846,
@@ -19499,7 +19499,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:00:00Z"
     },
     {
       "id": 561848,
@@ -19511,7 +19511,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:00:00Z"
     },
     {
       "id": 561853,
@@ -19523,7 +19523,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:00:00Z"
     },
     {
       "id": 561854,
@@ -19535,7 +19535,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:00:00Z"
     },
     {
       "id": 561855,
@@ -19547,7 +19547,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:00:00Z"
     },
     {
       "id": 561856,
@@ -19559,7 +19559,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-09-19T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-19 13:00:00Z"
     },
     {
       "id": 561851,
@@ -19571,7 +19571,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-09-20T11:00:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 10:00:00Z"
     },
     {
       "id": 561850,
@@ -19583,7 +19583,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-09-20T12:30:00Z",
-      "status": "TIMED"
+      "status": "2026-09-20 11:30:00Z"
     },
     {
       "id": 561862,
@@ -19595,7 +19595,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-10-09T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-09 18:00:00Z"
     },
     {
       "id": 561857,
@@ -19607,7 +19607,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 10:30:00Z"
     },
     {
       "id": 561860,
@@ -19619,7 +19619,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 10:30:00Z"
     },
     {
       "id": 561863,
@@ -19631,7 +19631,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 10:30:00Z"
     },
     {
       "id": 561858,
@@ -19643,7 +19643,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561861,
@@ -19655,7 +19655,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561864,
@@ -19667,7 +19667,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561865,
@@ -19679,7 +19679,7 @@
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561866,
@@ -19691,7 +19691,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561867,
@@ -19703,7 +19703,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561868,
@@ -19715,7 +19715,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-10-10T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-10 13:00:00Z"
     },
     {
       "id": 561859,
@@ -19727,7 +19727,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-10-11T11:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-11 10:00:00Z"
     },
     {
       "id": 561869,
@@ -19739,7 +19739,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 17:45:00Z"
     },
     {
       "id": 561870,
@@ -19751,7 +19751,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 17:45:00Z"
     },
     {
       "id": 561871,
@@ -19763,7 +19763,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 17:45:00Z"
     },
     {
       "id": 561872,
@@ -19775,7 +19775,7 @@
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 17:45:00Z"
     },
     {
       "id": 561873,
@@ -19787,7 +19787,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 17:45:00Z"
     },
     {
       "id": 561874,
@@ -19799,7 +19799,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 17:45:00Z"
     },
     {
       "id": 561875,
@@ -19811,7 +19811,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-10-13T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 18:00:00Z"
     },
     {
       "id": 561876,
@@ -19823,7 +19823,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-10-13T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-13 18:00:00Z"
     },
     {
       "id": 561877,
@@ -19835,7 +19835,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-10-14T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-14 17:45:00Z"
     },
     {
       "id": 561879,
@@ -19847,7 +19847,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-10-14T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-14 17:45:00Z"
     },
     {
       "id": 561880,
@@ -19859,7 +19859,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-10-14T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-14 17:45:00Z"
     },
     {
       "id": 561878,
@@ -19871,7 +19871,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-10-14T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-14 18:00:00Z"
     },
     {
       "id": 561883,
@@ -19883,7 +19883,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-10-16T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-16 18:00:00Z"
     },
     {
       "id": 561884,
@@ -19895,7 +19895,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-10-17T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 10:30:00Z"
     },
     {
       "id": 561887,
@@ -19907,7 +19907,7 @@
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
       "utcDate": "2026-10-17T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 10:30:00Z"
     },
     {
       "id": 561889,
@@ -19919,7 +19919,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-10-17T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 10:30:00Z"
     },
     {
       "id": 561881,
@@ -19931,7 +19931,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561882,
@@ -19943,7 +19943,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561885,
@@ -19955,7 +19955,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561886,
@@ -19967,7 +19967,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561888,
@@ -19979,7 +19979,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561890,
@@ -19991,7 +19991,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561891,
@@ -20003,7 +20003,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561892,
@@ -20015,7 +20015,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-10-17T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-17 13:00:00Z"
     },
     {
       "id": 561826,
@@ -20027,7 +20027,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-10-20T18:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-20 17:45:00Z"
     },
     {
       "id": 561894,
@@ -20039,7 +20039,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-10-23T19:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-23 18:00:00Z"
     },
     {
       "id": 561895,
@@ -20051,7 +20051,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-10-24T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 10:30:00Z"
     },
     {
       "id": 561901,
@@ -20063,7 +20063,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-10-24T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 10:30:00Z"
     },
     {
       "id": 561904,
@@ -20075,7 +20075,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-10-24T11:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 10:30:00Z"
     },
     {
       "id": 561893,
@@ -20087,7 +20087,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561896,
@@ -20099,7 +20099,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561897,
@@ -20111,7 +20111,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561898,
@@ -20123,7 +20123,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561899,
@@ -20135,7 +20135,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561900,
@@ -20147,7 +20147,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561902,
@@ -20159,7 +20159,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561903,
@@ -20171,7 +20171,7 @@
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
       "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 13:00:00Z"
     },
     {
       "id": 561916,
@@ -23171,7 +23171,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2027-02-20 12:00:00Z"
     },
     {
       "id": 562155,
@@ -23219,7 +23219,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "status": "2027-02-27 12:00:00Z"
     },
     {
       "id": 562159,
