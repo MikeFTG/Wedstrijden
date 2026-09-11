@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T23:35:35.882902+00:00",
+  "updated": "2026-09-11T02:21:35.430562+00:00",
   "matches": [
     {
       "id": 560572,
@@ -7667,7 +7667,7 @@
       "awayTeam": "ACF Fiorentina",
       "awayCrest": "logos/ACF_Fiorentina.png",
       "utcDate": "2026-09-11T18:45:00Z",
-      "status": "2026-09-11 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558604,
@@ -7679,7 +7679,7 @@
       "awayTeam": "Frosinone Calcio",
       "awayCrest": "logos/Frosinone_Calcio.png",
       "utcDate": "2026-09-12T13:00:00Z",
-      "status": "2026-09-12 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558600,
@@ -7691,7 +7691,7 @@
       "awayTeam": "AC Milan",
       "awayCrest": "logos/AC_Milan.png",
       "utcDate": "2026-09-12T16:00:00Z",
-      "status": "2026-09-12 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558607,
@@ -7703,7 +7703,7 @@
       "awayTeam": "Cagliari Calcio",
       "awayCrest": "logos/Cagliari_Calcio.png",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "2026-09-12 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558605,
@@ -7715,7 +7715,7 @@
       "awayTeam": "AC Monza",
       "awayCrest": "logos/AC_Monza.png",
       "utcDate": "2026-09-13T13:00:00Z",
-      "status": "2026-09-13 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558599,
@@ -7727,7 +7727,7 @@
       "awayTeam": "Bologna FC 1909",
       "awayCrest": "logos/Bologna_FC_1909.png",
       "utcDate": "2026-09-13T16:00:00Z",
-      "status": "2026-09-13 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558608,
@@ -7739,7 +7739,7 @@
       "awayTeam": "Juventus FC",
       "awayCrest": "logos/Juventus_FC.png",
       "utcDate": "2026-09-13T18:45:00Z",
-      "status": "2026-09-13 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558602,
@@ -7751,7 +7751,7 @@
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2026-09-14T16:30:00Z",
-      "status": "2026-09-14 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558603,
@@ -7763,7 +7763,7 @@
       "awayTeam": "AS Roma",
       "awayCrest": "logos/AS_Roma.png",
       "utcDate": "2026-09-14T16:30:00Z",
-      "status": "2026-09-14 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558601,
@@ -7775,7 +7775,7 @@
       "awayTeam": "Udinese Calcio",
       "awayCrest": "logos/Udinese_Calcio.png",
       "utcDate": "2026-09-14T18:45:00Z",
-      "status": "2026-09-14 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558596,
@@ -7787,7 +7787,7 @@
       "awayTeam": "US Sassuolo Calcio",
       "awayCrest": "logos/US_Sassuolo_Calcio.png",
       "utcDate": "2026-09-18T18:45:00Z",
-      "status": "2026-09-18 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558598,
@@ -7799,7 +7799,7 @@
       "awayTeam": "Torino FC",
       "awayCrest": "logos/Torino_FC.png",
       "utcDate": "2026-09-19T13:00:00Z",
-      "status": "2026-09-19 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558589,
@@ -7811,7 +7811,7 @@
       "awayTeam": "Cagliari Calcio",
       "awayCrest": "logos/Cagliari_Calcio.png",
       "utcDate": "2026-09-19T13:00:00Z",
-      "status": "2026-09-19 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558593,
@@ -7823,7 +7823,7 @@
       "awayTeam": "FC Internazionale Milano",
       "awayCrest": "logos/FC_Internazionale_Milano.png",
       "utcDate": "2026-09-19T16:00:00Z",
-      "status": "2026-09-19 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558594,
@@ -7835,7 +7835,7 @@
       "awayTeam": "SS Lazio",
       "awayCrest": "logos/SS_Lazio.png",
       "utcDate": "2026-09-19T18:45:00Z",
-      "status": "2026-09-19 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558591,
@@ -7847,7 +7847,7 @@
       "awayTeam": "SSC Napoli",
       "awayCrest": "logos/SSC_Napoli.png",
       "utcDate": "2026-09-20T10:30:00Z",
-      "status": "2026-09-20 09:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558592,
@@ -7859,7 +7859,7 @@
       "awayTeam": "Como 1907",
       "awayCrest": "logos/Como_1907.png",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "2026-09-20 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558590,
@@ -7871,7 +7871,7 @@
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "2026-09-20 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558595,
@@ -7883,7 +7883,7 @@
       "awayTeam": "Atalanta BC",
       "awayCrest": "logos/Atalanta_BC.png",
       "utcDate": "2026-09-20T16:00:00Z",
-      "status": "2026-09-20 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558597,
@@ -7895,7 +7895,7 @@
       "awayTeam": "US Lecce",
       "awayCrest": "logos/US_Lecce.png",
       "utcDate": "2026-09-20T18:45:00Z",
-      "status": "2026-09-20 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558588,
@@ -7907,7 +7907,7 @@
       "awayTeam": "ACF Fiorentina",
       "awayCrest": "logos/ACF_Fiorentina.png",
       "utcDate": "2026-10-10T13:00:00Z",
-      "status": "2026-10-10 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558582,
@@ -7919,7 +7919,7 @@
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2026-10-10T16:00:00Z",
-      "status": "2026-10-10 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558586,
@@ -7931,7 +7931,7 @@
       "awayTeam": "Frosinone Calcio",
       "awayCrest": "logos/Frosinone_Calcio.png",
       "utcDate": "2026-10-10T18:45:00Z",
-      "status": "2026-10-10 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558585,
@@ -7943,7 +7943,7 @@
       "awayTeam": "AS Roma",
       "awayCrest": "logos/AS_Roma.png",
       "utcDate": "2026-10-11T10:30:00Z",
-      "status": "2026-10-11 09:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558581,
@@ -7955,7 +7955,7 @@
       "awayTeam": "Bologna FC 1909",
       "awayCrest": "logos/Bologna_FC_1909.png",
       "utcDate": "2026-10-11T13:00:00Z",
-      "status": "2026-10-11 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558583,
@@ -7967,7 +7967,7 @@
       "awayTeam": "AC Monza",
       "awayCrest": "logos/AC_Monza.png",
       "utcDate": "2026-10-11T13:00:00Z",
-      "status": "2026-10-11 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558580,
@@ -7979,7 +7979,7 @@
       "awayTeam": "AC Milan",
       "awayCrest": "logos/AC_Milan.png",
       "utcDate": "2026-10-11T16:00:00Z",
-      "status": "2026-10-11 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558584,
@@ -7991,7 +7991,7 @@
       "awayTeam": "Juventus FC",
       "awayCrest": "logos/Juventus_FC.png",
       "utcDate": "2026-10-11T18:45:00Z",
-      "status": "2026-10-11 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558579,
@@ -8003,7 +8003,7 @@
       "awayTeam": "Venezia FC",
       "awayCrest": "logos/Venezia_FC.png",
       "utcDate": "2026-10-12T16:30:00Z",
-      "status": "2026-10-12 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558587,
@@ -8015,7 +8015,7 @@
       "awayTeam": "Udinese Calcio",
       "awayCrest": "logos/Udinese_Calcio.png",
       "utcDate": "2026-10-12T18:45:00Z",
-      "status": "2026-10-12 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558573,
@@ -8027,7 +8027,7 @@
       "awayTeam": "US Sassuolo Calcio",
       "awayCrest": "logos/US_Sassuolo_Calcio.png",
       "utcDate": "2026-10-16T18:45:00Z",
-      "status": "2026-10-16 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558575,
@@ -8039,7 +8039,7 @@
       "awayTeam": "SSC Napoli",
       "awayCrest": "logos/SSC_Napoli.png",
       "utcDate": "2026-10-17T13:00:00Z",
-      "status": "2026-10-17 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558571,
@@ -8051,7 +8051,7 @@
       "awayTeam": "FC Internazionale Milano",
       "awayCrest": "logos/FC_Internazionale_Milano.png",
       "utcDate": "2026-10-17T16:00:00Z",
-      "status": "2026-10-17 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558572,
@@ -8063,7 +8063,7 @@
       "awayTeam": "Genoa CFC",
       "awayCrest": "logos/Genoa_CFC.png",
       "utcDate": "2026-10-17T18:45:00Z",
-      "status": "2026-10-17 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558574,
@@ -8075,7 +8075,7 @@
       "awayTeam": "US Lecce",
       "awayCrest": "logos/US_Lecce.png",
       "utcDate": "2026-10-18T10:30:00Z",
-      "status": "2026-10-18 09:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558577,
@@ -8087,7 +8087,7 @@
       "awayTeam": "Como 1907",
       "awayCrest": "logos/Como_1907.png",
       "utcDate": "2026-10-18T13:00:00Z",
-      "status": "2026-10-18 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558569,
@@ -8099,7 +8099,7 @@
       "awayTeam": "Atalanta BC",
       "awayCrest": "logos/Atalanta_BC.png",
       "utcDate": "2026-10-18T16:00:00Z",
-      "status": "2026-10-18 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558570,
@@ -8111,7 +8111,7 @@
       "awayTeam": "SS Lazio",
       "awayCrest": "logos/SS_Lazio.png",
       "utcDate": "2026-10-18T18:45:00Z",
-      "status": "2026-10-18 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558576,
@@ -8123,7 +8123,7 @@
       "awayTeam": "Cagliari Calcio",
       "awayCrest": "logos/Cagliari_Calcio.png",
       "utcDate": "2026-10-19T16:30:00Z",
-      "status": "2026-10-19 15:30:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558578,
@@ -8135,7 +8135,7 @@
       "awayTeam": "Torino FC",
       "awayCrest": "logos/Torino_FC.png",
       "utcDate": "2026-10-19T18:45:00Z",
-      "status": "2026-10-19 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558567,
@@ -8147,7 +8147,7 @@
       "awayTeam": "AC Monza",
       "awayCrest": "logos/AC_Monza.png",
       "utcDate": "2026-10-23T18:45:00Z",
-      "status": "2026-10-23 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558560,
@@ -8159,7 +8159,7 @@
       "awayTeam": "Bologna FC 1909",
       "awayCrest": "logos/Bologna_FC_1909.png",
       "utcDate": "2026-10-24T13:00:00Z",
-      "status": "2026-10-24 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558561,
@@ -8171,7 +8171,7 @@
       "awayTeam": "US Sassuolo Calcio",
       "awayCrest": "logos/US_Sassuolo_Calcio.png",
       "utcDate": "2026-10-24T13:00:00Z",
-      "status": "2026-10-24 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558564,
@@ -8183,7 +8183,7 @@
       "awayTeam": "AS Roma",
       "awayCrest": "logos/AS_Roma.png",
       "utcDate": "2026-10-24T16:00:00Z",
-      "status": "2026-10-24 15:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558565,
@@ -8195,7 +8195,7 @@
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2026-10-24T18:45:00Z",
-      "status": "2026-10-24 17:45:00Z"
+      "status": "TIMED"
     },
     {
       "id": 558563,
