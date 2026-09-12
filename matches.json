@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-12T17:35:23.609370+00:00",
+  "updated": "2026-09-12T19:57:31.633432+00:00",
   "matches": [
-    {
-      "id": 560577,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Sunderland AFC",
-      "homeCrest": "logos/Sunderland_AFC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-09-12T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560578,
       "compCode": "PL",
@@ -7502,18 +7490,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558607,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 4,
-      "homeTeam": "Atalanta BC",
-      "homeCrest": "logos/Atalanta_BC.png",
-      "awayTeam": "Cagliari Calcio",
-      "awayCrest": "logos/Cagliari_Calcio.png",
-      "utcDate": "2026-09-12T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558605,
       "compCode": "SA",
       "compName": "Serie A",
@@ -11666,18 +11642,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564677,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 5,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-09-12T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564672,
       "compCode": "PD",
       "compName": "La Liga",
@@ -15684,54 +15648,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559684,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-09-12T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559688,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "AJ Auxerre",
-      "homeCrest": "logos/AJ_Auxerre.png",
-      "awayTeam": "OGC Nice",
-      "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-09-12T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559690,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-09-12T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559692,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Olympique Lyonnais",
-      "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-09-12T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559685,
@@ -24672,18 +24588,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567309,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "Acad\u00e9mico de Viseu FC",
-      "homeCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "awayTeam": "Vit\u00f3ria SC",
-      "awayCrest": "logos/Vit\u00f3ria_SC.png",
-      "utcDate": "2026-09-12T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567304,
