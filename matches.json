@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T07:18:05.754209+00:00",
+  "updated": "2026-09-12T11:40:34.405864+00:00",
   "matches": [
     {
       "id": 560572,
@@ -19224,42 +19224,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561835,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 7,
-      "homeTeam": "Derby County FC",
-      "homeCrest": "logos/Derby_County_FC.png",
-      "awayTeam": "Birmingham City FC",
-      "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2026-09-12T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561837,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 7,
-      "homeTeam": "Bolton Wanderers FC",
-      "homeCrest": "logos/Bolton_Wanderers_FC.png",
-      "awayTeam": "Cardiff City FC",
-      "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2026-09-12T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561839,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 7,
-      "homeTeam": "West Bromwich Albion FC",
-      "homeCrest": "logos/West_Bromwich_Albion_FC.png",
-      "awayTeam": "Queens Park Rangers FC",
-      "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2026-09-12T11:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561833,
