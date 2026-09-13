@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T19:14:35.863124+00:00",
+  "updated": "2026-09-13T21:31:54.791563+00:00",
   "matches": [
     {
       "id": 560579,
@@ -24408,18 +24408,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567305,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "Sporting Clube de Portugal",
-      "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "utcDate": "2026-09-13T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567303,
