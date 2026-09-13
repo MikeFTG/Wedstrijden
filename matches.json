@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T16:59:34.768020+00:00",
+  "updated": "2026-09-13T19:14:35.863124+00:00",
   "matches": [
     {
       "id": 560579,
@@ -7442,18 +7442,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558608,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 4,
-      "homeTeam": "US Sassuolo Calcio",
-      "homeCrest": "logos/US_Sassuolo_Calcio.png",
-      "awayTeam": "Juventus FC",
-      "awayCrest": "logos/Juventus_FC.png",
-      "utcDate": "2026-09-13T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558602,
       "compCode": "SA",
       "compName": "Serie A",
@@ -11570,18 +11558,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564674,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 5,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-09-13T19:00:00Z",
-      "status": "2026-09-13 19:00:00Z"
-    },
-    {
       "id": 564671,
       "compCode": "PD",
       "compName": "La Liga",
@@ -15540,18 +15516,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559691,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 4,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-09-13T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559682,
@@ -24444,30 +24408,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567304,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "Sport Lisboa e Benfica",
-      "homeCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2026-09-13T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567310,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "FC Arouca",
-      "homeCrest": "logos/FC_Arouca.png",
-      "awayTeam": "CD Santa Clara",
-      "awayCrest": "logos/CD_Santa_Clara.png",
-      "utcDate": "2026-09-13T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567305,
