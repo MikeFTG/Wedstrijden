@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-14T15:08:05.501074+00:00",
+  "updated": "2026-09-14T19:53:42.845180+00:00",
   "matches": [
-    {
-      "id": 560579,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 4,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560591,
       "compCode": "PL",
@@ -7442,42 +7430,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558602,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 4,
-      "homeTeam": "Como 1907",
-      "homeCrest": "logos/Como_1907.png",
-      "awayTeam": "Parma Calcio 1913",
-      "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-09-14T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558603,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 4,
-      "homeTeam": "Torino FC",
-      "homeCrest": "logos/Torino_FC.png",
-      "awayTeam": "AS Roma",
-      "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-09-14T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558601,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 4,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "Udinese Calcio",
-      "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-09-14T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558596,
       "compCode": "SA",
       "compName": "Serie A",
@@ -11556,18 +11508,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564671,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 5,
-      "homeTeam": "Villarreal CF",
-      "homeCrest": "logos/Villarreal_CF.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564678,
@@ -24408,42 +24348,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567303,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "Rio Ave FC",
-      "homeCrest": "logos/Rio_Ave_FC.png",
-      "awayTeam": "CF Estrela da Amadora",
-      "awayCrest": "logos/CF_Estrela_da_Amadora.png",
-      "utcDate": "2026-09-14T17:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567302,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "Moreirense FC",
-      "homeCrest": "logos/Moreirense_FC.png",
-      "awayTeam": "CS Mar\u00edtimo",
-      "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2026-09-14T19:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567308,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 6,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "GD Estoril Praia",
-      "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2026-09-14T19:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567311,
