@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T16:15:48.237268+00:00",
+  "updated": "2026-09-15T19:45:32.241345+00:00",
   "matches": [
     {
       "id": 560591,
@@ -11510,42 +11510,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564678,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 6,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-09-15T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564680,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 6,
-      "homeTeam": "Deportivo Alav\u00e9s",
-      "homeCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-09-15T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564681,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 6,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-09-15T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564679,
       "compCode": "PD",
       "compName": "La Liga",
@@ -18696,30 +18660,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561825,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 6,
-      "homeTeam": "Middlesbrough FC",
-      "homeCrest": "logos/Middlesbrough_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2026-09-15T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561828,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 6,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
-      "awayTeam": "Lincoln City FC",
-      "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2026-09-15T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561845,
