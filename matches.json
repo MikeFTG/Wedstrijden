@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:57:12.045321+00:00",
+  "updated": "2026-09-15T16:15:48.237268+00:00",
   "matches": [
     {
       "id": 560591,
@@ -24958,8 +24958,8 @@
       "homeCrest": "logos/Gil_Vicente_FC.png",
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-29T18:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567358,
@@ -24982,8 +24982,8 @@
       "homeCrest": "logos/Casa_Pia_AC.png",
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
-      "utcDate": "2026-11-30T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-30T20:15:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567360,
