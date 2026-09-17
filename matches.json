@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:07:29.313352+00:00",
+  "updated": "2026-09-17T19:08:08.706988+00:00",
   "matches": [
     {
       "id": 560591,
@@ -11508,18 +11508,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564686,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 6,
-      "homeTeam": "Real Betis Balompi\u00e9",
-      "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-09-17T17:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564683,
