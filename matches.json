@@ -1,18 +1,6 @@
 {
-  "updated": "2026-09-18T17:45:04.907285+00:00",
+  "updated": "2026-09-18T20:13:45.994703+00:00",
   "matches": [
-    {
-      "id": 560591,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-09-18T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560587,
       "compCode": "PL",
@@ -4082,18 +4070,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565804,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 4,
-      "homeTeam": "FC Bayern M\u00fcnchen",
-      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "awayTeam": "1. FC Union Berlin",
-      "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-09-18T18:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565808,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -7427,18 +7403,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558596,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 5,
-      "homeTeam": "AC Monza",
-      "homeCrest": "logos/AC_Monza.png",
-      "awayTeam": "US Sassuolo Calcio",
-      "awayCrest": "logos/US_Sassuolo_Calcio.png",
-      "utcDate": "2026-09-18T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -11510,18 +11474,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564692,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 7,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-09-18T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564693,
       "compCode": "PD",
       "compName": "La Liga",
@@ -15362,18 +15314,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559682,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 5,
-      "homeTeam": "AS Monaco FC",
-      "homeCrest": "logos/AS_Monaco_FC.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-09-18T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559679,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -18600,18 +18540,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561845,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 8,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
-      "awayTeam": "Watford FC",
-      "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2026-09-18T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561847,
