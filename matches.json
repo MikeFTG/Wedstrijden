@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:09:02.354380+00:00",
+  "updated": "2026-09-19T21:33:46.831124+00:00",
   "matches": [
     {
       "id": 560582,
@@ -23772,18 +23772,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567313,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 7,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "FC Arouca",
-      "awayCrest": "logos/FC_Arouca.png",
-      "utcDate": "2026-09-19T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567315,
