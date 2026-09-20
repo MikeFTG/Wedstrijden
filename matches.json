@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T19:12:13.397174+00:00",
+  "updated": "2026-09-20T21:43:02.394623+00:00",
   "matches": [
     {
       "id": 560593,
@@ -23508,18 +23508,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567316,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 7,
-      "homeTeam": "FC Porto",
-      "homeCrest": "logos/FC_Porto.png",
-      "awayTeam": "Sport Lisboa e Benfica",
-      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-09-20T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567327,
