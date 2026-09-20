@@ -1,42 +1,6 @@
 {
-  "updated": "2026-09-20T08:09:40.862152+00:00",
+  "updated": "2026-09-20T13:07:38.669571+00:00",
   "matches": [
-    {
-      "id": 560582,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "logos/Liverpool_FC.png",
-      "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560585,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560590,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 5,
-      "homeTeam": "Manchester City FC",
-      "homeCrest": "logos/Manchester_City_FC.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560583,
       "compCode": "PL",
@@ -7286,42 +7250,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558591,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 5,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "SSC Napoli",
-      "awayCrest": "logos/SSC_Napoli.png",
-      "utcDate": "2026-09-20T10:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558592,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 5,
-      "homeTeam": "Frosinone Calcio",
-      "homeCrest": "logos/Frosinone_Calcio.png",
-      "awayTeam": "Como 1907",
-      "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558590,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 5,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "Genoa CFC",
-      "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558595,
       "compCode": "SA",
       "compName": "Serie A",
@@ -11306,18 +11234,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564697,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 7,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "M\u00e1laga CF",
-      "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-09-20T12:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564688,
       "compCode": "PD",
       "compName": "La Liga",
@@ -15098,18 +15014,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559676,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 5,
-      "homeTeam": "AJ Auxerre",
-      "homeCrest": "logos/AJ_Auxerre.png",
-      "awayTeam": "Stade Brestois 29",
-      "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559678,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -18264,30 +18168,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561851,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 8,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "West Bromwich Albion FC",
-      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2026-09-20T11:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561850,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 8,
-      "homeTeam": "Norwich City FC",
-      "homeCrest": "logos/Norwich_City_FC.png",
-      "awayTeam": "Bolton Wanderers FC",
-      "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2026-09-20T12:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561862,
