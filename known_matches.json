@@ -1913,7 +1913,7 @@
   },
   "558519": {
     "status": "TIMED",
-    "datum": "2026-11-23T17:30:00Z"
+    "datum": "2026-11-23T19:45:00Z"
   },
   "558520": {
     "status": "TIMED",
@@ -1921,19 +1921,19 @@
   },
   "558521": {
     "status": "TIMED",
-    "datum": "2026-11-23T19:45:00Z"
+    "datum": "2026-11-22T11:30:00Z"
   },
   "558522": {
     "status": "TIMED",
-    "datum": "2026-11-22T17:00:00Z"
+    "datum": "2026-11-22T14:00:00Z"
   },
   "558523": {
     "status": "TIMED",
-    "datum": "2026-11-22T14:00:00Z"
+    "datum": "2026-11-22T17:00:00Z"
   },
   "558524": {
     "status": "TIMED",
-    "datum": "2026-11-22T11:30:00Z"
+    "datum": "2026-11-22T14:00:00Z"
   },
   "558525": {
     "status": "TIMED",
@@ -1952,284 +1952,284 @@
     "datum": "2026-11-21T14:00:00Z"
   },
   "558509": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T14:00:00Z"
   },
   "558510": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-30T19:45:00Z"
   },
   "558511": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T19:45:00Z"
   },
   "558512": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T17:00:00Z"
   },
   "558513": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T14:00:00Z"
   },
   "558514": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T17:00:00Z"
   },
   "558515": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-27T19:45:00Z"
   },
   "558516": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-30T17:30:00Z"
   },
   "558517": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-29T11:30:00Z"
   },
   "558518": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-29T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-28T19:45:00Z"
   },
   "558499": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T11:30:00Z"
   },
   "558500": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T17:00:00Z"
   },
   "558501": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-05T17:00:00Z"
   },
   "558502": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-04T19:45:00Z"
   },
   "558503": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-07T19:45:00Z"
   },
   "558504": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T14:00:00Z"
   },
   "558505": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T19:45:00Z"
   },
   "558506": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-07T17:30:00Z"
   },
   "558507": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-05T14:00:00Z"
   },
   "558508": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-05T19:45:00Z"
   },
   "558489": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T19:45:00Z"
   },
   "558490": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-12T19:45:00Z"
   },
   "558491": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-11T19:45:00Z"
   },
   "558492": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-12T17:00:00Z"
   },
   "558493": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T17:00:00Z"
   },
   "558494": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-12T14:00:00Z"
   },
   "558495": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T14:00:00Z"
   },
   "558496": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-14T19:45:00Z"
   },
   "558497": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-14T17:30:00Z"
   },
   "558498": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T11:30:00Z"
   },
   "558479": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-19T17:00:00Z"
   },
   "558480": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-19T14:00:00Z"
   },
   "558481": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-19T19:45:00Z"
   },
   "558482": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-18T17:30:00Z"
   },
   "558483": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-20T19:45:00Z"
   },
   "558484": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-20T11:30:00Z"
   },
   "558485": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-20T17:00:00Z"
   },
   "558486": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-18T19:45:00Z"
   },
   "558487": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-20T14:00:00Z"
   },
   "558488": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-20T14:00:00Z"
   },
   "558469": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-03T14:00:00Z"
   },
   "558470": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-03T14:00:00Z"
   },
   "558471": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-02T17:00:00Z"
   },
   "558472": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-03T17:00:00Z"
   },
   "558473": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-02T11:30:00Z"
   },
   "558474": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-02T14:00:00Z"
   },
   "558475": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-02T19:45:00Z"
   },
   "558476": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-03T11:30:00Z"
   },
   "558477": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-03T19:45:00Z"
   },
   "558478": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-03T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-02T14:00:00Z"
   },
   "558459": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-06T14:00:00Z"
   },
   "558460": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-07T17:30:00Z"
   },
   "558461": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-05T17:30:00Z"
   },
   "558462": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-05T17:30:00Z"
   },
   "558463": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-07T19:45:00Z"
   },
   "558464": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-05T19:45:00Z"
   },
   "558465": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-06T11:30:00Z"
   },
   "558466": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-06T17:00:00Z"
   },
   "558467": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-06T19:45:00Z"
   },
   "558468": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-06T14:00:00Z"
   },
   "558449": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-10T14:00:00Z"
   },
   "558450": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-11T19:45:00Z"
   },
   "558451": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-10T17:00:00Z"
   },
   "558452": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-09T14:00:00Z"
   },
   "558453": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-10T19:45:00Z"
   },
   "558454": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-10T14:00:00Z"
   },
   "558455": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-09T19:45:00Z"
   },
   "558456": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-11T17:30:00Z"
   },
   "558457": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-10T11:30:00Z"
   },
   "558458": {
-    "status": "SCHEDULED",
-    "datum": "2027-01-10T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2027-01-09T17:00:00Z"
   },
   "558439": {
     "status": "SCHEDULED",
