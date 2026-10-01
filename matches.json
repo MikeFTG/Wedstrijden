@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:06:02.612833+00:00",
+  "updated": "2026-10-01T15:32:54.790907+00:00",
   "matches": [
     {
       "id": 560593,
@@ -23615,6 +23615,18 @@
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-10-12T19:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567271,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 2,
+      "homeTeam": "Sporting Clube de Braga",
+      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
+      "awayTeam": "Gil Vicente FC",
+      "awayCrest": "logos/Gil_Vicente_FC.png",
+      "utcDate": "2026-10-19T19:15:00Z",
       "status": "TIMED"
     },
     {
