@@ -6136,44 +6136,44 @@
     "datum": "2026-10-24T14:15:00Z"
   },
   "564736": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-10-31T17:30:00Z"
   },
   "564737": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-10-30T20:00:00Z"
   },
   "564728": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-01T17:30:00Z"
   },
   "564729": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-01T20:00:00Z"
   },
   "564730": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-10-31T13:00:00Z"
   },
   "564731": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-02T20:00:00Z"
   },
   "564732": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-10-31T20:00:00Z"
   },
   "564733": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-01T13:00:00Z"
   },
   "564734": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-11-01T15:15:00Z"
   },
   "564735": {
-    "status": "SCHEDULED",
-    "datum": "2026-11-01T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-10-31T15:15:00Z"
   },
   "564738": {
     "status": "SCHEDULED",
