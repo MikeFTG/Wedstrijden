@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:03:27.403346+00:00",
+  "updated": "2026-10-06T14:18:40.714203+00:00",
   "matches": [
     {
       "id": 560593,
@@ -18818,18 +18818,6 @@
       "status": "TIMED"
     },
     {
-      "id": 561917,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 14,
-      "homeTeam": "Birmingham City FC",
-      "homeCrest": "logos/Birmingham_City_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 561918,
       "compCode": "ELC",
       "compName": "Championship",
@@ -18862,6 +18850,18 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
+      "utcDate": "2026-11-03T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 561917,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 14,
+      "homeTeam": "Birmingham City FC",
+      "homeCrest": "logos/Birmingham_City_FC.png",
+      "awayTeam": "Millwall FC",
+      "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-11-03T20:00:00Z",
       "status": "TIMED"
     },
