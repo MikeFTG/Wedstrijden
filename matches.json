@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:25:24.200014+00:00",
+  "updated": "2026-10-09T20:11:44.200245+00:00",
   "matches": [
     {
       "id": 560593,
@@ -3959,18 +3959,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2027-05-30T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565820,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 5,
-      "homeTeam": "Borussia Dortmund",
-      "homeCrest": "logos/Borussia_Dortmund.png",
-      "awayTeam": "SV Werder Bremen",
-      "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-10-09T18:30:00Z",
       "status": "TIMED"
     },
     {
@@ -11162,18 +11150,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564706,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 8,
-      "homeTeam": "M\u00e1laga CF",
-      "homeCrest": "logos/M\u00e1laga_CF.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-10-09T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564698,
       "compCode": "PD",
       "compName": "La Liga",
@@ -14894,18 +14870,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559669,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 6,
-      "homeTeam": "Racing Club de Lens",
-      "homeCrest": "logos/Racing_Club_de_Lens.png",
-      "awayTeam": "Olympique Lyonnais",
-      "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-10-09T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559674,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -18024,18 +17988,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561862,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 9,
-      "homeTeam": "West Ham United FC",
-      "homeCrest": "logos/West_Ham_United_FC.png",
-      "awayTeam": "Queens Park Rangers FC",
-      "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2026-10-09T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561857,
@@ -23508,30 +23460,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567327,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 8,
-      "homeTeam": "Moreirense FC",
-      "homeCrest": "logos/Moreirense_FC.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2026-10-09T17:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567326,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 8,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "Sporting Clube de Portugal",
-      "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "utcDate": "2026-10-09T19:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567321,
