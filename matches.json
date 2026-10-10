@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-10T06:08:03.722234+00:00",
+  "updated": "2026-10-10T12:48:27.494415+00:00",
   "matches": [
-    {
-      "id": 560593,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Arsenal FC",
-      "homeCrest": "logos/Arsenal_FC.png",
-      "awayTeam": "Leeds United FC",
-      "awayCrest": "logos/Leeds_United_FC.png",
-      "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560592,
       "compCode": "PL",
@@ -11150,18 +11138,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564698,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 8,
-      "homeTeam": "Rayo Vallecano de Madrid",
-      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-10-10T12:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564699,
       "compCode": "PD",
       "compName": "La Liga",
@@ -17990,42 +17966,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 561857,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 9,
-      "homeTeam": "West Bromwich Albion FC",
-      "homeCrest": "logos/West_Bromwich_Albion_FC.png",
-      "awayTeam": "Birmingham City FC",
-      "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561860,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 9,
-      "homeTeam": "Swansea City AFC",
-      "homeCrest": "logos/Swansea_City_AFC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561863,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 9,
-      "homeTeam": "Charlton Athletic FC",
-      "homeCrest": "logos/Charlton_Athletic_FC.png",
-      "awayTeam": "Bristol City FC",
-      "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2026-10-10T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 561858,
       "compCode": "ELC",
       "compName": "Championship",
@@ -23462,18 +23402,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567321,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 8,
-      "homeTeam": "Casa Pia AC",
-      "homeCrest": "logos/Casa_Pia_AC.png",
-      "awayTeam": "CD Santa Clara",
-      "awayCrest": "logos/CD_Santa_Clara.png",
-      "utcDate": "2026-10-10T14:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 567323,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -23483,6 +23411,18 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-10-10T17:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567321,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 8,
+      "homeTeam": "Casa Pia AC",
+      "homeCrest": "logos/Casa_Pia_AC.png",
+      "awayTeam": "CD Santa Clara",
+      "awayCrest": "logos/CD_Santa_Clara.png",
+      "utcDate": "2026-10-10T19:30:00Z",
       "status": "TIMED"
     },
     {
