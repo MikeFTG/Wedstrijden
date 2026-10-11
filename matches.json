@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:13:15.857951+00:00",
+  "updated": "2026-10-11T22:12:02.338382+00:00",
   "matches": [
     {
       "id": 560597,
@@ -6986,18 +6986,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558584,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 6,
-      "homeTeam": "Cagliari Calcio",
-      "homeCrest": "logos/Cagliari_Calcio.png",
-      "awayTeam": "Juventus FC",
-      "awayCrest": "logos/Juventus_FC.png",
-      "utcDate": "2026-10-11T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558579,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10862,18 +10850,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564705,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 8,
-      "homeTeam": "Real Racing Club de Santander",
-      "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-10-11T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564704,
       "compCode": "PD",
       "compName": "La Liga",
@@ -14496,18 +14472,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559671,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 6,
-      "homeTeam": "ES Troyes AC",
-      "homeCrest": "logos/ES_Troyes_AC.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-10-11T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559661,
@@ -22872,18 +22836,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567324,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 8,
-      "homeTeam": "FC Arouca",
-      "homeCrest": "logos/FC_Arouca.png",
-      "awayTeam": "CF Estrela da Amadora",
-      "awayCrest": "logos/CF_Estrela_da_Amadora.png",
-      "utcDate": "2026-10-11T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567325,
