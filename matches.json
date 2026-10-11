@@ -1,30 +1,6 @@
 {
-  "updated": "2026-10-11T06:05:28.045193+00:00",
+  "updated": "2026-10-11T13:11:49.934728+00:00",
   "matches": [
-    {
-      "id": 560594,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-10-11T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560596,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Nottingham Forest FC",
-      "awayCrest": "logos/Nottingham_Forest_FC.png",
-      "utcDate": "2026-10-11T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560598,
       "compCode": "PL",
@@ -7046,42 +7022,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558585,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 6,
-      "homeTeam": "Como 1907",
-      "homeCrest": "logos/Como_1907.png",
-      "awayTeam": "AS Roma",
-      "awayCrest": "logos/AS_Roma.png",
-      "utcDate": "2026-10-11T10:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558581,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 6,
-      "homeTeam": "US Lecce",
-      "homeCrest": "logos/US_Lecce.png",
-      "awayTeam": "Bologna FC 1909",
-      "awayCrest": "logos/Bologna_FC_1909.png",
-      "utcDate": "2026-10-11T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558583,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 6,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "AC Monza",
-      "awayCrest": "logos/AC_Monza.png",
-      "utcDate": "2026-10-11T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558580,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10970,18 +10910,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564703,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 8,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-10-11T12:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564707,
       "compCode": "PD",
       "compName": "La Liga",
@@ -14642,18 +14570,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559670,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 6,
-      "homeTeam": "OGC Nice",
-      "homeCrest": "logos/OGC_Nice.png",
-      "awayTeam": "RC Strasbourg Alsace",
-      "awayCrest": "logos/RC_Strasbourg_Alsace.png",
-      "utcDate": "2026-10-11T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559667,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -17700,18 +17616,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561859,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 9,
-      "homeTeam": "Southampton FC",
-      "homeCrest": "logos/Southampton_FC.png",
-      "awayTeam": "Portsmouth FC",
-      "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2026-10-11T11:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561869,
