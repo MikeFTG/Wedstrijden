@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-12T17:11:46.761240+00:00",
+  "updated": "2026-10-12T23:41:26.132890+00:00",
   "matches": [
-    {
-      "id": 560597,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 6,
-      "homeTeam": "Coventry City FC",
-      "homeCrest": "logos/Coventry_City_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-10-12T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560603,
       "compCode": "PL",
@@ -6986,18 +6974,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558587,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 6,
-      "homeTeam": "Torino FC",
-      "homeCrest": "logos/Torino_FC.png",
-      "awayTeam": "Udinese Calcio",
-      "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-10-12T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558573,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10836,18 +10812,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564704,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 8,
-      "homeTeam": "Levante UD",
-      "homeCrest": "logos/Levante_UD.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-10-12T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564716,
@@ -22824,18 +22788,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567325,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 8,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "FC Alverca",
-      "awayCrest": "logos/FC_Alverca.png",
-      "utcDate": "2026-10-12T19:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567271,
