@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:33:04.191269+00:00",
+  "updated": "2026-10-17T18:57:41.596781+00:00",
   "matches": [
     {
       "id": 560604,
@@ -6827,18 +6827,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558572,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 7,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "Genoa CFC",
-      "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-10-17T18:45:00Z",
       "status": "TIMED"
     },
     {
@@ -14196,30 +14184,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559659,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "ES Troyes AC",
-      "homeCrest": "logos/ES_Troyes_AC.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-10-17T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559660,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "Stade Brestois 29",
-      "awayCrest": "logos/Stade_Brestois_29.png",
-      "utcDate": "2026-10-17T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559664,
