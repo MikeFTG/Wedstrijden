@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:57:41.596781+00:00",
+  "updated": "2026-10-17T21:14:55.762928+00:00",
   "matches": [
     {
       "id": 560604,
@@ -10620,18 +10620,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564711,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 9,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-10-17T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564715,
