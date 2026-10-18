@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-18T14:44:53.055586+00:00",
+  "updated": "2026-10-18T17:42:19.373139+00:00",
   "matches": [
-    {
-      "id": 560608,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-10-18T15:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560606,
       "compCode": "PL",
@@ -3746,18 +3734,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565826,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 6,
-      "homeTeam": "Borussia M\u00f6nchengladbach",
-      "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-10-18T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565833,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -6779,18 +6755,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558569,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 7,
-      "homeTeam": "AC Milan",
-      "homeCrest": "logos/AC_Milan.png",
-      "awayTeam": "Atalanta BC",
-      "awayCrest": "logos/Atalanta_BC.png",
-      "utcDate": "2026-10-18T16:00:00Z",
       "status": "TIMED"
     },
     {
@@ -10550,18 +10514,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564714,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 9,
-      "homeTeam": "M\u00e1laga CF",
-      "homeCrest": "logos/M\u00e1laga_CF.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-10-18T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564709,
       "compCode": "PD",
       "compName": "La Liga",
@@ -14076,42 +14028,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559657,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-10-18T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559658,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-10-18T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559663,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "AJ Auxerre",
-      "awayCrest": "logos/AJ_Auxerre.png",
-      "utcDate": "2026-10-18T15:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559665,
