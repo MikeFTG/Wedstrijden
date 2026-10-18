@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:42:19.373139+00:00",
+  "updated": "2026-10-18T19:55:09.344101+00:00",
   "matches": [
     {
       "id": 560606,
@@ -6758,18 +6758,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558570,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 7,
-      "homeTeam": "Juventus FC",
-      "homeCrest": "logos/Juventus_FC.png",
-      "awayTeam": "SS Lazio",
-      "awayCrest": "logos/SS_Lazio.png",
-      "utcDate": "2026-10-18T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558576,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10514,18 +10502,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564709,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 9,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-10-18T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564717,
       "compCode": "PD",
       "compName": "La Liga",
@@ -14028,18 +14004,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559665,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "OGC Nice",
-      "awayCrest": "logos/OGC_Nice.png",
-      "utcDate": "2026-10-18T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559654,
