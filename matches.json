@@ -1,42 +1,6 @@
 {
-  "updated": "2026-10-18T11:29:06.800668+00:00",
+  "updated": "2026-10-18T14:44:53.055586+00:00",
   "matches": [
-    {
-      "id": 560604,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "AFC Bournemouth",
-      "homeCrest": "logos/AFC_Bournemouth.png",
-      "awayTeam": "Sunderland AFC",
-      "awayCrest": "logos/Sunderland_AFC.png",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560605,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560609,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Brighton & Hove Albion FC",
-      "homeCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "awayTeam": "Crystal Palace FC",
-      "awayCrest": "logos/Crystal_Palace_FC.png",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560608,
       "compCode": "PL",
@@ -3782,18 +3746,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565827,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 6,
-      "homeTeam": "Bayer 04 Leverkusen",
-      "homeCrest": "logos/Bayer_04_Leverkusen.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-10-18T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565826,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -6827,18 +6779,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558577,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 7,
-      "homeTeam": "ACF Fiorentina",
-      "homeCrest": "logos/ACF_Fiorentina.png",
-      "awayTeam": "Como 1907",
-      "awayCrest": "logos/Como_1907.png",
-      "utcDate": "2026-10-18T13:00:00Z",
       "status": "TIMED"
     },
     {
@@ -10610,30 +10550,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564715,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 9,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "Real Racing Club de Santander",
-      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-10-18T12:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564712,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 9,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-10-18T14:15:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564714,
       "compCode": "PD",
       "compName": "La Liga",
@@ -14160,18 +14076,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559664,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 7,
-      "homeTeam": "Angers SCO",
-      "homeCrest": "logos/Angers_SCO.png",
-      "awayTeam": "Olympique de Marseille",
-      "awayCrest": "logos/Olympique_de_Marseille.png",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559657,
