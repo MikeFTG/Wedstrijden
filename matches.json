@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-19T17:37:10.346595+00:00",
+  "updated": "2026-10-19T21:53:46.034807+00:00",
   "matches": [
-    {
-      "id": 560606,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 7,
-      "homeTeam": "Tottenham Hotspur FC",
-      "homeCrest": "logos/Tottenham_Hotspur_FC.png",
-      "awayTeam": "Coventry City FC",
-      "awayCrest": "logos/Coventry_City_FC.png",
-      "utcDate": "2026-10-19T19:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560620,
       "compCode": "PL",
@@ -6758,18 +6746,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558578,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 7,
-      "homeTeam": "Parma Calcio 1913",
-      "homeCrest": "logos/Parma_Calcio_1913.png",
-      "awayTeam": "Torino FC",
-      "awayCrest": "logos/Torino_FC.png",
-      "utcDate": "2026-10-19T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558567,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10488,18 +10464,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564717,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 9,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "Rayo Vallecano de Madrid",
-      "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-10-19T19:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564685,
@@ -21960,18 +21924,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567271,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 2,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2026-10-19T19:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567329,
