@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:30:09.350318+00:00",
+  "updated": "2026-10-20T19:45:55.787674+00:00",
   "matches": [
     {
       "id": 560620,
@@ -16872,18 +16872,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561826,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 6,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Portsmouth FC",
-      "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2026-10-20T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561894,
