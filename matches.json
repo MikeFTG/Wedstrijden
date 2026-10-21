@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T06:13:56.887222+00:00",
+  "updated": "2026-10-21T12:07:50.446462+00:00",
   "matches": [
     {
       "id": 560620,
@@ -21923,7 +21923,7 @@
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
       "utcDate": "2026-10-23T19:45:00Z",
-      "status": "TIMED"
+      "status": "2026-10-23 19:45:00Z"
     },
     {
       "id": 567337,
@@ -21935,7 +21935,7 @@
       "awayTeam": "Casa Pia AC",
       "awayCrest": "logos/Casa_Pia_AC.png",
       "utcDate": "2026-10-24T14:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 14:30:00Z"
     },
     {
       "id": 567333,
@@ -21947,7 +21947,7 @@
       "awayTeam": "FC Arouca",
       "awayCrest": "logos/FC_Arouca.png",
       "utcDate": "2026-10-24T17:00:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 17:00:00Z"
     },
     {
       "id": 567335,
@@ -21959,7 +21959,7 @@
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-10-24T19:30:00Z",
-      "status": "TIMED"
+      "status": "2026-10-24 19:30:00Z"
     },
     {
       "id": 567336,
