@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:23:38.745191+00:00",
+  "updated": "2026-10-23T22:27:00.979400+00:00",
   "matches": [
     {
       "id": 560614,
@@ -21828,18 +21828,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567329,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 9,
-      "homeTeam": "Vit\u00f3ria SC",
-      "homeCrest": "logos/Vit\u00f3ria_SC.png",
-      "awayTeam": "CS Mar\u00edtimo",
-      "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2026-10-23T19:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567337,
