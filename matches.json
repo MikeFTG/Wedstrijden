@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:07:23.590878+00:00",
+  "updated": "2026-10-24T19:36:55.851384+00:00",
   "matches": [
     {
       "id": 560612,
@@ -6602,18 +6602,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558565,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 8,
-      "homeTeam": "SS Lazio",
-      "homeCrest": "logos/SS_Lazio.png",
-      "awayTeam": "Parma Calcio 1913",
-      "awayCrest": "logos/Parma_Calcio_1913.png",
-      "utcDate": "2026-10-24T18:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558563,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10274,18 +10262,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564724,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 10,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "RC Deportivo La Coru\u00f1a",
-      "awayCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "utcDate": "2026-10-24T19:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564720,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13704,18 +13680,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559652,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 8,
-      "homeTeam": "Racing Club de Lens",
-      "homeCrest": "logos/Racing_Club_de_Lens.png",
-      "awayTeam": "Paris FC",
-      "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-10-24T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559650,
@@ -21504,18 +21468,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567335,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 9,
-      "homeTeam": "Gil Vicente FC",
-      "homeCrest": "logos/Gil_Vicente_FC.png",
-      "awayTeam": "FC Porto",
-      "awayCrest": "logos/FC_Porto.png",
-      "utcDate": "2026-10-24T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567336,
