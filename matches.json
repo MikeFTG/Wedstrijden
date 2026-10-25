@@ -1,54 +1,6 @@
 {
-  "updated": "2026-10-25T09:58:15.798458+00:00",
+  "updated": "2026-10-25T14:07:59.332721+00:00",
   "matches": [
-    {
-      "id": 560612,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560613,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Crystal Palace FC",
-      "homeCrest": "logos/Crystal_Palace_FC.png",
-      "awayTeam": "Newcastle United FC",
-      "awayCrest": "logos/Newcastle_United_FC.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560615,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Manchester United FC",
-      "homeCrest": "logos/Manchester_United_FC.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "logos/AFC_Bournemouth.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560619,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 8,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Brentford FC",
-      "awayCrest": "logos/Brentford_FC.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560621,
       "compCode": "PL",
@@ -6602,42 +6554,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558563,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 8,
-      "homeTeam": "FC Internazionale Milano",
-      "homeCrest": "logos/FC_Internazionale_Milano.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-10-25T11:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558562,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 8,
-      "homeTeam": "Atalanta BC",
-      "homeCrest": "logos/Atalanta_BC.png",
-      "awayTeam": "Frosinone Calcio",
-      "awayCrest": "logos/Frosinone_Calcio.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558568,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 8,
-      "homeTeam": "Genoa CFC",
-      "homeCrest": "logos/Genoa_CFC.png",
-      "awayTeam": "Venezia FC",
-      "awayCrest": "logos/Venezia_FC.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558566,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10262,18 +10178,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564720,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 10,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-10-25T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564725,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13680,18 +13584,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559650,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 8,
-      "homeTeam": "AS Monaco FC",
-      "homeCrest": "logos/AS_Monaco_FC.png",
-      "awayTeam": "Lille OSC",
-      "awayCrest": "logos/Lille_OSC.png",
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559649,
