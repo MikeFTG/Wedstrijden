@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:44:01.001303+00:00",
+  "updated": "2026-10-25T20:13:09.396023+00:00",
   "matches": [
     {
       "id": 560626,
@@ -6518,18 +6518,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558559,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 8,
-      "homeTeam": "Udinese Calcio",
-      "homeCrest": "logos/Udinese_Calcio.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "logos/AC_Milan.png",
-      "utcDate": "2026-10-25T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558556,
       "compCode": "SA",
       "compName": "Serie A",
@@ -10128,18 +10116,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564723,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 10,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-10-25T20:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564721,
@@ -21228,30 +21204,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567330,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 9,
-      "homeTeam": "Rio Ave FC",
-      "homeCrest": "logos/Rio_Ave_FC.png",
-      "awayTeam": "FC Famalic\u00e3o",
-      "awayCrest": "logos/FC_Famalic\u00e3o.png",
-      "utcDate": "2026-10-25T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567334,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 9,
-      "homeTeam": "CD Nacional",
-      "homeCrest": "logos/CD_Nacional.png",
-      "awayTeam": "Sporting Clube de Braga",
-      "awayCrest": "logos/Sporting_Clube_de_Braga.png",
-      "utcDate": "2026-10-25T18:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567332,
