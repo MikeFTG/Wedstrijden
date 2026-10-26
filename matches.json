@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T18:45:01.016684+00:00",
+  "updated": "2026-10-26T22:58:08.103474+00:00",
   "matches": [
     {
       "id": 560626,
@@ -10118,18 +10118,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564721,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 10,
-      "homeTeam": "Sevilla FC",
-      "homeCrest": "logos/Sevilla_FC.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-10-26T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564737,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13488,18 +13476,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559648,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 8,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "Olympique Lyonnais",
-      "awayCrest": "logos/Olympique_Lyonnais.png",
-      "utcDate": "2026-10-26T19:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559644,
