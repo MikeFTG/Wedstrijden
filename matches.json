@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:00:31.240698+00:00",
+  "updated": "2026-10-26T18:45:01.016684+00:00",
   "matches": [
     {
       "id": 560626,
@@ -21204,18 +21204,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567331,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 9,
-      "homeTeam": "CD Santa Clara",
-      "homeCrest": "logos/CD_Santa_Clara.png",
-      "awayTeam": "Sport Lisboa e Benfica",
-      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-10-26T18:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567344,
