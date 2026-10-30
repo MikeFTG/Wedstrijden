@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:43:32.630563+00:00",
+  "updated": "2026-10-30T19:47:35.680270+00:00",
   "matches": [
     {
       "id": 560626,
@@ -3599,18 +3599,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2027-05-30T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565846,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 8,
-      "homeTeam": "SV 07 Elversberg",
-      "homeCrest": "logos/SV_07_Elversberg.png",
-      "awayTeam": "1. FSV Mainz 05",
-      "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-10-30T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -13356,30 +13344,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559644,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "logos/Le_Havre_AC.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "logos/Paris_Saint-Germain_FC.png",
-      "utcDate": "2026-10-30T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559646,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "OGC Nice",
-      "homeCrest": "logos/OGC_Nice.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-10-30T18:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559639,
