@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:47:35.680270+00:00",
+  "updated": "2026-10-30T23:24:16.784326+00:00",
   "matches": [
     {
       "id": 560626,
@@ -9986,18 +9986,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564737,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 11,
-      "homeTeam": "Villarreal CF",
-      "homeCrest": "logos/Villarreal_CF.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-10-30T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564730,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13346,18 +13334,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559639,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "Lille OSC",
-      "homeCrest": "logos/Lille_OSC.png",
-      "awayTeam": "Racing Club de Lens",
-      "awayCrest": "logos/Racing_Club_de_Lens.png",
-      "utcDate": "2026-10-30T20:05:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559643,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -16128,18 +16104,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561916,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 13,
-      "homeTeam": "Sheffield United FC",
-      "homeCrest": "logos/Sheffield_United_FC.png",
-      "awayTeam": "Wrexham AFC",
-      "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2026-10-30T20:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561908,
@@ -21024,18 +20988,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567344,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 10,
-      "homeTeam": "Casa Pia AC",
-      "homeCrest": "logos/Casa_Pia_AC.png",
-      "awayTeam": "Sporting Clube de Portugal",
-      "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "utcDate": "2026-10-30T20:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567343,
