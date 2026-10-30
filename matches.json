@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:54:44.214487+00:00",
+  "updated": "2026-10-30T01:28:46.306136+00:00",
   "matches": [
     {
       "id": 560626,
@@ -14087,7 +14087,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2027-01-03T14:00:00Z",
-      "status": "2027-01-02 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559593,
@@ -14099,7 +14099,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2027-01-03T16:15:00Z",
-      "status": "2027-01-02 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559585,
@@ -14123,7 +14123,7 @@
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
       "utcDate": "2027-01-15T19:45:00Z",
-      "status": "2027-01-16 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559584,
@@ -14195,7 +14195,7 @@
       "awayTeam": "Toulouse FC",
       "awayCrest": "logos/Toulouse_FC.png",
       "utcDate": "2027-01-17T14:00:00Z",
-      "status": "2027-01-16 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559583,
@@ -14207,7 +14207,7 @@
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "logos/Stade_Brestois_29.png",
       "utcDate": "2027-01-17T16:15:00Z",
-      "status": "2027-01-16 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559577,
@@ -14219,7 +14219,7 @@
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
       "utcDate": "2027-01-17T19:45:00Z",
-      "status": "2027-01-16 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559572,
@@ -14231,7 +14231,7 @@
       "awayTeam": "AS Monaco FC",
       "awayCrest": "logos/AS_Monaco_FC.png",
       "utcDate": "2027-01-22T19:45:00Z",
-      "status": "2027-01-23 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559569,
@@ -14303,7 +14303,7 @@
       "awayTeam": "Stade Rennais FC 1901",
       "awayCrest": "logos/Stade_Rennais_FC_1901.png",
       "utcDate": "2027-01-24T14:00:00Z",
-      "status": "2027-01-23 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559573,
@@ -14315,7 +14315,7 @@
       "awayTeam": "Olympique de Marseille",
       "awayCrest": "logos/Olympique_de_Marseille.png",
       "utcDate": "2027-01-24T16:15:00Z",
-      "status": "2027-01-23 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559568,
@@ -14327,7 +14327,7 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2027-01-24T19:45:00Z",
-      "status": "2027-01-23 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559564,
@@ -14339,7 +14339,7 @@
       "awayTeam": "RC Strasbourg Alsace",
       "awayCrest": "logos/RC_Strasbourg_Alsace.png",
       "utcDate": "2027-01-29T19:45:00Z",
-      "status": "2027-01-30 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559565,
@@ -14411,7 +14411,7 @@
       "awayTeam": "FC Lorient",
       "awayCrest": "logos/FC_Lorient.png",
       "utcDate": "2027-01-31T14:00:00Z",
-      "status": "2027-01-30 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559562,
@@ -14423,7 +14423,7 @@
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
       "utcDate": "2027-01-31T16:15:00Z",
-      "status": "2027-01-30 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559559,
@@ -14435,7 +14435,7 @@
       "awayTeam": "Lille OSC",
       "awayCrest": "logos/Lille_OSC.png",
       "utcDate": "2027-01-31T19:45:00Z",
-      "status": "2027-01-30 12:00:00Z"
+      "status": "TIMED"
     },
     {
       "id": 559550,
