@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-31T19:25:41.355605+00:00",
+  "updated": "2026-10-31T22:39:20.037948+00:00",
   "matches": [
-    {
-      "id": 560628,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 9,
-      "homeTeam": "Aston Villa FC",
-      "homeCrest": "logos/Aston_Villa_FC.png",
-      "awayTeam": "Fulham FC",
-      "awayCrest": "logos/Fulham_FC.png",
-      "utcDate": "2026-10-31T20:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560631,
       "compCode": "PL",
@@ -6350,18 +6338,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558548,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 10,
-      "homeTeam": "AC Milan",
-      "homeCrest": "logos/AC_Milan.png",
-      "awayTeam": "FC Internazionale Milano",
-      "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-10-31T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558543,
       "compCode": "SA",
       "compName": "Serie A",
@@ -9806,18 +9782,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564732,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 11,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-10-31T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564733,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13116,18 +13080,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559643,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "ES Troyes AC",
-      "homeCrest": "logos/ES_Troyes_AC.png",
-      "awayTeam": "Le Mans FC",
-      "awayCrest": "logos/Le_Mans_FC.png",
-      "utcDate": "2026-10-31T19:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559647,
@@ -20640,18 +20592,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567338,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 10,
-      "homeTeam": "FC Porto",
-      "homeCrest": "logos/FC_Porto.png",
-      "awayTeam": "GD Estoril Praia",
-      "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2026-10-31T20:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567341,
