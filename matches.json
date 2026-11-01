@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:50:20.147530+00:00",
+  "updated": "2026-11-01T23:15:48.034089+00:00",
   "matches": [
     {
       "id": 560622,
@@ -9684,18 +9684,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564729,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 11,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-11-01T20:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564731,
@@ -20412,18 +20400,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567339,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 10,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "FC Famalic\u00e3o",
-      "awayCrest": "logos/FC_Famalic\u00e3o.png",
-      "utcDate": "2026-11-01T20:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567342,
