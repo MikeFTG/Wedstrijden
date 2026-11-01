@@ -1,18 +1,6 @@
 {
-  "updated": "2026-11-01T15:24:33.756646+00:00",
+  "updated": "2026-11-01T19:50:20.147530+00:00",
   "matches": [
-    {
-      "id": 560631,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 9,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Arsenal FC",
-      "awayCrest": "logos/Arsenal_FC.png",
-      "utcDate": "2026-11-01T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560622,
       "compCode": "PL",
@@ -3506,18 +3494,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565844,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 8,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-11-01T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565852,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -6323,30 +6299,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558540,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 10,
-      "homeTeam": "US Lecce",
-      "homeCrest": "logos/US_Lecce.png",
-      "awayTeam": "Genoa CFC",
-      "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-11-01T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558547,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 10,
-      "homeTeam": "Juventus FC",
-      "homeCrest": "logos/Juventus_FC.png",
-      "awayTeam": "SSC Napoli",
-      "awayCrest": "logos/SSC_Napoli.png",
-      "utcDate": "2026-11-01T19:45:00Z",
       "status": "TIMED"
     },
     {
@@ -9734,18 +9686,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564728,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 11,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-11-01T17:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564729,
       "compCode": "PD",
       "compName": "La Liga",
@@ -13008,42 +12948,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559640,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "logos/Olympique_Lyonnais.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-11-01T16:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559642,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "logos/AS_Monaco_FC.png",
-      "utcDate": "2026-11-01T16:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559645,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 9,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "Toulouse FC",
-      "awayCrest": "logos/Toulouse_FC.png",
-      "utcDate": "2026-11-01T19:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559641,
@@ -20508,42 +20412,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567341,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 10,
-      "homeTeam": "FC Arouca",
-      "homeCrest": "logos/FC_Arouca.png",
-      "awayTeam": "CD Nacional",
-      "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-11-01T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567340,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 10,
-      "homeTeam": "CS Mar\u00edtimo",
-      "homeCrest": "logos/CS_Mar\u00edtimo.png",
-      "awayTeam": "CD Santa Clara",
-      "awayCrest": "logos/CD_Santa_Clara.png",
-      "utcDate": "2026-11-01T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567345,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 10,
-      "homeTeam": "Acad\u00e9mico de Viseu FC",
-      "homeCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "awayTeam": "Rio Ave FC",
-      "awayCrest": "logos/Rio_Ave_FC.png",
-      "utcDate": "2026-11-01T18:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567339,
