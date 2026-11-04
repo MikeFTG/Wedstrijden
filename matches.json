@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T18:07:51.494007+00:00",
+  "updated": "2026-11-04T23:49:47.404992+00:00",
   "matches": [
     {
       "id": 560634,
@@ -12910,7 +12910,7 @@
       "homeCrest": "logos/AJ_Auxerre.png",
       "awayTeam": "Paris FC",
       "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-11-07T16:15:00Z",
+      "utcDate": "2026-11-07T18:00:00Z",
       "status": "TIMED"
     },
     {
@@ -12922,7 +12922,7 @@
       "homeCrest": "logos/Paris_Saint-Germain_FC.png",
       "awayTeam": "ES Troyes AC",
       "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-11-07T19:45:00Z",
+      "utcDate": "2026-11-07T20:05:00Z",
       "status": "TIMED"
     },
     {
@@ -15588,42 +15588,6 @@
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 561925,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 14,
-      "homeTeam": "Cardiff City FC",
-      "homeCrest": "logos/Cardiff_City_FC.png",
-      "awayTeam": "West Ham United FC",
-      "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2026-11-04T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561927,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 14,
-      "homeTeam": "Wrexham AFC",
-      "homeCrest": "logos/Wrexham_AFC.png",
-      "awayTeam": "Middlesbrough FC",
-      "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2026-11-04T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561926,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 14,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 561932,
@@ -20458,44 +20422,8 @@
       "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
       "awayTeam": "CS Mar\u00edtimo",
       "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2026-12-04T20:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567369,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 13,
-      "homeTeam": "CD Nacional",
-      "homeCrest": "logos/CD_Nacional.png",
-      "awayTeam": "Sport Lisboa e Benfica",
-      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-12-05T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567368,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 13,
-      "homeTeam": "CD Santa Clara",
-      "homeCrest": "logos/CD_Santa_Clara.png",
-      "awayTeam": "FC Porto",
-      "awayCrest": "logos/FC_Porto.png",
-      "utcDate": "2026-12-05T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567372,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 13,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "FC Arouca",
-      "awayCrest": "logos/FC_Arouca.png",
-      "utcDate": "2026-12-05T20:30:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567366,
@@ -20506,44 +20434,8 @@
       "homeCrest": "logos/CF_Estrela_da_Amadora.png",
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2026-12-06T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567371,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 13,
-      "homeTeam": "Rio Ave FC",
-      "homeCrest": "logos/Rio_Ave_FC.png",
-      "awayTeam": "Casa Pia AC",
-      "awayCrest": "logos/Casa_Pia_AC.png",
-      "utcDate": "2026-12-06T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567370,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 13,
-      "homeTeam": "GD Estoril Praia",
-      "homeCrest": "logos/GD_Estoril_Praia.png",
-      "awayTeam": "Vit\u00f3ria SC",
-      "awayCrest": "logos/Vit\u00f3ria_SC.png",
-      "utcDate": "2026-12-06T18:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567373,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 13,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "Acad\u00e9mico de Viseu FC",
-      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "utcDate": "2026-12-06T20:30:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567367,
@@ -20554,32 +20446,80 @@
       "homeCrest": "logos/FC_Alverca.png",
       "awayTeam": "Moreirense FC",
       "awayCrest": "logos/Moreirense_FC.png",
-      "utcDate": "2026-12-07T20:15:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 567375,
+      "id": 567368,
       "compCode": "PPL",
       "compName": "Primeira Liga",
-      "matchday": 14,
-      "homeTeam": "Acad\u00e9mico de Viseu FC",
-      "homeCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "awayTeam": "FC Arouca",
-      "awayCrest": "logos/FC_Arouca.png",
-      "utcDate": "2026-12-11T20:15:00Z",
-      "status": "TIMED"
+      "matchday": 13,
+      "homeTeam": "CD Santa Clara",
+      "homeCrest": "logos/CD_Santa_Clara.png",
+      "awayTeam": "FC Porto",
+      "awayCrest": "logos/FC_Porto.png",
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 567380,
+      "id": 567369,
       "compCode": "PPL",
       "compName": "Primeira Liga",
-      "matchday": 14,
+      "matchday": 13,
+      "homeTeam": "CD Nacional",
+      "homeCrest": "logos/CD_Nacional.png",
+      "awayTeam": "Sport Lisboa e Benfica",
+      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567370,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 13,
       "homeTeam": "GD Estoril Praia",
       "homeCrest": "logos/GD_Estoril_Praia.png",
-      "awayTeam": "CD Santa Clara",
-      "awayCrest": "logos/CD_Santa_Clara.png",
-      "utcDate": "2026-12-12T15:30:00Z",
-      "status": "TIMED"
+      "awayTeam": "Vit\u00f3ria SC",
+      "awayCrest": "logos/Vit\u00f3ria_SC.png",
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567371,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 13,
+      "homeTeam": "Rio Ave FC",
+      "homeCrest": "logos/Rio_Ave_FC.png",
+      "awayTeam": "Casa Pia AC",
+      "awayCrest": "logos/Casa_Pia_AC.png",
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567372,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 13,
+      "homeTeam": "Sporting Clube de Braga",
+      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
+      "awayTeam": "FC Arouca",
+      "awayCrest": "logos/FC_Arouca.png",
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567373,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 13,
+      "homeTeam": "FC Famalic\u00e3o",
+      "homeCrest": "logos/FC_Famalic\u00e3o.png",
+      "awayTeam": "Acad\u00e9mico de Viseu FC",
+      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
+      "utcDate": "2026-12-06T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567374,
@@ -20590,8 +20530,20 @@
       "homeCrest": "logos/CS_Mar\u00edtimo.png",
       "awayTeam": "Rio Ave FC",
       "awayCrest": "logos/Rio_Ave_FC.png",
-      "utcDate": "2026-12-12T18:00:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567375,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 14,
+      "homeTeam": "Acad\u00e9mico de Viseu FC",
+      "homeCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
+      "awayTeam": "FC Arouca",
+      "awayCrest": "logos/FC_Arouca.png",
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567376,
@@ -20602,8 +20554,8 @@
       "homeCrest": "logos/Gil_Vicente_FC.png",
       "awayTeam": "Sporting Clube de Portugal",
       "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "utcDate": "2026-12-12T20:30:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567377,
@@ -20614,20 +20566,8 @@
       "homeCrest": "logos/Casa_Pia_AC.png",
       "awayTeam": "CD Nacional",
       "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-12-13T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567379,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 14,
-      "homeTeam": "Moreirense FC",
-      "homeCrest": "logos/Moreirense_FC.png",
-      "awayTeam": "FC Famalic\u00e3o",
-      "awayCrest": "logos/FC_Famalic\u00e3o.png",
-      "utcDate": "2026-12-13T15:30:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567378,
@@ -20638,20 +20578,32 @@
       "homeCrest": "logos/Vit\u00f3ria_SC.png",
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
-      "utcDate": "2026-12-13T18:00:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 567382,
+      "id": 567379,
       "compCode": "PPL",
       "compName": "Primeira Liga",
       "matchday": 14,
-      "homeTeam": "FC Porto",
-      "homeCrest": "logos/FC_Porto.png",
-      "awayTeam": "CF Estrela da Amadora",
-      "awayCrest": "logos/CF_Estrela_da_Amadora.png",
-      "utcDate": "2026-12-13T20:30:00Z",
-      "status": "TIMED"
+      "homeTeam": "Moreirense FC",
+      "homeCrest": "logos/Moreirense_FC.png",
+      "awayTeam": "FC Famalic\u00e3o",
+      "awayCrest": "logos/FC_Famalic\u00e3o.png",
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567380,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 14,
+      "homeTeam": "GD Estoril Praia",
+      "homeCrest": "logos/GD_Estoril_Praia.png",
+      "awayTeam": "CD Santa Clara",
+      "awayCrest": "logos/CD_Santa_Clara.png",
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567381,
@@ -20662,8 +20614,20 @@
       "homeCrest": "logos/Sport_Lisboa_e_Benfica.png",
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
-      "utcDate": "2026-12-14T20:15:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567382,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 14,
+      "homeTeam": "FC Porto",
+      "homeCrest": "logos/FC_Porto.png",
+      "awayTeam": "CF Estrela da Amadora",
+      "awayCrest": "logos/CF_Estrela_da_Amadora.png",
+      "utcDate": "2026-12-13T00:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 567383,
