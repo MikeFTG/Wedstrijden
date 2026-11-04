@@ -4825,7 +4825,7 @@
   },
   "560694": {
     "status": "TIMED",
-    "datum": "2026-12-19T15:00:00Z"
+    "datum": "2026-12-20T14:00:00Z"
   },
   "560695": {
     "status": "TIMED",
@@ -10924,76 +10924,76 @@
     "datum": "2026-11-28T18:00:00Z"
   },
   "567365": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-04T20:15:00Z"
   },
   "567366": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T15:30:00Z"
   },
   "567367": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-07T20:15:00Z"
   },
   "567368": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-05T18:00:00Z"
   },
   "567369": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-05T15:30:00Z"
   },
   "567370": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T18:00:00Z"
   },
   "567371": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T15:30:00Z"
   },
   "567372": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-05T20:30:00Z"
   },
   "567373": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-06T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-06T20:30:00Z"
   },
   "567374": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-12T18:00:00Z"
   },
   "567375": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-11T20:15:00Z"
   },
   "567376": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-12T20:30:00Z"
   },
   "567377": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T15:30:00Z"
   },
   "567378": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T18:00:00Z"
   },
   "567379": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T15:30:00Z"
   },
   "567380": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-12T15:30:00Z"
   },
   "567381": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-14T20:15:00Z"
   },
   "567382": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-13T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-13T20:30:00Z"
   },
   "567383": {
     "status": "SCHEDULED",
