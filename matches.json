@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:52:10.654353+00:00",
+  "updated": "2026-11-05T20:25:32.952706+00:00",
   "matches": [
     {
       "id": 560634,
@@ -3806,6 +3806,18 @@
       "status": "TIMED"
     },
     {
+      "id": 565882,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 12,
+      "homeTeam": "FC Bayern M\u00fcnchen",
+      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "awayTeam": "SC Paderborn 07",
+      "awayCrest": "logos/SC_Paderborn_07.png",
+      "utcDate": "2026-12-04T19:30:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 565875,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -3814,20 +3826,8 @@
       "homeCrest": "logos/1__FC_Union_Berlin.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565876,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 12,
-      "homeTeam": "FC Schalke 04",
-      "homeCrest": "logos/FC_Schalke_04.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565877,
@@ -3838,20 +3838,8 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565878,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 12,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "SV Werder Bremen",
-      "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565879,
@@ -3862,20 +3850,8 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565880,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 12,
-      "homeTeam": "SV 07 Elversberg",
-      "homeCrest": "logos/SV_07_Elversberg.png",
-      "awayTeam": "VfB Stuttgart",
-      "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565881,
@@ -3886,20 +3862,8 @@
       "homeCrest": "logos/SC_Freiburg.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565882,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 12,
-      "homeTeam": "FC Bayern M\u00fcnchen",
-      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "awayTeam": "SC Paderborn 07",
-      "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565883,
@@ -3910,56 +3874,44 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565884,
+      "id": 565878,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 13,
-      "homeTeam": "SC Paderborn 07",
-      "homeCrest": "logos/SC_Paderborn_07.png",
-      "awayTeam": "SV 07 Elversberg",
-      "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 12,
+      "homeTeam": "Eintracht Frankfurt",
+      "homeCrest": "logos/Eintracht_Frankfurt.png",
+      "awayTeam": "SV Werder Bremen",
+      "awayCrest": "logos/SV_Werder_Bremen.png",
+      "utcDate": "2026-12-05T17:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565885,
+      "id": 565876,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 13,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "Bayer 04 Leverkusen",
-      "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 12,
+      "homeTeam": "FC Schalke 04",
+      "homeCrest": "logos/FC_Schalke_04.png",
+      "awayTeam": "Borussia Dortmund",
+      "awayCrest": "logos/Borussia_Dortmund.png",
+      "utcDate": "2026-12-06T14:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565886,
+      "id": 565880,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 13,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "1. FC Union Berlin",
-      "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565887,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 13,
-      "homeTeam": "Borussia Dortmund",
-      "homeCrest": "logos/Borussia_Dortmund.png",
-      "awayTeam": "FC Augsburg",
-      "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 12,
+      "homeTeam": "SV 07 Elversberg",
+      "homeCrest": "logos/SV_07_Elversberg.png",
+      "awayTeam": "VfB Stuttgart",
+      "awayCrest": "logos/VfB_Stuttgart.png",
+      "utcDate": "2026-12-06T16:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565888,
@@ -3970,20 +3922,44 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-11T19:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565889,
+      "id": 565884,
       "compCode": "BL1",
       "compName": "Bundesliga",
       "matchday": 13,
-      "homeTeam": "1. FSV Mainz 05",
-      "homeCrest": "logos/1__FSV_Mainz_05.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "SC Paderborn 07",
+      "homeCrest": "logos/SC_Paderborn_07.png",
+      "awayTeam": "SV 07 Elversberg",
+      "awayCrest": "logos/SV_07_Elversberg.png",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565886,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 13,
+      "homeTeam": "VfB Stuttgart",
+      "homeCrest": "logos/VfB_Stuttgart.png",
+      "awayTeam": "1. FC Union Berlin",
+      "awayCrest": "logos/1__FC_Union_Berlin.png",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565887,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 13,
+      "homeTeam": "Borussia Dortmund",
+      "homeCrest": "logos/Borussia_Dortmund.png",
+      "awayTeam": "FC Augsburg",
+      "awayCrest": "logos/FC_Augsburg.png",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565890,
@@ -3994,20 +3970,8 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565891,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 13,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565892,
@@ -4018,20 +3982,44 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T17:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565893,
+      "id": 565889,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 14,
-      "homeTeam": "FC Schalke 04",
-      "homeCrest": "logos/FC_Schalke_04.png",
-      "awayTeam": "Borussia M\u00f6nchengladbach",
-      "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 13,
+      "homeTeam": "1. FSV Mainz 05",
+      "homeCrest": "logos/1__FSV_Mainz_05.png",
+      "awayTeam": "SC Freiburg",
+      "awayCrest": "logos/SC_Freiburg.png",
+      "utcDate": "2026-12-13T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565891,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 13,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "utcDate": "2026-12-13T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565885,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 13,
+      "homeTeam": "SV Werder Bremen",
+      "homeCrest": "logos/SV_Werder_Bremen.png",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayCrest": "logos/Bayer_04_Leverkusen.png",
+      "utcDate": "2026-12-13T18:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565894,
@@ -4042,8 +4030,8 @@
       "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-18T19:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565895,
@@ -4054,8 +4042,8 @@
       "homeCrest": "logos/SV_07_Elversberg.png",
       "awayTeam": "Hamburger SV",
       "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565896,
@@ -4066,32 +4054,8 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "Eintracht Frankfurt",
       "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565897,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 14,
-      "homeTeam": "SC Freiburg",
-      "homeCrest": "logos/SC_Freiburg.png",
-      "awayTeam": "VfB Stuttgart",
-      "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565898,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 14,
-      "homeTeam": "RB Leipzig",
-      "homeCrest": "logos/RB_Leipzig.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565899,
@@ -4102,20 +4066,8 @@
       "homeCrest": "logos/1__FSV_Mainz_05.png",
       "awayTeam": "1. FC K\u00f6ln",
       "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565900,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 14,
-      "homeTeam": "1. FC Union Berlin",
-      "homeCrest": "logos/1__FC_Union_Berlin.png",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565901,
@@ -4126,80 +4078,56 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565902,
+      "id": 565898,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 15,
-      "homeTeam": "VfB Stuttgart",
-      "homeCrest": "logos/VfB_Stuttgart.png",
-      "awayTeam": "FC Augsburg",
-      "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 14,
+      "homeTeam": "RB Leipzig",
+      "homeCrest": "logos/RB_Leipzig.png",
+      "awayTeam": "Borussia Dortmund",
+      "awayCrest": "logos/Borussia_Dortmund.png",
+      "utcDate": "2026-12-19T17:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565903,
+      "id": 565897,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 15,
-      "homeTeam": "Hamburger SV",
-      "homeCrest": "logos/Hamburger_SV.png",
-      "awayTeam": "Bayer 04 Leverkusen",
-      "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 14,
+      "homeTeam": "SC Freiburg",
+      "homeCrest": "logos/SC_Freiburg.png",
+      "awayTeam": "VfB Stuttgart",
+      "awayCrest": "logos/VfB_Stuttgart.png",
+      "utcDate": "2026-12-20T14:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565904,
+      "id": 565900,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 15,
-      "homeTeam": "1. FC K\u00f6ln",
-      "homeCrest": "logos/1__FC_K\u00f6ln.png",
-      "awayTeam": "SC Freiburg",
-      "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 14,
+      "homeTeam": "1. FC Union Berlin",
+      "homeCrest": "logos/1__FC_Union_Berlin.png",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
+      "utcDate": "2026-12-20T16:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565905,
+      "id": 565893,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 15,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "FC Schalke 04",
-      "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565906,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 15,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "SV 07 Elversberg",
-      "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565907,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 15,
-      "homeTeam": "Borussia M\u00f6nchengladbach",
-      "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 14,
+      "homeTeam": "FC Schalke 04",
+      "homeCrest": "logos/FC_Schalke_04.png",
+      "awayTeam": "Borussia M\u00f6nchengladbach",
+      "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
+      "utcDate": "2026-12-20T18:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565908,
@@ -4210,20 +4138,56 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-08T19:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565909,
+      "id": 565902,
       "compCode": "BL1",
       "compName": "Bundesliga",
       "matchday": 15,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "1. FC Union Berlin",
-      "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "VfB Stuttgart",
+      "homeCrest": "logos/VfB_Stuttgart.png",
+      "awayTeam": "FC Augsburg",
+      "awayCrest": "logos/FC_Augsburg.png",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565904,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 15,
+      "homeTeam": "1. FC K\u00f6ln",
+      "homeCrest": "logos/1__FC_K\u00f6ln.png",
+      "awayTeam": "SC Freiburg",
+      "awayCrest": "logos/SC_Freiburg.png",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565905,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 15,
+      "homeTeam": "Eintracht Frankfurt",
+      "homeCrest": "logos/Eintracht_Frankfurt.png",
+      "awayTeam": "FC Schalke 04",
+      "awayCrest": "logos/FC_Schalke_04.png",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565906,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 15,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
+      "awayTeam": "SV 07 Elversberg",
+      "awayCrest": "logos/SV_07_Elversberg.png",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565910,
@@ -4234,44 +4198,44 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-01-09T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565911,
+      "id": 565907,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 16,
-      "homeTeam": "1. FSV Mainz 05",
-      "homeCrest": "logos/1__FSV_Mainz_05.png",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 15,
+      "homeTeam": "Borussia M\u00f6nchengladbach",
+      "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "utcDate": "2027-01-09T17:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565912,
+      "id": 565909,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 16,
-      "homeTeam": "SC Freiburg",
-      "homeCrest": "logos/SC_Freiburg.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 15,
+      "homeTeam": "SV Werder Bremen",
+      "homeCrest": "logos/SV_Werder_Bremen.png",
+      "awayTeam": "1. FC Union Berlin",
+      "awayCrest": "logos/1__FC_Union_Berlin.png",
+      "utcDate": "2027-01-10T14:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565913,
+      "id": 565903,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 16,
-      "homeTeam": "FC Schalke 04",
-      "homeCrest": "logos/FC_Schalke_04.png",
-      "awayTeam": "SV Werder Bremen",
-      "awayCrest": "logos/SV_Werder_Bremen.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 15,
+      "homeTeam": "Hamburger SV",
+      "homeCrest": "logos/Hamburger_SV.png",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayCrest": "logos/Bayer_04_Leverkusen.png",
+      "utcDate": "2027-01-10T16:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565914,
@@ -4282,32 +4246,20 @@
       "homeCrest": "logos/RB_Leipzig.png",
       "awayTeam": "VfB Stuttgart",
       "awayCrest": "logos/VfB_Stuttgart.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-12T17:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565915,
+      "id": 565911,
       "compCode": "BL1",
       "compName": "Bundesliga",
       "matchday": 16,
-      "homeTeam": "1. FC Union Berlin",
-      "homeCrest": "logos/1__FC_Union_Berlin.png",
-      "awayTeam": "SC Paderborn 07",
-      "awayCrest": "logos/SC_Paderborn_07.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565916,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 16,
-      "homeTeam": "FC Bayern M\u00fcnchen",
-      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "awayTeam": "Bayer 04 Leverkusen",
-      "awayCrest": "logos/Bayer_04_Leverkusen.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "1. FSV Mainz 05",
+      "homeCrest": "logos/1__FSV_Mainz_05.png",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayCrest": "logos/TSG_1899_Hoffenheim.png",
+      "utcDate": "2027-01-12T19:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565917,
@@ -4318,20 +4270,8 @@
       "homeCrest": "logos/FC_Augsburg.png",
       "awayTeam": "Borussia M\u00f6nchengladbach",
       "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565918,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 16,
-      "homeTeam": "SV 07 Elversberg",
-      "homeCrest": "logos/SV_07_Elversberg.png",
-      "awayTeam": "Eintracht Frankfurt",
-      "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-12T19:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565919,
@@ -4342,68 +4282,68 @@
       "homeCrest": "logos/1__FC_K\u00f6ln.png",
       "awayTeam": "Borussia Dortmund",
       "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-01-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-12T19:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565920,
+      "id": 565918,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 17,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "SV 07 Elversberg",
-      "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 16,
+      "homeTeam": "SV 07 Elversberg",
+      "homeCrest": "logos/SV_07_Elversberg.png",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayCrest": "logos/Eintracht_Frankfurt.png",
+      "utcDate": "2027-01-13T17:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565921,
+      "id": 565912,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 17,
-      "homeTeam": "Eintracht Frankfurt",
-      "homeCrest": "logos/Eintracht_Frankfurt.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 16,
+      "homeTeam": "SC Freiburg",
+      "homeCrest": "logos/SC_Freiburg.png",
+      "awayTeam": "Hamburger SV",
+      "awayCrest": "logos/Hamburger_SV.png",
+      "utcDate": "2027-01-13T19:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565922,
+      "id": 565915,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 17,
-      "homeTeam": "SC Paderborn 07",
-      "homeCrest": "logos/SC_Paderborn_07.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 16,
+      "homeTeam": "1. FC Union Berlin",
+      "homeCrest": "logos/1__FC_Union_Berlin.png",
+      "awayTeam": "SC Paderborn 07",
+      "awayCrest": "logos/SC_Paderborn_07.png",
+      "utcDate": "2027-01-13T19:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565923,
+      "id": 565916,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 17,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "RB Leipzig",
-      "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 16,
+      "homeTeam": "FC Bayern M\u00fcnchen",
+      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayCrest": "logos/Bayer_04_Leverkusen.png",
+      "utcDate": "2027-01-13T19:30:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 565924,
+      "id": 565913,
       "compCode": "BL1",
       "compName": "Bundesliga",
-      "matchday": 17,
-      "homeTeam": "Bayer 04 Leverkusen",
-      "homeCrest": "logos/Bayer_04_Leverkusen.png",
-      "awayTeam": "FC Schalke 04",
-      "awayCrest": "logos/FC_Schalke_04.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 16,
+      "homeTeam": "FC Schalke 04",
+      "homeCrest": "logos/FC_Schalke_04.png",
+      "awayTeam": "SV Werder Bremen",
+      "awayCrest": "logos/SV_Werder_Bremen.png",
+      "utcDate": "2027-01-14T19:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565925,
@@ -4414,8 +4354,32 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-15T19:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565922,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 17,
+      "homeTeam": "SC Paderborn 07",
+      "homeCrest": "logos/SC_Paderborn_07.png",
+      "awayTeam": "1. FC K\u00f6ln",
+      "awayCrest": "logos/1__FC_K\u00f6ln.png",
+      "utcDate": "2027-01-16T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565923,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 17,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
+      "awayTeam": "RB Leipzig",
+      "awayCrest": "logos/RB_Leipzig.png",
+      "utcDate": "2027-01-16T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565926,
@@ -4426,8 +4390,8 @@
       "homeCrest": "logos/Hamburger_SV.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565927,
@@ -4438,8 +4402,8 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565928,
@@ -4450,8 +4414,44 @@
       "homeCrest": "logos/Borussia_Dortmund.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-16T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565921,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 17,
+      "homeTeam": "Eintracht Frankfurt",
+      "homeCrest": "logos/Eintracht_Frankfurt.png",
+      "awayTeam": "FC Bayern M\u00fcnchen",
+      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
+      "utcDate": "2027-01-16T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565920,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 17,
+      "homeTeam": "SV Werder Bremen",
+      "homeCrest": "logos/SV_Werder_Bremen.png",
+      "awayTeam": "SV 07 Elversberg",
+      "awayCrest": "logos/SV_07_Elversberg.png",
+      "utcDate": "2027-01-17T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565924,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 17,
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeCrest": "logos/Bayer_04_Leverkusen.png",
+      "awayTeam": "FC Schalke 04",
+      "awayCrest": "logos/FC_Schalke_04.png",
+      "utcDate": "2027-01-17T16:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565929,
@@ -4462,20 +4462,8 @@
       "homeCrest": "logos/SV_Werder_Bremen.png",
       "awayTeam": "SC Freiburg",
       "awayCrest": "logos/SC_Freiburg.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565930,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 18,
-      "homeTeam": "Hamburger SV",
-      "homeCrest": "logos/Hamburger_SV.png",
-      "awayTeam": "Borussia Dortmund",
-      "awayCrest": "logos/Borussia_Dortmund.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-22T19:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565931,
@@ -4486,8 +4474,8 @@
       "homeCrest": "logos/SC_Paderborn_07.png",
       "awayTeam": "1. FSV Mainz 05",
       "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565932,
@@ -4498,20 +4486,8 @@
       "homeCrest": "logos/FC_Schalke_04.png",
       "awayTeam": "FC Augsburg",
       "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 565933,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 18,
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565934,
@@ -4522,8 +4498,8 @@
       "homeCrest": "logos/VfB_Stuttgart.png",
       "awayTeam": "FC Bayern M\u00fcnchen",
       "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565935,
@@ -4534,8 +4510,20 @@
       "homeCrest": "logos/Borussia_M\u00f6nchengladbach.png",
       "awayTeam": "RB Leipzig",
       "awayCrest": "logos/RB_Leipzig.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-23T14:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565930,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 18,
+      "homeTeam": "Hamburger SV",
+      "homeCrest": "logos/Hamburger_SV.png",
+      "awayTeam": "Borussia Dortmund",
+      "awayCrest": "logos/Borussia_Dortmund.png",
+      "utcDate": "2027-01-23T17:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565936,
@@ -4546,8 +4534,8 @@
       "homeCrest": "logos/Eintracht_Frankfurt.png",
       "awayTeam": "1. FC Union Berlin",
       "awayCrest": "logos/1__FC_Union_Berlin.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-24T14:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565937,
@@ -4558,8 +4546,20 @@
       "homeCrest": "logos/Bayer_04_Leverkusen.png",
       "awayTeam": "SV 07 Elversberg",
       "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-24T16:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 565933,
+      "compCode": "BL1",
+      "compName": "Bundesliga",
+      "matchday": 18,
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeCrest": "logos/TSG_1899_Hoffenheim.png",
+      "awayTeam": "1. FC K\u00f6ln",
+      "awayCrest": "logos/1__FC_K\u00f6ln.png",
+      "utcDate": "2027-01-24T18:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 565938,
