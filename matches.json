@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:13:05.452523+00:00",
+  "updated": "2026-11-07T22:52:03.671676+00:00",
   "matches": [
     {
       "id": 560635,
@@ -6158,18 +6158,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558531,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 11,
-      "homeTeam": "AS Roma",
-      "homeCrest": "logos/AS_Roma.png",
-      "awayTeam": "US Sassuolo Calcio",
-      "awayCrest": "logos/US_Sassuolo_Calcio.png",
-      "utcDate": "2026-11-07T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558533,
       "compCode": "SA",
       "compName": "Serie A",
@@ -9470,18 +9458,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564741,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 12,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2026-11-07T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564738,
       "compCode": "PD",
       "compName": "La Liga",
@@ -12660,18 +12636,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559635,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 10,
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "logos/Paris_Saint-Germain_FC.png",
-      "awayTeam": "ES Troyes AC",
-      "awayCrest": "logos/ES_Troyes_AC.png",
-      "utcDate": "2026-11-07T20:05:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559636,
@@ -19800,18 +19764,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567350,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 11,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "Moreirense FC",
-      "awayCrest": "logos/Moreirense_FC.png",
-      "utcDate": "2026-11-07T20:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567348,
