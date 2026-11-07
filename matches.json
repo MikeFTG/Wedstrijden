@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T21:40:45.088277+00:00",
+  "updated": "2026-11-07T01:29:01.422952+00:00",
   "matches": [
     {
       "id": 560632,
@@ -9842,28 +9842,16 @@
       "status": "TIMED"
     },
     {
-      "id": 564758,
+      "id": 564765,
       "compCode": "PD",
       "compName": "La Liga",
       "matchday": 14,
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "logos/RC_Celta_de_Vigo.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564759,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "Levante UD",
+      "homeCrest": "logos/Levante_UD.png",
+      "awayTeam": "Real Racing Club de Santander",
+      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564760,
@@ -9874,80 +9862,8 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564761,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "Valencia CF",
-      "homeCrest": "logos/Valencia_CF.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564762,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "Deportivo Alav\u00e9s",
-      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564763,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564764,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564765,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "Levante UD",
-      "homeCrest": "logos/Levante_UD.png",
-      "awayTeam": "Real Racing Club de Santander",
-      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564766,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "RC Deportivo La Coru\u00f1a",
-      "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564767,
@@ -9958,8 +9874,92 @@
       "homeCrest": "logos/M\u00e1laga_CF.png",
       "awayTeam": "Athletic Club",
       "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-11-29T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-11-28T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564759,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "Elche CF",
+      "homeCrest": "logos/Elche_CF.png",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
+      "utcDate": "2026-11-28T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564762,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "Real Madrid CF",
+      "homeCrest": "logos/Real_Madrid_CF.png",
+      "awayTeam": "Deportivo Alav\u00e9s",
+      "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
+      "utcDate": "2026-11-28T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564761,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "Valencia CF",
+      "homeCrest": "logos/Valencia_CF.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "logos/CA_Osasuna.png",
+      "utcDate": "2026-11-29T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564766,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "RC Deportivo La Coru\u00f1a",
+      "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
+      "awayTeam": "FC Barcelona",
+      "awayCrest": "logos/FC_Barcelona.png",
+      "utcDate": "2026-11-29T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564758,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "RC Celta de Vigo",
+      "homeCrest": "logos/RC_Celta_de_Vigo.png",
+      "awayTeam": "Villarreal CF",
+      "awayCrest": "logos/Villarreal_CF.png",
+      "utcDate": "2026-11-29T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564764,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
+      "awayTeam": "Sevilla FC",
+      "awayCrest": "logos/Sevilla_FC.png",
+      "utcDate": "2026-11-29T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564763,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 14,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
+      "awayTeam": "Getafe CF",
+      "awayCrest": "logos/Getafe_CF.png",
+      "utcDate": "2026-11-30T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564768,
@@ -15539,7 +15539,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-11-07T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561938,
@@ -15551,7 +15551,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-11-07T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561939,
@@ -15563,7 +15563,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-11-07T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561929,
@@ -15575,7 +15575,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561930,
@@ -15587,7 +15587,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561931,
@@ -15599,7 +15599,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561934,
@@ -15611,7 +15611,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561935,
@@ -15623,7 +15623,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561936,
@@ -15635,7 +15635,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561937,
@@ -15647,7 +15647,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561940,
@@ -15659,19 +15659,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-11-07T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561941,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 16,
-      "homeTeam": "Sheffield United FC",
-      "homeCrest": "logos/Sheffield_United_FC.png",
-      "awayTeam": "Watford FC",
-      "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2026-11-21T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561944,
@@ -15683,7 +15671,19 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-11-21T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 561948,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 16,
+      "homeTeam": "Norwich City FC",
+      "homeCrest": "logos/Norwich_City_FC.png",
+      "awayTeam": "Cardiff City FC",
+      "awayCrest": "logos/Cardiff_City_FC.png",
+      "utcDate": "2026-11-21T12:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 561950,
@@ -15695,7 +15695,19 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-11-21T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 561941,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 16,
+      "homeTeam": "Sheffield United FC",
+      "homeCrest": "logos/Sheffield_United_FC.png",
+      "awayTeam": "Watford FC",
+      "awayCrest": "logos/Watford_FC.png",
+      "utcDate": "2026-11-21T15:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 561942,
@@ -15707,7 +15719,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561943,
@@ -15719,7 +15731,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561945,
@@ -15731,7 +15743,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561946,
@@ -15743,19 +15755,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561948,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 16,
-      "homeTeam": "Norwich City FC",
-      "homeCrest": "logos/Norwich_City_FC.png",
-      "awayTeam": "Cardiff City FC",
-      "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561949,
@@ -15767,7 +15767,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561951,
@@ -15779,7 +15779,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561952,
@@ -15791,7 +15791,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-11-21T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561947,
@@ -15803,7 +15803,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-11-22T12:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561953,
@@ -15815,7 +15815,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561954,
@@ -15827,7 +15827,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561955,
@@ -15839,7 +15839,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561956,
@@ -15851,7 +15851,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561958,
@@ -15863,7 +15863,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561959,
@@ -15875,7 +15875,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561960,
@@ -15887,7 +15887,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-11-24T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561957,
@@ -15899,7 +15899,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-11-24T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561961,
@@ -15911,7 +15911,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-11-25T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561963,
@@ -15923,7 +15923,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-11-25T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561964,
@@ -15935,7 +15935,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-11-25T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561962,
@@ -15947,7 +15947,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-11-25T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561968,
@@ -15959,7 +15959,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-11-27T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561969,
@@ -15971,7 +15971,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-11-28T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561972,
@@ -15983,7 +15983,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-11-28T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561973,
@@ -15995,7 +15995,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-11-28T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561965,
@@ -16007,7 +16007,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561966,
@@ -16019,7 +16019,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561967,
@@ -16031,7 +16031,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561970,
@@ -16043,7 +16043,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561971,
@@ -16055,7 +16055,7 @@
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561974,
@@ -16067,7 +16067,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561975,
@@ -16079,7 +16079,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-11-28T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561976,
@@ -16091,7 +16091,7 @@
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
       "utcDate": "2026-11-29T12:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561979,
@@ -16103,7 +16103,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-12-04T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561977,
@@ -16115,7 +16115,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-12-05T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561983,
@@ -16127,7 +16127,19 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-12-05T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 561984,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 19,
+      "homeTeam": "Watford FC",
+      "homeCrest": "logos/Watford_FC.png",
+      "awayTeam": "Millwall FC",
+      "awayCrest": "logos/Millwall_FC.png",
+      "utcDate": "2026-12-05T12:30:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 561988,
@@ -16139,7 +16151,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-12-05T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561978,
@@ -16151,7 +16163,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561980,
@@ -16163,7 +16175,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561981,
@@ -16175,7 +16187,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561982,
@@ -16187,19 +16199,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561984,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 19,
-      "homeTeam": "Watford FC",
-      "homeCrest": "logos/Watford_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561985,
@@ -16211,7 +16211,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561986,
@@ -16223,7 +16223,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-12-05T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561987,
@@ -16235,7 +16235,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-12-06T12:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561990,
@@ -16247,7 +16247,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561991,
@@ -16259,7 +16259,7 @@
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
       "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561992,
@@ -16271,7 +16271,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561993,
@@ -16283,7 +16283,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561994,
@@ -16295,7 +16295,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561995,
@@ -16307,19 +16307,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 561996,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 20,
-      "homeTeam": "Birmingham City FC",
-      "homeCrest": "logos/Birmingham_City_FC.png",
-      "awayTeam": "Watford FC",
-      "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2026-12-08T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561989,
@@ -16330,8 +16318,20 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2026-12-08T20:45:00Z",
-      "status": "TIMED"
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 561996,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 20,
+      "homeTeam": "Birmingham City FC",
+      "homeCrest": "logos/Birmingham_City_FC.png",
+      "awayTeam": "Watford FC",
+      "awayCrest": "logos/Watford_FC.png",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 561998,
@@ -16343,7 +16343,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-12-09T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561999,
@@ -16355,7 +16355,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-12-09T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562000,
@@ -16367,7 +16367,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-12-09T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 561997,
@@ -16379,7 +16379,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-12-09T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562006,
@@ -16391,7 +16391,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-12-11T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562003,
@@ -16403,7 +16403,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-12-12T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562004,
@@ -16415,7 +16415,7 @@
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
       "utcDate": "2026-12-12T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562005,
@@ -16427,7 +16427,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-12-12T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562001,
@@ -16439,7 +16439,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562002,
@@ -16451,19 +16451,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 562007,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 21,
-      "homeTeam": "Lincoln City FC",
-      "homeCrest": "logos/Lincoln_City_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562008,
@@ -16475,7 +16463,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562009,
@@ -16487,7 +16475,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562010,
@@ -16499,7 +16487,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562011,
@@ -16511,7 +16499,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562012,
@@ -16523,7 +16511,19 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-12-12T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562007,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 21,
+      "homeTeam": "Lincoln City FC",
+      "homeCrest": "logos/Lincoln_City_FC.png",
+      "awayTeam": "Norwich City FC",
+      "awayCrest": "logos/Norwich_City_FC.png",
+      "utcDate": "2026-12-13T14:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562021,
@@ -16535,7 +16535,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-12-18T20:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562014,
@@ -16547,7 +16547,7 @@
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
       "utcDate": "2026-12-19T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562016,
@@ -16559,7 +16559,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-12-19T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562022,
@@ -16571,7 +16571,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-12-19T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562023,
@@ -16583,7 +16583,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-12-19T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562024,
@@ -16595,7 +16595,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-12-19T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562013,
@@ -16607,7 +16607,7 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-12-19T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562015,
@@ -16619,7 +16619,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-12-19T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562017,
@@ -16631,7 +16631,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-12-19T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562018,
@@ -16643,7 +16643,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-12-19T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562019,
@@ -16655,7 +16655,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-12-19T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562020,
@@ -16667,7 +16667,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-12-19T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562025,
@@ -16679,7 +16679,7 @@
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
       "utcDate": "2026-12-26T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562026,
@@ -16691,7 +16691,7 @@
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2026-12-26T12:30:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562027,
@@ -16703,7 +16703,7 @@
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562028,
@@ -16715,7 +16715,7 @@
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562029,
@@ -16727,7 +16727,7 @@
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562030,
@@ -16739,7 +16739,7 @@
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562031,
@@ -16751,7 +16751,7 @@
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562032,
@@ -16763,7 +16763,7 @@
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562033,
@@ -16775,7 +16775,7 @@
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562034,
@@ -16787,7 +16787,7 @@
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562035,
@@ -16799,7 +16799,7 @@
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562036,
@@ -16811,7 +16811,7 @@
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
       "utcDate": "2026-12-26T15:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562044,
@@ -16823,7 +16823,7 @@
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
       "utcDate": "2026-12-29T18:00:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562037,
@@ -16835,7 +16835,7 @@
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562038,
@@ -16847,7 +16847,7 @@
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562039,
@@ -16859,7 +16859,7 @@
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562040,
@@ -16871,7 +16871,7 @@
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562042,
@@ -16883,7 +16883,7 @@
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562043,
@@ -16895,19 +16895,7 @@
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 562045,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 24,
-      "homeTeam": "Birmingham City FC",
-      "homeCrest": "logos/Birmingham_City_FC.png",
-      "awayTeam": "Cardiff City FC",
-      "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562046,
@@ -16919,7 +16907,7 @@
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562047,
@@ -16931,7 +16919,7 @@
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562048,
@@ -16943,7 +16931,19 @@
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
       "utcDate": "2026-12-29T19:45:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562045,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 24,
+      "homeTeam": "Birmingham City FC",
+      "homeCrest": "logos/Birmingham_City_FC.png",
+      "awayTeam": "Cardiff City FC",
+      "awayCrest": "logos/Cardiff_City_FC.png",
+      "utcDate": "2026-12-29T20:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562041,
@@ -16955,7 +16955,7 @@
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
       "utcDate": "2026-12-29T20:15:00Z",
-      "status": "TIMED"
+      "status": "SCHEDULED"
     },
     {
       "id": 562049,
@@ -16966,7 +16966,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16978,7 +16978,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -16990,7 +16990,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17002,7 +17002,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17014,7 +17014,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17026,7 +17026,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17038,7 +17038,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17050,7 +17050,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17062,7 +17062,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17074,7 +17074,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17086,7 +17086,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17098,115 +17098,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-01-01T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562061,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Stoke City FC",
-      "homeCrest": "logos/Stoke_City_FC.png",
-      "awayTeam": "Derby County FC",
-      "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562062,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Charlton Athletic FC",
-      "homeCrest": "logos/Charlton_Athletic_FC.png",
-      "awayTeam": "Watford FC",
-      "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "2027-01-16 12:00:00Z"
-    },
-    {
-      "id": 562063,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Burnley FC",
-      "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562064,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Preston North End FC",
-      "homeCrest": "logos/Preston_North_End_FC.png",
-      "awayTeam": "Wrexham AFC",
-      "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562065,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Cardiff City FC",
-      "homeCrest": "logos/Cardiff_City_FC.png",
-      "awayTeam": "Middlesbrough FC",
-      "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562066,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Lincoln City FC",
-      "homeCrest": "logos/Lincoln_City_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562067,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Portsmouth FC",
-      "homeCrest": "logos/Portsmouth_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562068,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Queens Park Rangers FC",
-      "homeCrest": "logos/Queens_Park_Rangers_FC.png",
-      "awayTeam": "Birmingham City FC",
-      "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562069,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 26,
-      "homeTeam": "Sheffield United FC",
-      "homeCrest": "logos/Sheffield_United_FC.png",
-      "awayTeam": "Bristol City FC",
-      "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
+      "utcDate": "2027-01-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17218,8 +17110,104 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
-      "status": "2027-01-16 12:00:00Z"
+      "utcDate": "2027-01-15T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562061,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Stoke City FC",
+      "homeCrest": "logos/Stoke_City_FC.png",
+      "awayTeam": "Derby County FC",
+      "awayCrest": "logos/Derby_County_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562063,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "awayTeam": "Burnley FC",
+      "awayCrest": "logos/Burnley_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562064,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Preston North End FC",
+      "homeCrest": "logos/Preston_North_End_FC.png",
+      "awayTeam": "Wrexham AFC",
+      "awayCrest": "logos/Wrexham_AFC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562065,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Cardiff City FC",
+      "homeCrest": "logos/Cardiff_City_FC.png",
+      "awayTeam": "Middlesbrough FC",
+      "awayCrest": "logos/Middlesbrough_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562066,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Lincoln City FC",
+      "homeCrest": "logos/Lincoln_City_FC.png",
+      "awayTeam": "Millwall FC",
+      "awayCrest": "logos/Millwall_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562067,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Portsmouth FC",
+      "homeCrest": "logos/Portsmouth_FC.png",
+      "awayTeam": "Norwich City FC",
+      "awayCrest": "logos/Norwich_City_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562068,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Queens Park Rangers FC",
+      "homeCrest": "logos/Queens_Park_Rangers_FC.png",
+      "awayTeam": "Birmingham City FC",
+      "awayCrest": "logos/Birmingham_City_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562069,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 26,
+      "homeTeam": "Sheffield United FC",
+      "homeCrest": "logos/Sheffield_United_FC.png",
+      "awayTeam": "Bristol City FC",
+      "awayCrest": "logos/Bristol_City_FC.png",
+      "utcDate": "2027-01-16T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562071,
@@ -17230,7 +17218,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
+      "utcDate": "2027-01-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17242,19 +17230,19 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-01-16T00:00:00Z",
+      "utcDate": "2027-01-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562073,
+      "id": 562062,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 27,
-      "homeTeam": "Wrexham AFC",
-      "homeCrest": "logos/Wrexham_AFC.png",
-      "awayTeam": "Sheffield United FC",
-      "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "matchday": 26,
+      "homeTeam": "Charlton Athletic FC",
+      "homeCrest": "logos/Charlton_Athletic_FC.png",
+      "awayTeam": "Watford FC",
+      "awayCrest": "logos/Watford_FC.png",
+      "utcDate": "2027-01-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17266,20 +17254,20 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "2027-01-23 12:00:00Z"
+      "utcDate": "2027-01-22T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 562075,
+      "id": 562073,
       "compCode": "ELC",
       "compName": "Championship",
       "matchday": 27,
-      "homeTeam": "Cardiff City FC",
-      "homeCrest": "logos/Cardiff_City_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
-      "status": "2027-01-23 12:00:00Z"
+      "homeTeam": "Wrexham AFC",
+      "homeCrest": "logos/Wrexham_AFC.png",
+      "awayTeam": "Sheffield United FC",
+      "awayCrest": "logos/Sheffield_United_FC.png",
+      "utcDate": "2027-01-23T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562076,
@@ -17290,7 +17278,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17302,7 +17290,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17314,7 +17302,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17326,7 +17314,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17338,7 +17326,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17350,7 +17338,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17362,7 +17350,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17374,7 +17362,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17386,7 +17374,19 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-01-23T00:00:00Z",
+      "utcDate": "2027-01-23T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562075,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 27,
+      "homeTeam": "Cardiff City FC",
+      "homeCrest": "logos/Cardiff_City_FC.png",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "utcDate": "2027-01-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17398,7 +17398,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17410,7 +17410,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17422,7 +17422,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17434,7 +17434,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17446,7 +17446,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17458,7 +17458,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17470,7 +17470,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17482,7 +17482,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-01-26T00:00:00Z",
+      "utcDate": "2027-01-26T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17494,7 +17494,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-01-27T00:00:00Z",
+      "utcDate": "2027-01-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17506,7 +17506,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-01-27T00:00:00Z",
+      "utcDate": "2027-01-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17518,7 +17518,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-01-27T00:00:00Z",
+      "utcDate": "2027-01-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17530,67 +17530,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-01-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562097,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 29,
-      "homeTeam": "Burnley FC",
-      "homeCrest": "logos/Burnley_FC.png",
-      "awayTeam": "Cardiff City FC",
-      "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562098,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 29,
-      "homeTeam": "Swansea City AFC",
-      "homeCrest": "logos/Swansea_City_AFC.png",
-      "awayTeam": "Birmingham City FC",
-      "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562099,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 29,
-      "homeTeam": "Southampton FC",
-      "homeCrest": "logos/Southampton_FC.png",
-      "awayTeam": "Preston North End FC",
-      "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562100,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 29,
-      "homeTeam": "Millwall FC",
-      "homeCrest": "logos/Millwall_FC.png",
-      "awayTeam": "West Bromwich Albion FC",
-      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562101,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 29,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Wrexham AFC",
-      "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
+      "utcDate": "2027-01-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17602,8 +17542,68 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "2027-01-30 12:00:00Z"
+      "utcDate": "2027-01-29T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562097,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 29,
+      "homeTeam": "Burnley FC",
+      "homeCrest": "logos/Burnley_FC.png",
+      "awayTeam": "Cardiff City FC",
+      "awayCrest": "logos/Cardiff_City_FC.png",
+      "utcDate": "2027-01-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562098,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 29,
+      "homeTeam": "Swansea City AFC",
+      "homeCrest": "logos/Swansea_City_AFC.png",
+      "awayTeam": "Birmingham City FC",
+      "awayCrest": "logos/Birmingham_City_FC.png",
+      "utcDate": "2027-01-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562099,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 29,
+      "homeTeam": "Southampton FC",
+      "homeCrest": "logos/Southampton_FC.png",
+      "awayTeam": "Preston North End FC",
+      "awayCrest": "logos/Preston_North_End_FC.png",
+      "utcDate": "2027-01-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562100,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 29,
+      "homeTeam": "Millwall FC",
+      "homeCrest": "logos/Millwall_FC.png",
+      "awayTeam": "West Bromwich Albion FC",
+      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
+      "utcDate": "2027-01-30T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562101,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 29,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "awayTeam": "Wrexham AFC",
+      "awayCrest": "logos/Wrexham_AFC.png",
+      "utcDate": "2027-01-30T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562103,
@@ -17614,7 +17614,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
+      "utcDate": "2027-01-30T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17626,7 +17626,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
+      "utcDate": "2027-01-30T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17638,7 +17638,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
+      "utcDate": "2027-01-30T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17650,7 +17650,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
+      "utcDate": "2027-01-30T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17662,7 +17662,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
+      "utcDate": "2027-01-30T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17674,139 +17674,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-01-30T00:00:00Z",
-      "status": "2027-01-30 12:00:00Z"
-    },
-    {
-      "id": 562109,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "West Bromwich Albion FC",
-      "homeCrest": "logos/West_Bromwich_Albion_FC.png",
-      "awayTeam": "Swansea City AFC",
-      "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562110,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Derby County FC",
-      "homeCrest": "logos/Derby_County_FC.png",
-      "awayTeam": "Southampton FC",
-      "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562111,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Watford FC",
-      "homeCrest": "logos/Watford_FC.png",
-      "awayTeam": "Sheffield United FC",
-      "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562112,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Preston North End FC",
-      "homeCrest": "logos/Preston_North_End_FC.png",
-      "awayTeam": "West Ham United FC",
-      "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562113,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Portsmouth FC",
-      "homeCrest": "logos/Portsmouth_FC.png",
-      "awayTeam": "Bolton Wanderers FC",
-      "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562114,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Queens Park Rangers FC",
-      "homeCrest": "logos/Queens_Park_Rangers_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562115,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Charlton Athletic FC",
-      "homeCrest": "logos/Charlton_Athletic_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562116,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Wrexham AFC",
-      "homeCrest": "logos/Wrexham_AFC.png",
-      "awayTeam": "Lincoln City FC",
-      "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562117,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Blackburn Rovers FC",
-      "homeCrest": "logos/Blackburn_Rovers_FC.png",
-      "awayTeam": "Burnley FC",
-      "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "2027-02-06 12:00:00Z"
-    },
-    {
-      "id": 562118,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Cardiff City FC",
-      "homeCrest": "logos/Cardiff_City_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562119,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 30,
-      "homeTeam": "Birmingham City FC",
-      "homeCrest": "logos/Birmingham_City_FC.png",
-      "awayTeam": "Stoke City FC",
-      "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
+      "utcDate": "2027-01-31T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17818,43 +17686,139 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-02-06T00:00:00Z",
-      "status": "2027-02-06 12:00:00Z"
+      "utcDate": "2027-02-05T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
-      "id": 562121,
+      "id": 562109,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 31,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
+      "matchday": 30,
+      "homeTeam": "West Bromwich Albion FC",
+      "homeCrest": "logos/West_Bromwich_Albion_FC.png",
+      "awayTeam": "Swansea City AFC",
+      "awayCrest": "logos/Swansea_City_AFC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562110,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Derby County FC",
+      "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562122,
+      "id": 562111,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 31,
+      "matchday": 30,
+      "homeTeam": "Watford FC",
+      "homeCrest": "logos/Watford_FC.png",
+      "awayTeam": "Sheffield United FC",
+      "awayCrest": "logos/Sheffield_United_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562112,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Preston North End FC",
+      "homeCrest": "logos/Preston_North_End_FC.png",
+      "awayTeam": "West Ham United FC",
+      "awayCrest": "logos/West_Ham_United_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562113,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Portsmouth FC",
+      "homeCrest": "logos/Portsmouth_FC.png",
+      "awayTeam": "Bolton Wanderers FC",
+      "awayCrest": "logos/Bolton_Wanderers_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562114,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
       "homeTeam": "Queens Park Rangers FC",
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
-      "awayTeam": "West Bromwich Albion FC",
-      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "awayTeam": "Millwall FC",
+      "awayCrest": "logos/Millwall_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562123,
+      "id": 562115,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 31,
-      "homeTeam": "Lincoln City FC",
-      "homeCrest": "logos/Lincoln_City_FC.png",
-      "awayTeam": "Preston North End FC",
-      "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "matchday": 30,
+      "homeTeam": "Charlton Athletic FC",
+      "homeCrest": "logos/Charlton_Athletic_FC.png",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562116,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Wrexham AFC",
+      "homeCrest": "logos/Wrexham_AFC.png",
+      "awayTeam": "Lincoln City FC",
+      "awayCrest": "logos/Lincoln_City_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562118,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Cardiff City FC",
+      "homeCrest": "logos/Cardiff_City_FC.png",
+      "awayTeam": "Norwich City FC",
+      "awayCrest": "logos/Norwich_City_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562119,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Birmingham City FC",
+      "homeCrest": "logos/Birmingham_City_FC.png",
+      "awayTeam": "Stoke City FC",
+      "awayCrest": "logos/Stoke_City_FC.png",
+      "utcDate": "2027-02-06T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562117,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 30,
+      "homeTeam": "Blackburn Rovers FC",
+      "homeCrest": "logos/Blackburn_Rovers_FC.png",
+      "awayTeam": "Burnley FC",
+      "awayCrest": "logos/Burnley_FC.png",
+      "utcDate": "2027-02-07T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17866,8 +17830,44 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
-      "status": "2027-02-13 12:00:00Z"
+      "utcDate": "2027-02-12T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562121,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 31,
+      "homeTeam": "Bristol City FC",
+      "homeCrest": "logos/Bristol_City_FC.png",
+      "awayTeam": "Southampton FC",
+      "awayCrest": "logos/Southampton_FC.png",
+      "utcDate": "2027-02-13T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562122,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 31,
+      "homeTeam": "Queens Park Rangers FC",
+      "homeCrest": "logos/Queens_Park_Rangers_FC.png",
+      "awayTeam": "West Bromwich Albion FC",
+      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
+      "utcDate": "2027-02-13T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562123,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 31,
+      "homeTeam": "Lincoln City FC",
+      "homeCrest": "logos/Lincoln_City_FC.png",
+      "awayTeam": "Preston North End FC",
+      "awayCrest": "logos/Preston_North_End_FC.png",
+      "utcDate": "2027-02-13T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562125,
@@ -17878,20 +17878,8 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 562126,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 31,
-      "homeTeam": "Cardiff City FC",
-      "homeCrest": "logos/Cardiff_City_FC.png",
-      "awayTeam": "Bolton Wanderers FC",
-      "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
-      "status": "2027-02-13 12:00:00Z"
     },
     {
       "id": 562127,
@@ -17902,7 +17890,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17914,7 +17902,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17926,7 +17914,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17938,7 +17926,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17950,7 +17938,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17962,7 +17950,19 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-02-13T00:00:00Z",
+      "utcDate": "2027-02-13T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562126,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 31,
+      "homeTeam": "Cardiff City FC",
+      "homeCrest": "logos/Cardiff_City_FC.png",
+      "awayTeam": "Bolton Wanderers FC",
+      "awayCrest": "logos/Bolton_Wanderers_FC.png",
+      "utcDate": "2027-02-14T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17974,7 +17974,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17986,7 +17986,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -17998,7 +17998,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18010,7 +18010,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18022,20 +18022,8 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 562138,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 32,
-      "homeTeam": "Watford FC",
-      "homeCrest": "logos/Watford_FC.png",
-      "awayTeam": "Cardiff City FC",
-      "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
-      "status": "2027-02-16 12:00:00Z"
     },
     {
       "id": 562139,
@@ -18046,7 +18034,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18058,43 +18046,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-02-16T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562141,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 32,
-      "homeTeam": "Bolton Wanderers FC",
-      "homeCrest": "logos/Bolton_Wanderers_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-02-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562142,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 32,
-      "homeTeam": "Swansea City AFC",
-      "homeCrest": "logos/Swansea_City_AFC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-02-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562143,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 32,
-      "homeTeam": "Southampton FC",
-      "homeCrest": "logos/Southampton_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-02-17T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18106,79 +18058,55 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-02-17T00:00:00Z",
-      "status": "2027-02-17 12:00:00Z"
-    },
-    {
-      "id": 562145,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 33,
-      "homeTeam": "Southampton FC",
-      "homeCrest": "logos/Southampton_FC.png",
-      "awayTeam": "Wrexham AFC",
-      "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "utcDate": "2027-02-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562146,
+      "id": 562138,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 33,
-      "homeTeam": "Charlton Athletic FC",
-      "homeCrest": "logos/Charlton_Athletic_FC.png",
+      "matchday": 32,
+      "homeTeam": "Watford FC",
+      "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "utcDate": "2027-02-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562147,
+      "id": 562141,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 33,
+      "matchday": 32,
+      "homeTeam": "Bolton Wanderers FC",
+      "homeCrest": "logos/Bolton_Wanderers_FC.png",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "utcDate": "2027-02-17T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562142,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 32,
       "homeTeam": "Swansea City AFC",
       "homeCrest": "logos/Swansea_City_AFC.png",
-      "awayTeam": "Lincoln City FC",
-      "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "awayTeam": "Millwall FC",
+      "awayCrest": "logos/Millwall_FC.png",
+      "utcDate": "2027-02-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562148,
+      "id": 562143,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 33,
-      "homeTeam": "Sheffield United FC",
-      "homeCrest": "logos/Sheffield_United_FC.png",
-      "awayTeam": "Stoke City FC",
-      "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562149,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 33,
-      "homeTeam": "Preston North End FC",
-      "homeCrest": "logos/Preston_North_End_FC.png",
-      "awayTeam": "Queens Park Rangers FC",
-      "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562150,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 33,
-      "homeTeam": "Derby County FC",
-      "homeCrest": "logos/Derby_County_FC.png",
-      "awayTeam": "Burnley FC",
-      "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "matchday": 32,
+      "homeTeam": "Southampton FC",
+      "homeCrest": "logos/Southampton_FC.png",
+      "awayTeam": "Norwich City FC",
+      "awayCrest": "logos/Norwich_City_FC.png",
+      "utcDate": "2027-02-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18190,8 +18118,80 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "2027-02-20 12:00:00Z"
+      "utcDate": "2027-02-19T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562145,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 33,
+      "homeTeam": "Southampton FC",
+      "homeCrest": "logos/Southampton_FC.png",
+      "awayTeam": "Wrexham AFC",
+      "awayCrest": "logos/Wrexham_AFC.png",
+      "utcDate": "2027-02-20T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562146,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 33,
+      "homeTeam": "Charlton Athletic FC",
+      "homeCrest": "logos/Charlton_Athletic_FC.png",
+      "awayTeam": "Cardiff City FC",
+      "awayCrest": "logos/Cardiff_City_FC.png",
+      "utcDate": "2027-02-20T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562147,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 33,
+      "homeTeam": "Swansea City AFC",
+      "homeCrest": "logos/Swansea_City_AFC.png",
+      "awayTeam": "Lincoln City FC",
+      "awayCrest": "logos/Lincoln_City_FC.png",
+      "utcDate": "2027-02-20T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562148,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 33,
+      "homeTeam": "Sheffield United FC",
+      "homeCrest": "logos/Sheffield_United_FC.png",
+      "awayTeam": "Stoke City FC",
+      "awayCrest": "logos/Stoke_City_FC.png",
+      "utcDate": "2027-02-20T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562149,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 33,
+      "homeTeam": "Preston North End FC",
+      "homeCrest": "logos/Preston_North_End_FC.png",
+      "awayTeam": "Queens Park Rangers FC",
+      "awayCrest": "logos/Queens_Park_Rangers_FC.png",
+      "utcDate": "2027-02-20T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562150,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 33,
+      "homeTeam": "Derby County FC",
+      "homeCrest": "logos/Derby_County_FC.png",
+      "awayTeam": "Burnley FC",
+      "awayCrest": "logos/Burnley_FC.png",
+      "utcDate": "2027-02-20T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562152,
@@ -18202,7 +18202,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "utcDate": "2027-02-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18214,19 +18214,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562154,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 33,
-      "homeTeam": "West Ham United FC",
-      "homeCrest": "logos/West_Ham_United_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "utcDate": "2027-02-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18238,7 +18226,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "utcDate": "2027-02-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18250,91 +18238,19 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-02-20T00:00:00Z",
+      "utcDate": "2027-02-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
-      "id": 562157,
+      "id": 562154,
       "compCode": "ELC",
       "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Queens Park Rangers FC",
-      "homeCrest": "logos/Queens_Park_Rangers_FC.png",
-      "awayTeam": "West Ham United FC",
-      "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562158,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Portsmouth FC",
-      "homeCrest": "logos/Portsmouth_FC.png",
-      "awayTeam": "Southampton FC",
-      "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562159,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Stoke City FC",
-      "homeCrest": "logos/Stoke_City_FC.png",
-      "awayTeam": "Bolton Wanderers FC",
-      "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562160,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Norwich City FC",
-      "homeCrest": "logos/Norwich_City_FC.png",
-      "awayTeam": "Swansea City AFC",
-      "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562161,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Wrexham AFC",
-      "homeCrest": "logos/Wrexham_AFC.png",
-      "awayTeam": "Derby County FC",
-      "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562162,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Middlesbrough FC",
-      "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 562163,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 34,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
-      "awayTeam": "Charlton Athletic FC",
-      "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
+      "matchday": 33,
+      "homeTeam": "West Ham United FC",
+      "homeCrest": "logos/West_Ham_United_FC.png",
+      "awayTeam": "Millwall FC",
+      "awayCrest": "logos/Millwall_FC.png",
+      "utcDate": "2027-02-21T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18346,8 +18262,80 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
-      "status": "2027-02-27 12:00:00Z"
+      "utcDate": "2027-02-26T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562157,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Queens Park Rangers FC",
+      "homeCrest": "logos/Queens_Park_Rangers_FC.png",
+      "awayTeam": "West Ham United FC",
+      "awayCrest": "logos/West_Ham_United_FC.png",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562159,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Stoke City FC",
+      "homeCrest": "logos/Stoke_City_FC.png",
+      "awayTeam": "Bolton Wanderers FC",
+      "awayCrest": "logos/Bolton_Wanderers_FC.png",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562160,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Norwich City FC",
+      "homeCrest": "logos/Norwich_City_FC.png",
+      "awayTeam": "Swansea City AFC",
+      "awayCrest": "logos/Swansea_City_AFC.png",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562161,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Wrexham AFC",
+      "homeCrest": "logos/Wrexham_AFC.png",
+      "awayTeam": "Derby County FC",
+      "awayCrest": "logos/Derby_County_FC.png",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562162,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Wolverhampton Wanderers FC",
+      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
+      "awayTeam": "Middlesbrough FC",
+      "awayCrest": "logos/Middlesbrough_FC.png",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562163,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Bristol City FC",
+      "homeCrest": "logos/Bristol_City_FC.png",
+      "awayTeam": "Charlton Athletic FC",
+      "awayCrest": "logos/Charlton_Athletic_FC.png",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
     },
     {
       "id": 562165,
@@ -18358,7 +18346,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
+      "utcDate": "2027-02-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18370,7 +18358,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
+      "utcDate": "2027-02-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18382,7 +18370,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
+      "utcDate": "2027-02-27T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18394,7 +18382,19 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-02-27T00:00:00Z",
+      "utcDate": "2027-02-27T12:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 562158,
+      "compCode": "ELC",
+      "compName": "Championship",
+      "matchday": 34,
+      "homeTeam": "Portsmouth FC",
+      "homeCrest": "logos/Portsmouth_FC.png",
+      "awayTeam": "Southampton FC",
+      "awayCrest": "logos/Southampton_FC.png",
+      "utcDate": "2027-02-28T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18406,7 +18406,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18418,7 +18418,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18430,7 +18430,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18442,7 +18442,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18454,7 +18454,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18466,7 +18466,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18478,7 +18478,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18490,7 +18490,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-03-02T00:00:00Z",
+      "utcDate": "2027-03-02T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18502,7 +18502,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
+      "utcDate": "2027-03-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18514,7 +18514,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
+      "utcDate": "2027-03-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18526,7 +18526,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
+      "utcDate": "2027-03-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18538,7 +18538,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-03-03T00:00:00Z",
+      "utcDate": "2027-03-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18550,7 +18550,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18562,7 +18562,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18574,7 +18574,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18586,7 +18586,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18598,7 +18598,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18610,7 +18610,7 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18622,7 +18622,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18634,7 +18634,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18646,7 +18646,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18658,7 +18658,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18670,7 +18670,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18682,7 +18682,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-03-06T00:00:00Z",
+      "utcDate": "2027-03-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18694,7 +18694,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18706,7 +18706,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18718,7 +18718,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18730,7 +18730,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18742,7 +18742,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18754,7 +18754,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18766,7 +18766,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18778,7 +18778,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18790,7 +18790,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18802,7 +18802,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18814,7 +18814,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18826,7 +18826,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-03-13T00:00:00Z",
+      "utcDate": "2027-03-13T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18838,7 +18838,7 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18850,7 +18850,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18862,7 +18862,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18874,7 +18874,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18886,7 +18886,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18898,7 +18898,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18910,7 +18910,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18922,7 +18922,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-03-16T00:00:00Z",
+      "utcDate": "2027-03-16T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18934,7 +18934,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-03-17T00:00:00Z",
+      "utcDate": "2027-03-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18946,7 +18946,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-03-17T00:00:00Z",
+      "utcDate": "2027-03-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18958,7 +18958,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-03-17T00:00:00Z",
+      "utcDate": "2027-03-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18970,7 +18970,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-03-17T00:00:00Z",
+      "utcDate": "2027-03-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18982,7 +18982,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18994,7 +18994,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19006,7 +19006,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19018,7 +19018,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19030,7 +19030,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19042,7 +19042,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19054,7 +19054,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19066,7 +19066,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19078,7 +19078,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19090,7 +19090,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19102,7 +19102,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19114,7 +19114,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-03-20T00:00:00Z",
+      "utcDate": "2027-03-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19126,7 +19126,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19138,7 +19138,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19150,7 +19150,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19162,7 +19162,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19174,7 +19174,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19186,7 +19186,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19198,7 +19198,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19210,7 +19210,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19222,7 +19222,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19234,7 +19234,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19246,7 +19246,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19258,7 +19258,7 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-04-03T00:00:00Z",
+      "utcDate": "2027-04-03T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19270,7 +19270,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19282,7 +19282,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19294,7 +19294,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19306,7 +19306,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19318,7 +19318,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19330,7 +19330,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19342,7 +19342,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19354,7 +19354,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-04-06T00:00:00Z",
+      "utcDate": "2027-04-06T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19366,7 +19366,7 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-04-07T00:00:00Z",
+      "utcDate": "2027-04-07T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19378,7 +19378,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-04-07T00:00:00Z",
+      "utcDate": "2027-04-07T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19390,7 +19390,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-04-07T00:00:00Z",
+      "utcDate": "2027-04-07T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19402,7 +19402,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-04-07T00:00:00Z",
+      "utcDate": "2027-04-07T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19414,7 +19414,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19426,7 +19426,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19438,7 +19438,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19450,7 +19450,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19462,7 +19462,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19474,7 +19474,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19486,7 +19486,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19498,7 +19498,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19510,7 +19510,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19522,7 +19522,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19534,7 +19534,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19546,7 +19546,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-04-10T00:00:00Z",
+      "utcDate": "2027-04-10T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19558,7 +19558,7 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19570,7 +19570,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19582,7 +19582,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19594,7 +19594,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19606,7 +19606,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19618,7 +19618,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19630,7 +19630,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19642,7 +19642,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19654,7 +19654,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19666,7 +19666,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19678,7 +19678,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19690,7 +19690,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-04-17T00:00:00Z",
+      "utcDate": "2027-04-17T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19702,7 +19702,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19714,7 +19714,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19726,7 +19726,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19738,7 +19738,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19750,7 +19750,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19762,7 +19762,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19774,7 +19774,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19786,7 +19786,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-04-20T00:00:00Z",
+      "utcDate": "2027-04-20T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19798,7 +19798,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-04-21T00:00:00Z",
+      "utcDate": "2027-04-21T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19810,7 +19810,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-04-21T00:00:00Z",
+      "utcDate": "2027-04-21T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19822,7 +19822,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-04-21T00:00:00Z",
+      "utcDate": "2027-04-21T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19834,7 +19834,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-04-21T00:00:00Z",
+      "utcDate": "2027-04-21T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19846,7 +19846,7 @@
       "homeCrest": "logos/Watford_FC.png",
       "awayTeam": "Birmingham City FC",
       "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19858,7 +19858,7 @@
       "homeCrest": "logos/Middlesbrough_FC.png",
       "awayTeam": "West Ham United FC",
       "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19870,7 +19870,7 @@
       "homeCrest": "logos/Stoke_City_FC.png",
       "awayTeam": "Lincoln City FC",
       "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19882,7 +19882,7 @@
       "homeCrest": "logos/Burnley_FC.png",
       "awayTeam": "Southampton FC",
       "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19894,7 +19894,7 @@
       "homeCrest": "logos/Bolton_Wanderers_FC.png",
       "awayTeam": "Swansea City AFC",
       "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19906,7 +19906,7 @@
       "homeCrest": "logos/Sheffield_United_FC.png",
       "awayTeam": "Millwall FC",
       "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19918,7 +19918,7 @@
       "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
       "awayTeam": "Queens Park Rangers FC",
       "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19930,7 +19930,7 @@
       "homeCrest": "logos/Bristol_City_FC.png",
       "awayTeam": "Derby County FC",
       "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19942,7 +19942,7 @@
       "homeCrest": "logos/Charlton_Athletic_FC.png",
       "awayTeam": "Wrexham AFC",
       "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19954,7 +19954,7 @@
       "homeCrest": "logos/Norwich_City_FC.png",
       "awayTeam": "Blackburn Rovers FC",
       "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19966,7 +19966,7 @@
       "homeCrest": "logos/Cardiff_City_FC.png",
       "awayTeam": "West Bromwich Albion FC",
       "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19978,7 +19978,7 @@
       "homeCrest": "logos/Portsmouth_FC.png",
       "awayTeam": "Preston North End FC",
       "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2027-04-24T00:00:00Z",
+      "utcDate": "2027-04-24T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19990,7 +19990,7 @@
       "homeCrest": "logos/Queens_Park_Rangers_FC.png",
       "awayTeam": "Norwich City FC",
       "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20002,7 +20002,7 @@
       "homeCrest": "logos/West_Ham_United_FC.png",
       "awayTeam": "Portsmouth FC",
       "awayCrest": "logos/Portsmouth_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20014,7 +20014,7 @@
       "homeCrest": "logos/West_Bromwich_Albion_FC.png",
       "awayTeam": "Bolton Wanderers FC",
       "awayCrest": "logos/Bolton_Wanderers_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20026,7 +20026,7 @@
       "homeCrest": "logos/Southampton_FC.png",
       "awayTeam": "Sheffield United FC",
       "awayCrest": "logos/Sheffield_United_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20038,7 +20038,7 @@
       "homeCrest": "logos/Birmingham_City_FC.png",
       "awayTeam": "Burnley FC",
       "awayCrest": "logos/Burnley_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20050,7 +20050,7 @@
       "homeCrest": "logos/Millwall_FC.png",
       "awayTeam": "Stoke City FC",
       "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20062,7 +20062,7 @@
       "homeCrest": "logos/Wrexham_AFC.png",
       "awayTeam": "Bristol City FC",
       "awayCrest": "logos/Bristol_City_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20074,7 +20074,7 @@
       "homeCrest": "logos/Blackburn_Rovers_FC.png",
       "awayTeam": "Watford FC",
       "awayCrest": "logos/Watford_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20086,7 +20086,7 @@
       "homeCrest": "logos/Lincoln_City_FC.png",
       "awayTeam": "Charlton Athletic FC",
       "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20098,7 +20098,7 @@
       "homeCrest": "logos/Preston_North_End_FC.png",
       "awayTeam": "Cardiff City FC",
       "awayCrest": "logos/Cardiff_City_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20110,7 +20110,7 @@
       "homeCrest": "logos/Derby_County_FC.png",
       "awayTeam": "Wolverhampton Wanderers FC",
       "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -20122,7 +20122,7 @@
       "homeCrest": "logos/Swansea_City_AFC.png",
       "awayTeam": "Middlesbrough FC",
       "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2027-05-01T00:00:00Z",
+      "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
     },
     {
