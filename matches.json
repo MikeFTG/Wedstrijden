@@ -1,18 +1,6 @@
 {
-  "updated": "2026-11-07T07:38:36.615509+00:00",
+  "updated": "2026-11-07T14:33:20.841027+00:00",
   "matches": [
-    {
-      "id": 560632,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 10,
-      "homeTeam": "Leeds United FC",
-      "homeCrest": "logos/Leeds_United_FC.png",
-      "awayTeam": "Tottenham Hotspur FC",
-      "awayCrest": "logos/Tottenham_Hotspur_FC.png",
-      "utcDate": "2026-11-07T12:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560640,
       "compCode": "PL",
@@ -3470,54 +3458,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565848,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 9,
-      "homeTeam": "RB Leipzig",
-      "homeCrest": "logos/RB_Leipzig.png",
-      "awayTeam": "FC Augsburg",
-      "awayCrest": "logos/FC_Augsburg.png",
-      "utcDate": "2026-11-07T14:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565850,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 9,
-      "homeTeam": "Borussia Dortmund",
-      "homeCrest": "logos/Borussia_Dortmund.png",
-      "awayTeam": "SV 07 Elversberg",
-      "awayCrest": "logos/SV_07_Elversberg.png",
-      "utcDate": "2026-11-07T14:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565851,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 9,
-      "homeTeam": "1. FSV Mainz 05",
-      "homeCrest": "logos/1__FSV_Mainz_05.png",
-      "awayTeam": "FC Bayern M\u00fcnchen",
-      "awayCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "utcDate": "2026-11-07T14:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565853,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 9,
-      "homeTeam": "SC Paderborn 07",
-      "homeCrest": "logos/SC_Paderborn_07.png",
-      "awayTeam": "Eintracht Frankfurt",
-      "awayCrest": "logos/Eintracht_Frankfurt.png",
-      "utcDate": "2026-11-07T14:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565849,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -6263,30 +6203,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558532,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 11,
-      "homeTeam": "Torino FC",
-      "homeCrest": "logos/Torino_FC.png",
-      "awayTeam": "US Lecce",
-      "awayCrest": "logos/US_Lecce.png",
-      "utcDate": "2026-11-07T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558534,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 11,
-      "homeTeam": "Cagliari Calcio",
-      "homeCrest": "logos/Cagliari_Calcio.png",
-      "awayTeam": "Frosinone Calcio",
-      "awayCrest": "logos/Frosinone_Calcio.png",
-      "utcDate": "2026-11-07T14:00:00Z",
       "status": "TIMED"
     },
     {
@@ -9612,18 +9528,6 @@
       "awayCrest": "logos/Parma_Calcio_1913.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 564744,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 12,
-      "homeTeam": "M\u00e1laga CF",
-      "homeCrest": "logos/M\u00e1laga_CF.png",
-      "awayTeam": "Real Racing Club de Santander",
-      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-11-07T13:00:00Z",
-      "status": "TIMED"
     },
     {
       "id": 564745,
@@ -15527,42 +15431,6 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561933,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 15,
-      "homeTeam": "Wrexham AFC",
-      "homeCrest": "logos/Wrexham_AFC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-11-07T12:30:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561938,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 15,
-      "homeTeam": "Portsmouth FC",
-      "homeCrest": "logos/Portsmouth_FC.png",
-      "awayTeam": "Stoke City FC",
-      "awayCrest": "logos/Stoke_City_FC.png",
-      "utcDate": "2026-11-07T12:30:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561939,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 15,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2026-11-07T12:30:00Z",
       "status": "SCHEDULED"
     },
     {
