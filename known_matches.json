@@ -6644,16 +6644,16 @@
     "datum": "2027-02-07T00:00:00Z"
   },
   "564855": {
-    "status": "SCHEDULED",
-    "datum": "2027-02-07T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-02T18:00:00Z"
   },
   "564856": {
     "status": "SCHEDULED",
     "datum": "2027-02-07T00:00:00Z"
   },
   "564857": {
-    "status": "SCHEDULED",
-    "datum": "2027-02-07T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-02T20:30:00Z"
   },
   "564858": {
     "status": "SCHEDULED",
@@ -10873,7 +10873,7 @@
   },
   "567352": {
     "status": "TIMED",
-    "datum": "2026-11-07T15:30:00Z"
+    "datum": "2026-11-08T15:30:00Z"
   },
   "567353": {
     "status": "TIMED",

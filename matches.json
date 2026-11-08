@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T22:52:03.671676+00:00",
+  "updated": "2026-11-08T01:57:56.311521+00:00",
   "matches": [
     {
       "id": 560635,
@@ -9758,6 +9758,30 @@
       "status": "TIMED"
     },
     {
+      "id": 564855,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 23,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
+      "awayTeam": "Real Madrid CF",
+      "awayCrest": "logos/Real_Madrid_CF.png",
+      "utcDate": "2026-12-02T18:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564857,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 23,
+      "homeTeam": "FC Barcelona",
+      "homeCrest": "logos/FC_Barcelona.png",
+      "awayTeam": "Club Atl\u00e9tico de Madrid",
+      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
+      "utcDate": "2026-12-02T20:30:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 564768,
       "compCode": "PD",
       "compName": "La Liga",
@@ -10802,18 +10826,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564855,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 23,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Real Madrid CF",
-      "awayCrest": "logos/Real_Madrid_CF.png",
-      "utcDate": "2027-02-07T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 564856,
       "compCode": "PD",
       "compName": "La Liga",
@@ -10822,18 +10834,6 @@
       "homeCrest": "logos/Valencia_CF.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2027-02-07T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564857,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 23,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "utcDate": "2027-02-07T00:00:00Z",
       "status": "SCHEDULED"
     },
@@ -19766,18 +19766,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567348,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 11,
-      "homeTeam": "GD Estoril Praia",
-      "homeCrest": "logos/GD_Estoril_Praia.png",
-      "awayTeam": "CS Mar\u00edtimo",
-      "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2026-11-08T15:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 567351,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -19786,6 +19774,18 @@
       "homeCrest": "logos/CD_Santa_Clara.png",
       "awayTeam": "Gil Vicente FC",
       "awayCrest": "logos/Gil_Vicente_FC.png",
+      "utcDate": "2026-11-08T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567352,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 11,
+      "homeTeam": "CD Nacional",
+      "homeCrest": "logos/CD_Nacional.png",
+      "awayTeam": "Acad\u00e9mico de Viseu FC",
+      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
       "utcDate": "2026-11-08T15:30:00Z",
       "status": "TIMED"
     },
