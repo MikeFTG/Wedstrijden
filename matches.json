@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:03:28.301097+00:00",
+  "updated": "2026-11-08T23:50:58.399634+00:00",
   "matches": [
     {
       "id": 560643,
@@ -19476,30 +19476,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567354,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 11,
-      "homeTeam": "Rio Ave FC",
-      "homeCrest": "logos/Rio_Ave_FC.png",
-      "awayTeam": "Sporting Clube de Braga",
-      "awayCrest": "logos/Sporting_Clube_de_Braga.png",
-      "utcDate": "2026-11-08T20:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 567355,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 11,
-      "homeTeam": "CF Estrela da Amadora",
-      "homeCrest": "logos/CF_Estrela_da_Amadora.png",
-      "awayTeam": "Sport Lisboa e Benfica",
-      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-11-08T20:30:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567361,
