@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T07:24:47.778863+00:00",
+  "updated": "2026-11-11T15:29:05.439193+00:00",
   "matches": [
     {
       "id": 560643,
@@ -20016,6 +20016,18 @@
       "awayCrest": "logos/FC_Alverca.png",
       "utcDate": "2026-12-27T00:00:00Z",
       "status": "SCHEDULED"
+    },
+    {
+      "id": 567348,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 11,
+      "homeTeam": "GD Estoril Praia",
+      "homeCrest": "logos/GD_Estoril_Praia.png",
+      "awayTeam": "CS Mar\u00edtimo",
+      "awayCrest": "logos/CS_Mar\u00edtimo.png",
+      "utcDate": "2027-01-04T20:15:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567401,
