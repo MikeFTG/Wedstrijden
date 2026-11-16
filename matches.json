@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T23:20:29.776955+00:00",
+  "updated": "2026-11-16T02:55:02.124557+00:00",
   "matches": [
     {
       "id": 560643,
@@ -9650,18 +9650,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564774,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 15,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "Valencia CF",
-      "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-12-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 564768,
       "compCode": "PD",
       "compName": "La Liga",
@@ -9683,6 +9671,18 @@
       "awayTeam": "Real Madrid CF",
       "awayCrest": "logos/Real_Madrid_CF.png",
       "utcDate": "2026-12-06T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564774,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 15,
+      "homeTeam": "Getafe CF",
+      "homeCrest": "logos/Getafe_CF.png",
+      "awayTeam": "Valencia CF",
+      "awayCrest": "logos/Valencia_CF.png",
+      "utcDate": "2026-12-06T17:30:00Z",
       "status": "TIMED"
     },
     {
