@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:27:20.865052+00:00",
+  "updated": "2026-11-16T20:37:20.780194+00:00",
   "matches": [
     {
       "id": 560643,
@@ -9626,30 +9626,6 @@
       "status": "TIMED"
     },
     {
-      "id": 564769,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 15,
-      "homeTeam": "Sevilla FC",
-      "homeCrest": "logos/Sevilla_FC.png",
-      "awayTeam": "M\u00e1laga CF",
-      "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-12-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564771,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 15,
-      "homeTeam": "Club Atl\u00e9tico de Madrid",
-      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "awayTeam": "Real Betis Balompi\u00e9",
-      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
-      "utcDate": "2026-12-06T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 564768,
       "compCode": "PD",
       "compName": "La Liga",
@@ -9683,6 +9659,30 @@
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2026-12-06T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564771,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 15,
+      "homeTeam": "Club Atl\u00e9tico de Madrid",
+      "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
+      "awayTeam": "Real Betis Balompi\u00e9",
+      "awayCrest": "logos/Real_Betis_Balompi\u00e9.png",
+      "utcDate": "2026-12-06T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564769,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 15,
+      "homeTeam": "Sevilla FC",
+      "homeCrest": "logos/Sevilla_FC.png",
+      "awayTeam": "M\u00e1laga CF",
+      "awayCrest": "logos/M\u00e1laga_CF.png",
+      "utcDate": "2026-12-07T20:00:00Z",
       "status": "TIMED"
     },
     {
