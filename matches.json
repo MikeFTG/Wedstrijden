@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:39:09.315276+00:00",
+  "updated": "2026-11-20T22:53:37.595054+00:00",
   "matches": [
     {
       "id": 560643,
@@ -3359,18 +3359,6 @@
       "awayTeam": "Leeds United FC",
       "awayCrest": "logos/Leeds_United_FC.png",
       "utcDate": "2027-05-30T15:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565859,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 10,
-      "homeTeam": "FC Bayern M\u00fcnchen",
-      "homeCrest": "logos/FC_Bayern_M\u00fcnchen.png",
-      "awayTeam": "1. FC K\u00f6ln",
-      "awayCrest": "logos/1__FC_K\u00f6ln.png",
-      "utcDate": "2026-11-20T19:30:00Z",
       "status": "TIMED"
     },
     {
@@ -9302,18 +9290,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564748,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 13,
-      "homeTeam": "Athletic Club",
-      "homeCrest": "logos/Athletic_Club.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "utcDate": "2026-11-20T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564755,
       "compCode": "PD",
       "compName": "La Liga",
@@ -12420,18 +12396,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559622,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 11,
-      "homeTeam": "ES Troyes AC",
-      "homeCrest": "logos/ES_Troyes_AC.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2026-11-20T19:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559628,
