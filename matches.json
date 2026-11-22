@@ -1,30 +1,6 @@
 {
-  "updated": "2026-11-22T12:45:25.055716+00:00",
+  "updated": "2026-11-22T20:04:07.988235+00:00",
   "matches": [
-    {
-      "id": 560646,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 11,
-      "homeTeam": "Hull City AFC",
-      "homeCrest": "logos/Hull_City_AFC.png",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "awayCrest": "logos/Brighton___Hove_Albion_FC.png",
-      "utcDate": "2026-11-22T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 560645,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 11,
-      "homeTeam": "Liverpool FC",
-      "homeCrest": "logos/Liverpool_FC.png",
-      "awayTeam": "Manchester United FC",
-      "awayCrest": "logos/Manchester_United_FC.png",
-      "utcDate": "2026-11-22T16:30:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560649,
       "compCode": "PL",
@@ -3278,30 +3254,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565864,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 10,
-      "homeTeam": "FC Augsburg",
-      "homeCrest": "logos/FC_Augsburg.png",
-      "awayTeam": "1. FSV Mainz 05",
-      "awayCrest": "logos/1__FSV_Mainz_05.png",
-      "utcDate": "2026-11-22T14:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 565863,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 10,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "Hamburger SV",
-      "awayCrest": "logos/Hamburger_SV.png",
-      "utcDate": "2026-11-22T16:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565869,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -5891,54 +5843,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558522,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 12,
-      "homeTeam": "Bologna FC 1909",
-      "homeCrest": "logos/Bologna_FC_1909.png",
-      "awayTeam": "Udinese Calcio",
-      "awayCrest": "logos/Udinese_Calcio.png",
-      "utcDate": "2026-11-22T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558524,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 12,
-      "homeTeam": "US Sassuolo Calcio",
-      "homeCrest": "logos/US_Sassuolo_Calcio.png",
-      "awayTeam": "Genoa CFC",
-      "awayCrest": "logos/Genoa_CFC.png",
-      "utcDate": "2026-11-22T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558523,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 12,
-      "homeTeam": "AC Milan",
-      "homeCrest": "logos/AC_Milan.png",
-      "awayTeam": "Frosinone Calcio",
-      "awayCrest": "logos/Frosinone_Calcio.png",
-      "utcDate": "2026-11-22T17:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558520,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 12,
-      "homeTeam": "Atalanta BC",
-      "homeCrest": "logos/Atalanta_BC.png",
-      "awayTeam": "FC Internazionale Milano",
-      "awayCrest": "logos/FC_Internazionale_Milano.png",
-      "utcDate": "2026-11-22T19:45:00Z",
       "status": "TIMED"
     },
     {
@@ -9074,54 +8978,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564749,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 13,
-      "homeTeam": "FC Barcelona",
-      "homeCrest": "logos/FC_Barcelona.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "logos/Villarreal_CF.png",
-      "utcDate": "2026-11-22T13:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564750,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 13,
-      "homeTeam": "Real Racing Club de Santander",
-      "homeCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "awayTeam": "Real Sociedad de F\u00fatbol",
-      "awayCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "utcDate": "2026-11-22T15:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564752,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 13,
-      "homeTeam": "CA Osasuna",
-      "homeCrest": "logos/CA_Osasuna.png",
-      "awayTeam": "M\u00e1laga CF",
-      "awayCrest": "logos/M\u00e1laga_CF.png",
-      "utcDate": "2026-11-22T17:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 564753,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 13,
-      "homeTeam": "Getafe CF",
-      "homeCrest": "logos/Getafe_CF.png",
-      "awayTeam": "Club Atl\u00e9tico de Madrid",
-      "awayCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
-      "utcDate": "2026-11-22T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564757,
       "compCode": "PD",
       "compName": "La Liga",
@@ -12132,42 +11988,6 @@
       "awayCrest": "logos/Valencia_CF.png",
       "utcDate": "2027-05-30T00:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 559625,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 11,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "logos/Angers_SCO.png",
-      "utcDate": "2026-11-22T14:00:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559626,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 11,
-      "homeTeam": "FC Lorient",
-      "homeCrest": "logos/FC_Lorient.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "logos/Stade_Rennais_FC_1901.png",
-      "utcDate": "2026-11-22T16:15:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 559629,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 11,
-      "homeTeam": "Olympique de Marseille",
-      "homeCrest": "logos/Olympique_de_Marseille.png",
-      "awayTeam": "Le Mans FC",
-      "awayCrest": "logos/Le_Mans_FC.png",
-      "utcDate": "2026-11-22T19:45:00Z",
-      "status": "TIMED"
     },
     {
       "id": 559616,
