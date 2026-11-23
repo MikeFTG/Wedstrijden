@@ -1,18 +1,6 @@
 {
-  "updated": "2026-11-23T08:45:46.447900+00:00",
+  "updated": "2026-11-23T20:45:23.790975+00:00",
   "matches": [
-    {
-      "id": 560649,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 11,
-      "homeTeam": "Brentford FC",
-      "homeCrest": "logos/Brentford_FC.png",
-      "awayTeam": "Everton FC",
-      "awayCrest": "logos/Everton_FC.png",
-      "utcDate": "2026-11-23T20:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560658,
       "compCode": "PL",
@@ -5846,18 +5834,6 @@
       "status": "TIMED"
     },
     {
-      "id": 558519,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 12,
-      "homeTeam": "AC Monza",
-      "homeCrest": "logos/AC_Monza.png",
-      "awayTeam": "ACF Fiorentina",
-      "awayCrest": "logos/ACF_Fiorentina.png",
-      "utcDate": "2026-11-23T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 558515,
       "compCode": "SA",
       "compName": "Serie A",
@@ -8978,18 +8954,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564757,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 13,
-      "homeTeam": "Levante UD",
-      "homeCrest": "logos/Levante_UD.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "logos/Elche_CF.png",
-      "utcDate": "2026-11-23T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564765,
       "compCode": "PD",
       "compName": "La Liga",
@@ -9254,52 +9218,16 @@
       "status": "TIMED"
     },
     {
-      "id": 564778,
+      "id": 564783,
       "compCode": "PD",
       "compName": "La Liga",
       "matchday": 16,
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
-      "awayTeam": "RC Celta de Vigo",
-      "awayCrest": "logos/RC_Celta_de_Vigo.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564779,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 16,
-      "homeTeam": "M\u00e1laga CF",
-      "homeCrest": "logos/M\u00e1laga_CF.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "logos/FC_Barcelona.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564780,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 16,
-      "homeTeam": "Real Madrid CF",
-      "homeCrest": "logos/Real_Madrid_CF.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "logos/CA_Osasuna.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564781,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 16,
-      "homeTeam": "RC Deportivo La Coru\u00f1a",
-      "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "logos/Athletic_Club.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "Elche CF",
+      "homeCrest": "logos/Elche_CF.png",
+      "awayTeam": "Sevilla FC",
+      "awayCrest": "logos/Sevilla_FC.png",
+      "utcDate": "2026-12-11T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564782,
@@ -9310,20 +9238,8 @@
       "homeCrest": "logos/Levante_UD.png",
       "awayTeam": "Deportivo Alav\u00e9s",
       "awayCrest": "logos/Deportivo_Alav\u00e9s.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564783,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 16,
-      "homeTeam": "Elche CF",
-      "homeCrest": "logos/Elche_CF.png",
-      "awayTeam": "Sevilla FC",
-      "awayCrest": "logos/Sevilla_FC.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T13:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564784,
@@ -9334,8 +9250,20 @@
       "homeCrest": "logos/Villarreal_CF.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "logos/Rayo_Vallecano_de_Madrid.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564779,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 16,
+      "homeTeam": "M\u00e1laga CF",
+      "homeCrest": "logos/M\u00e1laga_CF.png",
+      "awayTeam": "FC Barcelona",
+      "awayCrest": "logos/FC_Barcelona.png",
+      "utcDate": "2026-12-12T17:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564785,
@@ -9346,20 +9274,8 @@
       "homeCrest": "logos/Real_Betis_Balompi\u00e9.png",
       "awayTeam": "Real Racing Club de Santander",
       "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 564786,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 16,
-      "homeTeam": "Real Sociedad de F\u00fatbol",
-      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "logos/Getafe_CF.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-12T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564787,
@@ -9370,8 +9286,56 @@
       "homeCrest": "logos/Club_Atl\u00e9tico_de_Madrid.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "logos/Valencia_CF.png",
-      "utcDate": "2026-12-13T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-13T13:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564781,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 16,
+      "homeTeam": "RC Deportivo La Coru\u00f1a",
+      "homeCrest": "logos/RC_Deportivo_La_Coru\u00f1a.png",
+      "awayTeam": "Athletic Club",
+      "awayCrest": "logos/Athletic_Club.png",
+      "utcDate": "2026-12-13T15:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564786,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 16,
+      "homeTeam": "Real Sociedad de F\u00fatbol",
+      "homeCrest": "logos/Real_Sociedad_de_F\u00fatbol.png",
+      "awayTeam": "Getafe CF",
+      "awayCrest": "logos/Getafe_CF.png",
+      "utcDate": "2026-12-13T17:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564780,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 16,
+      "homeTeam": "Real Madrid CF",
+      "homeCrest": "logos/Real_Madrid_CF.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "logos/CA_Osasuna.png",
+      "utcDate": "2026-12-13T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564778,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 16,
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "logos/RCD_Espanyol_de_Barcelona.png",
+      "awayTeam": "RC Celta de Vigo",
+      "awayCrest": "logos/RC_Celta_de_Vigo.png",
+      "utcDate": "2026-12-14T20:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 564788,
