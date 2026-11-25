@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:03:39.026996+00:00",
+  "updated": "2026-11-25T00:57:05.487683+00:00",
   "matches": [
     {
       "id": 560658,
@@ -12326,18 +12326,6 @@
       "status": "TIMED"
     },
     {
-      "id": 559591,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 15,
-      "homeTeam": "Paris FC",
-      "homeCrest": "logos/Paris_FC.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "logos/Le_Havre_AC.png",
-      "utcDate": "2027-01-02T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559592,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -12359,6 +12347,18 @@
       "awayTeam": "Olympique Lyonnais",
       "awayCrest": "logos/Olympique_Lyonnais.png",
       "utcDate": "2027-01-03T14:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 559591,
+      "compCode": "FL1",
+      "compName": "Ligue 1",
+      "matchday": 15,
+      "homeTeam": "Paris FC",
+      "homeCrest": "logos/Paris_FC.png",
+      "awayTeam": "Le Havre AC",
+      "awayCrest": "logos/Le_Havre_AC.png",
+      "utcDate": "2027-01-03T16:15:00Z",
       "status": "TIMED"
     },
     {
@@ -14435,102 +14435,6 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561953,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Cardiff City FC",
-      "homeCrest": "logos/Cardiff_City_FC.png",
-      "awayTeam": "Preston North End FC",
-      "awayCrest": "logos/Preston_North_End_FC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561954,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Middlesbrough FC",
-      "homeCrest": "logos/Middlesbrough_FC.png",
-      "awayTeam": "Swansea City AFC",
-      "awayCrest": "logos/Swansea_City_AFC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561955,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Portsmouth FC",
-      "homeCrest": "logos/Portsmouth_FC.png",
-      "awayTeam": "West Ham United FC",
-      "awayCrest": "logos/West_Ham_United_FC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561956,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Sheffield United FC",
-      "homeCrest": "logos/Sheffield_United_FC.png",
-      "awayTeam": "Southampton FC",
-      "awayCrest": "logos/Southampton_FC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561958,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Charlton Athletic FC",
-      "homeCrest": "logos/Charlton_Athletic_FC.png",
-      "awayTeam": "Lincoln City FC",
-      "awayCrest": "logos/Lincoln_City_FC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561959,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Bristol City FC",
-      "homeCrest": "logos/Bristol_City_FC.png",
-      "awayTeam": "Wrexham AFC",
-      "awayCrest": "logos/Wrexham_AFC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561960,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Norwich City FC",
-      "homeCrest": "logos/Norwich_City_FC.png",
-      "awayTeam": "Queens Park Rangers FC",
-      "awayCrest": "logos/Queens_Park_Rangers_FC.png",
-      "utcDate": "2026-11-24T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561957,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Wolverhampton Wanderers FC",
-      "homeCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "awayTeam": "Derby County FC",
-      "awayCrest": "logos/Derby_County_FC.png",
-      "utcDate": "2026-11-24T20:00:00Z",
       "status": "SCHEDULED"
     },
     {
