@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T09:30:58.745639+00:00",
+  "updated": "2026-11-25T19:41:02.300381+00:00",
   "matches": [
     {
       "id": 560658,
@@ -9215,6 +9215,18 @@
       "awayTeam": "M\u00e1laga CF",
       "awayCrest": "logos/M\u00e1laga_CF.png",
       "utcDate": "2026-12-07T20:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 564698,
+      "compCode": "PD",
+      "compName": "La Liga",
+      "matchday": 8,
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "homeCrest": "logos/Rayo_Vallecano_de_Madrid.png",
+      "awayTeam": "Athletic Club",
+      "awayCrest": "logos/Athletic_Club.png",
+      "utcDate": "2026-12-09T19:00:00Z",
       "status": "TIMED"
     },
     {
