@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:41:02.300381+00:00",
+  "updated": "2026-11-26T02:34:32.425647+00:00",
   "matches": [
     {
       "id": 560658,
@@ -14447,54 +14447,6 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561961,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Watford FC",
-      "homeCrest": "logos/Watford_FC.png",
-      "awayTeam": "Blackburn Rovers FC",
-      "awayCrest": "logos/Blackburn_Rovers_FC.png",
-      "utcDate": "2026-11-25T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561963,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Bolton Wanderers FC",
-      "homeCrest": "logos/Bolton_Wanderers_FC.png",
-      "awayTeam": "West Bromwich Albion FC",
-      "awayCrest": "logos/West_Bromwich_Albion_FC.png",
-      "utcDate": "2026-11-25T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561964,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Burnley FC",
-      "homeCrest": "logos/Burnley_FC.png",
-      "awayTeam": "Birmingham City FC",
-      "awayCrest": "logos/Birmingham_City_FC.png",
-      "utcDate": "2026-11-25T19:45:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561962,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 17,
-      "homeTeam": "Stoke City FC",
-      "homeCrest": "logos/Stoke_City_FC.png",
-      "awayTeam": "Millwall FC",
-      "awayCrest": "logos/Millwall_FC.png",
-      "utcDate": "2026-11-25T20:00:00Z",
       "status": "SCHEDULED"
     },
     {
