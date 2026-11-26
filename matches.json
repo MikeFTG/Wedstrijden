@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:45:02.171932+00:00",
+  "updated": "2026-11-26T20:46:15.628210+00:00",
   "matches": [
     {
       "id": 560658,
@@ -18950,6 +18950,30 @@
       "status": "TIMED"
     },
     {
+      "id": 567388,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 15,
+      "homeTeam": "FC Alverca",
+      "homeCrest": "logos/FC_Alverca.png",
+      "awayTeam": "Gil Vicente FC",
+      "awayCrest": "logos/Gil_Vicente_FC.png",
+      "utcDate": "2026-12-19T18:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567391,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 15,
+      "homeTeam": "FC Arouca",
+      "homeCrest": "logos/FC_Arouca.png",
+      "awayTeam": "Casa Pia AC",
+      "awayCrest": "logos/Casa_Pia_AC.png",
+      "utcDate": "2026-12-19T20:30:00Z",
+      "status": "TIMED"
+    },
+    {
       "id": 567383,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -18986,18 +19010,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567386,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "CF Estrela da Amadora",
-      "homeCrest": "logos/CF_Estrela_da_Amadora.png",
-      "awayTeam": "CS Mar\u00edtimo",
-      "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 567387,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -19010,16 +19022,28 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567388,
+      "id": 567390,
       "compCode": "PPL",
       "compName": "Primeira Liga",
       "matchday": 15,
-      "homeTeam": "FC Alverca",
-      "homeCrest": "logos/FC_Alverca.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "homeTeam": "CD Nacional",
+      "homeCrest": "logos/CD_Nacional.png",
+      "awayTeam": "Moreirense FC",
+      "awayCrest": "logos/Moreirense_FC.png",
+      "utcDate": "2026-12-20T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567386,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 15,
+      "homeTeam": "CF Estrela da Amadora",
+      "homeCrest": "logos/CF_Estrela_da_Amadora.png",
+      "awayTeam": "CS Mar\u00edtimo",
+      "awayCrest": "logos/CS_Mar\u00edtimo.png",
+      "utcDate": "2026-12-20T18:00:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567389,
@@ -19030,32 +19054,8 @@
       "homeCrest": "logos/CD_Santa_Clara.png",
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567390,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "CD Nacional",
-      "homeCrest": "logos/CD_Nacional.png",
-      "awayTeam": "Moreirense FC",
-      "awayCrest": "logos/Moreirense_FC.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567391,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "FC Arouca",
-      "homeCrest": "logos/FC_Arouca.png",
-      "awayTeam": "Casa Pia AC",
-      "awayCrest": "logos/Casa_Pia_AC.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-20T20:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567392,
