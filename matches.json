@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:46:15.628210+00:00",
+  "updated": "2026-11-27T03:24:10.924098+00:00",
   "matches": [
     {
       "id": 560658,
@@ -18974,18 +18974,6 @@
       "status": "TIMED"
     },
     {
-      "id": 567383,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "Rio Ave FC",
-      "homeCrest": "logos/Rio_Ave_FC.png",
-      "awayTeam": "Sport Lisboa e Benfica",
-      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 567384,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -19006,18 +18994,6 @@
       "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
       "awayTeam": "GD Estoril Praia",
       "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567387,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "FC Porto",
-      "awayCrest": "logos/FC_Porto.png",
       "utcDate": "2026-12-20T00:00:00Z",
       "status": "SCHEDULED"
     },
@@ -19055,6 +19031,30 @@
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
       "utcDate": "2026-12-20T20:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567383,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 15,
+      "homeTeam": "Rio Ave FC",
+      "homeCrest": "logos/Rio_Ave_FC.png",
+      "awayTeam": "Sport Lisboa e Benfica",
+      "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
+      "utcDate": "2026-12-21T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567387,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 15,
+      "homeTeam": "FC Famalic\u00e3o",
+      "homeCrest": "logos/FC_Famalic\u00e3o.png",
+      "awayTeam": "FC Porto",
+      "awayCrest": "logos/FC_Porto.png",
+      "utcDate": "2026-12-21T20:45:00Z",
       "status": "TIMED"
     },
     {

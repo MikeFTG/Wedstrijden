@@ -10996,8 +10996,8 @@
     "datum": "2026-12-13T20:30:00Z"
   },
   "567383": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-21T18:45:00Z"
   },
   "567384": {
     "status": "SCHEDULED",
@@ -11012,8 +11012,8 @@
     "datum": "2026-12-20T18:00:00Z"
   },
   "567387": {
-    "status": "SCHEDULED",
-    "datum": "2026-12-20T00:00:00Z"
+    "status": "TIMED",
+    "datum": "2026-12-21T20:45:00Z"
   },
   "567388": {
     "status": "TIMED",
