@@ -1,18 +1,6 @@
 {
-  "updated": "2026-11-27T12:53:16.688552+00:00",
+  "updated": "2026-11-27T21:45:27.887407+00:00",
   "matches": [
-    {
-      "id": 560658,
-      "compCode": "PL",
-      "compName": "Premier League",
-      "matchday": 12,
-      "homeTeam": "Nottingham Forest FC",
-      "homeCrest": "logos/Nottingham_Forest_FC.png",
-      "awayTeam": "Chelsea FC",
-      "awayCrest": "logos/Chelsea_FC.png",
-      "utcDate": "2026-11-27T20:00:00Z",
-      "status": "TIMED"
-    },
     {
       "id": 560652,
       "compCode": "PL",
@@ -3242,18 +3230,6 @@
       "status": "TIMED"
     },
     {
-      "id": 565869,
-      "compCode": "BL1",
-      "compName": "Bundesliga",
-      "matchday": 11,
-      "homeTeam": "SV Werder Bremen",
-      "homeCrest": "logos/SV_Werder_Bremen.png",
-      "awayTeam": "Borussia M\u00f6nchengladbach",
-      "awayCrest": "logos/Borussia_M\u00f6nchengladbach.png",
-      "utcDate": "2026-11-27T19:30:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 565866,
       "compCode": "BL1",
       "compName": "Bundesliga",
@@ -5831,18 +5807,6 @@
       "awayTeam": "SC Paderborn 07",
       "awayCrest": "logos/SC_Paderborn_07.png",
       "utcDate": "2027-05-22T13:30:00Z",
-      "status": "TIMED"
-    },
-    {
-      "id": 558515,
-      "compCode": "SA",
-      "compName": "Serie A",
-      "matchday": 13,
-      "homeTeam": "Venezia FC",
-      "homeCrest": "logos/Venezia_FC.png",
-      "awayTeam": "Bologna FC 1909",
-      "awayCrest": "logos/Bologna_FC_1909.png",
-      "utcDate": "2026-11-27T19:45:00Z",
       "status": "TIMED"
     },
     {
@@ -8954,18 +8918,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 564765,
-      "compCode": "PD",
-      "compName": "La Liga",
-      "matchday": 14,
-      "homeTeam": "Levante UD",
-      "homeCrest": "logos/Levante_UD.png",
-      "awayTeam": "Real Racing Club de Santander",
-      "awayCrest": "logos/Real_Racing_Club_de_Santander.png",
-      "utcDate": "2026-11-27T20:00:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 564760,
       "compCode": "PD",
       "compName": "La Liga",
@@ -11966,18 +11918,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 559616,
-      "compCode": "FL1",
-      "compName": "Ligue 1",
-      "matchday": 12,
-      "homeTeam": "Stade Brestois 29",
-      "homeCrest": "logos/Stade_Brestois_29.png",
-      "awayTeam": "Paris FC",
-      "awayCrest": "logos/Paris_FC.png",
-      "utcDate": "2026-11-27T19:45:00Z",
-      "status": "TIMED"
-    },
-    {
       "id": 559612,
       "compCode": "FL1",
       "compName": "Ligue 1",
@@ -14447,18 +14387,6 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561968,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 18,
-      "homeTeam": "Southampton FC",
-      "homeCrest": "logos/Southampton_FC.png",
-      "awayTeam": "Middlesbrough FC",
-      "awayCrest": "logos/Middlesbrough_FC.png",
-      "utcDate": "2026-11-27T20:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -18624,18 +18552,6 @@
       "awayCrest": "logos/Middlesbrough_FC.png",
       "utcDate": "2027-05-01T12:00:00Z",
       "status": "SCHEDULED"
-    },
-    {
-      "id": 567361,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 12,
-      "homeTeam": "CS Mar\u00edtimo",
-      "homeCrest": "logos/CS_Mar\u00edtimo.png",
-      "awayTeam": "CD Nacional",
-      "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-11-27T20:15:00Z",
-      "status": "TIMED"
     },
     {
       "id": 567357,
