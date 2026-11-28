@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:39:49.657947+00:00",
+  "updated": "2026-11-28T12:36:31.193657+00:00",
   "matches": [
     {
       "id": 560652,
@@ -14387,42 +14387,6 @@
       "awayTeam": "OGC Nice",
       "awayCrest": "logos/OGC_Nice.png",
       "utcDate": "2027-05-29T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561969,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 18,
-      "homeTeam": "Blackburn Rovers FC",
-      "homeCrest": "logos/Blackburn_Rovers_FC.png",
-      "awayTeam": "Charlton Athletic FC",
-      "awayCrest": "logos/Charlton_Athletic_FC.png",
-      "utcDate": "2026-11-28T12:30:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561972,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 18,
-      "homeTeam": "Lincoln City FC",
-      "homeCrest": "logos/Lincoln_City_FC.png",
-      "awayTeam": "Wolverhampton Wanderers FC",
-      "awayCrest": "logos/Wolverhampton_Wanderers_FC.png",
-      "utcDate": "2026-11-28T12:30:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 561973,
-      "compCode": "ELC",
-      "compName": "Championship",
-      "matchday": 18,
-      "homeTeam": "Preston North End FC",
-      "homeCrest": "logos/Preston_North_End_FC.png",
-      "awayTeam": "Norwich City FC",
-      "awayCrest": "logos/Norwich_City_FC.png",
-      "utcDate": "2026-11-28T12:30:00Z",
       "status": "SCHEDULED"
     },
     {
