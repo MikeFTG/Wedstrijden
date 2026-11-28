@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:45:27.887407+00:00",
+  "updated": "2026-11-28T03:39:49.657947+00:00",
   "matches": [
     {
       "id": 560652,
@@ -18890,30 +18890,6 @@
       "status": "TIMED"
     },
     {
-      "id": 567384,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "Acad\u00e9mico de Viseu FC",
-      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567385,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 15,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "GD Estoril Praia",
-      "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2026-12-20T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 567390,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -18974,40 +18950,28 @@
       "status": "TIMED"
     },
     {
-      "id": 567392,
+      "id": 567384,
       "compCode": "PPL",
       "compName": "Primeira Liga",
-      "matchday": 16,
-      "homeTeam": "Vit\u00f3ria SC",
-      "homeCrest": "logos/Vit\u00f3ria_SC.png",
-      "awayTeam": "Rio Ave FC",
-      "awayCrest": "logos/Rio_Ave_FC.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 15,
+      "homeTeam": "Sporting Clube de Braga",
+      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
+      "awayTeam": "Acad\u00e9mico de Viseu FC",
+      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
+      "utcDate": "2026-12-22T18:45:00Z",
+      "status": "TIMED"
     },
     {
-      "id": 567393,
+      "id": 567385,
       "compCode": "PPL",
       "compName": "Primeira Liga",
-      "matchday": 16,
-      "homeTeam": "Casa Pia AC",
-      "homeCrest": "logos/Casa_Pia_AC.png",
-      "awayTeam": "FC Famalic\u00e3o",
-      "awayCrest": "logos/FC_Famalic\u00e3o.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567394,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 16,
-      "homeTeam": "FC Porto",
-      "homeCrest": "logos/FC_Porto.png",
-      "awayTeam": "CD Nacional",
-      "awayCrest": "logos/CD_Nacional.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "matchday": 15,
+      "homeTeam": "Sporting Clube de Portugal",
+      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
+      "awayTeam": "GD Estoril Praia",
+      "awayCrest": "logos/GD_Estoril_Praia.png",
+      "utcDate": "2026-12-22T20:45:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567395,
@@ -19018,44 +18982,8 @@
       "homeCrest": "logos/CD_Santa_Clara.png",
       "awayTeam": "CF Estrela da Amadora",
       "awayCrest": "logos/CF_Estrela_da_Amadora.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567396,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 16,
-      "homeTeam": "Moreirense FC",
-      "homeCrest": "logos/Moreirense_FC.png",
-      "awayTeam": "Acad\u00e9mico de Viseu FC",
-      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567397,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 16,
-      "homeTeam": "Sport Lisboa e Benfica",
-      "homeCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "awayTeam": "Sporting Clube de Portugal",
-      "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567398,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 16,
-      "homeTeam": "Gil Vicente FC",
-      "homeCrest": "logos/Gil_Vicente_FC.png",
-      "awayTeam": "FC Arouca",
-      "awayCrest": "logos/FC_Arouca.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-27T15:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567399,
@@ -19066,8 +18994,56 @@
       "homeCrest": "logos/CS_Mar\u00edtimo.png",
       "awayTeam": "Sporting Clube de Braga",
       "awayCrest": "logos/Sporting_Clube_de_Braga.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-28T18:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567398,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 16,
+      "homeTeam": "Gil Vicente FC",
+      "homeCrest": "logos/Gil_Vicente_FC.png",
+      "awayTeam": "FC Arouca",
+      "awayCrest": "logos/FC_Arouca.png",
+      "utcDate": "2026-12-28T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567394,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 16,
+      "homeTeam": "FC Porto",
+      "homeCrest": "logos/FC_Porto.png",
+      "awayTeam": "CD Nacional",
+      "awayCrest": "logos/CD_Nacional.png",
+      "utcDate": "2026-12-28T20:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567393,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 16,
+      "homeTeam": "Casa Pia AC",
+      "homeCrest": "logos/Casa_Pia_AC.png",
+      "awayTeam": "FC Famalic\u00e3o",
+      "awayCrest": "logos/FC_Famalic\u00e3o.png",
+      "utcDate": "2026-12-29T18:45:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567397,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 16,
+      "homeTeam": "Sport Lisboa e Benfica",
+      "homeCrest": "logos/Sport_Lisboa_e_Benfica.png",
+      "awayTeam": "Sporting Clube de Portugal",
+      "awayCrest": "logos/Sporting_Clube_de_Portugal.png",
+      "utcDate": "2026-12-29T20:45:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567400,
@@ -19078,8 +19054,44 @@
       "homeCrest": "logos/GD_Estoril_Praia.png",
       "awayTeam": "FC Alverca",
       "awayCrest": "logos/FC_Alverca.png",
-      "utcDate": "2026-12-27T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2026-12-30T20:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567409,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 17,
+      "homeTeam": "Sporting Clube de Portugal",
+      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
+      "awayTeam": "CD Santa Clara",
+      "awayCrest": "logos/CD_Santa_Clara.png",
+      "utcDate": "2027-01-02T20:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567396,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 16,
+      "homeTeam": "Moreirense FC",
+      "homeCrest": "logos/Moreirense_FC.png",
+      "awayTeam": "Acad\u00e9mico de Viseu FC",
+      "awayCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
+      "utcDate": "2027-01-03T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567392,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 16,
+      "homeTeam": "Vit\u00f3ria SC",
+      "homeCrest": "logos/Vit\u00f3ria_SC.png",
+      "awayTeam": "Rio Ave FC",
+      "awayCrest": "logos/Rio_Ave_FC.png",
+      "utcDate": "2027-01-03T20:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567348,
@@ -19102,42 +19114,6 @@
       "homeCrest": "logos/Sporting_Clube_de_Braga.png",
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
-      "utcDate": "2027-01-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567402,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 17,
-      "homeTeam": "CF Estrela da Amadora",
-      "homeCrest": "logos/CF_Estrela_da_Amadora.png",
-      "awayTeam": "GD Estoril Praia",
-      "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2027-01-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567403,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 17,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "Vit\u00f3ria SC",
-      "awayCrest": "logos/Vit\u00f3ria_SC.png",
-      "utcDate": "2027-01-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567404,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 17,
-      "homeTeam": "CD Nacional",
-      "homeCrest": "logos/CD_Nacional.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
       "utcDate": "2027-01-10T00:00:00Z",
       "status": "SCHEDULED"
     },
@@ -19166,18 +19142,6 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567407,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 17,
-      "homeTeam": "FC Alverca",
-      "homeCrest": "logos/FC_Alverca.png",
-      "awayTeam": "CS Mar\u00edtimo",
-      "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2027-01-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
       "id": 567408,
       "compCode": "PPL",
       "compName": "Primeira Liga",
@@ -19190,87 +19154,51 @@
       "status": "SCHEDULED"
     },
     {
-      "id": 567409,
+      "id": 567404,
       "compCode": "PPL",
       "compName": "Primeira Liga",
       "matchday": 17,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "CD Santa Clara",
-      "awayCrest": "logos/CD_Santa_Clara.png",
-      "utcDate": "2027-01-10T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567410,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 18,
-      "homeTeam": "FC Famalic\u00e3o",
-      "homeCrest": "logos/FC_Famalic\u00e3o.png",
-      "awayTeam": "GD Estoril Praia",
-      "awayCrest": "logos/GD_Estoril_Praia.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567411,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 18,
-      "homeTeam": "Sporting Clube de Portugal",
-      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
-      "awayTeam": "CF Estrela da Amadora",
-      "awayCrest": "logos/CF_Estrela_da_Amadora.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567412,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 18,
-      "homeTeam": "Sporting Clube de Braga",
-      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
-      "awayTeam": "Moreirense FC",
-      "awayCrest": "logos/Moreirense_FC.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567413,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 18,
-      "homeTeam": "Rio Ave FC",
-      "homeCrest": "logos/Rio_Ave_FC.png",
-      "awayTeam": "Gil Vicente FC",
-      "awayCrest": "logos/Gil_Vicente_FC.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567414,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 18,
-      "homeTeam": "Casa Pia AC",
-      "homeCrest": "logos/Casa_Pia_AC.png",
-      "awayTeam": "CS Mar\u00edtimo",
-      "awayCrest": "logos/CS_Mar\u00edtimo.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
-    },
-    {
-      "id": 567415,
-      "compCode": "PPL",
-      "compName": "Primeira Liga",
-      "matchday": 18,
       "homeTeam": "CD Nacional",
       "homeCrest": "logos/CD_Nacional.png",
-      "awayTeam": "CD Santa Clara",
-      "awayCrest": "logos/CD_Santa_Clara.png",
-      "utcDate": "2027-01-17T00:00:00Z",
+      "awayTeam": "Gil Vicente FC",
+      "awayCrest": "logos/Gil_Vicente_FC.png",
+      "utcDate": "2027-01-10T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567407,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 17,
+      "homeTeam": "FC Alverca",
+      "homeCrest": "logos/FC_Alverca.png",
+      "awayTeam": "CS Mar\u00edtimo",
+      "awayCrest": "logos/CS_Mar\u00edtimo.png",
+      "utcDate": "2027-01-10T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567402,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 17,
+      "homeTeam": "CF Estrela da Amadora",
+      "homeCrest": "logos/CF_Estrela_da_Amadora.png",
+      "awayTeam": "GD Estoril Praia",
+      "awayCrest": "logos/GD_Estoril_Praia.png",
+      "utcDate": "2027-01-11T00:00:00Z",
+      "status": "SCHEDULED"
+    },
+    {
+      "id": 567403,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 17,
+      "homeTeam": "FC Famalic\u00e3o",
+      "homeCrest": "logos/FC_Famalic\u00e3o.png",
+      "awayTeam": "Vit\u00f3ria SC",
+      "awayCrest": "logos/Vit\u00f3ria_SC.png",
+      "utcDate": "2027-01-11T00:00:00Z",
       "status": "SCHEDULED"
     },
     {
@@ -19282,8 +19210,56 @@
       "homeCrest": "logos/FC_Alverca.png",
       "awayTeam": "FC Porto",
       "awayCrest": "logos/FC_Porto.png",
-      "utcDate": "2027-01-17T00:00:00Z",
+      "utcDate": "2027-01-15T20:15:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567412,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 18,
+      "homeTeam": "Sporting Clube de Braga",
+      "homeCrest": "logos/Sporting_Clube_de_Braga.png",
+      "awayTeam": "Moreirense FC",
+      "awayCrest": "logos/Moreirense_FC.png",
+      "utcDate": "2027-01-16T00:00:00Z",
       "status": "SCHEDULED"
+    },
+    {
+      "id": 567415,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 18,
+      "homeTeam": "CD Nacional",
+      "homeCrest": "logos/CD_Nacional.png",
+      "awayTeam": "CD Santa Clara",
+      "awayCrest": "logos/CD_Santa_Clara.png",
+      "utcDate": "2027-01-16T15:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567411,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 18,
+      "homeTeam": "Sporting Clube de Portugal",
+      "homeCrest": "logos/Sporting_Clube_de_Portugal.png",
+      "awayTeam": "CF Estrela da Amadora",
+      "awayCrest": "logos/CF_Estrela_da_Amadora.png",
+      "utcDate": "2027-01-16T20:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567414,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 18,
+      "homeTeam": "Casa Pia AC",
+      "homeCrest": "logos/Casa_Pia_AC.png",
+      "awayTeam": "CS Mar\u00edtimo",
+      "awayCrest": "logos/CS_Mar\u00edtimo.png",
+      "utcDate": "2027-01-17T15:30:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567417,
@@ -19294,8 +19270,32 @@
       "homeCrest": "logos/Acad\u00e9mico_de_Viseu_FC.png",
       "awayTeam": "Sport Lisboa e Benfica",
       "awayCrest": "logos/Sport_Lisboa_e_Benfica.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-17T18:00:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567413,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 18,
+      "homeTeam": "Rio Ave FC",
+      "homeCrest": "logos/Rio_Ave_FC.png",
+      "awayTeam": "Gil Vicente FC",
+      "awayCrest": "logos/Gil_Vicente_FC.png",
+      "utcDate": "2027-01-17T20:30:00Z",
+      "status": "TIMED"
+    },
+    {
+      "id": 567410,
+      "compCode": "PPL",
+      "compName": "Primeira Liga",
+      "matchday": 18,
+      "homeTeam": "FC Famalic\u00e3o",
+      "homeCrest": "logos/FC_Famalic\u00e3o.png",
+      "awayTeam": "GD Estoril Praia",
+      "awayCrest": "logos/GD_Estoril_Praia.png",
+      "utcDate": "2027-01-18T18:45:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567418,
@@ -19306,8 +19306,8 @@
       "homeCrest": "logos/FC_Arouca.png",
       "awayTeam": "Vit\u00f3ria SC",
       "awayCrest": "logos/Vit\u00f3ria_SC.png",
-      "utcDate": "2027-01-17T00:00:00Z",
-      "status": "SCHEDULED"
+      "utcDate": "2027-01-18T20:45:00Z",
+      "status": "TIMED"
     },
     {
       "id": 567419,
